@@ -62,13 +62,13 @@ These institutions in **Noida** accept CUET UG scores for their integrated manag
 > - **Eligibility & Selection**: Minimum 50% aggregate in Graduation (45% for reserved categories) plus GD-PI-WAT score.
 > - **ROI & Scholarships**: Merit scholarships ranging from 10% to 50% tuition waiver available for early 2027–29 applicants.
 
-## 1. [Amity University, Noida](/colleges/amity-university-noida) - Integrated BBA + MBA
+## 1. [Amity University, Noida](/colleges/amity-university-noida/) - Integrated BBA + MBA
 - **Approximate Fees:** ₹3.5 Lakhs (Annual)
 - **Accepted Entrance Exams:** CUET-UG / Amity Test
 - **Average Placement Package:** **₹6.5 LPA**
 - **Key Highlight:** Offers an option to exit after 3 years with a BBA degree or continue for a full MBA with corporate recruitment.
 
-### 2. [Noida International University (NIU)](/colleges/niu-greater-noida) - Integrated MBA
+### 2. [Noida International University (NIU)](/colleges/niu-greater-noida/) - Integrated MBA
 - **Approximate Fees:** ₹1.2 Lakhs (Annual)
 - **Accepted Entrance Exams:** CUET-UG / Merit
 - **Average Placement Package:** **₹4.5 LPA**
@@ -82,8 +82,8 @@ Here is a quick snapshot comparing the fee structures and average placements for
 
 | College Name | Entrance Exams | Approximate Fees | Avg Placement Package |
 | :--- | :--- | :--- | :--- |
-| **[Amity University](/colleges/amity-noida), Noida - Integrated BBA + MBA** | CUET-UG / Amity Test | ₹3.5 Lakhs (Annual) | **₹6.5 LPA** |
-| **[Noida International University (NIU)](/colleges/niu-greater-noida) - Integrated MBA** | CUET-UG / Merit | ₹1.2 Lakhs (Annual) | **₹4.5 LPA** |
+| **[Amity University](/colleges/amity-noida/), Noida - Integrated BBA + MBA** | CUET-UG / Amity Test | ₹3.5 Lakhs (Annual) | **₹6.5 LPA** |
+| **[Noida International University (NIU)](/colleges/niu-greater-noida/) - Integrated MBA** | CUET-UG / Merit | ₹1.2 Lakhs (Annual) | **₹4.5 LPA** |
 
 ---
 
@@ -106,9 +106,9 @@ Pursuing a 5-Year Integrated MBA program after Class 12 offers several distinct 
 ---
 
 ## 🔗 Related Resources
-- [CUET UG University List 2026: City-wise Guide](/blog/cuet-ug-university-list-2026-citywise)
-- [CUET UG 2026 BBA Admission Guide](/blog/cuet-ug-2026-bba-admission-guide)
-- [Is Direct MBA Admission Without Entrance Exam Worth It?](/blog/direct-mba-admission-without-entrance-exam-2026-is-it-worth-it)
+- [CUET UG University List 2026: City-wise Guide](/blog/cuet-ug-university-list-2026-citywise/)
+- [CUET UG 2026 BBA Admission Guide](/blog/cuet-ug-2026-bba-admission-guide/)
+- [Is Direct MBA Admission Without Entrance Exam Worth It?](/blog/direct-mba-admission-without-entrance-exam-2026-is-it-worth-it/)
 
 ---
 

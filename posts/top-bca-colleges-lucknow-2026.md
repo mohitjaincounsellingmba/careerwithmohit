@@ -3,9 +3,8 @@ title: 'Top BCA Colleges in Lucknow 2026 — Fees, Placements & Admission'
 date: '2026-04-21'
 category: BCA Admissions
 description: >-
-  Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Noida, Greater Noida, Delhi NCR. Get details on top colleges under
-  GGSIPU, 
+  Lucknow, the 'City of Nawabs' and the political heart of Uttar Pradesh, is a
+  massive educational hub for students from UP, Bihar, and Jharkhand.
 keywords:
   - top bca colleges in lucknow 2026
   - best bca colleges lucknow
@@ -60,7 +59,7 @@ Whether you want the prestige of a state university or a high-end private campus
 | College | Entrance Exam | Total Fees | Avg. Package |
 |---|---|---|---|
 | **Lucknow University** | LU Entrance (LUVET)| ₹2.1 - 2.8 Lakhs | ₹3.5 - 5.0 LPA |
-| **[Amity University](/colleges/amity-noida) Lucknow** | Merit / Interview | ₹5.0 - 7.5 Lakhs | ₹4.2 - 6.5 LPA |
+| **[Amity University](/colleges/amity-noida/) Lucknow** | Merit / Interview | ₹5.0 - 7.5 Lakhs | ₹4.2 - 6.5 LPA |
 | **BBD University (BBDU)** | Merit-based | ₹2.8 - 3.8 Lakhs | ₹3.5 - 5.2 LPA |
 | **Integral University** | IUET / Merit | ₹2.2 - 3.0 Lakhs | ₹3.2 - 4.5 LPA |
 | **SRMU (Ramswaroop)** | Merit-based | ₹2.4 - 3.2 Lakhs | ₹3.5 - 4.8 LPA |
@@ -76,7 +75,7 @@ The gold standard for computer applications in UP. Their BCA degree is highly va
 - **Selection:** LUVET Entrance Test.
 - **Top Recruiters:** TCS, Infosys, HCL, Wipro.
 
-### 2. [Amity University](/colleges/amity-noida), Lucknow
+### 2. [Amity University](/colleges/amity-noida/), Lucknow
 The most "Corporate-Ready" campus in the city. Known for its global infrastructure and massive placement drives.
 - **USP:** Industry-aligned labs and frequent guest lectures from HCL tech leads.
 - **Admission:** Merit-based + Personal Interview.
@@ -124,9 +123,9 @@ Registrations usually start in **April/May**. The entrance test (LUVET) is typic
 ---
 
 ### Useful Links:
-- [Top B.Tech Colleges in Lucknow 2026](/blog/top-btech-colleges-lucknow-2026)
-- [BBA Colleges in Lucknow 2026](/blog/top-bba-colleges-lucknow-2026)
-- [BCA vs B.Tech — Career & Salary Comparison](/blog/bca-vs-btech-cse-which-is-better-for-your-career)
+- [Top B.Tech Colleges in Lucknow 2026](/blog/top-btech-colleges-lucknow-2026/)
+- [BBA Colleges in Lucknow 2026](/blog/top-bba-colleges-lucknow-2026/)
+- [BCA vs B.Tech — Career & Salary Comparison](/blog/bca-vs-btech-cse-which-is-better-for-your-career-2026/)
 
 ---
 

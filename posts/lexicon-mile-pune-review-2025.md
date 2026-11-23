@@ -4,9 +4,8 @@ title: >-
   Excellence
 date: '2026-03-14'
 description: >-
-  Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
-  private univer
+  Lexicon MILE Pune Review 2025: Detailed guide covering total fees, cutoffs,
+  average placement packages, eligibility criteria & direct admission process.
 keywords:
   - Lexicon MILE review 2025
   - Lexicon MILE placements
@@ -45,7 +44,7 @@ faqs:
 location: Delhi NCR
 state: Delhi NCR
 ---
-[Lexicon Management Institute of Leadership & Excellence](/colleges/lexicon-management-institute-of-leadership-excellence) (MILE) is part of the Lexicon Group, which is known for its strong focus on "Leadership" and personalized learning. Its recent placement reports have put it on the map as a rising powerhouse.
+[Lexicon Management Institute of Leadership & Excellence](/colleges/lexicon-management-institute-of-leadership-excellence/) (MILE) is part of the Lexicon Group, which is known for its strong focus on "Leadership" and personalized learning. Its recent placement reports have put it on the map as a rising powerhouse.
 
 ### **Quick Highlights (2025 Batch):**
 *   **Avg Placement**: ₹9.00 LPA (PGDM) | ₹30.00 LPA (Global MBA)
@@ -68,7 +67,7 @@ The total fee for the PGDM program is approximately **₹10.8 Lakhs**, while the
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### What is the typical fee structure for MBA programs in India?
-The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
+The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi/) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
 
 ### Is it possible to pursue an MBA without clearing CAT?
 Yes, many colleges accept other entrance exams like XAT, NMAT, SNAP, MAT, or CMAT. Additionally, direct admission options under management quota are available in several private B-schools.

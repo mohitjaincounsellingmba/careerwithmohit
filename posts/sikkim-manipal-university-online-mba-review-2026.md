@@ -175,10 +175,10 @@ Yes — and this is actually included in the base fee, which is rare. You can co
 | College | NAAC | Total Fee | Dual Spec | Placement |
 | :--- | :--- | :--- | :--- | :--- |
 | **SMU Online** | A+ | ₹1,00,000 | ✅ Yes | Limited |
-| [CU Online](/blog/chandigarh-university-online-mba-review-2026) | A+ | ₹1,65,000 | Optional | Good (300+ partners) |
-| [LPU Online](/blog/lpu-online-review-2026) | A++ | ₹1,61,600 | ❌ No | Good |
-| [Amity Online](/blog/amity-university-online-mba-review-2026) | A+ | ₹1,99,000 | ❌ No | Strong |
-| [NMIMS Online](/blog/nmims-online-mba-review-2026) | A++ | ₹2,10,000 | ❌ No | Strong |
+| [CU Online](/blog/chandigarh-university-online-mba-review-2026/) | A+ | ₹1,65,000 | Optional | Good (300+ partners) |
+| [LPU Online](/blog/lpu-online-review-2026/) | A++ | ₹1,61,600 | ❌ No | Good |
+| [Amity Online](/blog/amity-university-online-mba-review-2026/) | A+ | ₹1,99,000 | ❌ No | Strong |
+| [NMIMS Online](/blog/nmims-online-mba-review-2026/) | A++ | ₹2,10,000 | ❌ No | Strong |
 
 ---
 
@@ -187,9 +187,9 @@ Yes — and this is actually included in the base fee, which is rare. You can co
 ---
 
 *Related Reading:*
-- [Best Online MBA Colleges in India 2026](/blog/best-online-mba-colleges-india-2026)
-- [Cheapest Online MBA Colleges India with Good Placements](/blog/best-online-mba-colleges-working-professionals-india-2026)
-- [Online MBA India 2026: Full Guide](/blog/online-mba-india-2026)
+- [Best Online MBA Colleges in India 2026](/blog/best-online-mba-colleges-india-2026/)
+- [Cheapest Online MBA Colleges India with Good Placements](/blog/best-online-mba-colleges-working-professionals-india-2026/)
+- [Online MBA India 2026: Full Guide](/blog/online-mba-india-2026/)
 
 
 

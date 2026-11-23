@@ -120,9 +120,9 @@ Dental officers in the **Army Dental Corps** are commissioned officers with sala
 ---
 
 ### Useful Links:
-- [Top MBBS Colleges in India 2026 NIRF Guide](/blog/top-mbbs-colleges-india-nirf-ranking-2026)
-- [Top BAMS & BHMS Colleges in India 2026](/blog/top-bams-bhms-colleges-india-2026-salary-scope)
-- [NEET 2026 Prep Strategy Guide](/blog/neet-2026-exam-strategy-guide)
+- [Top MBBS Colleges in India 2026 NIRF Guide](/blog/top-mbbs-colleges-india-nirf-ranking-2026/)
+- [Top BAMS & BHMS Colleges in India 2026](/blog/top-bams-bhms-colleges-india-2026-salary-scope/)
+- [NEET 2026 Prep Strategy Guide](/blog/neet-2026-exam-strategy-guide/)
 
 ---
 

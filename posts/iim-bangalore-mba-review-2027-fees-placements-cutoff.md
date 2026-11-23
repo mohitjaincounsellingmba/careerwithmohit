@@ -182,7 +182,7 @@ Aspirants with significant gaps in past academic consistency without strong work
 
 ## 9. Frequently Asked Questions (FAQs)
 
-### Q1. What is the average salary package at [IIM Bangalore](/colleges/iim-bangalore)?
+### Q1. What is the average salary package at [IIM Bangalore](/colleges/iim-bangalore/)?
 The verified average placement package at **IIM Bangalore** is **₹33.50 LPA**, with top quartile students securing offers up to **₹1.15 Crore**.
 
 ### Q2. Which entrance exams are accepted for 2027 admission?

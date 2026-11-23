@@ -56,7 +56,7 @@ For engineering aspirants targeting the 2026 academic batch on a budget, we have
 
 These institutions keep their total program tuition fees under ₹10 Lakhs while offering robust laboratory infrastructure, experienced faculty members, and active recruitment drives.
 
-### 1. [JSS Academy of Technical Education (JSSATE)](/colleges/jssate-noida)
+### 1. [JSS Academy of Technical Education (JSSATE)](/colleges/jssate-noida/)
 - **Approximate Tuition Fees:** ₹4.8 Lakhs (Total)
 - **Accepted Entrance Exams:** JEE Main (UPTAC)
 - **Average Placement Package:** **₹6.5 LPA**
@@ -88,7 +88,7 @@ Here is a quick snapshot comparing the fee structures and average placements for
 
 | College Name | Accepted Entrance Exams | Approximate Fees (Total) | Average Placement Package |
 | :--- | :--- | :--- | :--- |
-| **[JSS Academy of Technical Education (JSSATE)](/colleges/jssate-noida)** | JEE Main (UPTAC) | ₹4.8 Lakhs (Total) | **₹6.5 LPA** |
+| **[JSS Academy of Technical Education (JSSATE)](/colleges/jssate-noida/)** | JEE Main (UPTAC) | ₹4.8 Lakhs (Total) | **₹6.5 LPA** |
 | **Noida Institute of Engineering & Technology (NIET)** | JEE Main / UPTAC | ₹4.8 Lakhs (Total) | **₹5.0 LPA** |
 | **Galgotias College of Engineering & Technology (GCET)** | JEE Main (UPTAC) | ₹5.2 Lakhs (Total) | **₹6.0 LPA** |
 | **Amity School of Engineering & Technology (Subsidized entry/Core)** | Amity JEE / JEE Main | ₹9.6 Lakhs (Total) | **₹6.0 LPA** |
@@ -113,9 +113,9 @@ Return on Investment (ROI) is the single most critical factor for most engineeri
 ---
 
 ## 🔗 Related Resources
-- [Guide to B.Tech Specializations, Skills, and Placements (2026)](/blog/btech-specializations-skills-salary-2026-guide)
-- [B.Tech Admission Without JEE 2026: All Options](/blog/btech-admission-without-jee-2026-all-options)
-- [Top Engineering Colleges Accepting JEE Main Scores in 2026](/blog/jee-main-accepting-btech-colleges-2026)
+- [Guide to B.Tech Specializations, Skills, and Placements (2026)](/blog/btech-specializations-skills-salary-2026-guide/)
+- [B.Tech Admission Without JEE 2026: All Options](/blog/btech-admission-without-jee-2026-all-options/)
+- [Top Engineering Colleges Accepting JEE Main Scores in 2026](/blog/jee-main-accepting-btech-colleges-2026/)
 
 ---
 

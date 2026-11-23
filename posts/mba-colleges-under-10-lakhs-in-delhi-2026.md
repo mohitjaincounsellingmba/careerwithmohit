@@ -71,7 +71,7 @@ These institutions keep tuition fees under ₹10 Lakhs (either total or annual, 
 - **Average Placement Package:** **₹34.1 LPA**
 - **Key Highlight:** Legendary ROI, comparable to top IIMs at a fraction of the fee.
 
-### 2. [Jamia Millia Islamia (JMI)](/colleges/jamia-millia-islamia)
+### 2. [Jamia Millia Islamia (JMI)](/colleges/jamia-millia-islamia/)
 - **Approximate Fees:** ₹47,000 (Total)
 - **Accepted Entrance Exams:** JMI Entrance Exam
 - **Average Placement Package:** **₹8.0 LPA**
@@ -89,13 +89,13 @@ These institutions keep tuition fees under ₹10 Lakhs (either total or annual, 
 - **Average Placement Package:** **₹9.5 LPA**
 - **Key Highlight:** Strong engineering interface and tech-management ecosystem.
 
-### 5. JIMS Rohini (Jagannath [Institute of Management Studies](/colleges/institute-of-management-studies))
+### 5. JIMS Rohini (Jagannath [Institute of Management Studies](/colleges/institute-of-management-studies/))
 - **Approximate Fees:** ₹8.7 Lakhs (Total)
 - **Accepted Entrance Exams:** CAT / MAT / CMAT
 - **Average Placement Package:** **₹7.5 LPA**
 - **Key Highlight:** Fully AICTE approved PGDM program with strong corporate ties in North Delhi.
 
-### 6. [Fortune Institute of International Business](/colleges/fortune-institute-of-international-business) (FIIB)
+### 6. [Fortune Institute of International Business](/colleges/fortune-institute-of-international-business/) (FIIB)
 - **Approximate Fees:** ₹8.9 Lakhs (Total)
 - **Accepted Entrance Exams:** CAT / MAT / CMAT
 - **Average Placement Package:** **₹7.4 LPA**
@@ -110,11 +110,11 @@ Here is a quick snapshot comparing the fee structures and average placements for
 | College Name | Entrance Exams | Approximate Fees | Avg Placement Package |
 | :--- | :--- | :--- | :--- |
 | **Faculty of Management Studies (FMS) - Delhi University** | CAT | ₹2.0 Lakhs (Total) | **₹34.1 LPA** |
-| **[Jamia Millia Islamia (JMI)](/colleges/jamia-millia-islamia)** | JMI Entrance Exam | ₹47,000 (Total) | **₹8.0 LPA** |
+| **[Jamia Millia Islamia (JMI)](/colleges/jamia-millia-islamia/)** | JMI Entrance Exam | ₹47,000 (Total) | **₹8.0 LPA** |
 | **University School of Management Studies (USMS), GGSIPU** | CAT / CMAT | ₹2.2 Lakhs (Total) | **₹6.5 LPA** |
 | **Delhi School of Management (DSM), DTU** | CAT | ₹4.5 Lakhs (Total) | **₹9.5 LPA** |
-| **JIMS Rohini (Jagannath [Institute of Management Studies](/colleges/institute-of-management-studies))** | CAT / MAT / CMAT | ₹8.7 Lakhs (Total) | **₹7.5 LPA** |
-| **[Fortune Institute of International Business](/colleges/fortune-institute-of-international-business) (FIIB)** | CAT / MAT / CMAT | ₹8.9 Lakhs (Total) | **₹7.4 LPA** |
+| **JIMS Rohini (Jagannath [Institute of Management Studies](/colleges/institute-of-management-studies/))** | CAT / MAT / CMAT | ₹8.7 Lakhs (Total) | **₹7.5 LPA** |
+| **[Fortune Institute of International Business](/colleges/fortune-institute-of-international-business/) (FIIB)** | CAT / MAT / CMAT | ₹8.9 Lakhs (Total) | **₹7.4 LPA** |
 
 ---
 
@@ -136,9 +136,9 @@ Return on Investment (ROI) is the most critical metric for any management aspira
 ---
 
 ## 🔗 Related Resources
-- [Best MBA Colleges with Low Fees and High ROI in India 2026](/blog/best-mba-colleges-low-fees-high-roi-india-2026)
-- [Is Direct MBA Admission Without Entrance Exam Worth It?](/blog/direct-mba-admission-without-entrance-exam-2026-is-it-worth-it)
-- [MBA Distance Education 2026: Top Universities & Fees](/blog/mba-distance-education-2026-top-universities-fees-admission)
+- [Best MBA Colleges with Low Fees and High ROI in India 2026](/blog/best-mba-colleges-low-fees-high-roi-india-2026/)
+- [Is Direct MBA Admission Without Entrance Exam Worth It?](/blog/direct-mba-admission-without-entrance-exam-2026-is-it-worth-it/)
+- [MBA Distance Education 2026: Top Universities & Fees](/blog/mba-distance-education-2026-top-universities-fees-admission/)
 
 ---
 

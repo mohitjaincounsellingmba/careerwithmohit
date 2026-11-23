@@ -87,9 +87,9 @@ If you decide to go online, ensure the university is recognized:
 ---
 
 *Related Articles:*
-- [Is an Online BBA Degree Valid for Government Jobs, UPSC, and Bank Exams?](/blog/is-online-bba-degree-valid-government-jobs-upsc-bank-exams)
-- [Earning While Learning: Best Part-Time Jobs for BBA Students](/blog/earning-while-learning-part-time-jobs-freelance-gigs-online-bba)
-- [Online BBA in Digital Marketing vs. Business Analytics](/blog/online-bba-digital-marketing-vs-business-analytics)
+- [Is an Online BBA Degree Valid for Government Jobs, UPSC, and Bank Exams?](/blog/is-online-bba-degree-valid-government-jobs-upsc-bank-exams/)
+- [Earning While Learning: Best Part-Time Jobs for BBA Students](/blog/earning-while-learning-part-time-jobs-freelance-gigs-online-bba/)
+- [Online BBA in Digital Marketing vs. Business Analytics](/blog/online-bba-digital-marketing-vs-business-analytics/)
 
 
 

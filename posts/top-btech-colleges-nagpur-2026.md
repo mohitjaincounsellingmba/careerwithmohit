@@ -109,7 +109,7 @@ All RTMNU-affiliated private engineering colleges in Nagpur fill seats via Mahar
 - **Allotment Rounds:** July–August 2026
 - **MHT CET Score Needed (YCCE CSE):** ~130+/150
 
-[Read: MHT CET CAP Counselling 2026 Complete Guide](/blog/mht-cet-cap-counselling-2026-btech-admission-guide)
+[Read: MHT CET CAP Counselling 2026 Complete Guide](/blog/mht-cet-cap-counselling-2026-btech-admission-guide/)
 
 ---
 
@@ -134,11 +134,11 @@ Yes. MIHAN's growing aerospace/logistics hub, Nagpur's expanding IT sector (TCS,
 
 ## Useful Resources
 
-- [MHT CET CAP Counselling 2026 Complete Guide](/blog/mht-cet-cap-counselling-2026-btech-admission-guide)
-- [Top B.Tech Colleges in Mumbai 2026](/blog/top-btech-colleges-mumbai-2026)
-- [Top B.Tech Colleges in Pune 2026](/blog/top-btech-colleges-pune)
-- [JEE Main 2026 Score Calculator](/blog/jee-main-2026-score-calculator-marks-vs-percentile)
-- [B.Tech Admissions FAQ 2026](/blog/btech-admissions-faq-2026)
+- [MHT CET CAP Counselling 2026 Complete Guide](/blog/mht-cet-cap-counselling-2026-btech-admission-guide/)
+- [Top B.Tech Colleges in Mumbai 2026](/blog/top-btech-colleges-mumbai-2026/)
+- [Top B.Tech Colleges in Pune 2026](/blog/top-btech-colleges-pune/)
+- [JEE Main 2026 Score Calculator](/blog/jee-main-2026-score-calculator-marks-vs-percentile/)
+- [B.Tech Admissions FAQ 2026](/blog/btech-admissions-faq-2026/)
 
 ---
 

@@ -77,9 +77,9 @@ To ensure a smooth entry into the examination hall, remember to carry these mand
 ### **🚀 Next Steps for Medical Aspirants**
 
 As you finalize your NEET preparation, it's also wise to understand the broader admission landscape:
-*   **Understand the Exam Better**: Review the complete [NEET UG 2026 Exam Pattern, Syllabus & Eligibility](/blog/all-about-neet-exam).
-*   **Explore Top Colleges**: Get familiar with the [Top Medical Colleges in India](/blog/top-mbbs-colleges-india-nirf-ranking-2026) to set your target score.
-*   **State Level Counselling**: Learn about state-specific processes like [UP NEET Counselling 2026](/blog/up-neet-counselling-2026-guide).
+*   **Understand the Exam Better**: Review the complete [NEET UG 2026 Exam Pattern, Syllabus & Eligibility](/blog/all-about-neet-exam/).
+*   **Explore Top Colleges**: Get familiar with the [Top Medical Colleges in India](/blog/top-mbbs-colleges-india-nirf-ranking-2026/) to set your target score.
+*   **State Level Counselling**: Learn about state-specific processes like [UP NEET Counselling 2026](/blog/up-neet-counselling-2026-guide/).
 
 **Need Expert Guidance for Medical Admissions?**
 Navigating NEET counselling and medical college admissions can be complex. Ensure you make the best choices for your medical career with expert advice.

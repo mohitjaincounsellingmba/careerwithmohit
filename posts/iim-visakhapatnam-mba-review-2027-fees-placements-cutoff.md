@@ -75,7 +75,7 @@ The table below outlines the core operational and academic parameters of **[IIM 
 | Parameter | Official Verified Details |
 | :--- | :--- |
 | **Institute Name** | **Indian Institute of Management Visakhapatnam (IIMV / IIM Vizag)** |
-| **Year of Establishment** | 2015 (Mentored by [IIM Bangalore](/colleges/iim-bangalore)) |
+| **Year of Establishment** | 2015 (Mentored by [IIM Bangalore](/colleges/iim-bangalore/)) |
 | **Campus Location** | Gambheeram, Anandapuram Mandal, Visakhapatnam, AP (241 Acres) |
 | **NIRF Management Ranking** | **Rank #26** nationally (Fastest rising Baby IIM) |
 | **Flagship Program** | Post Graduate Programme in Management (PGP / MBA - 2 Years) |

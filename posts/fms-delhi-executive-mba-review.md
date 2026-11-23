@@ -50,7 +50,7 @@ location: Delhi NCR
 state: Delhi NCR
 ---
 
-Running a career upgrade requires choosing the right management program. For working professionals in Delhi, the Executive MBA / Executive PGDM offered by [Faculty of Management Studies (FMS), University of Delhi](/colleges/fms-delhi) represents a powerful gateway to higher senior leadership positions.
+Running a career upgrade requires choosing the right management program. For working professionals in Delhi, the Executive MBA / Executive PGDM offered by [Faculty of Management Studies (FMS), University of Delhi](/colleges/fms-delhi/) represents a powerful gateway to higher senior leadership positions.
 
 In this review, we break down everything you need to know: fees, admission cutoffs, placements, pros, cons, and our honest expert verdict.
 
@@ -95,7 +95,7 @@ In this review, we break down everything you need to know: fees, admission cutof
 
 ## 🔍 Our Expert Verdict
 
-The Executive MBA program at [Faculty of Management Studies (FMS), University of Delhi](/colleges/fms-delhi) is highly recommended for professionals based in Delhi who want to scale their careers without disrupting their current geographic setup. 
+The Executive MBA program at [Faculty of Management Studies (FMS), University of Delhi](/colleges/fms-delhi/) is highly recommended for professionals based in Delhi who want to scale their careers without disrupting their current geographic setup. 
 
 If you are looking for top-tier consulting placements and have 5+ years of experience, full-time residential paths are stellar. However, if you are looking to continue your full-time job, their weekend/evening classes offer outstanding return on investment.
 
@@ -103,10 +103,10 @@ If you are looking for top-tier consulting placements and have 5+ years of exper
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### Are there placements for the [FMS Delhi](/colleges/fms-delhi) Executive MBA program?
-[FMS Delhi](/colleges/fms-delhi) does not conduct formal campus placements for its Executive MBA program. The course is tailored for working professionals who look for lateral career transitions or corporate promotions through their existing channels.
+### Are there placements for the [FMS Delhi](/colleges/fms-delhi/) Executive MBA program?
+[FMS Delhi](/colleges/fms-delhi/) does not conduct formal campus placements for its Executive MBA program. The course is tailored for working professionals who look for lateral career transitions or corporate promotions through their existing channels.
 
-### What is the class timing for the MBA Executive at [FMS Delhi](/colleges/fms-delhi)?
+### What is the class timing for the MBA Executive at [FMS Delhi](/colleges/fms-delhi/)?
 Classes for the Executive MBA programs are held in the evening from 6:00 PM to 9:00 PM, Monday through Saturday at the FMS North Campus.
 
 ### Is there an entrance exam for FMS Executive MBA?

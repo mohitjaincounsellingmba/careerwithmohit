@@ -73,22 +73,22 @@ If you are targeting direct admission in Delhi NCR, the process typically follow
 
 Many top private universities and legacy PGDM institutes in Noida, Greater Noida, and Gurgaon offer direct admissions:
 
-### 1. [Amity University, Noida](/colleges/amity-university-noida)
+### 1. [Amity University, Noida](/colleges/amity-university-noida/)
 Amity Noida is one of India's largest private universities, boasting state-of-the-art infrastructure and a massive corporate recruitment network.
 - **Pathway:** Merit-based direct admission for graduates with 60%+ aggregate marks, followed by an English language test and personal interview.
 - **Approx Total Fees:** ₹12.0 Lakhs
 
-### 2. [BIMTECH, Greater Noida](/colleges/bimtech-greater-noida) (Select Programs)
+### 2. [BIMTECH, Greater Noida](/colleges/bimtech-greater-noida/) (Select Programs)
 While BIMTECH requires CAT/XAT for its core PGDM, it offers specialized institutional quota seats for corporate-sponsored candidates.
 - **Pathway:** Corporate sponsorship or institutional quota review based on profile and interviews.
 - **Approx Total Fees:** ₹16.0 Lakhs
 
-### 3. [Bennett University, Greater Noida](/colleges/bennett-greater-noida) (Hero Group)
+### 3. [Bennett University, Greater Noida](/colleges/bennett-greater-noida/) (Hero Group)
 Supported by the Times Group, Bennett offers a highly modern MBA curriculum with strong media and marketing connections.
 - **Pathway:** Direct entry based on graduation grades, followed by internal interview rounds.
 - **Approx Total Fees:** ₹8.5 Lakhs
 
-### 4. [Galgotias University](/colleges/galgotias-university), Greater Noida
+### 4. [Galgotias University](/colleges/galgotias-university/), Greater Noida
 A popular choice for students looking for an affordable MBA program with strong corporate ties.
 - **Pathway:** Direct merit-based admission based on graduation marks.
 - **Approx Total Fees:** ₹3.5 - ₹4.5 Lakhs
@@ -99,11 +99,11 @@ A popular choice for students looking for an affordable MBA program with strong 
 
 | College Name | Admission Mode | Approx 2-Year Tuition Fees | Average Placement Package |
 | :--- | :--- | :--- | :--- |
-| **[BIMTECH Greater Noida](/colleges/bimtech-greater-noida)** | Profile / Corporate Quota | ₹16.0 Lakhs | **₹11.00 LPA** |
-| **[Amity University Noida](/colleges/amity-university-noida)** | Academic Merit / PI | ₹12.0 Lakhs | **₹5.50 LPA** |
-| **[Bennett University](/colleges/bennett-greater-noida)** | Graduation Merit / PI | ₹8.50 Lakhs | **₹6.80 LPA** |
-| **[GNIOT Greater Noida](/colleges/gniot-greater-noida)** | Merit / Graduation Marks | ₹3.50 Lakhs | **₹5.20 LPA** |
-| **[Galgotias University](/colleges/galgotias-university)** | Merit / Graduation Marks | ₹3.60 Lakhs | **₹4.80 LPA** |
+| **[BIMTECH Greater Noida](/colleges/bimtech-greater-noida/)** | Profile / Corporate Quota | ₹16.0 Lakhs | **₹11.00 LPA** |
+| **[Amity University Noida](/colleges/amity-university-noida/)** | Academic Merit / PI | ₹12.0 Lakhs | **₹5.50 LPA** |
+| **[Bennett University](/colleges/bennett-greater-noida/)** | Graduation Merit / PI | ₹8.50 Lakhs | **₹6.80 LPA** |
+| **[GNIOT Greater Noida](/colleges/gniot-greater-noida/)** | Merit / Graduation Marks | ₹3.50 Lakhs | **₹5.20 LPA** |
+| **[Galgotias University](/colleges/galgotias-university/)** | Merit / Graduation Marks | ₹3.60 Lakhs | **₹4.80 LPA** |
 
 ---
 
@@ -116,10 +116,10 @@ A popular choice for students looking for an affordable MBA program with strong 
 ---
 
 ## 🔗 Related Resources
-- [Top MBA Colleges in Delhi NCR 2026 Rankings](/blog/top-mba-colleges-delhi-ncr-2026)
-- [MBA Admission Without CAT in Delhi NCR](/blog/mba-admission-without-cat-delhi-ncr-2026)
-- [Low Fees MBA Colleges in Delhi NCR](/blog/low-fees-mba-colleges-delhi-ncr-2026)
-- [MBA Colleges Accepting MAT Score in Delhi NCR](/blog/mba-colleges-accepting-mat-score-delhi-ncr-2026)
+- [Top MBA Colleges in Delhi NCR 2026 Rankings](/blog/top-mba-colleges-delhi-ncr-2026/)
+- [MBA Admission Without CAT in Delhi NCR](/blog/mba-admission-without-cat-delhi-ncr-2026/)
+- [Low Fees MBA Colleges in Delhi NCR](/blog/low-fees-mba-colleges-delhi-ncr-2026/)
+- [MBA Colleges Accepting MAT Score in Delhi NCR](/blog/mba-colleges-accepting-mat-score-delhi-ncr-2026/)
 
 ---
 
@@ -139,7 +139,7 @@ Source: Shiksha.com
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### What is the typical fee structure for MBA programs in India?
-The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
+The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi/) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
 
 ### Is it possible to pursue an MBA without clearing CAT?
 Yes, many colleges accept other entrance exams like XAT, NMAT, SNAP, MAT, or CMAT. Additionally, direct admission options under management quota are available in several private B-schools.

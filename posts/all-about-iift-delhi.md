@@ -41,14 +41,14 @@ location: Delhi NCR
 state: Delhi NCR
 ---
 
-### **College Review: [IIFT Delhi](/colleges/iift-delhi)**
+### **College Review: [IIFT Delhi](/colleges/iift-delhi/)**
 *   **Quality Curriculum**: Tailored directly to industry requirements with standard practical case studies.
 *   **Established Brand**: Over the years, it has earned a strong reputation among regional corporate employers.
 *   **Holistic Learning**: Focuses on both technical business skills and global soft skills development.
 
 ---
 
-### 📊 [IIFT Delhi](/colleges/iift-delhi) 2026 Snapshot
+### 📊 [IIFT Delhi](/colleges/iift-delhi/) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |
@@ -76,18 +76,18 @@ state: Delhi NCR
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### 1. Is [IIFT Delhi](/colleges/iift-delhi) a good option for PGDM/MBA?
-Yes, [IIFT Delhi](/colleges/iift-delhi) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+### 1. Is [IIFT Delhi](/colleges/iift-delhi/) a good option for PGDM/MBA?
+Yes, [IIFT Delhi](/colleges/iift-delhi/) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
-### 2. What is the average package offered at [IIFT Delhi](/colleges/iift-delhi)?
-The average placement package at [IIFT Delhi](/colleges/iift-delhi) is approximately ₹26.00 LPA, with the highest package reaching up to ₹85.0 LPA.
+### 2. What is the average package offered at [IIFT Delhi](/colleges/iift-delhi/)?
+The average placement package at [IIFT Delhi](/colleges/iift-delhi/) is approximately ₹26.00 LPA, with the highest package reaching up to ₹85.0 LPA.
 
-### 3. What entrance exams are accepted by [IIFT Delhi](/colleges/iift-delhi)?
+### 3. What entrance exams are accepted by [IIFT Delhi](/colleges/iift-delhi/)?
 The college accepts scores from national level entrance examinations including CAT, GMAT for the PGDM and MBA admissions.
 
 ---
 
-**Final Verdict**: [IIFT Delhi](/colleges/iift-delhi) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
+**Final Verdict**: [IIFT Delhi](/colleges/iift-delhi/) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
 [👉 Apply to IIFT Delhi](/inquiry) | [👉 Get Free Counselling](/inquiry)
 

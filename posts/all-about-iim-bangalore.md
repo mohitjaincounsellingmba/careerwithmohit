@@ -35,14 +35,14 @@ location: Bangalore
 state: Karnataka
 ---
 
-### **College Review: [IIM Bangalore](/colleges/iim-bangalore)**
+### **College Review: [IIM Bangalore](/colleges/iim-bangalore/)**
 *   **Quality Curriculum**: Tailored directly to industry requirements with standard practical case studies.
 *   **Established Brand**: Over the years, it has earned a strong reputation among regional corporate employers.
 *   **Holistic Learning**: Focuses on both technical business skills and global soft skills development.
 
 ---
 
-### 📊 [IIM Bangalore](/colleges/iim-bangalore) 2026 Snapshot
+### 📊 [IIM Bangalore](/colleges/iim-bangalore/) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |
@@ -70,18 +70,18 @@ state: Karnataka
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### 1. Is [IIM Bangalore](/colleges/iim-bangalore) a good option for PGDM/MBA?
-Yes, [IIM Bangalore](/colleges/iim-bangalore) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+### 1. Is [IIM Bangalore](/colleges/iim-bangalore/) a good option for PGDM/MBA?
+Yes, [IIM Bangalore](/colleges/iim-bangalore/) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
-### 2. What is the average package offered at [IIM Bangalore](/colleges/iim-bangalore)?
-The average placement package at [IIM Bangalore](/colleges/iim-bangalore) is approximately ₹35.9 LPA, with the highest package reaching up to ₹1.15 Crore.
+### 2. What is the average package offered at [IIM Bangalore](/colleges/iim-bangalore/)?
+The average placement package at [IIM Bangalore](/colleges/iim-bangalore/) is approximately ₹35.9 LPA, with the highest package reaching up to ₹1.15 Crore.
 
-### 3. What entrance exams are accepted by [IIM Bangalore](/colleges/iim-bangalore)?
+### 3. What entrance exams are accepted by [IIM Bangalore](/colleges/iim-bangalore/)?
 The college accepts scores from national level entrance examinations including CAT, GMAT for the PGDM and MBA admissions.
 
 ---
 
-**Final Verdict**: [IIM Bangalore](/colleges/iim-bangalore) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
+**Final Verdict**: [IIM Bangalore](/colleges/iim-bangalore/) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
 [👉 Apply to IIM Bangalore](/inquiry) | [👉 Get Free Counselling](/inquiry)
 

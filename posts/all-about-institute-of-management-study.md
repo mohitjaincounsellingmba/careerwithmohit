@@ -37,14 +37,14 @@ location: Kolkata
 state: West Bengal
 ---
 
-### **College Review: [Institute of Management Study](/colleges/institute-of-management-study)**
+### **College Review: [Institute of Management Study](/colleges/institute-of-management-study/)**
 *   **Quality Curriculum**: Tailored directly to industry requirements with standard practical case studies.
 *   **Established Brand**: Over the years, it has earned a strong reputation among regional corporate employers.
 *   **Holistic Learning**: Focuses on both technical business skills and global soft skills development.
 
 ---
 
-### 📊 [Institute of Management Study](/colleges/institute-of-management-study) 2026 Snapshot
+### 📊 [Institute of Management Study](/colleges/institute-of-management-study/) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |
@@ -72,18 +72,18 @@ state: West Bengal
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### 1. Is [Institute of Management Study](/colleges/institute-of-management-study) a good option for PGDM/MBA?
-Yes, [Institute of Management Study](/colleges/institute-of-management-study) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+### 1. Is [Institute of Management Study](/colleges/institute-of-management-study/) a good option for PGDM/MBA?
+Yes, [Institute of Management Study](/colleges/institute-of-management-study/) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
-### 2. What is the average package offered at [Institute of Management Study](/colleges/institute-of-management-study)?
-The average placement package at [Institute of Management Study](/colleges/institute-of-management-study) is approximately ₹4 LPA, with the highest package reaching up to ₹2.5 LPA.
+### 2. What is the average package offered at [Institute of Management Study](/colleges/institute-of-management-study/)?
+The average placement package at [Institute of Management Study](/colleges/institute-of-management-study/) is approximately ₹4 LPA, with the highest package reaching up to ₹2.5 LPA.
 
-### 3. What entrance exams are accepted by [Institute of Management Study](/colleges/institute-of-management-study)?
+### 3. What entrance exams are accepted by [Institute of Management Study](/colleges/institute-of-management-study/)?
 The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
 
 ---
 
-**Final Verdict**: [Institute of Management Study](/colleges/institute-of-management-study) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
+**Final Verdict**: [Institute of Management Study](/colleges/institute-of-management-study/) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
 [👉 Apply to Institute of Management Study](/inquiry) | [👉 Get Free Counselling](/inquiry)
 

@@ -95,16 +95,16 @@ If you want unique UI designs, tailored mock test templates, and zero transactio
 ---
 
 *Related reading to help you grow your academy:*
-*   [Classplus vs. Graphy vs. CareerWithMohit: Side-by-Side Comparison](/blog/classplus-vs-graphy-vs-careerwithmohit-best-coaching-app-builder-2026)
-*   [How YouTubers Can Monetize Their Audience with Custom Apps](/blog/how-youtubers-can-monetize-audience-with-branded-app-2026)
-*   [Top Online Mock Test Series Features to Boost Student Success](/blog/building-ai-powered-test-series-branded-app-2026)
+*   [Classplus vs. Graphy vs. CareerWithMohit: Side-by-Side Comparison](/blog/classplus-vs-graphy-vs-careerwithmohit-best-coaching-app-builder-2026/)
+*   [How YouTubers Can Monetize Their Audience with Custom Apps](/blog/how-youtubers-can-monetize-audience-with-branded-app-2026/)
+*   [Top Online Mock Test Series Features to Boost Student Success](/blog/building-ai-powered-test-series-branded-app-2026/)
 
 ---
 
 **Don't Build Your House on Rented Land.**
 Own your brand, secure your content, and scale your coaching business with maximum profitability. Connect with us today to launch your digital academy.
 
-[👉 Book My Digital Academy Demo](/sell-your-coaching-online) | [💬 Chat with Mohit](/inquiry)
+[👉 Book My Digital Academy Demo](/inquiry/) | [💬 Chat with Mohit](/inquiry)
 ---
 
 ### 🚀 Boost Your Preparation

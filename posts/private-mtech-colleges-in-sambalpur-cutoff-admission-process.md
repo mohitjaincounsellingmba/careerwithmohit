@@ -91,9 +91,9 @@ Admissions to private M.Tech colleges in Sambalpur generally follow two distinct
 ---
 
 ## 🔗 Related Resources
-- [B.Tech Admission Without JEE 2026: All Options](/blog/btech-admission-without-jee-2026-all-options)
-- [Top Engineering Colleges Accepting JEE Main Scores in 2026](/blog/jee-main-accepting-btech-colleges-2026)
-- [All IIM Cut-Off 2027–29: Admission, MBA, PGDM](/blog/all-iim-cut-off-2027–29-admission-mba-pgdm)
+- [B.Tech Admission Without JEE 2026: All Options](/blog/btech-admission-without-jee-2026-all-options/)
+- [Top Engineering Colleges Accepting JEE Main Scores in 2026](/blog/jee-main-accepting-btech-colleges-2026/)
+- [All IIM Cut-Off 2027–29: Admission, MBA, PGDM](/blog/all-iim-cut-off-2027-29-admission-mba-pgdm/)
 
 ---
 

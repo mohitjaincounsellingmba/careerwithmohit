@@ -73,9 +73,9 @@ St. Xavier's has a hostel for boys. For girls, the college provides a list of re
 BMS (Bachelor of Management Studies) is the terminology used by Mumbai University and its autonomous colleges like Xavier's. The curriculum and professional outcomes are identical to a BBA program.
 
 ## 🔗 Useful Links:
-- [Top 10 BBA Colleges in Mumbai 2026](/blog/top-10-bba-colleges-mumbai-2026)
-- [BBA Colleges Without Maths — 2026 Guide](/blog/bba-colleges-without-maths-eligibility-2026)
-- [NMIMS Mumbai BBA Admission Guide 2026](/blog/all-about-nmims-mumbai-bba-admission-2026)
+- [Top 10 BBA Colleges in Mumbai 2026](/blog/top-10-bba-colleges-mumbai-2026/)
+- [BBA Colleges Without Maths — 2026 Guide](/blog/bba-colleges-without-maths-eligibility-2026/)
+- [NMIMS Mumbai BBA Admission Guide 2026](/blog/all-about-nmims-mumbai-bba-admission-2026/)
 
 ---
 

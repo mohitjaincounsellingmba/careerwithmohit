@@ -20,7 +20,7 @@ faqs:
       The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
 ---
 
-### **College Review: [CMR University, School of Mgmt](/colleges/cmr-university-school-of-mgmt)**
+### **College Review: [CMR University, School of Mgmt](/colleges/cmr-university-school-of-mgmt/)**
 *   **Quality Curriculum**: Tailored directly to industry requirements with standard practical case studies.
 *   **Established Brand**: Over the years, it has earned a strong reputation among regional corporate employers.
 *   **Holistic Learning**: Focuses on both technical business skills and global soft skills development.
@@ -36,7 +36,7 @@ faqs:
 > - **Eligibility & Selection**: Minimum 50% aggregate in Graduation (45% for reserved categories) plus GD-PI-WAT score.
 > - **ROI & Scholarships**: Merit scholarships ranging from 10% to 50% tuition waiver available for early 2027–29 applicants.
 
-## 📊 [CMR University, School of Mgmt](/colleges/cmr-university-school-of-mgmt) 2026 Snapshot
+## 📊 [CMR University, School of Mgmt](/colleges/cmr-university-school-of-mgmt/) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |
@@ -64,18 +64,18 @@ faqs:
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### 1. Is [CMR University, School of Mgmt](/colleges/cmr-university-school-of-mgmt) a good option for PGDM/MBA?
-Yes, [CMR University, School of Mgmt](/colleges/cmr-university-school-of-mgmt) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+### 1. Is [CMR University, School of Mgmt](/colleges/cmr-university-school-of-mgmt/) a good option for PGDM/MBA?
+Yes, [CMR University, School of Mgmt](/colleges/cmr-university-school-of-mgmt/) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
-### 2. What is the average package offered at [CMR University, School of Mgmt](/colleges/cmr-university-school-of-mgmt)?
-The average placement package at [CMR University, School of Mgmt](/colleges/cmr-university-school-of-mgmt) is approximately ₹6.3 LPA, with the highest package reaching up to ₹14.6 LPA.
+### 2. What is the average package offered at [CMR University, School of Mgmt](/colleges/cmr-university-school-of-mgmt/)?
+The average placement package at [CMR University, School of Mgmt](/colleges/cmr-university-school-of-mgmt/) is approximately ₹6.3 LPA, with the highest package reaching up to ₹14.6 LPA.
 
-### 3. What entrance exams are accepted by [CMR University, School of Mgmt](/colleges/cmr-university-school-of-mgmt)?
+### 3. What entrance exams are accepted by [CMR University, School of Mgmt](/colleges/cmr-university-school-of-mgmt/)?
 The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
 
 ---
 
-**Final Verdict**: [CMR University, School of Mgmt](/colleges/cmr-university-school-of-mgmt) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
+**Final Verdict**: [CMR University, School of Mgmt](/colleges/cmr-university-school-of-mgmt/) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
 [👉 Apply to CMR University, School of Mgmt](/inquiry) | [👉 Get Free Counselling](/inquiry)
 

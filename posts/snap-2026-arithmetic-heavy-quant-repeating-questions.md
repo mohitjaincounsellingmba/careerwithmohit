@@ -2,9 +2,8 @@
 title: 'Arithmetic‑Heavy SNAP Quant 2026: Questions That Are Repeating Every Year'
 date: '2026-05-21'
 description: >-
-  Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
-  private univer
+  When preparing for the Quantitative Aptitude section of the Symbiosis National
+  Aptitude Test (SNAP), speed is your primary asset.
 keywords:
   - SNAP Quant prep
   - arithmetic shortcuts
@@ -110,7 +109,7 @@ Based on past 5 years of SNAP paper slots, here is the average distribution of t
 2. **Options Substitution:** In algebra questions, do not solve equations. Plug the options back into the equation to see which one satisfies it.
 3. **Approximation:** If options are far apart, round off figures to make calculations simpler.
 
-For a comprehensive prep plan, check out our guide on [SNAP 2026 Preparation Strategy](/blog/all-about-snap-exam) or read the comparison between different [MBA Entrance Exams](/blog/mba-entrance-exams-2026-fees-difficulty-conducting-body).
+For a comprehensive prep plan, check out our guide on [SNAP 2026 Preparation Strategy](/blog/all-about-snap-exam/) or read the comparison between different [MBA Entrance Exams](/blog/mba-entrance-exams-2026-fees-difficulty-conducting-body/).
 
 [👉 Want to learn more short-cuts for SNAP 2026? Join our online mentorship program!](/inquiry)
 

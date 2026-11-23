@@ -70,9 +70,9 @@ No, Loyola is a diverse institution. While it has a reservation for Christian st
 Loyola has a large hostel for boys. For girls, there are separate arrangements often managed by affiliated convents or nearby private PGs.
 
 ## 🔗 Useful Links:
-- [Top 10 BBA Colleges in Chennai 2026](/blog/top-10-bba-colleges-chennai-2026)
-- [BBA vs B.Com — Future Career Comparison](/blog/bba-vs-bcom-vs-bms-career-comparison)
-- [Madras Christian College (MCC) BBA Admission Guide 2026](/blog/all-about-madras-christian-college-chennai-bba-admission-2026)
+- [Top 10 BBA Colleges in Chennai 2026](/blog/top-10-bba-colleges-chennai-2026/)
+- [BBA vs B.Com — Future Career Comparison](/blog/bba-vs-bcom-vs-bms-career-comparison/)
+- [Madras Christian College (MCC) BBA Admission Guide 2026](/blog/all-about-madras-christian-college-chennai-bba-admission-2026/)
 
 ---
 

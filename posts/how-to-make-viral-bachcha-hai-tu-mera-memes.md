@@ -4,9 +4,8 @@ title: >-
   Step-by-Step Guide
 date: '2026-03-30'
 description: >-
-  Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
-  private univer
+  How to Make Viral ‘Bachcha Hai Tu Mera’ Memes from Dhurandhar 2: AI
+  Step-by-Step Guide: Explore fees, placements, cutoffs & admission guidelines.
 keywords:
   - Bachcha Hai Tu Mera meme tutorial
   - Dhurandhar 2 Jameel Jamali AI prompts
@@ -79,9 +78,9 @@ The reason this meme is viral is its versatility. Here are some ideas:
 Believe it or not, understanding viral trends like the "Bachcha Hai Tu Mera" meme is a crucial skill in **Digital Marketing**. Brands are constantly looking for social media managers who can capitalize on these trends to increase reach organically.
 
 If you are interested in making a career out of viral content and marketing, check out our roadmaps:
-*   [How to Start Digital Marketing from Scratch in 2026](/blog/how-to-start-digital-marketing-from-scratch-2026)
-*   [How Youtubers are Monetizing Viral Content via Branded Apps](/blog/how-youtubers-can-monetize-audience-with-branded-app-2026)
-*   [Career Roadmaps 2026: From Meme Maker to Marketing Head](/blog/career-roadmaps-2026)
+*   [How to Start Digital Marketing from Scratch in 2026](/blog/how-to-start-digital-marketing-from-scratch-2026/)
+*   [How Youtubers are Monetizing Viral Content via Branded Apps](/blog/how-youtubers-can-monetize-audience-with-branded-app-2026/)
+*   [Career Roadmaps 2026: From Meme Maker to Marketing Head](/blog/career-roadmaps-2026/)
 
 ### **The "Student Version" of the Meme**
 In the world of admissions, we see this meme everywhere:

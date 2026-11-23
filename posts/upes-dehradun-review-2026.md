@@ -59,9 +59,9 @@ Whether you are aspiring for engineering, management, legal studies, or new-age 
 
 ---
 
-## 🏛️ [UPES Dehradun](/colleges/upes-dehradun): University Overview & Accreditation
+## 🏛️ [UPES Dehradun](/colleges/upes-dehradun/): University Overview & Accreditation
 
-[UPES Dehradun](/colleges/upes-dehradun), nestled in the picturesque foothills of the Himalayas at Bidholi and Kandoli, is an internationally acclaimed NAAC A accredited university. Famous for its specialized domain programs in Energy, Logistics, Computer Science (with IBM/Xebia tie-ups), Design, and Law, UPES boasts a 95%+ placement record with top energy and tech giants.
+[UPES Dehradun](/colleges/upes-dehradun/), nestled in the picturesque foothills of the Himalayas at Bidholi and Kandoli, is an internationally acclaimed NAAC A accredited university. Famous for its specialized domain programs in Energy, Logistics, Computer Science (with IBM/Xebia tie-ups), Design, and Law, UPES boasts a 95%+ placement record with top energy and tech giants.
 
 ### Key Institutional Highlights (2026)
 
@@ -78,7 +78,7 @@ Whether you are aspiring for engineering, management, legal studies, or new-age 
 
 ---
 
-[InquiryCard title="Get Free Admission Counselling for [UPES Dehradun](/colleges/upes-dehradun) (2026)" description="Confused about eligibility, fee structures, cutoffs, or placement ROI? Connect with Mohit Jain for 1-on-1 career guidance and admission support." cta="Get Free Counselling" type="admission"]
+[InquiryCard title="Get Free Admission Counselling for [UPES Dehradun](/colleges/upes-dehradun/) (2026)" description="Confused about eligibility, fee structures, cutoffs, or placement ROI? Connect with Mohit Jain for 1-on-1 career guidance and admission support." cta="Get Free Counselling" type="admission"]
 
 ---
 
@@ -109,13 +109,13 @@ A critical indicator of any university's strength is its corporate relations cel
 - **Top Visiting Employers:** ONGC, Schlumberger, KPMG, Deloitte, IBM, Microsoft, Amazon, Accenture, Adani, Reliance
 
 ### Return on Investment (ROI) Verdict
-When comparing the annual tuition fees against the average placement compensation of **₹8.50 LPA - ₹10.20 LPA**, [UPES Dehradun](/colleges/upes-dehradun) provides a solid ROI—especially for students graduating from flagship MBA, Computer Science Engineering, and specialized corporate degree tracks.
+When comparing the annual tuition fees against the average placement compensation of **₹8.50 LPA - ₹10.20 LPA**, [UPES Dehradun](/colleges/upes-dehradun/) provides a solid ROI—especially for students graduating from flagship MBA, Computer Science Engineering, and specialized corporate degree tracks.
 
 ---
 
 ## 🏫 Campus Life, Infrastructure & Student Experience
 
-Life at **[UPES Dehradun](/colleges/upes-dehradun)** extends far beyond traditional classrooms. The campus is designed to promote holistic development, physical fitness, and collaborative learning:
+Life at **[UPES Dehradun](/colleges/upes-dehradun/)** extends far beyond traditional classrooms. The campus is designed to promote holistic development, physical fitness, and collaborative learning:
 
 1. **Smart Classrooms & Innovation Labs:** Air-conditioned classrooms equipped with audio-visual learning tools, alongside advanced computer, AI, and domain-specific research laboratories.
 2. **Central Library & Digital Archives:** Extensive collection of academic books, international research journals, IEEE/ACM databases, and quiet reading halls.
@@ -168,10 +168,10 @@ Admissions for 2026 at UPES (University of Petroleum and Energy Studies), Dehrad
 
 ## 🔗 Related Resources & Internal Links
 
-- [CAT 2026 Complete Exam Guide & Preparation Strategy](/blog/all-about-cat-exam)
-- [Top MBA & PGDM Colleges in India 2026: Placements, Fees & Cutoffs](/blog/all-about-iim-colleges-placements-fees-selection-2026)
-- [Direct Admission in BBA & MBA 2026 (Management Quota Guide)](/blog/direct-bba-admission-2026-management-quota)
-- [Compare B.Tech vs BCA: Career & Salary Guide](/blog/btech-vs-bca-career-guide)
+- [CAT 2026 Complete Exam Guide & Preparation Strategy](/blog/all-about-cat-exam/)
+- [Top MBA & PGDM Colleges in India 2026: Placements, Fees & Cutoffs](/blog/all-about-iim-colleges-placements-fees-selection-2026/)
+- [Direct Admission in BBA & MBA 2026 (Management Quota Guide)](/blog/direct-bba-admission-2026-management-quota/)
+- [Compare B.Tech vs BCA: Career & Salary Guide](/blog/bca-vs-btech-cse-which-is-better-for-your-career-2026/)
 
 ---
 

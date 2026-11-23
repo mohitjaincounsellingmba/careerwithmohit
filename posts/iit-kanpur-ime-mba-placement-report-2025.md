@@ -54,7 +54,7 @@ Here is the complete **IIT Kanpur IME MBA Placement Report 2025**.
 
 ---
 
-[InquiryCard title="Looking for Unbeatable ROI MBA Colleges?" description="Discover top low-fee MBA options including IIT Kanpur, [FMS Delhi](/colleges/fms-delhi), and [JBIMS Mumbai](/colleges/jbims-mumbai) with Mohit Jain." cta="Get Free Counselling" type="admission"]
+[InquiryCard title="Looking for Unbeatable ROI MBA Colleges?" description="Discover top low-fee MBA options including IIT Kanpur, [FMS Delhi](/colleges/fms-delhi/), and [JBIMS Mumbai](/colleges/jbims-mumbai/) with Mohit Jain." cta="Get Free Counselling" type="admission"]
 
 ---
 
@@ -95,8 +95,8 @@ pie title IIT Kanpur IME MBA Domain Share 2025
 
 With tuition fees under **₹6.5 Lakhs** for the entire 2-year duration and an average salary near **₹18 LPA**, students recover their entire educational investment within **under 4 to 5 months** of starting their corporate jobs.
 
-*   Read related IIT analysis: **[DoMS IIT Roorkee Placement Report 2025](/blog/doms-iit-roorkee-mba-placement-report-2025)**
-*   Read national overview: **[All 21 IIMs Placement Report 2025](/blog/all-iim-recent-placement-report-2025)**
+*   Read related IIT analysis: **[DoMS IIT Roorkee Placement Report 2025](/blog/doms-iit-roorkee-mba-placement-report-2025/)**
+*   Read national overview: **[All 21 IIMs Placement Report 2025](/blog/all-iim-recent-placement-report-2025/)**
 
 ---
 

@@ -2,13 +2,12 @@
 title: 'Complete List of 21 IIMs in India 2026: Courses, Placements & Admission Guide'
 date: '2026-03-12'
 description: >-
-  Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
-  private univer
+  The Indian Institutes of Management (IIMs) represent the gold standard of
+  business education. Check fees, cutoffs, placements & expert admission tips.
 keywords:
-  - '[IIM Ahmedabad](/colleges/iim-ahmedabad)'
-  - '[IIM Bangalore](/colleges/iim-bangalore)'
-  - '[IIM Calcutta](/colleges/iim-calcutta)'
+  - '[IIM Ahmedabad](/colleges/iim-ahmedabad/)'
+  - '[IIM Bangalore](/colleges/iim-bangalore/)'
+  - '[IIM Calcutta](/colleges/iim-calcutta/)'
   - IIM Lucknow
   - IIM Indore
   - IIM Kozhikode
@@ -59,19 +58,19 @@ In this comprehensive guide, we list every IIM separately with all the essential
 
 ---
 
-### 1. [IIM Ahmedabad](/colleges/iim-ahmedabad) (IIMA)
+### 1. [IIM Ahmedabad](/colleges/iim-ahmedabad/) (IIMA)
 *   **Flagship Courses:** PGP (MBA), PGP-FABM (Agri-Business), PGPX (1-Year Executive).
 *   **Placements (Avg):** ₹32.7 LPA – ₹34.0 LPA.
 *   **Expected CAT Cut-off:** 99.5+ Percentile (Sectional 80+).
 *   **Admission Rounds:** AWT (Analytical Writing Test) & Personal Interview (PI).
 
-### 2. [IIM Bangalore](/colleges/iim-bangalore) (IIMB)
+### 2. [IIM Bangalore](/colleges/iim-bangalore/) (IIMB)
 *   **Flagship Courses:** PGP, PGP-BA (Business Analytics), EPGP.
 *   **Placements (Avg):** ₹35.3 LPA.
 *   **Expected CAT Cut-off:** 99.0+ Percentile (High weightage on academics).
 *   **Admission Rounds:** WAT (Written Ability Test) & Personal Interview (PI).
 
-### 3. [IIM Calcutta](/colleges/iim-calcutta) (IIMC)
+### 3. [IIM Calcutta](/colleges/iim-calcutta/) (IIMC)
 *   **Flagship Courses:** MBA, PGDBA (Business Analytics).
 *   **Placements (Avg):** ₹35.0 LPA.
 *   **Expected CAT Cut-off:** 99.5+ Percentile (Focus on Quants).
@@ -197,7 +196,7 @@ Most "New" and "Baby" IIMs conduct a synchronized admission round called **CAP**
 ### Need Help with IIM Admission?
 Cracking IIM is about strategy, not just score. At **CareerWithMohit**, we provide personalized mentoring for WAT/GD/PI rounds and help you build a profile that stands out.
 
-[**Inquiry Now for IIM Admission Support**](/inquiry) | [**Explore More Career Guides**](/posts)
+[**Inquiry Now for IIM Admission Support**](/inquiry) | [**Explore More Career Guides**](/blog/)
 
 ---
 

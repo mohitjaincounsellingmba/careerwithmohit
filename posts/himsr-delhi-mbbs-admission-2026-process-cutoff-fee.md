@@ -56,7 +56,7 @@ This comprehensive guide details everything you need to know about **MBBS admiss
 | **Institute Name** | Hamdard Institute of Medical Sciences & Research (HIMSR), New Delhi |
 | **Location** | Hamdard Nagar, New Delhi |
 | **Institute Type** | Deemed University (Muslim Minority) |
-| **Affiliation / Body** | [Jamia Hamdard](/colleges/jamia-hamdard-delhi) University |
+| **Affiliation / Body** | [Jamia Hamdard](/colleges/jamia-hamdard-delhi/) University |
 | **Total MBBS Seats** | 150 Seats |
 | **Hospital Bed Capacity** | 740+ Beds (HAHC Hospital) |
 | **Counselling Authority** | Medical Counselling Committee (MCC) |
@@ -104,7 +104,7 @@ Admission to HIMSR New Delhi is strictly merit-based, determined by the **NEET U
 | **Minority / Management Quota** | Muslim Minority Quota: Score 510 - 545 (Rank 75,000 - 1,10,000) |
 | **NRI Quota Seats** | Qualified NEET Score (130+) | Top Percentile Candidates |
 
-To secure your seat, candidates are advised to keep a safe margin above these estimated cutoffs, as competition for top medical seats increases each year. Check our detailed [NEET UG 2026 Exam & Counselling Guide](/blog/all-about-jamia-hamdard-delhi) for rank prediction strategies.
+To secure your seat, candidates are advised to keep a safe margin above these estimated cutoffs, as competition for top medical seats increases each year. Check our detailed [NEET UG 2026 Exam & Counselling Guide](/blog/all-about-jamia-hamdard-delhi/) for rank prediction strategies.
 
 ---
 
@@ -137,7 +137,7 @@ Upon allotment:
 ## Eligibility Criteria for MBBS 2026
 
 1. **Age Requirement:** Must be at least 17 years old on or before 31st December 2026.
-2. **Academic Qualification:** Passed 10+2 or equivalent exam with Physics, Chemistry, Biology/Biotechnology, and English from a recognized board (Refer to [All India State Boards Directory](/blog/all-about-neet-exam)).
+2. **Academic Qualification:** Passed 10+2 or equivalent exam with Physics, Chemistry, Biology/Biotechnology, and English from a recognized board (Refer to [All India State Boards Directory](/blog/all-about-neet-exam/)).
 3. **Minimum Marks:**
    - General Category: Minimum 50% aggregate in Physics, Chemistry, and Biology.
    - SC/ST/OBC: Minimum 40% aggregate.
@@ -159,7 +159,7 @@ Clinical exposure is the cornerstone of modern medical education. HIMSR New Delh
 ## Frequently Asked Questions (FAQs)
 
 ### Q1: Is HIMSR Delhi a government or private college?
-HIMSR is a constituent medical college of [Jamia Hamdard](/colleges/jamia-hamdard-delhi), a Deemed-to-be University.
+HIMSR is a constituent medical college of [Jamia Hamdard](/colleges/jamia-hamdard-delhi/), a Deemed-to-be University.
 
 ### Q2: What is the cutoff for Muslim Minority quota in HIMSR?
 Expected NEET 2026 score for Muslim Minority quota is 510 to 545.

@@ -3,9 +3,8 @@ title: 'MBBS Colleges in Uzbekistan 2026 — Lowest Fees, Top Universities & NMC
 date: '2026-07-21'
 category: MBBS Abroad
 description: >-
-  Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
-  private univer
+  MBBS Colleges in Uzbekistan 2026 — Lowest Fees, Top Universities & NMC Rules:
+  Explore fees, placements, cutoffs & admission guidelines.
 keywords:
   - mbbs colleges in uzbekistan 2026
   - mbbs in uzbekistan fees for indian students
@@ -91,9 +90,9 @@ Under NMC Foreign Medical Graduate Licentiate (FMGL) Regulations 2021:
 
 ## 🔗 Related Articles
 
-* [MBBS Abroad 2026: Country Wise Comparison & Rules](/blog/mbbs-abroad-for-indian-students-2026-fees-nmc-rules)
-* [All About NEET UG Exam](/blog/all-about-neet-exam)
-* [MBBS Management Quota Fees in India](/blog/mbbs-management-quota-admission-2026-process-fees)
+* [MBBS Abroad 2026: Country Wise Comparison & Rules](/blog/mbbs-abroad-for-indian-students-2026-fees-nmc-rules/)
+* [All About NEET UG Exam](/blog/all-about-neet-exam/)
+* [MBBS Management Quota Fees in India](/blog/mbbs-management-quota-admission-2026-process-fees/)
 ---
 
 ### 🚀 Boost Your Preparation

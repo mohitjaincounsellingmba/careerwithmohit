@@ -1,18 +1,18 @@
 ---
 title: >-
-  [MDI Gurgaon](/colleges/mdi-gurgaon) NRI Quota Admission 2026: GMAT Cutoffs &
+  [MDI Gurgaon](/colleges/mdi-gurgaon/) NRI Quota Admission 2026: GMAT Cutoffs &
   Fees
 date: '2026-03-18'
 description: >-
   Everything about NRI/Foreign National admission at [MDI
-  Gurgaon](/colleges/mdi-gurgaon) for 2026. Learn about GMAT score requirements
+  Gurgaon](/colleges/mdi-gurgaon/) for 2026. Learn about GMAT score requirements
   (665+ Focus), application process, and latest fees in USD.
 keywords:
-  - '[MDI Gurgaon](/colleges/mdi-gurgaon) NRI quota 2026'
-  - '[MDI Gurgaon](/colleges/mdi-gurgaon) direct admission'
-  - '[MDI Gurgaon](/colleges/mdi-gurgaon) GMAT cutoff'
-  - '[MDI Gurgaon](/colleges/mdi-gurgaon) management quota'
-  - 'study at [MDI Gurgaon](/colleges/mdi-gurgaon)'
+  - '[MDI Gurgaon](/colleges/mdi-gurgaon/) NRI quota 2026'
+  - '[MDI Gurgaon](/colleges/mdi-gurgaon/) direct admission'
+  - '[MDI Gurgaon](/colleges/mdi-gurgaon/) GMAT cutoff'
+  - '[MDI Gurgaon](/colleges/mdi-gurgaon/) management quota'
+  - 'study at [MDI Gurgaon](/colleges/mdi-gurgaon/)'
   - Gurgaon Colleges
   - Best Colleges in Gurgaon
   - Gurgaon Admissions 2026
@@ -26,9 +26,9 @@ keywords:
   - Colleges in Delhi NCR
   - Delhi NCR Career Counselling
 faqs:
-  - question: 'Does [MDI Gurgaon](/colleges/mdi-gurgaon) have a Management Quota?'
+  - question: 'Does [MDI Gurgaon](/colleges/mdi-gurgaon/) have a Management Quota?'
     answer: >-
-      No. [MDI Gurgaon](/colleges/mdi-gurgaon) is a merit-based private
+      No. [MDI Gurgaon](/colleges/mdi-gurgaon/) is a merit-based private
       institution. It does **not** offer donation-based seats. The only way to
       bypass the CAT is the NRI/International route using a valid GMAT score.
   - question: Can Indian residents apply via the GMAT?
@@ -45,7 +45,7 @@ location: Delhi NCR
 state: Delhi NCR
 ---
 
-### 📊 [MDI Gurgaon](/colleges/mdi-gurgaon) NRI/FN 2026 Snapshot
+### 📊 [MDI Gurgaon](/colleges/mdi-gurgaon/) NRI/FN 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |
@@ -58,7 +58,7 @@ state: Delhi NCR
 ---
 
 ## 2. Eligibility for NRI/Foreign National Category
-For the 2026-28 batch, [MDI Gurgaon](/colleges/mdi-gurgaon) follows strict AICTE norms for specialized category seats:
+For the 2026-28 batch, [MDI Gurgaon](/colleges/mdi-gurgaon/) follows strict AICTE norms for specialized category seats:
 *   **NRI Candidates:** Must have resided outside India for at least 180 days in a calendar year.
 *   **Foreign Nationals:** Candidates holding a passport of a country other than India.
 *   **Academic Bar:** Minimum 10+2+3 years of education with at least 50% Marks throughout.
@@ -67,8 +67,8 @@ For the 2026-28 batch, [MDI Gurgaon](/colleges/mdi-gurgaon) follows strict AICTE
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### 1. Does [MDI Gurgaon](/colleges/mdi-gurgaon) have a Management Quota?
-No. [MDI Gurgaon](/colleges/mdi-gurgaon) is a merit-based private institution. It does **not** offer donation-based seats. The only way to bypass the CAT is the NRI/International route using a valid GMAT score.
+### 1. Does [MDI Gurgaon](/colleges/mdi-gurgaon/) have a Management Quota?
+No. [MDI Gurgaon](/colleges/mdi-gurgaon/) is a merit-based private institution. It does **not** offer donation-based seats. The only way to bypass the CAT is the NRI/International route using a valid GMAT score.
 
 ### 2. Can Indian residents apply via the GMAT?
 No, Indian residents must apply through the **CAT (Common Admission Test)**. The GMAT is strictly reserved for NRIs, PIOs, and Foreign Nationals for the flagship PGDM programs.

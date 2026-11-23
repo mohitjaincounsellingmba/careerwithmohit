@@ -71,13 +71,13 @@ These institutions keep tuition fees under ₹5 Lakhs (either total or annual, f
 - **Average Placement Package:** **₹5.2 LPA**
 - **Key Highlight:** Affiliated to AKTU with a very strong corporate recruitment record.
 
-### 2. [KIET Group of Institutions](/colleges/kiet-ghaziabad) (MBA)
+### 2. [KIET Group of Institutions](/colleges/kiet-ghaziabad/) (MBA)
 - **Approximate Fees:** ₹2.6 Lakhs (Total)
 - **Accepted Entrance Exams:** UPSEE / CMAT
 - **Average Placement Package:** **₹4.8 LPA**
 - **Key Highlight:** Highly ranked engineering and management campus in Ghaziabad.
 
-### 3. [ABES Engineering College](/colleges/abes-ghaziabad) (Department of MBA)
+### 3. [ABES Engineering College](/colleges/abes-ghaziabad/) (Department of MBA)
 - **Approximate Fees:** ₹2.8 Lakhs (Total)
 - **Accepted Entrance Exams:** CMAT / Merit
 - **Average Placement Package:** **₹4.5 LPA**
@@ -92,8 +92,8 @@ Here is a quick snapshot comparing the fee structures and average placements for
 | College Name | Entrance Exams | Approximate Fees | Avg Placement Package |
 | :--- | :--- | :--- | :--- |
 | **ITS Ghaziabad (Mohan Nagar)** | CMAT / MAT / CAT | ₹3.4 Lakhs (Total) | **₹5.2 LPA** |
-| **[KIET Group of Institutions](/colleges/kiet-ghaziabad) (MBA)** | UPSEE / CMAT | ₹2.6 Lakhs (Total) | **₹4.8 LPA** |
-| **[ABES Engineering College](/colleges/abes-ghaziabad) (Department of MBA)** | CMAT / Merit | ₹2.8 Lakhs (Total) | **₹4.5 LPA** |
+| **[KIET Group of Institutions](/colleges/kiet-ghaziabad/) (MBA)** | UPSEE / CMAT | ₹2.6 Lakhs (Total) | **₹4.8 LPA** |
+| **[ABES Engineering College](/colleges/abes-ghaziabad/) (Department of MBA)** | CMAT / Merit | ₹2.8 Lakhs (Total) | **₹4.5 LPA** |
 
 ---
 
@@ -115,9 +115,9 @@ Return on Investment (ROI) is the most critical metric for any management aspira
 ---
 
 ## 🔗 Related Resources
-- [Best MBA Colleges with Low Fees and High ROI in India 2026](/blog/best-mba-colleges-low-fees-high-roi-india-2026)
-- [Is Direct MBA Admission Without Entrance Exam Worth It?](/blog/direct-mba-admission-without-entrance-exam-2026-is-it-worth-it)
-- [MBA Distance Education 2026: Top Universities & Fees](/blog/mba-distance-education-2026-top-universities-fees-admission)
+- [Best MBA Colleges with Low Fees and High ROI in India 2026](/blog/best-mba-colleges-low-fees-high-roi-india-2026/)
+- [Is Direct MBA Admission Without Entrance Exam Worth It?](/blog/direct-mba-admission-without-entrance-exam-2026-is-it-worth-it/)
+- [MBA Distance Education 2026: Top Universities & Fees](/blog/mba-distance-education-2026-top-universities-fees-admission/)
 
 ---
 

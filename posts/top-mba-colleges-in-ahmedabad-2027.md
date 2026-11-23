@@ -58,7 +58,7 @@ state: Gujarat
 > - **Top-Ranked B-Schools**: **[IIM Ahmedabad](/colleges/iim-ahmedabad/)**, **MICA Ahmedabad**, **[Nirma University](/colleges/nirma-institute-of-management/) (IMNU)**, **EDII Ahmedabad**, and **SPM PDEU Gandhinagar**.
 > - **Fee & Placement Snapshot**: Total tuition fees range from ₹6.5 Lakhs to ₹26.5 Lakhs, with average placement packages spanning ₹8.5 LPA to ₹34.3 LPA.
 
-### [InquiryCard title="Targeting Top Management Colleges in Ahmedabad?" description="Compare [IIM Ahmedabad](/colleges/iim-ahmedabad), MICA, [Nirma University](/colleges/nirma-institute-of-management/), EDII, and SPM PDEU. Get 1-on-1 profile evaluation & cut-off guidance from Mohit Jain." cta="Book Free Ahmedabad Consultation" type="admission"]
+### [InquiryCard title="Targeting Top Management Colleges in Ahmedabad?" description="Compare [IIM Ahmedabad](/colleges/iim-ahmedabad/), MICA, [Nirma University](/colleges/nirma-institute-of-management/), EDII, and SPM PDEU. Get 1-on-1 profile evaluation & cut-off guidance from Mohit Jain." cta="Book Free Ahmedabad Consultation" type="admission"]
 
 Ahmedabad, the commercial powerhouse of Gujarat and India's first UNESCO World Heritage City, provides a dynamic business environment steeped in entrepreneurial resilience, family business empires (Adani, Reliance, Torrent, Cadila), and modern financial innovation inside the neighboring **GIFT City** corridor.
 
@@ -70,7 +70,7 @@ In this 2027 guide, senior education consultant **Mohit Jain** delivers an autho
 
 | College / Program | Location | Total Tuition Fee | Average Domestic CTC | Key Accepted Exams & Target Cutoff |
 | :--- | :--- | :--- | :--- | :--- |
-| **[IIM Ahmedabad](/blog/1-year-online-mba-colleges-india-2027-29/)** (PGP / PGP-FABM) | Vastrapur | ₹26.50 Lakhs | ₹34.30 LPA | CAT (99.5+ %ile) |
+| **[IIM Ahmedabad](/blog/1-year-online-mba-colleges-india-2026/)** (PGP / PGP-FABM) | Vastrapur | ₹26.50 Lakhs | ₹34.30 LPA | CAT (99.5+ %ile) |
 | **[MICA Ahmedabad](/blog/nmat-2026-27-attempt-strategy-nmims-mumbai/)** (PGDM-C / PGDM) | Shela, Ahmedabad | ₹23.00 Lakhs | ₹20.10 LPA | MICAT + CAT / XAT / GMAT |
 | **[Institute of Management, Nirma Univ (IMNU)](/blog/nmat-2026-27-attempt-strategy-nmims-mumbai/)** | SG Highway | ₹11.50 Lakhs | ₹12.20 LPA | CAT (80+ %ile) |
 | **[EDII Ahmedabad](/colleges/entrepreneurship-development-institute-of-india/)** (PGDM-E / PGDM-DS) | Bhat, Gandhinagar | ₹10.50 Lakhs | ₹8.50 LPA | CAT / MAT / CMAT / XAT |

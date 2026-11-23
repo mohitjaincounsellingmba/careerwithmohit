@@ -43,7 +43,7 @@ faqs:
 location: Pune
 state: Maharashtra
 ---
-When it comes to pursuing a PGDM in Pune, **[IIEBM (Indus Business School)](/colleges/iiebm-pune)** frequently emerges as a top choice among management aspirants. Known for its strong industry connections and high placement rates, IIEBM offers a balanced blend of academic rigor and practical exposure.
+When it comes to pursuing a PGDM in Pune, **[IIEBM (Indus Business School)](/colleges/iiebm-pune/)** frequently emerges as a top choice among management aspirants. Known for its strong industry connections and high placement rates, IIEBM offers a balanced blend of academic rigor and practical exposure.
 
 Here is an intensive breakdown of everything you need to know about IIEBM Pune, presented in a quick, readable format:
 

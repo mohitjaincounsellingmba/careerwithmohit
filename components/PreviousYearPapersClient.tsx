@@ -83,7 +83,7 @@ export default function PreviousYearPapersClient() {
   return (
     <div className="min-h-screen bg-slate-50 pt-24 pb-20">
       <div className="max-w-7xl mx-auto px-6">
-        <Breadcrumbs />
+        <Breadcrumbs skipJsonLd={true} />
         {/* Header Section */}
         <div className="mb-16 text-center">
           <div className="inline-flex items-center gap-2 bg-primary/10 text-primary px-4 py-2 rounded-full font-black text-xs uppercase tracking-widest mb-6">

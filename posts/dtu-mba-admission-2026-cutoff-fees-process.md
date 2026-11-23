@@ -45,7 +45,7 @@ faqs:
 location: Delhi NCR
 state: Delhi NCR
 ---
-Delhi Technological University (DTU), a premier engineering institution, is also making a significant mark in the field of management education. With excellent ROI and strong industry connections, the MBA programs at DTU are highly sought after by [CAT exam](/blog/all-about-cat-exam) aspirants.
+Delhi Technological University (DTU), a premier engineering institution, is also making a significant mark in the field of management education. With excellent ROI and strong industry connections, the MBA programs at DTU are highly sought after by [CAT exam](/blog/all-about-cat-exam/) aspirants.
 
 DTU offers MBA programs through two distinct campuses/departments:
 1. **Delhi School of Management (DSM)** - Located at the Main Campus (Rohini)
@@ -85,7 +85,7 @@ The admission process for DTU’s MBA program is managed through a centralized c
 2. **Personal Interview (PI) & Group Discussion (GD):** Shortlisted candidates must participate in the GD/PI rounds.
 3. **Final Merit List:** The final selection is based on a composite score comprising the entrance exam score, performance in GD/PI, past academic record, and relevant work experience.
 
-*Looking for other options in the capital? Check out our guide on the [Best MBA Colleges in Delhi 2026](/blog/best-mba-colleges-in-delhi-2026).*
+*Looking for other options in the capital? Check out our guide on the [Best MBA Colleges in Delhi 2026](/blog/best-mba-colleges-in-delhi-2026/).*
 
 ## 3. DTU MBA Cutoff 2026 (Expected)
 
@@ -108,7 +108,7 @@ One of the biggest advantages of pursuing an MBA from Delhi Technological Univer
 - **Annual Tuition Breakdown:** Roughly ₹2.00 Lakhs to ₹2.50 Lakhs per year.
 - **Additional Costs:** Hostel, mess, and separate university registration charges are over and above the tuition fees. 
 
-*For more insights into managing college fees and finances, explore our [Education Loan Guide for MBA](/blog/education-loan-guide-mba-btech).*
+*For more insights into managing college fees and finances, explore our [Education Loan Guide for MBA](/blog/education-loan-guide-mba-btech/).*
 
 ## 5. DTU MBA Placements (DSM & USME)
 
@@ -130,7 +130,7 @@ If you are looking for a state-university recognized MBA with fantastic ROI, str
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### What is the typical fee structure for MBA programs in India?
-The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
+The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi/) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
 
 ### Is it possible to pursue an MBA without clearing CAT?
 Yes, many colleges accept other entrance exams like XAT, NMAT, SNAP, MAT, or CMAT. Additionally, direct admission options under management quota are available in several private B-schools.

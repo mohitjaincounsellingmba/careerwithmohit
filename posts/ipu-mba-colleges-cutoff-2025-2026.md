@@ -3,9 +3,8 @@ title: 'IPU MBA Cutoffs 2025-2026 — Expected CAT, CMAT & IPU CET Ranks'
 date: '2026-04-23'
 category: MBA Admissions
 description: >-
-  Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
-  private univer
+  IPU MBA Cutoffs 2025-2026 — Expected CAT, CMAT & IPU CET Ranks. Read complete
+  guide on eligibility, syllabus, fees, placements and expert admission tips.
 keywords:
   - ipu mba cutoff 2026
   - ggsipu mba cat cutoff
@@ -133,10 +132,10 @@ USMS is the university's on-campus department. It has the lowest fees and the hi
 
 ## Useful Resources
 
-- [Top 14+ GGSIPU MBA Colleges in Delhi NCR Guide](/blog/ipu-cet-mba-colleges-ggsipu)
-- [All About CAT Exam 2026](/blog/all-about-cat-exam)
-- [All About CMAT Exam 2026](/blog/all-about-cmat-exam)
-- [Best MBA Colleges in Delhi 2026](/blog/best-mba-colleges-in-delhi-2026)
+- [Top 14+ GGSIPU MBA Colleges in Delhi NCR Guide](/blog/ipu-cet-mba-colleges-ggsipu/)
+- [All About CAT Exam 2026](/blog/all-about-cat-exam/)
+- [All About CMAT Exam 2026](/blog/all-about-cmat-exam/)
+- [Best MBA Colleges in Delhi 2026](/blog/best-mba-colleges-in-delhi-2026/)
 
 ---
 

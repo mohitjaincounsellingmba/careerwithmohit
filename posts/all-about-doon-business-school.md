@@ -35,14 +35,14 @@ location: Dehradun
 state: Uttarakhand
 ---
 
-### **College Review: [Doon Business School](/colleges/doon-business-school)**
+### **College Review: [Doon Business School](/colleges/doon-business-school/)**
 *   **Quality Curriculum**: Tailored directly to industry requirements with standard practical case studies.
 *   **Established Brand**: Over the years, it has earned a strong reputation among regional corporate employers.
 *   **Holistic Learning**: Focuses on both technical business skills and global soft skills development.
 
 ---
 
-### 📊 [Doon Business School](/colleges/doon-business-school) 2026 Snapshot
+### 📊 [Doon Business School](/colleges/doon-business-school/) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |
@@ -70,18 +70,18 @@ state: Uttarakhand
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### 1. Is [Doon Business School](/colleges/doon-business-school) a good option for PGDM/MBA?
-Yes, [Doon Business School](/colleges/doon-business-school) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+### 1. Is [Doon Business School](/colleges/doon-business-school/) a good option for PGDM/MBA?
+Yes, [Doon Business School](/colleges/doon-business-school/) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
-### 2. What is the average package offered at [Doon Business School](/colleges/doon-business-school)?
-The average placement package at [Doon Business School](/colleges/doon-business-school) is approximately ₹8.0 LPA, with the highest package reaching up to ₹24.0 LPA.
+### 2. What is the average package offered at [Doon Business School](/colleges/doon-business-school/)?
+The average placement package at [Doon Business School](/colleges/doon-business-school/) is approximately ₹8.0 LPA, with the highest package reaching up to ₹24.0 LPA.
 
-### 3. What entrance exams are accepted by [Doon Business School](/colleges/doon-business-school)?
+### 3. What entrance exams are accepted by [Doon Business School](/colleges/doon-business-school/)?
 The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
 
 ---
 
-**Final Verdict**: [Doon Business School](/colleges/doon-business-school) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
+**Final Verdict**: [Doon Business School](/colleges/doon-business-school/) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
 [👉 Apply to Doon Business School](/inquiry) | [👉 Get Free Counselling](/inquiry)
 

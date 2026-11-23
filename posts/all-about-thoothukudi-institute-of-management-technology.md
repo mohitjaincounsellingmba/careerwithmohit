@@ -20,14 +20,14 @@ faqs:
       The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
 ---
 
-### **College Review: [Thoothukudi Institute of Management & Technology](/colleges/thoothukudi-institute-of-management-technology)**
+### **College Review: [Thoothukudi Institute of Management & Technology](/colleges/thoothukudi-institute-of-management-technology/)**
 *   **Quality Curriculum**: Tailored directly to industry requirements with standard practical case studies.
 *   **Established Brand**: Over the years, it has earned a strong reputation among regional corporate employers.
 *   **Holistic Learning**: Focuses on both technical business skills and global soft skills development.
 
 ---
 
-### 📊 [Thoothukudi Institute of Management & Technology](/colleges/thoothukudi-institute-of-management-technology) 2026 Snapshot
+### 📊 [Thoothukudi Institute of Management & Technology](/colleges/thoothukudi-institute-of-management-technology/) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |
@@ -55,18 +55,18 @@ faqs:
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### 1. Is [Thoothukudi Institute of Management & Technology](/colleges/thoothukudi-institute-of-management-technology) a good option for PGDM/MBA?
-Yes, [Thoothukudi Institute of Management & Technology](/colleges/thoothukudi-institute-of-management-technology) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+### 1. Is [Thoothukudi Institute of Management & Technology](/colleges/thoothukudi-institute-of-management-technology/) a good option for PGDM/MBA?
+Yes, [Thoothukudi Institute of Management & Technology](/colleges/thoothukudi-institute-of-management-technology/) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
-### 2. What is the average package offered at [Thoothukudi Institute of Management & Technology](/colleges/thoothukudi-institute-of-management-technology)?
-The average placement package at [Thoothukudi Institute of Management & Technology](/colleges/thoothukudi-institute-of-management-technology) is approximately ₹8.5 LPA, with the highest package reaching up to ₹12.5 LPA.
+### 2. What is the average package offered at [Thoothukudi Institute of Management & Technology](/colleges/thoothukudi-institute-of-management-technology/)?
+The average placement package at [Thoothukudi Institute of Management & Technology](/colleges/thoothukudi-institute-of-management-technology/) is approximately ₹8.5 LPA, with the highest package reaching up to ₹12.5 LPA.
 
-### 3. What entrance exams are accepted by [Thoothukudi Institute of Management & Technology](/colleges/thoothukudi-institute-of-management-technology)?
+### 3. What entrance exams are accepted by [Thoothukudi Institute of Management & Technology](/colleges/thoothukudi-institute-of-management-technology/)?
 The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
 
 ---
 
-**Final Verdict**: [Thoothukudi Institute of Management & Technology](/colleges/thoothukudi-institute-of-management-technology) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
+**Final Verdict**: [Thoothukudi Institute of Management & Technology](/colleges/thoothukudi-institute-of-management-technology/) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
 [👉 Apply to Thoothukudi Institute of Management & Technology](/inquiry) | [👉 Get Free Counselling](/inquiry)
 

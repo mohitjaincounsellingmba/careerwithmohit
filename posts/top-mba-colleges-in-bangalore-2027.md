@@ -75,10 +75,10 @@ In this 2027 guide, senior education consultant **Mohit Jain** delivers an autho
 | **[XIME Bangalore](/colleges/international-school-of-business-media-bangalore/)** (PGDM) | Electronic City Phase 2 | ₹12.50 Lakhs | ₹10.30 LPA | CAT / XAT / CMAT / MAT (70+ %ile) |
 | **[Christ University (School of Business)](/blog/christ-university-central-campus-mba-admission-2026-fees-review/)** | Hosur Rd / Kengeri / BGR | ₹8.80 – ₹9.50 Lakhs | ₹8.20 LPA | CAT / MAT / CMAT / XAT / Christ Test |
 | **[TAPMI Bengaluru Campus](/colleges/tapmi-bangalore/)** (MBA Tech) | Yelahanka | ₹17.50 Lakhs | ₹12.80 LPA | CAT / XAT / GMAT / NMAT (85+ %ile) |
-| **[Welingkar Bengaluru (WeSchool)](/blog/direct-admission-welingkar-mumbai-bangalore-2027-29/)** (PGDM) | Electronic City Phase 1 | ₹14.00 Lakhs | ₹11.20 LPA | CAT / XAT / CMAT / ATMA (75+ %ile) |
-| **[Alliance University (Alliance School of Bus.)](/blog/alliance-university-bangalore-mba-pgdm-review-2027-fees-placements-cutoff/)** | Anekal / Chandapura | ₹15.00 Lakhs | ₹8.50 LPA | CAT / MAT / XAT / AMAT / Direct |
+| **[Welingkar Bengaluru (WeSchool)](/blog/direct-admission-welingkar-mumbai-bangalore-2026/)** (PGDM) | Electronic City Phase 1 | ₹14.00 Lakhs | ₹11.20 LPA | CAT / XAT / CMAT / ATMA (75+ %ile) |
+| **[Alliance University (Alliance School of Bus.)](/blog/alliance-university-bangalore-review-2026/)** | Anekal / Chandapura | ₹15.00 Lakhs | ₹8.50 LPA | CAT / MAT / XAT / AMAT / Direct |
 | **[Ramaiah Inst. of Mgmt (MSRIM)](/colleges/msrim-bangalore/)** (PGDM) | Mathikere | ₹9.00 Lakhs | ₹7.80 LPA | MAT / CMAT / CAT / KMAT |
-| **[ISBR Business School](/blog/isbr-bangalore-mba-pgdm-review-2027-fees-placements-cutoff/)** (PGDM) | Electronic City Phase 1 | ₹9.50 Lakhs | ₹7.50 LPA | CAT / MAT / CMAT / XAT |
+| **[ISBR Business School](/blog/isbr-bangalore-review-2026/)** (PGDM) | Electronic City Phase 1 | ₹9.50 Lakhs | ₹7.50 LPA | CAT / MAT / CMAT / XAT |
 | **[Acharya Bangalore B-School (ABBS)](/colleges/abbs-school-of-management/)** | Magadi Road | ₹8.90 Lakhs | ₹7.20 LPA | MAT / CMAT / KMAT / Direct |
 | **[AIMS Institutes](/colleges/aims-bangalore/)** (MBA/PGDM) | Peenya | ₹9.25 Lakhs | ₹6.80 LPA | CAT / MAT / CMAT / PGCET |
 
@@ -92,7 +92,7 @@ In this 2027 guide, senior education consultant **Mohit Jain** delivers an autho
          ┌──────────────────────────────┼──────────────────────────────┐
          ▼                              ▼                              ▼
   [Tier-1: The Gold Standard]   [Electronic City Tech Hub]    [High-ROI University]
-  [IIM Bangalore](/colleges/iim-bangalore) (Bannerghatta)  SIBM, JAGSoM, XIME, WeSchool  Christ University, Ramaiah,
+  [IIM Bangalore](/colleges/iim-bangalore/) (Bannerghatta)  SIBM, JAGSoM, XIME, WeSchool  Christ University, Ramaiah,
   - ₹33.8 LPA Avg Domestic CTC  - ₹10.3 to ₹14.5 LPA CTC      Alliance University
 ```
 

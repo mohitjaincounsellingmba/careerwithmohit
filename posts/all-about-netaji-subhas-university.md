@@ -20,7 +20,7 @@ faqs:
       The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
 ---
 
-### **College Review: [Netaji Subhas University](/colleges/netaji-subhas-university)**
+### **College Review: [Netaji Subhas University](/colleges/netaji-subhas-university/)**
 *   **Quality Curriculum**: Tailored directly to industry requirements with standard practical case studies.
 *   **Established Brand**: Over the years, it has earned a strong reputation among regional corporate employers.
 *   **Holistic Learning**: Focuses on both technical business skills and global soft skills development.
@@ -36,7 +36,7 @@ faqs:
 > - **Eligibility & Selection**: Minimum 50% aggregate in Graduation (45% for reserved categories) plus GD-PI-WAT score.
 > - **ROI & Scholarships**: Merit scholarships ranging from 10% to 50% tuition waiver available for early 2027–29 applicants.
 
-## 📊 [Netaji Subhas University](/colleges/netaji-subhas-university) 2026 Snapshot
+## 📊 [Netaji Subhas University](/colleges/netaji-subhas-university/) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |
@@ -64,18 +64,18 @@ faqs:
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### 1. Is [Netaji Subhas University](/colleges/netaji-subhas-university) a good option for PGDM/MBA?
-Yes, [Netaji Subhas University](/colleges/netaji-subhas-university) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+### 1. Is [Netaji Subhas University](/colleges/netaji-subhas-university/) a good option for PGDM/MBA?
+Yes, [Netaji Subhas University](/colleges/netaji-subhas-university/) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
-### 2. What is the average package offered at [Netaji Subhas University](/colleges/netaji-subhas-university)?
-The average placement package at [Netaji Subhas University](/colleges/netaji-subhas-university) is approximately ₹5.0 LPA, with the highest package reaching up to ₹10.3 LPA.
+### 2. What is the average package offered at [Netaji Subhas University](/colleges/netaji-subhas-university/)?
+The average placement package at [Netaji Subhas University](/colleges/netaji-subhas-university/) is approximately ₹5.0 LPA, with the highest package reaching up to ₹10.3 LPA.
 
-### 3. What entrance exams are accepted by [Netaji Subhas University](/colleges/netaji-subhas-university)?
+### 3. What entrance exams are accepted by [Netaji Subhas University](/colleges/netaji-subhas-university/)?
 The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
 
 ---
 
-**Final Verdict**: [Netaji Subhas University](/colleges/netaji-subhas-university) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
+**Final Verdict**: [Netaji Subhas University](/colleges/netaji-subhas-university/) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
 [👉 Apply to Netaji Subhas University](/inquiry) | [👉 Get Free Counselling](/inquiry)
 

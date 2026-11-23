@@ -44,7 +44,7 @@ state: Punjab
 > - **Eligibility & Selection**: Minimum 50% aggregate in Graduation (45% for reserved categories) plus GD-PI-WAT score.
 > - **ROI & Scholarships**: Merit scholarships ranging from 10% to 50% tuition waiver available for early 2027–29 applicants.
 
-**[Lovely Professional University](/colleges/lovely-professional-university) (LPU Online)** holds **NAAC A++ accreditation**—the highest grade granted by UGC NAAC—and is one of India's largest and most trusted online education institutions. 
+**[Lovely Professional University](/colleges/lovely-professional-university/) (LPU Online)** holds **NAAC A++ accreditation**—the highest grade granted by UGC NAAC—and is one of India's largest and most trusted online education institutions. 
 
 Whether you are planning to pursue an **Online MBA, MCA, BBA, BCA, M.Sc, or MA**, knowing the exact **2027 fee schedule**, installment plans, scholarships, and hidden charges is crucial. In this guide, we provide a complete financial audit of LPU Online degrees.
 
@@ -107,10 +107,10 @@ Yes. LPU Online offers fee concessions and scholarships under the following cate
 | University | Online MBA Total Fee | NAAC Grade | Global Validity |
 | :--- | :--- | :--- | :--- |
 | **LPU Online** | **₹1,61,600** | **NAAC A++** | **AIU & WES Approved** |
-| **[Amity University](/colleges/amity-noida) Online** | ₹1,99,000 | NAAC A+ | Approved |
-| **[Jain University](/colleges/jain-university) Online** | ₹1,96,000 | NAAC A++ | Approved |
+| **[Amity University](/colleges/amity-noida/) Online** | ₹1,99,000 | NAAC A+ | Approved |
+| **[Jain University](/colleges/jain-university/) Online** | ₹1,96,000 | NAAC A++ | Approved |
 | **Chandigarh University Online** | ₹1,65,000 | NAAC A+ | Approved |
-| **[Uttaranchal University](/colleges/uttaranchal-university) Online** | ₹98,000 | NAAC A+ | Approved |
+| **[Uttaranchal University](/colleges/uttaranchal-university/) Online** | ₹98,000 | NAAC A+ | Approved |
 
 ---
 
@@ -127,7 +127,7 @@ Yes. LPU Online offers fee concessions and scholarships under the following cate
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### What is the typical fee structure for MBA programs in India?
-The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
+The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi/) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
 
 ### Is it possible to pursue an MBA without clearing CAT?
 Yes, many colleges accept other entrance exams like XAT, NMAT, SNAP, MAT, or CMAT. Additionally, direct admission options under management quota are available in several private B-schools.

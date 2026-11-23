@@ -62,19 +62,19 @@ These private business schools keep their annual tuition fees under ₹1.5 Lakhs
 - **Average Placement Package:** **₹4.0 LPA**
 - **Key Highlight:** Top private option in Knowledge Park focusing heavily on placement training.
 
-### 2. GNIOT [Institute of Management Studies](/colleges/institute-of-management-studies)
+### 2. GNIOT [Institute of Management Studies](/colleges/institute-of-management-studies/)
 - **Approximate Fees:** ₹1.1 Lakhs (Annual)
 - **Accepted Entrance Exams:** Merit / CUET-UG
 - **Average Placement Package:** **₹3.8 LPA**
 - **Key Highlight:** Highly affordable tuition fees coupled with good corporate internship tie-ups.
 
-### 3. [Accurate Institute of Management](/colleges/accurate-greater-noida) & Technology
+### 3. [Accurate Institute of Management](/colleges/accurate-greater-noida/) & Technology
 - **Approximate Fees:** ₹1.0 Lakhs (Annual)
 - **Accepted Entrance Exams:** Merit / CUET-UG
 - **Average Placement Package:** **₹3.5 LPA**
 - **Key Highlight:** Low budget private option with high ROI and dedicated corporate cells.
 
-### 4. [Lloyd Business School](/colleges/lloyd-business-school-greater-noida)
+### 4. [Lloyd Business School](/colleges/lloyd-business-school-greater-noida/)
 - **Approximate Fees:** ₹1.2 Lakhs (Annual)
 - **Accepted Entrance Exams:** Merit / CUET-UG
 - **Average Placement Package:** **₹3.8 LPA**
@@ -89,9 +89,9 @@ Here is a quick snapshot comparing the fee structures and average placements for
 | College Name | Entrance Exams | Approximate Fees | Avg Placement Package |
 | :--- | :--- | :--- | :--- |
 | **GL Bajaj Institute of Management** | Merit / CUET-UG | ₹1.3 Lakhs (Annual) | **₹4.0 LPA** |
-| **GNIOT [Institute of Management Studies](/colleges/institute-of-management-studies)** | Merit / CUET-UG | ₹1.1 Lakhs (Annual) | **₹3.8 LPA** |
-| **[Accurate Institute of Management](/colleges/accurate-greater-noida) & Technology** | Merit / CUET-UG | ₹1.0 Lakhs (Annual) | **₹3.5 LPA** |
-| **[Lloyd Business School](/colleges/lloyd-business-school-greater-noida)** | Merit / CUET-UG | ₹1.2 Lakhs (Annual) | **₹3.8 LPA** |
+| **GNIOT [Institute of Management Studies](/colleges/institute-of-management-studies/)** | Merit / CUET-UG | ₹1.1 Lakhs (Annual) | **₹3.8 LPA** |
+| **[Accurate Institute of Management](/colleges/accurate-greater-noida/) & Technology** | Merit / CUET-UG | ₹1.0 Lakhs (Annual) | **₹3.5 LPA** |
+| **[Lloyd Business School](/colleges/lloyd-business-school-greater-noida/)** | Merit / CUET-UG | ₹1.2 Lakhs (Annual) | **₹3.8 LPA** |
 
 ---
 
@@ -113,9 +113,9 @@ Return on Investment (ROI) is the ultimate metric for business students. When yo
 ---
 
 ## 🔗 Related Resources
-- [Best BBA Specializations for 2026](/blog/bba-specializations-skills-salary-2026-guide)
-- [BBA vs BCom vs BMS: Career Comparison](/blog/bba-vs-bcom-vs-bms-career-comparison)
-- [Direct BBA Admission 2026](/blog/direct-bba-admission-2026-management-quota)
+- [Best BBA Specializations for 2026](/blog/bba-specializations-skills-salary-2026-guide/)
+- [BBA vs BCom vs BMS: Career Comparison](/blog/bba-vs-bcom-vs-bms-career-comparison/)
+- [Direct BBA Admission 2026](/blog/direct-bba-admission-2026-management-quota/)
 
 ---
 

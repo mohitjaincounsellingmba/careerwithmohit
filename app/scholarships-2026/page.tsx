@@ -169,7 +169,7 @@ export default function ScholarshipsPage() {
 
         <div className="max-w-7xl mx-auto relative z-10">
           <div className="mb-8">
-            <Breadcrumbs />
+            <Breadcrumbs skipJsonLd={true} />
           </div>
 
           {/* Top Announcement Tag */}

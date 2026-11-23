@@ -28,7 +28,7 @@ faqs:
       of education, infrastructure, and research at a university, serving as a
       reliable benchmark for students.
 ---
-When preparing for the [CAT exam 2026](/blog/all-about-cat-exam), one of the biggest traps students fall into is trying to study everything with the same intensity. The CAT syllabus is vast, but the distribution of marks is highly skewed. 
+When preparing for the [CAT exam 2026](/blog/all-about-cat-exam/), one of the biggest traps students fall into is trying to study everything with the same intensity. The CAT syllabus is vast, but the distribution of marks is highly skewed. 
 
 By applying the Pareto Principle (the 80/20 rule), we find that roughly **80% of the CAT score comes from 20% of the topics**. If you can master these high-yield topics, you can secure a 90+ percentile with a highly optimized study timeline.
 
@@ -110,7 +110,7 @@ To prepare efficiently, tackle these high-yield topics in the following chronolo
 4. **Step 4:** Study Venn Diagrams and Games & Tournaments (DILR).
 5. **Step 5:** Complete Geometry and Modern Math (QA).
 
-For a comprehensive preparation strategy, read our guide on [CAT 2026 Preparation Strategy & Syllabus](/blog/cat-2026-preparation-strategy-syllabus-dates). You can also evaluate your current standing by starting a [Free CAT Mock Test](/tools/cat-mock-test).
+For a comprehensive preparation strategy, read our guide on [CAT 2026 Preparation Strategy & Syllabus](/blog/cat-2026-preparation-strategy-syllabus-dates/). You can also evaluate your current standing by starting a [Free CAT Mock Test](/tools/cat-mock-test).
 
 [👉 Need help structuring your CAT study timetable? Get in touch with our experts today!](/inquiry)
 

@@ -35,14 +35,14 @@ location: Bangalore
 state: Karnataka
 ---
 
-### **College Review: [NSB Academy](/colleges/nsb-academy)**
+### **College Review: [NSB Academy](/colleges/nsb-academy/)**
 *   **Quality Curriculum**: Tailored directly to industry requirements with standard practical case studies.
 *   **Established Brand**: Over the years, it has earned a strong reputation among regional corporate employers.
 *   **Holistic Learning**: Focuses on both technical business skills and global soft skills development.
 
 ---
 
-### 📊 [NSB Academy](/colleges/nsb-academy) 2026 Snapshot
+### 📊 [NSB Academy](/colleges/nsb-academy/) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |
@@ -70,18 +70,18 @@ state: Karnataka
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### 1. Is [NSB Academy](/colleges/nsb-academy) a good option for PGDM/MBA?
-Yes, [NSB Academy](/colleges/nsb-academy) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+### 1. Is [NSB Academy](/colleges/nsb-academy/) a good option for PGDM/MBA?
+Yes, [NSB Academy](/colleges/nsb-academy/) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
-### 2. What is the average package offered at [NSB Academy](/colleges/nsb-academy)?
-The average placement package at [NSB Academy](/colleges/nsb-academy) is approximately ₹6.6 LPA, with the highest package reaching up to ₹17.1 LPA.
+### 2. What is the average package offered at [NSB Academy](/colleges/nsb-academy/)?
+The average placement package at [NSB Academy](/colleges/nsb-academy/) is approximately ₹6.6 LPA, with the highest package reaching up to ₹17.1 LPA.
 
-### 3. What entrance exams are accepted by [NSB Academy](/colleges/nsb-academy)?
+### 3. What entrance exams are accepted by [NSB Academy](/colleges/nsb-academy/)?
 The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
 
 ---
 
-**Final Verdict**: [NSB Academy](/colleges/nsb-academy) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
+**Final Verdict**: [NSB Academy](/colleges/nsb-academy/) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
 [👉 Apply to NSB Academy](/inquiry) | [👉 Get Free Counselling](/inquiry)
 

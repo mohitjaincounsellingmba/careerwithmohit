@@ -82,16 +82,16 @@ Use the following marking scheme to calculate your score:
 **Formula**: `(No. of Correct × 4) - (No. of Incorrect × 1)`
 
 Once you have your raw marks, check how they translate into percentiles:
-👉 **[CUET PG 2026 Marks vs Percentile Analysis](/blog/cuet-pg-2026-score-calculator-marks-vs-percentile)**
+👉 **[CUET PG 2026 Marks vs Percentile Analysis](/blog/cuet-pg-2026-score-calculator-marks-vs-percentile/)**
 
 ---
 
 ### **🚀 What Next After the Response Sheet?**
 Now that you have a clear idea of your marks, it is time to plan your university applications. 
 
-1.  **CUET PG Result Date**: The final result is expected within 10 days of the challenge window closing. ([Check Result Timeline](/blog/cuet-pg-2026-result-expected-date))
-2.  **MBA Aspirants**: If you are aiming for MBA programs, use our predictor tool to see which colleges you can get. ([CUET PG MBA Predictor](/blog/cuet-pg-predictor-2026-mba-colleges))
-3.  **Top Colleges List**: Explore the best universities accepting CUET PG scores here. ([Top MBA Colleges Under CUET PG](/blog/top-mba-colleges-cuet-pg))
+1.  **CUET PG Result Date**: The final result is expected within 10 days of the challenge window closing. ([Check Result Timeline](/blog/cuet-pg-2026-result-expected-date/))
+2.  **MBA Aspirants**: If you are aiming for MBA programs, use our predictor tool to see which colleges you can get. ([CUET PG MBA Predictor](/blog/cuet-pg-predictor-2026-mba-colleges/))
+3.  **Top Colleges List**: Explore the best universities accepting CUET PG scores here. ([Top MBA Colleges Under CUET PG](/blog/top-mba-colleges-cuet-pg/))
 
 **Confused About the Admission Process?**
 The post-result counseling process can be tricky with multiple university registration links and cutoffs. Get personalized help from Mohit Jain to secure your seat in the best possible college.

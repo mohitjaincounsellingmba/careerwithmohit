@@ -6,7 +6,7 @@ description: >-
   accepting CUET PG 2026 scores, including Amity and Jaypee for MBA and MCA.
 keywords:
   - CUET PG colleges in Noida 2026
-  - '[Amity University](/colleges/amity-noida) Noida CUET PG admission'
+  - '[Amity University](/colleges/amity-noida/) Noida CUET PG admission'
   - JIIT Noida CUET PG
   - Noida International University CUET PG
   - best PG colleges in Noida under CUET
@@ -47,17 +47,17 @@ If you are planning to pursue **MBA, MCA, MA, or MSc in Noida**, here is your de
 
 ---
 
-### **1. [Amity University](/colleges/amity-noida) (Noida)**
+### **1. [Amity University](/colleges/amity-noida/) (Noida)**
 Amity is one of India's largest and most modern private universities. It accepts CUET PG scores for several of its postgraduate programs.
 *   **Top Programs:** MBA (Various Specializations), MCA, MA (Media), MSc.
 *   **Admission Process:** They consider CUET PG scores alongside their own interview process (where applicable).
 
-### **2. [Jaypee Institute of Information Technology (JIIT)](/colleges/jiit-noida) (Noida)**
+### **2. [Jaypee Institute of Information Technology (JIIT)](/colleges/jiit-noida/) (Noida)**
 JIIT is highly respected for its engineering and management education. It often uses national test scores for its postgraduate admissions.
 *   **Top Programs:** MBA, MCA, M.Tech.
 *   **Admission Process:** They consider various national scores including CUET PG for several of their postgraduate programs.
 
-### **3. [Noida International University (NIU)](/colleges/niu-greater-noida)**
+### **3. [Noida International University (NIU)](/colleges/niu-greater-noida/)**
 NIU is known for its wide range of courses and international collaborations.
 *   **Top Programs:** MBA, MCA, MA (Literature), MSc.
 *   **Why Choose NIU?** Strong focus on skill-based education and diverse campus life.
@@ -69,8 +69,8 @@ GBU is a state-funded university that is widely appreciated for its research and
 
 ### **5. Other Private Universities in Noida**
 Many growing private universities in the city use CUET PG to diversify their student intake.
-*   **[Sharda University](/colleges/sharda-greater-noida) (Noida Hub)**
-*   **[Galgotias University](/colleges/galgotias-university) (Noida Hub)**
+*   **[Sharda University](/colleges/sharda-greater-noida/) (Noida Hub)**
+*   **[Galgotias University](/colleges/galgotias-university/) (Noida Hub)**
 
 ---
 
@@ -82,9 +82,9 @@ Many growing private universities in the city use CUET PG to diversify their stu
 ---
 
 ### **Helpful Resources for CUET PG Aspirants:**
-- [Top MBA Colleges in Noida](/blog/best-mba-colleges-in-noida-ghaziabad-2026)
-- [Amity University Noida B.Tech Admission 2026](/blog/amity-university-noida-btech-admission-2026-fees-review)
-- [CUET PG MBA Colleges List 2026](/blog/cuet-pg-mba-colleges-list-2026)
+- [Top MBA Colleges in Noida](/blog/best-mba-colleges-in-noida-ghaziabad-2026/)
+- [Amity University Noida B.Tech Admission 2026](/blog/amity-university-noida-btech-admission-2026-fees-review/)
+- [CUET PG MBA Colleges List 2026](/blog/cuet-pg-mba-colleges-list-2026/)
 
 **Confused between Amity vs. JIIT?**
 Choosing the right Noida college requires balancing your career specialization with the campus culture. Get expert advice today!

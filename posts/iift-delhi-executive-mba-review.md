@@ -42,7 +42,7 @@ location: Delhi NCR
 state: Delhi NCR
 ---
 
-Running a career upgrade requires choosing the right management program. For working professionals in Delhi, the Executive MBA / Executive PGDM offered by [Indian Institute of Foreign Trade (IIFT), Delhi](/colleges/iift-delhi) represents a powerful gateway to higher senior leadership positions.
+Running a career upgrade requires choosing the right management program. For working professionals in Delhi, the Executive MBA / Executive PGDM offered by [Indian Institute of Foreign Trade (IIFT), Delhi](/colleges/iift-delhi/) represents a powerful gateway to higher senior leadership positions.
 
 In this review, we break down everything you need to know: fees, admission cutoffs, placements, pros, cons, and our honest expert verdict.
 
@@ -86,7 +86,7 @@ In this review, we break down everything you need to know: fees, admission cutof
 
 ## 🔍 Our Expert Verdict
 
-The Executive MBA program at [Indian Institute of Foreign Trade (IIFT), Delhi](/colleges/iift-delhi) is highly recommended for professionals based in Delhi who want to scale their careers without disrupting their current geographic setup. 
+The Executive MBA program at [Indian Institute of Foreign Trade (IIFT), Delhi](/colleges/iift-delhi/) is highly recommended for professionals based in Delhi who want to scale their careers without disrupting their current geographic setup. 
 
 If you are looking for top-tier consulting placements and have 5+ years of experience, full-time residential paths are stellar. However, if you are looking to continue your full-time job, their weekend/evening classes offer outstanding return on investment.
 
@@ -94,10 +94,10 @@ If you are looking for top-tier consulting placements and have 5+ years of exper
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### What is the focus of the EPGDIB at [IIFT Delhi](/colleges/iift-delhi)?
+### What is the focus of the EPGDIB at [IIFT Delhi](/colleges/iift-delhi/)?
 The program is designed specifically around Global Trade, International Business, Trade Finance, Logistics, and Supply Chain Management.
 
-### Does [IIFT Delhi](/colleges/iift-delhi) offer placement help for executive students?
+### Does [IIFT Delhi](/colleges/iift-delhi/) offer placement help for executive students?
 Yes, IIFT has a lateral recruitment support cell that helps candidates access senior-level openings in trade, export-import, and logistics firms.
 
 ### What is the schedule of classes for the Executive MBA at IIFT?

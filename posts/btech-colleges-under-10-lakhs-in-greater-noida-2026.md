@@ -66,7 +66,7 @@ These institutions keep their total program tuition fees under ₹10 Lakhs while
 - **Average Placement Package:** **₹6.8 LPA**
 - **Key Highlight:** Renowned for delivering top-tier placement counts in software engineering roles across Delhi NCR.
 
-### 2. [Galgotias University](/colleges/galgotias-university) (School of Engineering)
+### 2. [Galgotias University](/colleges/galgotias-university/) (School of Engineering)
 - **Approximate Tuition Fees:** ₹6.4 Lakhs (Total)
 - **Accepted Entrance Exams:** JEE Main / Merit
 - **Average Placement Package:** **₹5.5 LPA**
@@ -78,7 +78,7 @@ These institutions keep their total program tuition fees under ₹10 Lakhs while
 - **Average Placement Package:** **₹4.8 LPA**
 - **Key Highlight:** Affordable business-technical ecosystem focusing on practical training in Knowledge Park II.
 
-### 4. [Sharda University](/colleges/sharda-greater-noida) (School of Engineering & Technology)
+### 4. [Sharda University](/colleges/sharda-greater-noida/) (School of Engineering & Technology)
 - **Approximate Tuition Fees:** ₹8.8 Lakhs (Total)
 - **Accepted Entrance Exams:** SUAT / JEE Main
 - **Average Placement Package:** **₹5.0 LPA**
@@ -93,9 +93,9 @@ Here is a quick snapshot comparing the fee structures and average placements for
 | College Name | Accepted Entrance Exams | Approximate Fees (Total) | Average Placement Package |
 | :--- | :--- | :--- | :--- |
 | **GL Bajaj Institute of Technology & Management** | JEE Main (UPTAC) | ₹5.6 Lakhs (Total) | **₹6.8 LPA** |
-| **[Galgotias University](/colleges/galgotias-university) (School of Engineering)** | JEE Main / Merit | ₹6.4 Lakhs (Total) | **₹5.5 LPA** |
+| **[Galgotias University](/colleges/galgotias-university/) (School of Engineering)** | JEE Main / Merit | ₹6.4 Lakhs (Total) | **₹5.5 LPA** |
 | **GNIOT Group of Institutions (Engineering Campus)** | JEE Main / UPTAC | ₹4.8 Lakhs (Total) | **₹4.8 LPA** |
-| **[Sharda University](/colleges/sharda-greater-noida) (School of Engineering & Technology)** | SUAT / JEE Main | ₹8.8 Lakhs (Total) | **₹5.0 LPA** |
+| **[Sharda University](/colleges/sharda-greater-noida/) (School of Engineering & Technology)** | SUAT / JEE Main | ₹8.8 Lakhs (Total) | **₹5.0 LPA** |
 
 ---
 
@@ -117,9 +117,9 @@ Return on Investment (ROI) is the single most critical factor for most engineeri
 ---
 
 ## 🔗 Related Resources
-- [Guide to B.Tech Specializations, Skills, and Placements (2026)](/blog/btech-specializations-skills-salary-2026-guide)
-- [B.Tech Admission Without JEE 2026: All Options](/blog/btech-admission-without-jee-2026-all-options)
-- [Top Engineering Colleges Accepting JEE Main Scores in 2026](/blog/jee-main-accepting-btech-colleges-2026)
+- [Guide to B.Tech Specializations, Skills, and Placements (2026)](/blog/btech-specializations-skills-salary-2026-guide/)
+- [B.Tech Admission Without JEE 2026: All Options](/blog/btech-admission-without-jee-2026-all-options/)
+- [Top Engineering Colleges Accepting JEE Main Scores in 2026](/blog/jee-main-accepting-btech-colleges-2026/)
 
 ---
 

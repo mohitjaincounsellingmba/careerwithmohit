@@ -4,9 +4,8 @@ title: >-
   Fee Structure
 date: '2026-07-21'
 description: >-
-  Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
-  private univer
+  Dr. D. Y. Patil Vidyapeeth, Pune MBBS Admission 2026: Complete guide on fees,
+  verified cutoffs, average placement packages & admission process.
 keywords:
   - DPU Medical College Pune MBBS admission 2026
   - DPU Medical College Pune fee structure
@@ -97,7 +96,7 @@ Admission to DPU Medical College Pune is strictly merit-based, determined by the
 | **Minority / Management Quota** | NRI Quota: Score 130+ |
 | **NRI Quota Seats** | Qualified NEET Score (130+) | Top Percentile Candidates |
 
-To secure your seat, candidates are advised to keep a safe margin above these estimated cutoffs, as competition for top medical seats increases each year. Check our detailed [NEET UG 2026 Exam & Counselling Guide](/blog/all-about-dy-patil-b-school) for rank prediction strategies.
+To secure your seat, candidates are advised to keep a safe margin above these estimated cutoffs, as competition for top medical seats increases each year. Check our detailed [NEET UG 2026 Exam & Counselling Guide](/blog/all-about-dy-patil-b-school/) for rank prediction strategies.
 
 ---
 
@@ -130,7 +129,7 @@ Upon allotment:
 ## Eligibility Criteria for MBBS 2026
 
 1. **Age Requirement:** Must be at least 17 years old on or before 31st December 2026.
-2. **Academic Qualification:** Passed 10+2 or equivalent exam with Physics, Chemistry, Biology/Biotechnology, and English from a recognized board (Refer to [All India State Boards Directory](/blog/all-about-neet-exam)).
+2. **Academic Qualification:** Passed 10+2 or equivalent exam with Physics, Chemistry, Biology/Biotechnology, and English from a recognized board (Refer to [All India State Boards Directory](/blog/all-about-neet-exam/)).
 3. **Minimum Marks:**
    - General Category: Minimum 50% aggregate in Physics, Chemistry, and Biology.
    - SC/ST/OBC: Minimum 40% aggregate.

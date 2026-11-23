@@ -37,14 +37,14 @@ location: Hyderabad
 state: Telangana
 ---
 
-### **College Review: [Badruka School of Management](/colleges/badruka-school-of-management)**
+### **College Review: [Badruka School of Management](/colleges/badruka-school-of-management/)**
 *   **Quality Curriculum**: Tailored directly to industry requirements with standard practical case studies.
 *   **Established Brand**: Over the years, it has earned a strong reputation among regional corporate employers.
 *   **Holistic Learning**: Focuses on both technical business skills and global soft skills development.
 
 ---
 
-### 📊 [Badruka School of Management](/colleges/badruka-school-of-management) 2026 Snapshot
+### 📊 [Badruka School of Management](/colleges/badruka-school-of-management/) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |
@@ -72,18 +72,18 @@ state: Telangana
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### 1. Is [Badruka School of Management](/colleges/badruka-school-of-management) a good option for PGDM/MBA?
-Yes, [Badruka School of Management](/colleges/badruka-school-of-management) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+### 1. Is [Badruka School of Management](/colleges/badruka-school-of-management/) a good option for PGDM/MBA?
+Yes, [Badruka School of Management](/colleges/badruka-school-of-management/) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
-### 2. What is the average package offered at [Badruka School of Management](/colleges/badruka-school-of-management)?
-The average placement package at [Badruka School of Management](/colleges/badruka-school-of-management) is approximately ₹8 LPA, with the highest package reaching up to ₹15.5 LPA.
+### 2. What is the average package offered at [Badruka School of Management](/colleges/badruka-school-of-management/)?
+The average placement package at [Badruka School of Management](/colleges/badruka-school-of-management/) is approximately ₹8 LPA, with the highest package reaching up to ₹15.5 LPA.
 
-### 3. What entrance exams are accepted by [Badruka School of Management](/colleges/badruka-school-of-management)?
+### 3. What entrance exams are accepted by [Badruka School of Management](/colleges/badruka-school-of-management/)?
 The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
 
 ---
 
-**Final Verdict**: [Badruka School of Management](/colleges/badruka-school-of-management) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
+**Final Verdict**: [Badruka School of Management](/colleges/badruka-school-of-management/) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
 [👉 Apply to Badruka School of Management](/inquiry) | [👉 Get Free Counselling](/inquiry)
 

@@ -210,7 +210,7 @@ export function MbaCollegesPuneClient({
         <div className="absolute -bottom-10 left-10 w-96 h-96 bg-primary/5 rounded-full blur-3xl pointer-events-none" />
         
         <div className="max-w-7xl mx-auto relative z-10">
-          <Breadcrumbs />
+          <Breadcrumbs skipJsonLd={true} />
           
           <div className="mt-10 flex flex-col lg:flex-row justify-between items-start lg:items-center gap-8">
             <div>

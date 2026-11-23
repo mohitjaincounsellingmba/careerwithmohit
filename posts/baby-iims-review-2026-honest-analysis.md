@@ -4,9 +4,9 @@ title: >-
   Cutoff & Worth It Factor
 date: '2026-04-02'
 description: >-
-  Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
-  private univer
+  The term 'Baby IIMs' has become one of the most searched and most debated
+  topics in the MBA world. Check fees, cutoffs, placements & expert admission
+  tips.
 keywords:
   - Baby IIMs review 2026
   - Baby IIM list India
@@ -77,12 +77,12 @@ The 21 IIMs in India are broadly divided into three generations:
 | IIM | Location | Avg Package | Total Fees | CAT Cutoff (Gen) | Mentor IIM |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **IIM Amritsar** | Amritsar, Punjab | ₹16.5 LPA | ~₹17.60 L | 92+ %ile | IIM Lucknow |
-| **IIM Bodh Gaya** | Bodh Gaya, Bihar | ₹15.8 LPA | ~₹17.00 L | 92+ %ile | [IIM Calcutta](/colleges/iim-calcutta) |
-| **IIM Jammu** | Jammu, J&K | ₹16.4 LPA | ~₹18.00 L | 92+ %ile | [IIM Calcutta](/colleges/iim-calcutta) |
-| **IIM Nagpur** | Nagpur, Maharashtra | ₹16.7 LPA | ~₹17.40 L | 92+ %ile | [IIM Ahmedabad](/colleges/iim-ahmedabad) |
+| **IIM Bodh Gaya** | Bodh Gaya, Bihar | ₹15.8 LPA | ~₹17.00 L | 92+ %ile | [IIM Calcutta](/colleges/iim-calcutta/) |
+| **IIM Jammu** | Jammu, J&K | ₹16.4 LPA | ~₹18.00 L | 92+ %ile | [IIM Calcutta](/colleges/iim-calcutta/) |
+| **IIM Nagpur** | Nagpur, Maharashtra | ₹16.7 LPA | ~₹17.40 L | 92+ %ile | [IIM Ahmedabad](/colleges/iim-ahmedabad/) |
 | **IIM Sambalpur** | Sambalpur, Odisha | ₹16.6 LPA | ~₹17.50 L | 92+ %ile | IIM Indore |
 | **IIM Sirmaur** | Paonta Sahib, HP | ₹14.5 LPA | ~₹17.00 L | 90+ %ile | IIM Lucknow |
-| **IIM Visakhapatnam** | Vizag, Andhra Pradesh | ₹16.0 LPA | ~₹17.20 L | 92+ %ile | [IIM Bangalore](/colleges/iim-bangalore) |
+| **IIM Visakhapatnam** | Vizag, Andhra Pradesh | ₹16.0 LPA | ~₹17.20 L | 92+ %ile | [IIM Bangalore](/colleges/iim-bangalore/) |
 
 ---
 
@@ -105,9 +105,9 @@ The 21 IIMs in India are broadly divided into three generations:
 - **Average Package**: ₹15.8 LPA | **Highest**: ~₹30+ LPA
 - **CAT Cutoff**: 92+ Percentile | **Admission**: CAP Interview
 - **Campus**: Permanent campus in Bodh Gaya, Bihar
-- **Mentor**: [IIM Calcutta](/colleges/iim-calcutta) — rigorous quantitative pedagogy
+- **Mentor**: [IIM Calcutta](/colleges/iim-calcutta/) — rigorous quantitative pedagogy
 - **Special Feature**: **SAPS (Special Aptitude Process for Students)** for girl candidates, promoting gender diversity
-- **Verdict**: [IIM Calcutta](/colleges/iim-calcutta) mentorship brings academic rigour. Bihar location limits some recruiter access, but placement numbers are improving.
+- **Verdict**: [IIM Calcutta](/colleges/iim-calcutta/) mentorship brings academic rigour. Bihar location limits some recruiter access, but placement numbers are improving.
 
 ---
 
@@ -117,7 +117,7 @@ The 21 IIMs in India are broadly divided into three generations:
 - **Average Package**: ₹16.4 LPA | **Highest**: ~₹32+ LPA
 - **CAT Cutoff**: 92+ Percentile | **Admission**: CAP Interview
 - **Campus**: Permanent campus in Jammu
-- **Mentor**: [IIM Calcutta](/colleges/iim-calcutta)
+- **Mentor**: [IIM Calcutta](/colleges/iim-calcutta/)
 - **Special Feature**: Significant scholarships available for J&K domicile students
 - **Verdict**: One of the newer Baby IIMs with actively improving placements. Geographical remoteness remains a challenge for some recruiters, but the IIM brand is strong.
 
@@ -129,8 +129,8 @@ The 21 IIMs in India are broadly divided into three generations:
 - **Average Package**: ₹16.7 LPA | **Highest**: ~₹38+ LPA
 - **CAT Cutoff**: 92+ Percentile | **Admission**: Personal Interview (PI)
 - **Campus**: Permanent campus in Nagpur
-- **Mentor**: **[IIM Ahmedabad](/colleges/iim-ahmedabad)** — the most prestigious mentorship among Baby IIMs
-- **Verdict**: **Arguably the strongest Baby IIM** due to [IIM Ahmedabad](/colleges/iim-ahmedabad) mentorship. Academic standards are exceptionally high. Nagpur is a growing corporate hub — adds recruiter access.
+- **Mentor**: **[IIM Ahmedabad](/colleges/iim-ahmedabad/)** — the most prestigious mentorship among Baby IIMs
+- **Verdict**: **Arguably the strongest Baby IIM** due to [IIM Ahmedabad](/colleges/iim-ahmedabad/) mentorship. Academic standards are exceptionally high. Nagpur is a growing corporate hub — adds recruiter access.
 
 ---
 
@@ -163,8 +163,8 @@ The 21 IIMs in India are broadly divided into three generations:
 - **Average Package**: ₹16.0 LPA | **Highest**: ~₹32+ LPA
 - **CAT Cutoff**: 92+ Percentile | **Admission**: Personal Interview (PI)
 - **Campus**: Permanent campus in Vizag
-- **Mentor**: **[IIM Bangalore](/colleges/iim-bangalore)** — highly respected mentorship
-- **Verdict**: [IIM Bangalore](/colleges/iim-bangalore) mentorship elevates its academic credibility significantly. Vizag's growing IT and pharma sector provides good industry exposure. One of the better Baby IIM choices.
+- **Mentor**: **[IIM Bangalore](/colleges/iim-bangalore/)** — highly respected mentorship
+- **Verdict**: [IIM Bangalore](/colleges/iim-bangalore/) mentorship elevates its academic credibility significantly. Vizag's growing IT and pharma sector provides good industry exposure. One of the better Baby IIM choices.
 
 ---
 
@@ -241,12 +241,12 @@ Most Baby IIMs participate in the **CAP (Common Admission Process)**:
 
 ### **Explore Our MBA Admission Resources**
 
-- [Complete List of All 21 IIMs — Placements, Fees & Cutoffs](/blog/iims-list-courses-placements-cutoffs-admission)
-- [All About CAT Exam — Complete Guide](/blog/all-about-cat-exam)
-- [MBA vs PGDM — Key Differences](/blog/mba-vs-pgdm-difference)
-- [GD/PI Interview Topics & Solutions for MBA](/blog/gdpi-interview-topics-solutions-mba)
-- [Gap Year Before MBA — Good Choice?](/blog/gap-year-mba-good-choice)
-- [Top MBA Colleges in India Under ₹10 Lakhs — Delhi NCR](/blog/mba-pgdm-colleges-under-10-lakhs-delhi-ncr-direct-admission)
+- [Complete List of All 21 IIMs — Placements, Fees & Cutoffs](/blog/iims-list-courses-placements-cutoffs-admission/)
+- [All About CAT Exam — Complete Guide](/blog/all-about-cat-exam/)
+- [MBA vs PGDM — Key Differences](/blog/mba-vs-pgdm-difference/)
+- [GD/PI Interview Topics & Solutions for MBA](/blog/gdpi-interview-topics-solutions-mba/)
+- [Gap Year Before MBA — Good Choice?](/blog/gap-year-mba-good-choice/)
+- [Top MBA Colleges in India Under ₹10 Lakhs — Delhi NCR](/blog/mba-pgdm-colleges-under-10-lakhs-delhi-ncr-direct-admission/)
 
 ---
 
@@ -259,7 +259,7 @@ Most Baby IIMs participate in the **CAP (Common Admission Process)**:
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### What is the typical fee structure for MBA programs in India?
-The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
+The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi/) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
 
 ### Is it possible to pursue an MBA without clearing CAT?
 Yes, many colleges accept other entrance exams like XAT, NMAT, SNAP, MAT, or CMAT. Additionally, direct admission options under management quota are available in several private B-schools.

@@ -112,9 +112,9 @@ Admissions to private M.Tech colleges in Hyderabad generally follow two distinct
 ---
 
 ## 🔗 Related Resources
-- [B.Tech Admission Without JEE 2026: All Options](/blog/btech-admission-without-jee-2026-all-options)
-- [Top Engineering Colleges Accepting JEE Main Scores in 2026](/blog/jee-main-accepting-btech-colleges-2026)
-- [All IIM Cut-Off 2026-28: Admission, MBA, PGDM](/blog/all-iim-cut-off-2026-28-admission-mba-pgdm)
+- [B.Tech Admission Without JEE 2026: All Options](/blog/btech-admission-without-jee-2026-all-options/)
+- [Top Engineering Colleges Accepting JEE Main Scores in 2026](/blog/jee-main-accepting-btech-colleges-2026/)
+- [All IIM Cut-Off 2026-28: Admission, MBA, PGDM](/blog/all-iim-cut-off-2026-28-admission-mba-pgdm/)
 
 ---
 

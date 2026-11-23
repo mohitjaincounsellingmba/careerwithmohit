@@ -67,7 +67,7 @@ In this guide, we review the top UGC-DEB approved online universities located ac
 1. **Unmatched Recruiter Prestige**: Delhi NCR hosts headquarters of Fortune 500 companies (Google, Microsoft, Deloitte, EY, TCS, Amazon). Online degrees from NCR universities carry massive brand value.
 2. **Flexible Tuition Fees**: Options range from central university fees starting at **₹20,000** (Jamia Millia Islamia, DU SOL) to premium NAAC A+ private universities (**₹90,000 – ₹1,99,000**) with zero-cost EMI plans.
 3. **100% Online Proctored Examinations**: Take semester exams safely from your home with AI-proctored web browsers.
-4. **WES & Global Recognition**: Institutions like [Amity University](/colleges/amity-noida) Online hold World Education Services (WES) approval for Canada PR Express Entry points and US work visas.
+4. **WES & Global Recognition**: Institutions like [Amity University](/colleges/amity-noida/) Online hold World Education Services (WES) approval for Canada PR Express Entry points and US work visas.
 
 ---
 
@@ -78,9 +78,9 @@ In this guide, we review the top UGC-DEB approved online universities located ac
 | **Amity University Online** | Noida, UP | NAAC A+ | MBA, BBA, MCA, BCA, MA, B.Com | ₹1,99,000 | Yes (WES Recognized) |
 | **Jamia Millia Islamia Online** | New Delhi | NAAC A++ (NIRF #3) | MA, B.Com, M.Com, BBA, BA | ₹20,000 | Yes (Central Univ) |
 | **Delhi University (DU SOL)** | New Delhi | NAAC A++ | MBA, BBA, B.Com, MA, BA | ₹20,500 | Yes (Central Univ) |
-| **[Galgotias University](/colleges/galgotias-university) Online** | Greater Noida, UP | NAAC A+ | MBA, MCA, BBA, BCA | ₹90,000 | Yes |
-| **[Sharda University](/colleges/sharda-greater-noida) Online** | Greater Noida, UP | NAAC A+ | MBA, BBA, MCA, BCA, MA | ₹1,50,000 | Yes |
-| **[Jamia Hamdard](/colleges/jamia-hamdard-delhi) Online** | New Delhi | NAAC A | MBA, BBA, MCA, BCA | ₹1,03,500 | Yes |
+| **[Galgotias University](/colleges/galgotias-university/) Online** | Greater Noida, UP | NAAC A+ | MBA, MCA, BBA, BCA | ₹90,000 | Yes |
+| **[Sharda University](/colleges/sharda-greater-noida/) Online** | Greater Noida, UP | NAAC A+ | MBA, BBA, MCA, BCA, MA | ₹1,50,000 | Yes |
+| **[Jamia Hamdard](/colleges/jamia-hamdard-delhi/) Online** | New Delhi | NAAC A | MBA, BBA, MCA, BCA | ₹1,03,500 | Yes |
 | **Manav Rachna University Online** | Faridabad, Haryana | NAAC A | MBA, BBA, MCA, BCA, MA | ₹1,28,000 | Yes |
 | **OP Jindal Global University** | Sonipat, Haryana | NAAC A (AACSB) | MBA, BBA, MA Public Policy | ₹1,80,000 | Yes (QS Ranked) |
 
@@ -94,7 +94,7 @@ In this guide, we review the top UGC-DEB approved online universities located ac
 * **Total Tuition Fee**: ₹1,99,000 (PG) / ₹1,50,000 (UG)
 * **Key Highlight**: Amity is India’s first online university to receive global WES approval. It offers live interactive webinars, recorded video lectures, and a dedicated virtual placement portal connecting students with 500+ corporate hiring partners.
 
-### 2. [Jamia Millia Islamia (JMI)](/colleges/jamia-millia-islamia) Online (New Delhi)
+### 2. [Jamia Millia Islamia (JMI)](/colleges/jamia-millia-islamia/) Online (New Delhi)
 * **Accreditation**: NAAC A++ | NIRF Rank #3 | UGC-DEB
 * **Programs**: Online MA (English, History, Political Science, Sociology), B.Com, M.Com, BBA
 * **Total Tuition Fee**: ~₹20,000 total course fee
@@ -135,7 +135,7 @@ For free personalized counseling and fee EMI assistance:
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### What is the typical fee structure for MBA programs in India?
-The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
+The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi/) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
 
 ### Is it possible to pursue an MBA without clearing CAT?
 Yes, many colleges accept other entrance exams like XAT, NMAT, SNAP, MAT, or CMAT. Additionally, direct admission options under management quota are available in several private B-schools.

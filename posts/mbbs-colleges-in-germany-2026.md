@@ -57,8 +57,8 @@ faqs:
 
 ## 🔗 Related Resources
 
-* [SAT, IELTS & TOEFL Exams Guide](/blog/sat-ielts-toefl-gre-exams-guide-2026)
-* [MBBS Abroad 2026 Comparison](/blog/mbbs-abroad-for-indian-students-2026-fees-nmc-rules)
+* [SAT, IELTS & TOEFL Exams Guide](/tools/ielts-mock-test/)
+* [MBBS Abroad 2026 Comparison](/blog/mbbs-abroad-for-indian-students-2026-fees-nmc-rules/)
 ---
 
 ### 🚀 Boost Your Preparation

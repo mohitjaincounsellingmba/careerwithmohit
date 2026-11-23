@@ -9,5 +9,5 @@ export const metadata: Metadata = {
   };
 
 export default function MockTestRedirectPage() {
-  redirect("/tools/snap-mock-test");
+  redirect("/tools/snap-mock-test/");
 }

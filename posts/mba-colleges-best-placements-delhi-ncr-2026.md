@@ -53,9 +53,9 @@ Placement records are a key factor when choosing an MBA program. In 2026, the De
 | College | Avg. Package (₹ LPA) | Top Recruiters | Placement Rate |
 |---|---|---|---|
 | **IIM‑A (Delhi Campus)** | 23.5 | McKinsey, BCG, Google, Amazon | 98% |
-| **[MDI Gurgaon](/colleges/mdi-gurgaon)** | 18.8 | Deloitte, Accenture, JPMorgan | 95% |
-| **[FMS Delhi](/colleges/fms-delhi)** | 16.2 | KPMG, Morgan Stanley, Infosys | 94% |
-| **[IIFT Delhi](/colleges/iift-delhi)** | 15.3 | HSBC, DHL, Tata Steel | 92% |
+| **[MDI Gurgaon](/colleges/mdi-gurgaon/)** | 18.8 | Deloitte, Accenture, JPMorgan | 95% |
+| **[FMS Delhi](/colleges/fms-delhi/)** | 16.2 | KPMG, Morgan Stanley, Infosys | 94% |
+| **[IIFT Delhi](/colleges/iift-delhi/)** | 15.3 | HSBC, DHL, Tata Steel | 92% |
 | **IMT Ghaziabad** | 14.0 | Nestlé, L&T, Capgemini | 90% |
 
 ## Why These Colleges Excel
@@ -84,7 +84,7 @@ Placement records are a key factor when choosing an MBA program. In 2026, the De
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### What is the typical fee structure for MBA programs in India?
-The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
+The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi/) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
 
 ### Is it possible to pursue an MBA without clearing CAT?
 Yes, many colleges accept other entrance exams like XAT, NMAT, SNAP, MAT, or CMAT. Additionally, direct admission options under management quota are available in several private B-schools.

@@ -41,14 +41,14 @@ location: Delhi NCR
 state: Delhi NCR
 ---
 
-### **College Review: [IILM University, Gurgaon](/colleges/iilm-gurgaon)**
+### **College Review: [IILM University, Gurgaon](/colleges/iilm-gurgaon/)**
 *   **Quality Curriculum**: Tailored directly to industry requirements with standard practical case studies.
 *   **Established Brand**: Over the years, it has earned a strong reputation among regional corporate employers.
 *   **Holistic Learning**: Focuses on both technical business skills and global soft skills development.
 
 ---
 
-### 📊 [IILM University, Gurgaon](/colleges/iilm-gurgaon) 2026 Snapshot
+### 📊 [IILM University, Gurgaon](/colleges/iilm-gurgaon/) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |
@@ -76,18 +76,18 @@ state: Delhi NCR
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### 1. Is [IILM University, Gurgaon](/colleges/iilm-gurgaon) a good option for PGDM/MBA?
-Yes, [IILM University, Gurgaon](/colleges/iilm-gurgaon) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+### 1. Is [IILM University, Gurgaon](/colleges/iilm-gurgaon/) a good option for PGDM/MBA?
+Yes, [IILM University, Gurgaon](/colleges/iilm-gurgaon/) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
-### 2. What is the average package offered at [IILM University, Gurgaon](/colleges/iilm-gurgaon)?
-The average placement package at [IILM University, Gurgaon](/colleges/iilm-gurgaon) is approximately ₹8.6 LPA, with the highest package reaching up to ₹26.0 LPA.
+### 2. What is the average package offered at [IILM University, Gurgaon](/colleges/iilm-gurgaon/)?
+The average placement package at [IILM University, Gurgaon](/colleges/iilm-gurgaon/) is approximately ₹8.6 LPA, with the highest package reaching up to ₹26.0 LPA.
 
-### 3. What entrance exams are accepted by [IILM University, Gurgaon](/colleges/iilm-gurgaon)?
+### 3. What entrance exams are accepted by [IILM University, Gurgaon](/colleges/iilm-gurgaon/)?
 The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
 
 ---
 
-**Final Verdict**: [IILM University, Gurgaon](/colleges/iilm-gurgaon) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
+**Final Verdict**: [IILM University, Gurgaon](/colleges/iilm-gurgaon/) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
 [👉 Apply to IILM University, Gurgaon](/inquiry) | [👉 Get Free Counselling](/inquiry)
 

@@ -17,9 +17,8 @@ tags:
   - IBSAT
   - Top Colleges
 description: >-
-  Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Gurgaon, Delhi NCR. Get details on top colleges under GGSIPU, DU,
-  and priva
+  The ICFAI Business School (IBS) network is one of the largest and most
+  prominent management education ecosystems in India.
 keywords:
   - career counselling
   - admissions 2026

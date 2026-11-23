@@ -81,9 +81,9 @@ pie title TAPMI Domain Split 2025
 
 ## 4. Related Placement Reports
 
-*   **[GIM Goa Placement Report 2025](/blog/gim-goa-pgdm-placement-report-2025)**
-*   **[Great Lakes Placement Report 2025](/blog/great-lakes-chennai-gurgaon-placement-report-2025)**
-*   **[All 21 IIMs Recent Placement Report 2025](/blog/all-iim-recent-placement-report-2025)**
+*   **[GIM Goa Placement Report 2025](/blog/gim-goa-pgdm-placement-report-2025/)**
+*   **[Great Lakes Placement Report 2025](/blog/great-lakes-chennai-gurgaon-placement-report-2025/)**
+*   **[All 21 IIMs Recent Placement Report 2025](/blog/all-iim-recent-placement-report-2025/)**
 
 ---
 

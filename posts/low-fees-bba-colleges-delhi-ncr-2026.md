@@ -51,7 +51,7 @@ If you are looking for **Low Fees BBA Colleges in Delhi NCR for 2026**, here is 
 
 These government and affiliated institutions offer exceptional brand value and recruitment connections at a nominal fee structure:
 
-### 1. [Jamia Millia Islamia (JMI)](/colleges/jamia-millia-islamia) - Delhi (Central University)
+### 1. [Jamia Millia Islamia (JMI)](/colleges/jamia-millia-islamia/) - Delhi (Central University)
 JMI is a central university offering one of the most affordable BBA programs in the country, combined with national prestige.
 - **Total Program Fees (3 Years):** ~₹39,000 (approx. ₹13,000 per year)
 - **Average Placement Package:** ₹5.0 LPA
@@ -72,14 +72,14 @@ Another constituent college of Delhi University that offers a highly competitive
 - **Entrance Exam:** CUET UG
 - **Verdict:** Highly affordable with DU's central branding.
 
-### 4. [Maharaja Surajmal Institute (MSI)](/colleges/maharaja-surajmal-institute-msi-delhi) - Janakpuri, GGSIPU
+### 4. [Maharaja Surajmal Institute (MSI)](/colleges/maharaja-surajmal-institute-msi-delhi/) - Janakpuri, GGSIPU
 MSI Janakpuri is highly regarded for its disciplined academics and reliable placements.
 - **Total Program Fees (3 Years):** ~₹3.3 Lakhs
 - **Average Placement Package:** ₹4.8 LPA
 - **Entrance Exam:** IPU CET
 - **Verdict:** Very reliable mid-budget option with stable campus recruitment.
 
-### 5. Maharaja Agrasen [Institute of Management Studies](/colleges/institute-of-management-studies) (MAIMS) - Rohini, GGSIPU
+### 5. Maharaja Agrasen [Institute of Management Studies](/colleges/institute-of-management-studies/) (MAIMS) - Rohini, GGSIPU
 MAIMS Rohini offers structured IP University education within a reasonable budget.
 - **Total Program Fees (3 Years):** ~₹3.3 Lakhs
 - **Average Placement Package:** ₹4.5 LPA
@@ -111,10 +111,10 @@ Return on Investment (ROI) is calculated by comparing the total tuition fee of t
 ---
 
 ## 🔗 Related Resources
-- [Top 10 BBA Colleges in Delhi NCR 2026 Rankings](/blog/top-bba-colleges-delhi-ncr-2026)
-- [BBA Admission 2026 Delhi NCR Entrance Guide](/blog/bba-admission-2026-delhi-ncr-cutoffs-entrance-exams-cuet)
-- [BBA Fees vs Placement in Delhi NCR: Worth it?](/blog/bba-fees-vs-placement-delhi-ncr-colleges-worth-it-2026)
-- [Direct BBA Admissions Without Entrance Exams](/blog/get-into-top-bba-colleges-delhi-ncr-without-entrance-exams)
+- [Top 10 BBA Colleges in Delhi NCR 2026 Rankings](/blog/top-bba-colleges-delhi-ncr-2026/)
+- [BBA Admission 2026 Delhi NCR Entrance Guide](/blog/bba-admission-2026-delhi-ncr-cutoffs-entrance-exams-cuet/)
+- [BBA Fees vs Placement in Delhi NCR: Worth it?](/blog/bba-fees-vs-placement-delhi-ncr-colleges-worth-it-2026/)
+- [Direct BBA Admissions Without Entrance Exams](/blog/get-into-top-bba-colleges-delhi-ncr-without-entrance-exams/)
 
 ---
 

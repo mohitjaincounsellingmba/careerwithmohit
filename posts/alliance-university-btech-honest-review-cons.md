@@ -3,7 +3,7 @@ title: 'Alliance University B.Tech Review: 5 Honest Cons You Should Know'
 date: '2026-04-15'
 category: BTech Admissions
 description: >-
-  Is [Alliance University Bangalore](/colleges/alliance-university-bangalore)
+  Is [Alliance University Bangalore](/colleges/alliance-university-bangalore/)
   good for B.Tech? Read this honest review highlighting the negative points,
   placement realities, and high fee structure before you take admission.
 keywords:
@@ -104,9 +104,9 @@ If you are in **B.Tech CSE (Computer Science)**, you are relatively safe. Howeve
 2.  You want to pursue core engineering roles in Civil or Mechanical.
 3.  You prefer a college in the heart of the city with easy commute options.
 
-[👉 Check Out: Scaler vs Newton School of Technology - Which is Better?](/blog/scaler-vs-newton-school-of-technology-negative-review)
+[👉 Check Out: Scaler vs Newton School of Technology - Which is Better?](/blog/scaler-vs-newton-school-of-technology-negative-review/)
 
-[👉 Read More: Best B.Tech Colleges in India 2026](/blog/best-btech-colleges-india-2026)
+[👉 Read More: Best B.Tech Colleges in India 2026](/blog/best-btech-colleges-india-2026/)
 
 ---
 
@@ -118,9 +118,9 @@ Selecting the wrong college can cost you lakhs and ruin your career trajectory. 
 ---
 
 *Related Posts:*
-* [B.Tech Admission Without JEE: All Your Options](/blog/btech-admission-without-jee-2026-all-options)
-* [Top Private Engineering Colleges in India 2026](/blog/top-private-engineering-colleges-india-2026)
-* [BCA vs B.Tech CSE: Comparison Guide](/blog/bca-vs-btech-cse-which-is-better-for-your-career-2026)
+* [B.Tech Admission Without JEE: All Your Options](/blog/btech-admission-without-jee-2026-all-options/)
+* [Top Private Engineering Colleges in India 2026](/blog/top-private-engineering-colleges-india-2026/)
+* [BCA vs B.Tech CSE: Comparison Guide](/blog/bca-vs-btech-cse-which-is-better-for-your-career-2026/)
 
 ---
 

@@ -39,7 +39,7 @@ location: Mumbai
 state: Maharashtra
 ---
 
-Backed by the 60-year legacy of [BITS Pilani](/colleges/bits-pilani) and the Aditya Birla Group, the **BITS School of Management (BITSoM), Mumbai** has rapidly emerged as India's most successful new-age business school.
+Backed by the 60-year legacy of [BITS Pilani](/colleges/bits-pilani/) and the Aditya Birla Group, the **BITS School of Management (BITSoM), Mumbai** has rapidly emerged as India's most successful new-age business school.
 
 The **2025 MBA placement report**, independently audited by Brickwork Analytics, confirmed an average CTC of **₹21.00 LPA**, a median CTC of **₹20.52 LPA**, and a highest package of **₹32.50 LPA**.
 
@@ -85,9 +85,9 @@ pie title BITSoM Domain Distribution 2025
 
 ## 3. Related Placement Reports
 
-*   **[SPJIMR Mumbai Placement Report 2025](/blog/spjimr-mumbai-pgdm-placement-report-2025)**
-*   **[MDI Gurgaon Placement Report 2025](/blog/mdi-gurgaon-pgdm-placement-report-2025)**
-*   **[All 21 IIMs Recent Placement Report 2025](/blog/all-iim-recent-placement-report-2025)**
+*   **[SPJIMR Mumbai Placement Report 2025](/blog/spjimr-mumbai-pgdm-placement-report-2025/)**
+*   **[MDI Gurgaon Placement Report 2025](/blog/mdi-gurgaon-pgdm-placement-report-2025/)**
+*   **[All 21 IIMs Recent Placement Report 2025](/blog/all-iim-recent-placement-report-2025/)**
 
 ---
 

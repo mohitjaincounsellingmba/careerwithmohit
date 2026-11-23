@@ -41,14 +41,14 @@ location: Kolkata
 state: West Bengal
 ---
 
-### **College Review: [Xavier Kolkata Institute of Management](/colleges/xavier-kolkata-institute-of-management)**
+### **College Review: [Xavier Kolkata Institute of Management](/colleges/xavier-kolkata-institute-of-management/)**
 *   **Quality Curriculum**: Tailored directly to industry requirements with standard practical case studies.
 *   **Established Brand**: Over the years, it has earned a strong reputation among regional corporate employers.
 *   **Holistic Learning**: Focuses on both technical business skills and global soft skills development.
 
 ---
 
-### 📊 [Xavier Kolkata Institute of Management](/colleges/xavier-kolkata-institute-of-management) 2026 Snapshot
+### 📊 [Xavier Kolkata Institute of Management](/colleges/xavier-kolkata-institute-of-management/) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |
@@ -76,18 +76,18 @@ state: West Bengal
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### 1. Is [Xavier Kolkata Institute of Management](/colleges/xavier-kolkata-institute-of-management) a good option for PGDM/MBA?
-Yes, [Xavier Kolkata Institute of Management](/colleges/xavier-kolkata-institute-of-management) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+### 1. Is [Xavier Kolkata Institute of Management](/colleges/xavier-kolkata-institute-of-management/) a good option for PGDM/MBA?
+Yes, [Xavier Kolkata Institute of Management](/colleges/xavier-kolkata-institute-of-management/) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
-### 2. What is the average package offered at [Xavier Kolkata Institute of Management](/colleges/xavier-kolkata-institute-of-management)?
-The average placement package at [Xavier Kolkata Institute of Management](/colleges/xavier-kolkata-institute-of-management) is approximately ₹5.0 LPA, with the highest package reaching up to ₹14.0 LPA.
+### 2. What is the average package offered at [Xavier Kolkata Institute of Management](/colleges/xavier-kolkata-institute-of-management/)?
+The average placement package at [Xavier Kolkata Institute of Management](/colleges/xavier-kolkata-institute-of-management/) is approximately ₹5.0 LPA, with the highest package reaching up to ₹14.0 LPA.
 
-### 3. What entrance exams are accepted by [Xavier Kolkata Institute of Management](/colleges/xavier-kolkata-institute-of-management)?
+### 3. What entrance exams are accepted by [Xavier Kolkata Institute of Management](/colleges/xavier-kolkata-institute-of-management/)?
 The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
 
 ---
 
-**Final Verdict**: [Xavier Kolkata Institute of Management](/colleges/xavier-kolkata-institute-of-management) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
+**Final Verdict**: [Xavier Kolkata Institute of Management](/colleges/xavier-kolkata-institute-of-management/) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
 [👉 Apply to Xavier Kolkata Institute of Management](/inquiry) | [👉 Get Free Counselling](/inquiry)
 

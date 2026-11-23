@@ -56,9 +56,9 @@ For students planning their admissions for the 2027–2029 intake, this guide hi
 | :--- | :--- | :--- | :--- |
 | **Faculty of Management Studies (FMS) - Delhi University** | CAT | ₹2.0 Lakhs (Total) | **₹34.10 LPA** |
 | **Department of Financial Studies (DFS) - Delhi University** | CAT | ₹3.0 Lakhs (Total) | **₹15.50 LPA** |
-| **[MDI Gurgaon](/colleges/mdi-gurgaon) (Management Development Institute)** | CAT | ₹25.0 Lakhs (Total) | **₹27.60 LPA** |
+| **[MDI Gurgaon](/colleges/mdi-gurgaon/) (Management Development Institute)** | CAT | ₹25.0 Lakhs (Total) | **₹27.60 LPA** |
 | **IMT Ghaziabad (Institute of Management Technology)** | CAT / XAT / GMAT | ₹21.5 Lakhs (Total) | **₹17.30 LPA** |
-| **[LBSIM Delhi (Lal Bahadur Shastri Institute of Management)](/colleges/lbsim-delhi)** | CAT / XAT / GMAT | ₹15.5 Lakhs (Total) | **₹12.40 LPA** |
+| **[LBSIM Delhi (Lal Bahadur Shastri Institute of Management)](/colleges/lbsim-delhi/)** | CAT / XAT / GMAT | ₹15.5 Lakhs (Total) | **₹12.40 LPA** |
 
 ---
 
@@ -91,7 +91,7 @@ Choosing a B-school in this region offers key advantages:
 - **Average Placement Package:** **₹15.50 LPA**
 - **Key Highlight:** Highly specialized public university department focusing strictly on Financial Studies.
 
-### 3. [MDI Gurgaon](/colleges/mdi-gurgaon) (Management Development Institute)
+### 3. [MDI Gurgaon](/colleges/mdi-gurgaon/) (Management Development Institute)
 - **Approximate Fees:** ₹25.0 Lakhs (Total)
 - **Accepted Entrance Exams:** CAT
 - **Average Placement Package:** **₹27.60 LPA**
@@ -103,7 +103,7 @@ Choosing a B-school in this region offers key advantages:
 - **Average Placement Package:** **₹17.30 LPA**
 - **Key Highlight:** Vibrant corporate relationships, excellent for BFSI and marketing profiles.
 
-### 5. [LBSIM Delhi (Lal Bahadur Shastri Institute of Management)](/colleges/lbsim-delhi)
+### 5. [LBSIM Delhi (Lal Bahadur Shastri Institute of Management)](/colleges/lbsim-delhi/)
 - **Approximate Fees:** ₹15.5 Lakhs (Total)
 - **Accepted Entrance Exams:** CAT / XAT / GMAT
 - **Average Placement Package:** **₹12.40 LPA**
@@ -120,9 +120,9 @@ Choosing a B-school in this region offers key advantages:
 ---
 
 ## 🔗 Related Resources
-- [Top MBA Colleges for Finance in India 2026 — Placements & Fees](/blog/top-mba-colleges-for-finance-specialization-india-2026)
-- [Best MBA Colleges with Low Fees & High ROI in India](/blog/best-mba-colleges-low-fees-high-roi-india-2026)
-- [Is Direct MBA Admission Without Entrance Exam Worth It?](/blog/direct-mba-admission-without-entrance-exam-2026-is-it-worth-it)
+- [Top MBA Colleges for Finance in India 2026 — Placements & Fees](/blog/top-mba-colleges-for-finance-specialization-india-2026/)
+- [Best MBA Colleges with Low Fees & High ROI in India](/blog/best-mba-colleges-low-fees-high-roi-india-2026/)
+- [Is Direct MBA Admission Without Entrance Exam Worth It?](/blog/direct-mba-admission-without-entrance-exam-2026-is-it-worth-it/)
 
 ---
 
@@ -141,7 +141,7 @@ Source: Shiksha.com
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### Which is the best ROI college for MBA Finance in Delhi NCR?
-[FMS Delhi](/colleges/fms-delhi) (Faculty of Management Studies) is the undisputed ROI champion, offering a total fee of just INR 2 Lakhs and average placements exceeding INR 34 LPA.
+[FMS Delhi](/colleges/fms-delhi/) (Faculty of Management Studies) is the undisputed ROI champion, offering a total fee of just INR 2 Lakhs and average placements exceeding INR 34 LPA.
 
 ### Is DFS Delhi good for Investment Banking?
 Yes, the Department of Financial Studies (DFS) has a long-standing reputation specifically for finance, treasury, equity research, and investment banking support roles.

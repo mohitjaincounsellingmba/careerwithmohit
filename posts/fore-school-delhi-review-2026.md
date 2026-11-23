@@ -44,14 +44,14 @@ location: Delhi NCR
 state: Delhi NCR
 ---
 
-# [FORE School of Management](/colleges/fore-school-delhi) Delhi Review 2026: Fees, Placements, Cutoffs & ROI Analysis
+# [FORE School of Management](/colleges/fore-school-delhi/) Delhi Review 2026: Fees, Placements, Cutoffs & ROI Analysis
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **2027–2029 Admission Status**: Applications open via CAT 2026, XAT 2027, MAT, CMAT, and direct profile-evaluation rounds.
 > - **Total Fee Structure**: Verified at ₹18.25 Lakhs for the complete 2-year full-time curriculum.
 > - **Placement & ROI Benchmark**: Average salary stands at ₹14.50 LPA (Highest ₹30.0 LPA) with NBA & AIU Accredited.
 
-**[FORE School of Management](/colleges/fore-school-delhi) Delhi** continues to be one of the most prominent management destinations in **New Delhi (Delhi NCR)** for the **2026–2027 intake**. Known for its robust academic rigor, strong corporate relations, and impressive ROI, it attracts thousands of management aspirants every year.
+**[FORE School of Management](/colleges/fore-school-delhi/) Delhi** continues to be one of the most prominent management destinations in **New Delhi (Delhi NCR)** for the **2026–2027 intake**. Known for its robust academic rigor, strong corporate relations, and impressive ROI, it attracts thousands of management aspirants every year.
 
 Whether you are targeting flagship MBA/PGDM programs or comparing top business schools in Delhi NCR, this comprehensive review provides verified insights into **fee structures, placement packages, entrance exam cutoffs, specialization tracks, and admission criteria**.
 
@@ -59,11 +59,11 @@ Whether you are targeting flagship MBA/PGDM programs or comparing top business s
 
 ## 1. Quick Overview & Key Highlights
 
-The table below summarizes the key metrics for **[FORE School of Management](/colleges/fore-school-delhi) Delhi** for the upcoming 2026–2027 academic session:
+The table below summarizes the key metrics for **[FORE School of Management](/colleges/fore-school-delhi/) Delhi** for the upcoming 2026–2027 academic session:
 
 | Parameter | Details |
 | :--- | :--- |
-| **Institution Name** | **[FORE School of Management](/colleges/fore-school-delhi) Delhi** |
+| **Institution Name** | **[FORE School of Management](/colleges/fore-school-delhi/) Delhi** |
 | **Location & Campus** | New Delhi, Delhi NCR |
 | **Accreditation & Approvals** | SAQS, NBA Accredited, AICTE Approved |
 | **Flagship Program** | MBA / PGDM (2 Years Full-Time) |
@@ -154,7 +154,7 @@ Make an informed decision by comparing fee structures, placement reports, and ad
 *   [Top Tier MBA Colleges 2026–2027: Compare Fees, Placements & Cutoffs](/top-tier-mba-colleges)
 *   [MBA & PGDM Direct Admission 2027: Complete Eligibility Guide](/mba-pgdm-admission-2027)
 *   [Explore & Compare 200+ Top Colleges in India](/colleges)
-*   [CAT 2026 Mock Test & Expected Percentile Calculator](/cat-mock-test)
+*   [CAT 2026 Mock Test & Expected Percentile Calculator](/tools/cat-mock-test/)
 *   [Check Your Eligibility for Scholarships & Education Loans](/scholarships-2026)
 
 [InquiryCard title="Get Direct Admission Counseling for FORE School of Management Delhi" subtitle="Verify your eligibility, check cutoff percentiles, and download official placement brochures instantly." ctaText="Apply Now / Check Eligibility"]

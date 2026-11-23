@@ -57,15 +57,15 @@ state: Maharashtra
 
 [MockTestCard title="Free NMAT 2026 Full CBT Mock Test 2026" link="/nmat-mock-test" questions="108 Questions" time="120 Mins"]
 
-The **NMAT by GMAC (NMAT 2026)** is the premier gateway for admission into **[NMIMS Mumbai](/colleges/nmims-mumbai) (SBM), NMIMS Bengaluru, K J Somaiya, TAPMI, XIM University (Bhubaneswar), and SDA Bocconi Asia Center**. With its unique format of **108 questions in 120 minutes with zero negative marking**, scoring high in NMAT requires exceptional speed, prompt decision-making, and rapid section pacing.
+The **NMAT by GMAC (NMAT 2026)** is the premier gateway for admission into **[NMIMS Mumbai](/colleges/nmims-mumbai/) (SBM), NMIMS Bengaluru, K J Somaiya, TAPMI, XIM University (Bhubaneswar), and SDA Bocconi Asia Center**. With its unique format of **108 questions in 120 minutes with zero negative marking**, scoring high in NMAT requires exceptional speed, prompt decision-making, and rapid section pacing.
 
 To give you the exact real-exam feel, **CareerWithMohit** has launched the **Official Pattern Free NMAT 2026 CBT Mock Test**, featuring full sectional time management, scaled score estimation out of 360, and step-by-step solutions for all 108 questions.
 
 ---
 
-> 🎯 **Benchmark your [NMIMS Mumbai](/colleges/nmims-mumbai) eligibility now!**
+> 🎯 **Benchmark your [NMIMS Mumbai](/colleges/nmims-mumbai/) eligibility now!**
 >
-> [👉 **Start Free NMAT 2026 CBT Mock Test (108 Questions | 120 Mins)**](/nmat-mock-test)
+> [👉 **Start Free NMAT 2026 CBT Mock Test (108 Questions | 120 Mins)**](/tools/nmat-mock-test/)
 >
 > *No login walls — Instant Scaled Score (/360) & Sectional Cutoff Tracker.*
 

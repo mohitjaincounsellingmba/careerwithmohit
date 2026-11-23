@@ -5,9 +5,8 @@ title: >-
 date: '2026-06-19'
 category: College Reviews
 description: >-
-  Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
-  private univer
+  Mithibai College Mumbai Admission 2026: Complete guide on fees, verified
+  cutoffs, average placement packages & admission process.
 keywords:
   - mithibai college mumbai admission 2026
   - mithibai college bms selection process
@@ -140,9 +139,9 @@ Yes, students from CBSE, ISC, IB, and other state boards across India are eligib
 While Mathematics is highly recommended, the eligibility criteria for BAF and BFM focus on the aggregate score in Class 12. However, for BBA and BMS, Class 12 Mathematics is mandatory.
 
 ## 🔗 Useful Links:
-- [St. Xavier's College Mumbai BBA/BMS Admission Guide 2026](/blog/all-about-st-xaviers-mumbai-bba-admission-2026)
-- [NMIMS Mumbai BBA Admission Guide 2026](/blog/all-about-nmims-mumbai-bba-admission-2026)
-- [Best MBA Colleges in Mumbai — 2026 Rankings & Fees](/blog/best-mba-colleges-in-mumbai-2026)
+- [St. Xavier's College Mumbai BBA/BMS Admission Guide 2026](/blog/all-about-st-xaviers-mumbai-bba-admission-2026/)
+- [NMIMS Mumbai BBA Admission Guide 2026](/blog/all-about-nmims-mumbai-bba-admission-2026/)
+- [Best MBA Colleges in Mumbai — 2026 Rankings & Fees](/blog/best-mba-colleges-in-mumbai-2026/)
 
 ---
 

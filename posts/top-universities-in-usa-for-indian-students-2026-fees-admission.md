@@ -52,7 +52,7 @@ The United States of America remains the **#1 study abroad destination** for Ind
 | Johns Hopkins University | Baltimore, Maryland | Engineering – PG | ₹49,80,000 |
 | Arizona State University | Tempe, Arizona & LA | UG & Graduate | ₹27,30,000 |
 | UMass Amherst | Amherst, Massachusetts | Masters Programs | ₹30,70,000 |
-| [Chitkara University](/colleges/chitkara-university) & Arizona State | Chandigarh → Arizona | BE – Computer Science | ₹15,00,000 |
+| [Chitkara University](/colleges/chitkara-university/) & Arizona State | Chandigarh → Arizona | BE – Computer Science | ₹15,00,000 |
 | University of California, Riverside | Riverside, California | Business & Engineering | ₹36,50,000 |
 | Virginia Tech Language & Culture | Blacksburg, Virginia | UG and PG Pathways | ₹26,50,000 |
 | University of South Florida | Tampa, FL | UG only | ₹14,50,000 |
@@ -208,9 +208,9 @@ Navigating USA university admissions alone can be overwhelming. From shortlistin
 
 ### 🔗 Related Reads
 
-- [Complete Guide to IELTS, TOEFL & SAT Exams 2026](/blog/all-about-sat-ielts-toefl-gre-exams-guide-2026)
-- [Global MBA Online 2026: UK, USA & India Fees Guide](/blog/global-mba-online-2026-uk-usa-india-fees-colleges)
-- [GMAT Exam: Colleges, Cutoffs & Strategy 2026](/blog/all-about-gmat-exam-colleges-cutoffs)
+- [Complete Guide to IELTS, TOEFL & SAT Exams 2026](/blog/all-about-sat-ielts-toefl-gre-exams-guide-2026/)
+- [Global MBA Online 2026: UK, USA & India Fees Guide](/blog/global-mba-online-2026-uk-usa-india-fees-colleges/)
+- [GMAT Exam: Colleges, Cutoffs & Strategy 2026](/blog/all-about-gmat-exam-colleges-cutoffs/)
 
 ---
 

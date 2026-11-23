@@ -20,14 +20,14 @@ faqs:
       The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
 ---
 
-### **College Review: [Amity Raichur Institute of Management](/colleges/amity-raichur-institute-of-management)**
+### **College Review: [Amity Raichur Institute of Management](/colleges/amity-raichur-institute-of-management/)**
 *   **Quality Curriculum**: Tailored directly to industry requirements with standard practical case studies.
 *   **Established Brand**: Over the years, it has earned a strong reputation among regional corporate employers.
 *   **Holistic Learning**: Focuses on both technical business skills and global soft skills development.
 
 ---
 
-### 📊 [Amity Raichur Institute of Management](/colleges/amity-raichur-institute-of-management) 2026 Snapshot
+### 📊 [Amity Raichur Institute of Management](/colleges/amity-raichur-institute-of-management/) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |
@@ -55,18 +55,18 @@ faqs:
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### 1. Is [Amity Raichur Institute of Management](/colleges/amity-raichur-institute-of-management) a good option for PGDM/MBA?
-Yes, [Amity Raichur Institute of Management](/colleges/amity-raichur-institute-of-management) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+### 1. Is [Amity Raichur Institute of Management](/colleges/amity-raichur-institute-of-management/) a good option for PGDM/MBA?
+Yes, [Amity Raichur Institute of Management](/colleges/amity-raichur-institute-of-management/) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
-### 2. What is the average package offered at [Amity Raichur Institute of Management](/colleges/amity-raichur-institute-of-management)?
-The average placement package at [Amity Raichur Institute of Management](/colleges/amity-raichur-institute-of-management) is approximately ₹5.0 LPA, with the highest package reaching up to ₹23.0 LPA.
+### 2. What is the average package offered at [Amity Raichur Institute of Management](/colleges/amity-raichur-institute-of-management/)?
+The average placement package at [Amity Raichur Institute of Management](/colleges/amity-raichur-institute-of-management/) is approximately ₹5.0 LPA, with the highest package reaching up to ₹23.0 LPA.
 
-### 3. What entrance exams are accepted by [Amity Raichur Institute of Management](/colleges/amity-raichur-institute-of-management)?
+### 3. What entrance exams are accepted by [Amity Raichur Institute of Management](/colleges/amity-raichur-institute-of-management/)?
 The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
 
 ---
 
-**Final Verdict**: [Amity Raichur Institute of Management](/colleges/amity-raichur-institute-of-management) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
+**Final Verdict**: [Amity Raichur Institute of Management](/colleges/amity-raichur-institute-of-management/) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
 [👉 Apply to Amity Raichur Institute of Management](/inquiry) | [👉 Get Free Counselling](/inquiry)
 

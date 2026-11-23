@@ -65,7 +65,7 @@ Below is your complete guide to downloading your official scorecard, understandi
 
 > 🎯 **Planning a Retake or Preparing for Next Attempt?**
 > Practice with precision computer-adaptive questions matching GMAC's exact difficulty algorithms.
-> [👉 Take the Free NMAT 2026 CBT Mock Test](/tools/nmat-mock-test) | [Read: How to Score 240+ in NMAT](/blog/nmat-2026-preparation-strategy-240-score)
+> [👉 Take the Free NMAT 2026 CBT Mock Test](/tools/nmat-mock-test) | [Read: How to Score 240+ in NMAT](/blog/nmat-2026-preparation-strategy-240-score/)
 
 ---
 
@@ -183,7 +183,7 @@ If your first-attempt scorecard reflects a scaled score between **200 and 225 ma
 - **Action**: **SCHEDULE A RETAKE IMMEDIATELY.**
 - Wait for your mandatory 15-day cooldown period. Analyze your section-wise score report to identify whether timing constraints or specific question types (like Critical Reasoning or Data Sufficiency) hurt your score. A 20-point jump on a retake can secure admissions to top 20-30 B-Schools with median placement packages of ₹14–16 LPA.
 
-Explore more options in our comprehensive guide on [NMAT Accepting Colleges: Mumbai, Bangalore, Pune & Delhi Cutoffs](/blog/nmat-exam-2026-2027-accepting-colleges-mumbai-bangalore-pune-delhi) and compare with [SNAP vs NMAT: Which Exam is Easier for a 15 LPA MBA?](/blog/snap-vs-nmat-which-exam-is-easier-for-15-lpa-mba).
+Explore more options in our comprehensive guide on [NMAT Accepting Colleges: Mumbai, Bangalore, Pune & Delhi Cutoffs](/blog/nmat-exam-2026-2027-accepting-colleges-mumbai-bangalore-pune-delhi/) and compare with [SNAP vs NMAT: Which Exam is Easier for a 15 LPA MBA?](/blog/snap-vs-nmat-which-exam-is-easier-for-15-lpa-mba/).
 
 ---
 

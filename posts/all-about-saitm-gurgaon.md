@@ -2,9 +2,8 @@
 title: 'SAITM Gurgaon Review 2026: Placements & Infrastructure Highlights'
 date: '2026-03-15'
 description: >-
-  Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Gurgaon, Delhi NCR. Get details on top colleges under GGSIPU, DU,
-  and priva
+  Campus Scale: One of the larger campuses in the Gurgaon region (22 acres) with
+  a focus on both Tech and Management.
 keywords:
   - SAITM Gurgaon review 2026
   - St. Andrews Gurgaon placements

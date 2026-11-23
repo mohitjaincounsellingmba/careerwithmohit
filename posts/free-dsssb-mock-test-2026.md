@@ -3,9 +3,8 @@ title: 'Free DSSSB PRT/TGT 2026 Mock Test 2026: Online Practice Paper & Strategy
 date: '2026-08-22'
 category: Exams
 description: >-
-  Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
-  private univer
+  Free DSSSB PRT/TGT 2026 Mock Test 2026: Online Practice Paper & Strategy
+  Guide: Explore fees, placements, cutoffs & admission guidelines.
 keywords:
   - DSSSB PRT/TGT 2026 mock test free
   - dsssb practice paper 2026

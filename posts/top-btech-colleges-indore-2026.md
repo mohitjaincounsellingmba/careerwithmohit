@@ -149,11 +149,11 @@ IIT Indore charges approximately ₹2.5 Lakhs per year, identical to all other I
 
 ## Useful Resources
 
-- [Top B.Tech Colleges in India — NIRF Ranking 2026](/blog/top-btech-colleges-india-nirf-ranking-2026)
-- [Top B.Tech Colleges in Bhopal 2026](/blog/top-btech-colleges-bhopal-2026)
-- [JoSAA Counselling 2026 Complete Guide](/blog/josaa-counselling-2026-dates-process-registration)
-- [JEE Main 2026 Score Calculator](/blog/jee-main-2026-score-calculator-marks-vs-percentile)
-- [B.Tech Without JEE 2026 — All Options](/blog/btech-admission-without-jee-2026-all-options)
+- [Top B.Tech Colleges in India — NIRF Ranking 2026](/blog/top-btech-colleges-india-nirf-ranking-2026/)
+- [Top B.Tech Colleges in Bhopal 2026](/blog/top-btech-colleges-bhopal-2026/)
+- [JoSAA Counselling 2026 Complete Guide](/blog/josaa-counselling-2026-dates-process-registration/)
+- [JEE Main 2026 Score Calculator](/blog/jee-main-2026-score-calculator-marks-vs-percentile/)
+- [B.Tech Without JEE 2026 — All Options](/blog/btech-admission-without-jee-2026-all-options/)
 
 ---
 

@@ -55,7 +55,7 @@ Whether you want the prestige of Panjab University or the corporate-driven vibes
 | **Panjab University (PU)** | PUCET / Merit | ₹1.2 - 1.8 Lakhs | ₹4.5 - 6.5 LPA |
 | **GGDSD College (SD College)**| Merit-based | ₹1.8 - 2.4 Lakhs | ₹4.2 - 6.0 LPA |
 | **Chandigarh University (CU)**| CUCET | ₹3.5 - 5.0 Lakhs | ₹4.8 - 7.5 LPA |
-| **[Chitkara University](/colleges/chitkara-university)** | Merit-based | ₹3.8 - 5.5 Lakhs | ₹4.5 - 7.0 LPA |
+| **[Chitkara University](/colleges/chitkara-university/)** | Merit-based | ₹3.8 - 5.5 Lakhs | ₹4.5 - 7.0 LPA |
 | **DAV College (Sector 10)** | Merit-based | ₹1.5 - 2.2 Lakhs | ₹3.8 - 5.2 LPA |
 | **MCM DAV (Women)** | Merit-based | ₹1.4 - 2.0 Lakhs | ₹3.5 - 5.0 LPA |
 | **Chandigarh Group (CGC)** | Merit-based | ₹2.8 - 3.5 Lakhs | ₹3.5 - 5.5 LPA |
@@ -74,7 +74,7 @@ Consistently ranked India’s elite. It is widely considered the #1 college in C
 - **Selection:** Extremely high merit cut-offs. You need 90%+ for a safe seat.
 - **Advantage:** Massive corporate exposure and an unbeatable placement cell.
 
-### 3. Chandigarh University (CU) & [Chitkara University](/colleges/chitkara-university)
+### 3. Chandigarh University (CU) & [Chitkara University](/colleges/chitkara-university/)
 These private universities dominate the **Placement Volume** in North India. They bring over 900+ companies to the Tricity campuses every year.
 - **Admission:** CUCET for CU; Merit for Chitkara.
 
@@ -118,9 +118,9 @@ Usually in **May**, immediately after the CBSE and local board results are decla
 ---
 
 ### Useful Links:
-- [B.Tech Colleges in Chandigarh 2026](/blog/top-btech-colleges-chandigarh-2026)
-- [BBA Colleges in Chandigarh 2026](/blog/top-bba-colleges-chandigarh-2026)
-- [BCA vs B.Tech — The Ultimate Career Guide](/blog/bca-vs-btech-cse-which-is-better-for-your-career)
+- [B.Tech Colleges in Chandigarh 2026](/blog/top-btech-colleges-chandigarh-2026/)
+- [BBA Colleges in Chandigarh 2026](/blog/top-bba-colleges-chandigarh-2026/)
+- [BCA vs B.Tech — The Ultimate Career Guide](/blog/bca-vs-btech-cse-which-is-better-for-your-career-2026/)
 
 ---
 

@@ -3,9 +3,8 @@ title: 'NEET UG 2026 — Exam Dates, Syllabus & Preparation Strategy'
 date: '2026-04-21'
 category: Medical Admissions
 description: >-
-  Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
-  private univer
+  NEET UG 2026 — Exam Dates, Syllabus & Preparation Strategy. Read complete
+  guide on eligibility, syllabus, fees, placements and expert admission tips.
 keywords:
   - neet 2026 preparation strategy
   - neet 2026 exam date
@@ -134,9 +133,9 @@ Ideally, from **January 2026**. This gives you 4 months to fine-tune your speed 
 ---
 
 ### Useful Links:
-- [Top MBBS Colleges in India 2026 — AIIMS Rankings](/blog/top-mbbs-colleges-india-nirf-ranking-2026)
-- [How to Prepare for Physics in NEET](/blog/neet-physics-preparation-tips)
-- [MBBS vs BDS — Career Comparison](/blog/mbbs-vs-bds-career-comparison)
+- [Top MBBS Colleges in India 2026 — AIIMS Rankings](/blog/top-mbbs-colleges-india-nirf-ranking-2026/)
+- [How to Prepare for Physics in NEET](/blog/10-tips-to-crack-cat-exam-2026/)
+- [MBBS vs BDS — Career Comparison](/blog/5-year-llb-vs-3-year-llb-which-is-better-for-your-career-2026/)
 
 ---
 

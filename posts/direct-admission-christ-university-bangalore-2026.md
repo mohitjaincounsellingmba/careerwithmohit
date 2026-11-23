@@ -1,21 +1,21 @@
 ---
 title: >-
   Direct Admission in [Christ University
-  Bangalore](/colleges/christ-university-bangalore) 2026: Management Quota &
+  Bangalore](/colleges/christ-university-bangalore/) 2026: Management Quota &
   Fees
 date: '2026-03-17'
 description: >-
   Secure your MBA seat at [Christ University
-  Bangalore](/colleges/christ-university-bangalore) for 2026. Explore direct
+  Bangalore](/colleges/christ-university-bangalore/) for 2026. Explore direct
   admission via management quota, NRI seats, CUET requirements, and the latest
   fee structure.
 keywords:
   - >-
     direct admission in [Christ University
-    Bangalore](/colleges/christ-university-bangalore)
+    Bangalore](/colleges/christ-university-bangalore/)
   - Christ University MBA management quota
   - >-
-    [Christ University Bangalore](/colleges/christ-university-bangalore) MBA
+    [Christ University Bangalore](/colleges/christ-university-bangalore/) MBA
     fees
   - CUET for Christ University
   - management quota MBA Bangalore
@@ -95,9 +95,9 @@ The admission cycle typically begins in **December/January** for the July intake
 ---
 
 ## 🔗 Related Resources
-- [Best MBA Colleges in Bangalore 2026](/blog/best-mba-colleges-in-bangalore-2026)
-- [MBA Admission Guide 2027–29](/blog/mba-pgdm-admissions-2027–2029-complete-guide)
-- [Direct MBA Admission in India 2026](/blog/direct-mba-admission-india)
+- [Best MBA Colleges in Bangalore 2026](/blog/best-mba-colleges-in-bangalore-2026/)
+- [MBA Admission Guide 2027–29](/blog/acca-benefits-with-mba-career-guide-2026/)
+- [Direct MBA Admission in India 2026](/blog/direct-mba-admission-india/)
 
 [👉 Get expert help for your Christ University application today!](/inquiry)
 

@@ -59,7 +59,7 @@ Whether you are aspiring for engineering, management, legal studies, or new-age 
 
 ---
 
-## 🏛️ [SPJIMR Mumbai](/colleges/spjimr-mumbai): University Overview & Accreditation
+## 🏛️ [SPJIMR Mumbai](/colleges/spjimr-mumbai/): University Overview & Accreditation
 
 S.P. Jain Institute of Management and Research (SPJIMR), situated in Andheri West, Mumbai, is universally recognized as one of India's top 5 private B-schools, standing shoulder-to-shoulder with the older IIMs. Famous for its values-based leadership, Abhyudaya mentorship program, and unique profile-first admission calls, SPJIMR delivers extraordinary average packages exceeding ₹33 LPA.
 
@@ -78,7 +78,7 @@ S.P. Jain Institute of Management and Research (SPJIMR), situated in Andheri Wes
 
 ---
 
-[InquiryCard title="Get Free Admission Counselling for [SPJIMR Mumbai](/colleges/spjimr-mumbai) (2026)" description="Confused about eligibility, fee structures, cutoffs, or placement ROI? Connect with Mohit Jain for 1-on-1 career guidance and admission support." cta="Get Free Counselling" type="admission"]
+[InquiryCard title="Get Free Admission Counselling for [SPJIMR Mumbai](/colleges/spjimr-mumbai/) (2026)" description="Confused about eligibility, fee structures, cutoffs, or placement ROI? Connect with Mohit Jain for 1-on-1 career guidance and admission support." cta="Get Free Counselling" type="admission"]
 
 ---
 
@@ -109,13 +109,13 @@ A critical indicator of any university's strength is its corporate relations cel
 - **Top Visiting Employers:** McKinsey, BCG, Bain & Co, HUL, P&G, TAS, Google, Microsoft, Goldman Sachs, JP Morgan
 
 ### Return on Investment (ROI) Verdict
-When comparing the annual tuition fees against the average placement compensation of **₹33.00 LPA - ₹34.50 LPA**, [SPJIMR Mumbai](/colleges/spjimr-mumbai) provides a solid ROI—especially for students graduating from flagship MBA, Computer Science Engineering, and specialized corporate degree tracks.
+When comparing the annual tuition fees against the average placement compensation of **₹33.00 LPA - ₹34.50 LPA**, [SPJIMR Mumbai](/colleges/spjimr-mumbai/) provides a solid ROI—especially for students graduating from flagship MBA, Computer Science Engineering, and specialized corporate degree tracks.
 
 ---
 
 ## 🏫 Campus Life, Infrastructure & Student Experience
 
-Life at **[SPJIMR Mumbai](/colleges/spjimr-mumbai)** extends far beyond traditional classrooms. The campus is designed to promote holistic development, physical fitness, and collaborative learning:
+Life at **[SPJIMR Mumbai](/colleges/spjimr-mumbai/)** extends far beyond traditional classrooms. The campus is designed to promote holistic development, physical fitness, and collaborative learning:
 
 1. **Smart Classrooms & Innovation Labs:** Air-conditioned classrooms equipped with audio-visual learning tools, alongside advanced computer, AI, and domain-specific research laboratories.
 2. **Central Library & Digital Archives:** Extensive collection of academic books, international research journals, IEEE/ACM databases, and quiet reading halls.
@@ -138,10 +138,10 @@ Securing admission to S.P. Jain Institute of Management and Research (SPJIMR) fo
 
 ## ⚖️ Pros & Cons (Honest Evaluation)
 
-To help you make an unbiased decision, here is a balanced summary of the key advantages and potential drawbacks of studying at **[SPJIMR Mumbai](/colleges/spjimr-mumbai)**:
+To help you make an unbiased decision, here is a balanced summary of the key advantages and potential drawbacks of studying at **[SPJIMR Mumbai](/colleges/spjimr-mumbai/)**:
 
 ### 👍 Why Choose SPJIMR Mumbai? (Pros)
-- **Stellar** average CTC of ~₹33+ LPA, competing directly with [IIM Ahmedabad](/colleges/iim-ahmedabad), Bangalore, and Calcutta
+- **Stellar** average CTC of ~₹33+ LPA, competing directly with [IIM Ahmedabad](/colleges/iim-ahmedabad/), Bangalore, and Calcutta
 - **Unique** profile-based shortlisting that rewards academic consistency, versatility, and social values
 - **AACSB** and AMBA dual international accreditations with world-class faculty and industry mentors
 - **Prime** Andheri West campus inside Bharatiya Vidya Bhavan with vibrant community immersions
@@ -168,10 +168,10 @@ Admissions for 2026 at S.P. Jain Institute of Management and Research (SPJIMR) a
 
 ## 🔗 Related Resources & Internal Links
 
-- [CAT 2026 Complete Exam Guide & Preparation Strategy](/blog/all-about-cat-exam)
-- [Top MBA & PGDM Colleges in India 2026: Placements, Fees & Cutoffs](/blog/all-about-iim-colleges-placements-fees-selection-2026)
-- [Direct Admission in BBA & MBA 2026 (Management Quota Guide)](/blog/direct-bba-admission-2026-management-quota)
-- [Compare B.Tech vs BCA: Career & Salary Guide](/blog/btech-vs-bca-career-guide)
+- [CAT 2026 Complete Exam Guide & Preparation Strategy](/blog/all-about-cat-exam/)
+- [Top MBA & PGDM Colleges in India 2026: Placements, Fees & Cutoffs](/blog/all-about-iim-colleges-placements-fees-selection-2026/)
+- [Direct Admission in BBA & MBA 2026 (Management Quota Guide)](/blog/direct-bba-admission-2026-management-quota/)
+- [Compare B.Tech vs BCA: Career & Salary Guide](/blog/bca-vs-btech-cse-which-is-better-for-your-career-2026/)
 
 ---
 

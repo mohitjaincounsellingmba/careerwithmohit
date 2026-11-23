@@ -48,7 +48,7 @@ Here are the PGDM colleges in Delhi NCR with the best placement records for 2027
 
 ### 🏆 Top Placement B-Schools in Delhi NCR
 
-#### 1. [New Delhi Institute of Management (NDIM)](/blog/ndim-delhi)
+#### 1. [New Delhi Institute of Management (NDIM)](/colleges/ndim-delhi/)
 - **Location:** Tughlakabad, South Delhi
 - **Accreditation:** AICTE Approved · NBA Accredited · AIU Equivalent
 - **Placement USP:** 100% Placements
@@ -59,18 +59,18 @@ Here are the PGDM colleges in Delhi NCR with the best placement records for 2027
   * 300+ recruiters on campus
   * Excellent South Delhi campus life
 
-#### 2. [FOSTIIMA Business School](/blog/fostiima-delhi)
+#### 2. [FOSTIIMA Business School](/colleges/fostiima-delhi/)
 - **Location:** Dwarka, West Delhi
 - **Accreditation:** AICTE Approved · Founded by IIMA Alumni
 - **Placement USP:** IIM Alumni Legacy
-- **Recruitment Ecosystem:** FOSTIIMA was founded by alumni of [IIM Ahmedabad](/colleges/iim-ahmedabad) to provide top-quality management education. Featuring an active pan-IIM network of faculty, it ensures high-quality training and strong placement linkages in the corporate sector.
+- **Recruitment Ecosystem:** FOSTIIMA was founded by alumni of [IIM Ahmedabad](/colleges/iim-ahmedabad/) to provide top-quality management education. Featuring an active pan-IIM network of faculty, it ensures high-quality training and strong placement linkages in the corporate sector.
 - **Key Highlights:**
   * Faculty from IIM & IIT pools
   * Focus on practical business models
   * Strong placements in top-tier companies
   * Located close to Dwarka Metro Station
 
-#### 3. [Fortune Institute of International Business (FIIB)](/blog/fiib-delhi)
+#### 3. [Fortune Institute of International Business (FIIB)](/colleges/fiib-delhi/)
 - **Location:** Vasant Vihar, South Delhi
 - **Accreditation:** AICTE Approved · NBA Accredited · AACSB Member
 - **Placement USP:** AACSB Member
@@ -81,7 +81,7 @@ Here are the PGDM colleges in Delhi NCR with the best placement records for 2027
   * Vibrant campus in premium Vasant Vihar
   * Strong corporate mentoring program
 
-#### 4. [IILM Institute for Higher Education](/blog/iilm-delhi)
+#### 4. [IILM Institute for Higher Education](/colleges/iilm-delhi/)
 - **Location:** Lodhi Road, Central Delhi
 - **Accreditation:** AICTE Approved · NBA Accredited · SAQS Accredited
 - **Placement USP:** Central Delhi
@@ -92,7 +92,7 @@ Here are the PGDM colleges in Delhi NCR with the best placement records for 2027
   * SAQS & NBA international/national accreditations
   * Strong start-up incubation support
 
-#### 5. [JIMS Kalkaji (Jagannath International)](/blog/jims-kalkaji)
+#### 5. [JIMS Kalkaji (Jagannath International)](/colleges/jims-kalkaji/)
 - **Location:** Kalkaji, South Delhi
 - **Accreditation:** AICTE Approved · NBA Accredited · NAAC Accredited
 - **Placement USP:** High ROI B-School
@@ -103,7 +103,7 @@ Here are the PGDM colleges in Delhi NCR with the best placement records for 2027
   * Strong placement record with high packages
   * Dual specialization available
 
-#### 6. [Delhi School of Business (VIPS-TC)](/blog/dsb-delhi)
+#### 6. [Delhi School of Business (VIPS-TC)](/colleges/dsb-delhi/)
 - **Location:** Pitampura, North-West Delhi
 - **Accreditation:** AICTE Approved · NBA Accredited · VIPS Brand Support
 - **Placement USP:** Premier Campus
@@ -114,7 +114,7 @@ Here are the PGDM colleges in Delhi NCR with the best placement records for 2027
   * Strong linkage with MNCs and Tech firms
   * Recognized by AIU as equivalent to MBA
 
-#### 7. [EMPI Business School](/blog/empi-delhi)
+#### 7. [EMPI Business School](/colleges/empi-delhi/)
 - **Location:** Chattarpur, South Delhi
 - **Accreditation:** AICTE Approved · Residential B-School
 - **Placement USP:** Residential Campus
@@ -125,7 +125,7 @@ Here are the PGDM colleges in Delhi NCR with the best placement records for 2027
   * Dedicated Innovation & Incubation Center
   * Focus on Advertising & Analytical skills
 
-#### 8. [Institute of Marketing & Management (IMM)](/blog/imm-delhi)
+#### 8. [Institute of Marketing & Management (IMM)](/colleges/imm-delhi/)
 - **Location:** Qutab Institutional Area, South Delhi
 - **Accreditation:** AICTE Approved · Established in 1969
 - **Placement USP:** 50+ Years Legacy
@@ -143,14 +143,14 @@ Here are the PGDM colleges in Delhi NCR with the best placement records for 2027
 
 | B-School Name | Location | 2-Yr Fee | Placement Badge |
 | :--- | :--- | :--- | :--- |
-| **[New Delhi Institute of Management (NDIM)](/blog/ndim-delhi)** | Tughlakabad | ₹11.50L - ₹13.75L (Total) | 100% Placements |
-| **[FOSTIIMA Business School](/blog/fostiima-delhi)** | Dwarka | ₹11.50 Lakhs (Total) | IIM Alumni Legacy |
-| **[Fortune Institute of International Business (FIIB)](/blog/fiib-delhi)** | Vasant Vihar | ₹12.85 Lakhs (Total) | AACSB Member |
-| **[IILM Institute for Higher Education](/blog/iilm-delhi)** | Lodhi Road | ₹12.90 Lakhs (Total) | Central Delhi |
-| **[JIMS Kalkaji (Jagannath International)](/blog/jims-kalkaji)** | Kalkaji | ₹10.75 Lakhs (Total) | High ROI B-School |
-| **[Delhi School of Business (VIPS-TC)](/blog/dsb-delhi)** | Pitampura | ₹11.50 Lakhs (Total) | Premier Campus |
-| **[EMPI Business School](/blog/empi-delhi)** | Chattarpur | ₹9.85 Lakhs (Total) | Residential Campus |
-| **[Institute of Marketing & Management (IMM)](/blog/imm-delhi)** | Qutab Institutional Area | ₹9.45 Lakhs (Total) | 50+ Years Legacy |
+| **[New Delhi Institute of Management (NDIM)](/colleges/ndim-delhi/)** | Tughlakabad | ₹11.50L - ₹13.75L (Total) | 100% Placements |
+| **[FOSTIIMA Business School](/colleges/fostiima-delhi/)** | Dwarka | ₹11.50 Lakhs (Total) | IIM Alumni Legacy |
+| **[Fortune Institute of International Business (FIIB)](/colleges/fiib-delhi/)** | Vasant Vihar | ₹12.85 Lakhs (Total) | AACSB Member |
+| **[IILM Institute for Higher Education](/colleges/iilm-delhi/)** | Lodhi Road | ₹12.90 Lakhs (Total) | Central Delhi |
+| **[JIMS Kalkaji (Jagannath International)](/colleges/jims-kalkaji/)** | Kalkaji | ₹10.75 Lakhs (Total) | High ROI B-School |
+| **[Delhi School of Business (VIPS-TC)](/colleges/dsb-delhi/)** | Pitampura | ₹11.50 Lakhs (Total) | Premier Campus |
+| **[EMPI Business School](/colleges/empi-delhi/)** | Chattarpur | ₹9.85 Lakhs (Total) | Residential Campus |
+| **[Institute of Marketing & Management (IMM)](/colleges/imm-delhi/)** | Qutab Institutional Area | ₹9.45 Lakhs (Total) | 50+ Years Legacy |
 
 ---
 
@@ -164,7 +164,7 @@ Wondering which high-placement B-School aligns with your CAT/CMAT percentile and
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### What is the typical fee structure for MBA programs in India?
-The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
+The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi/) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
 
 ### Is it possible to pursue an MBA without clearing CAT?
 Yes, many colleges accept other entrance exams like XAT, NMAT, SNAP, MAT, or CMAT. Additionally, direct admission options under management quota are available in several private B-schools.

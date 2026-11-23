@@ -86,9 +86,9 @@ pie title MICA Domain Distribution 2025
 
 ## 3. Related Placement Reports
 
-*   **[SPJIMR Mumbai Placement Report 2025](/blog/spjimr-mumbai-pgdm-placement-report-2025)**
-*   **[IMT Ghaziabad Placement Report 2025](/blog/imt-ghaziabad-pgdm-placement-report-2025)**
-*   **[All 21 IIMs Recent Placement Report 2025](/blog/all-iim-recent-placement-report-2025)**
+*   **[SPJIMR Mumbai Placement Report 2025](/blog/spjimr-mumbai-pgdm-placement-report-2025/)**
+*   **[IMT Ghaziabad Placement Report 2025](/blog/imt-ghaziabad-pgdm-placement-report-2025/)**
+*   **[All 21 IIMs Recent Placement Report 2025](/blog/all-iim-recent-placement-report-2025/)**
 
 ---
 

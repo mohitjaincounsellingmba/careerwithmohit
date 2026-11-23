@@ -61,7 +61,7 @@ state: Delhi NCR
 
 [MockTestCard title="Free XAT 2027 Full CBT Mock Test 2026" link="/xat-mock-test" questions="95 Questions" time="210 Mins"]
 
-The **Xavier Aptitude Test (XAT 2027)**, conducted by **[XLRI Jamshedpur](/colleges/xlri-jamshedpur)**, is celebrated as one of India's most prestigious and intellectually rigorous management entrance exams. XAT scores are accepted by over 160 premier B-schools, including **[XLRI Jamshedpur](/colleges/xlri-jamshedpur), XLRI Delhi-NCR, XIM University (Bhubaneswar), IMT Ghaziabad, GIM Goa, TAPMI Manipal, and [FORE School of Management](/colleges/fore-school-delhi)**.
+The **Xavier Aptitude Test (XAT 2027)**, conducted by **[XLRI Jamshedpur](/colleges/xlri-jamshedpur/)**, is celebrated as one of India's most prestigious and intellectually rigorous management entrance exams. XAT scores are accepted by over 160 premier B-schools, including **[XLRI Jamshedpur](/colleges/xlri-jamshedpur/), XLRI Delhi-NCR, XIM University (Bhubaneswar), IMT Ghaziabad, GIM Goa, TAPMI Manipal, and [FORE School of Management](/colleges/fore-school-delhi/)**.
 
 What sets XAT apart is its **5-option format (A, B, C, D, E)**, high-stakes **Decision Making (DM)** business ethics caselets, and rigorous verbal logic.
 

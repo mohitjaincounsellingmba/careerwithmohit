@@ -9,5 +9,5 @@ export const metadata: Metadata = {
   };
 
 export default function MockTestRedirectPage() {
-  redirect("/tools/cat-mock-test");
+  redirect("/tools/cat-mock-test/");
 }

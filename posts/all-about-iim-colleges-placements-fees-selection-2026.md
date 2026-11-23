@@ -4,9 +4,9 @@ title: >-
   Highest), Affiliation, USPs & Selection Criteria
 date: '2026-07-27'
 description: >-
-  Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
-  private univer
+  The Indian Institutes of Management (IIMs) represent the pinnacle of
+  management education in India. Check fees, cutoffs, placements & expert
+  admission tips.
 keywords:
   - all about IIM
   - IIM colleges list in India
@@ -86,17 +86,17 @@ In this comprehensive guide, we cover **everything you need to know about all 21
 ## 1. Complete List of All 21 IIMs: Placement Statistics (Lowest, Average & Highest)
 
 When evaluating IIMs, aspirants typically categorize them into three core clusters based on their establishment year, alumni maturity, and corporate standing:
-1. **Old IIMs ([IIM BLACKI](/blog/what-is-iim-blacki-complete-guide-2026) + IIM Mumbai)**
+1. **Old IIMs ([IIM BLACKI](/blog/what-is-iim-blacki-complete-guide-2026/) + IIM Mumbai)**
 2. **New IIMs (Est. 2007–2011)**
-3. **[Baby IIMs](/blog/baby-iims-review-2026-honest-analysis) (Est. 2015–2016)**
+3. **[Baby IIMs](/blog/baby-iims-review-2026-honest-analysis/) (Est. 2015–2016)**
 
 Below is the exhaustive comparison table of **all 21 IIMs**, detailing their establishment year, approx. 2-year MBA fee, and latest placement highlights including the **lowest (minimum recorded base)**, **average**, and **highest** annual packages.
 
 | Institute Name | Category & Est. Year | Approx. Total Fees | Lowest Package (Base/Min) | Average Package (LPA) | Highest Package (LPA / Cr) | CAT Cutoff (General) |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **[IIM Ahmedabad](/colleges/iim-ahmedabad)** | Old (1961) | ₹27.5 – 30.0 L | ₹18.0 – 20.0 LPA | **₹35.0 – 36.5 LPA** | ₹1.30+ Cr (Intl) / ₹70 LPA | 99.5+ %ile |
-| **[IIM Bangalore](/colleges/iim-bangalore)** | Old (1973) | ₹24.5 – 26.5 L | ₹18.0 – 20.0 LPA | **₹35.0 – 36.0 LPA** | ₹1.15+ Cr (Intl) / ₹65 LPA | 99.0+ %ile |
-| **[IIM Calcutta](/colleges/iim-calcutta)** | Old (1961) | ₹27.0 – 29.0 L | ₹18.5 – 20.0 LPA | **₹35.0 – 35.5 LPA** | ₹1.20+ Cr (Intl) / ₹70 LPA | 99.5+ %ile |
+| **[IIM Ahmedabad](/colleges/iim-ahmedabad/)** | Old (1961) | ₹27.5 – 30.0 L | ₹18.0 – 20.0 LPA | **₹35.0 – 36.5 LPA** | ₹1.30+ Cr (Intl) / ₹70 LPA | 99.5+ %ile |
+| **[IIM Bangalore](/colleges/iim-bangalore/)** | Old (1973) | ₹24.5 – 26.5 L | ₹18.0 – 20.0 LPA | **₹35.0 – 36.0 LPA** | ₹1.15+ Cr (Intl) / ₹65 LPA | 99.0+ %ile |
+| **[IIM Calcutta](/colleges/iim-calcutta/)** | Old (1961) | ₹27.0 – 29.0 L | ₹18.5 – 20.0 LPA | **₹35.0 – 35.5 LPA** | ₹1.20+ Cr (Intl) / ₹70 LPA | 99.5+ %ile |
 | **IIM Lucknow** | Old (1984) | ₹20.5 – 22.5 L | ₹16.0 – 18.0 LPA | **₹30.0 – 33.0 LPA** | ₹1.00+ Cr (Intl) / ₹65 LPA | 98.5+ %ile |
 | **IIM Kozhikode** | Old (1996) | ₹22.0 – 24.0 L | ₹15.0 – 17.0 LPA | **₹28.0 – 30.0 LPA** | ₹70.0 LPA | 98.0+ %ile |
 | **IIM Indore** | Old (1996) | ₹21.0 – 23.0 L | ₹14.0 – 16.0 LPA | **₹25.0 – 27.5 LPA** | ₹65.0 LPA | 98.0+ %ile |
@@ -124,7 +124,7 @@ Below is the exhaustive comparison table of **all 21 IIMs**, detailing their est
 ### Deep-Dive into IIM Clusters
 
 #### 1. Old IIMs (IIM BLACKI + IIM Mumbai)
-*   **The Uncontested Leaders**: [IIM Ahmedabad](/colleges/iim-ahmedabad), [IIM Bangalore](/colleges/iim-bangalore), and [IIM Calcutta](/colleges/iim-calcutta) form the holy trinity ("ABC") of Indian management education. Their average placement packages consistently cross **₹35 LPA**.
+*   **The Uncontested Leaders**: [IIM Ahmedabad](/colleges/iim-ahmedabad/), [IIM Bangalore](/colleges/iim-bangalore/), and [IIM Calcutta](/colleges/iim-calcutta/) form the holy trinity ("ABC") of Indian management education. Their average placement packages consistently cross **₹35 LPA**.
 *   **Recruiting Giants**: These campuses attract exclusive front-end roles from MBB (**McKinsey, BCG, Bain**), global investment banks (**Goldman Sachs, Morgan Stanley, JP Morgan**), and private equity/venture capital firms.
 *   **IIM Mumbai Factor**: Formerly known as NITIE Mumbai, **IIM Mumbai** is India’s premier destination for Supply Chain, Operations, and Analytics, boasting an average package of **₹31+ LPA**.
 
@@ -133,7 +133,7 @@ Below is the exhaustive comparison table of **all 21 IIMs**, detailing their est
 *   **Placement Sweet Spot**: With average salaries hovering around **₹18–26 LPA**, they offer exceptional ROI for candidates with CAT percentiles in the **94–97 range**.
 
 #### 3. Baby IIMs (Est. 2015–2016)
-*   **High Growth Trajectory**: As covered in our [Baby IIMs Review 2026](/blog/baby-iims-review-2026-honest-analysis), third-generation IIMs such as **IIM Nagpur, IIM Visakhapatnam, and IIM Amritsar** are growing rapidly through industry mentorship from Old IIMs.
+*   **High Growth Trajectory**: As covered in our [Baby IIMs Review 2026](/blog/baby-iims-review-2026-honest-analysis/), third-generation IIMs such as **IIM Nagpur, IIM Visakhapatnam, and IIM Amritsar** are growing rapidly through industry mentorship from Old IIMs.
 *   **Accessible Cutoffs**: For aspirants scoring between **91 and 94 percentile**, Baby IIMs provide a guaranteed entry into the IIM ecosystem with average packages between **₹14.5 LPA and ₹17 LPA**.
 
 ---
@@ -160,8 +160,8 @@ graph TD
 
 ### 3. Global Accreditations & Quality Standards
 The leading IIMs hold international accreditations from the world’s most prestigious business school review bodies:
-*   **Triple Crown Accreditation (AACSB, EQUIS, AMBA)**: Held by **[IIM Calcutta](/colleges/iim-calcutta)** and **IIM Indore**—a distinction shared by fewer than 1% of B-schools globally.
-*   **AACSB & EQUIS**: Held by **[IIM Ahmedabad](/colleges/iim-ahmedabad)**, **[IIM Bangalore](/colleges/iim-bangalore)**, **IIM Lucknow**, and **IIM Kozhikode**.
+*   **Triple Crown Accreditation (AACSB, EQUIS, AMBA)**: Held by **[IIM Calcutta](/colleges/iim-calcutta/)** and **IIM Indore**—a distinction shared by fewer than 1% of B-schools globally.
+*   **AACSB & EQUIS**: Held by **[IIM Ahmedabad](/colleges/iim-ahmedabad/)**, **[IIM Bangalore](/colleges/iim-bangalore/)**, **IIM Lucknow**, and **IIM Kozhikode**.
 
 ---
 
@@ -200,7 +200,7 @@ Top IIMs maintain partner exchange programs with premier international business 
 
 ### 4. World-Class Startup Incubators & Entrepreneurial Deferrals
 For students who aspire to build their own startups:
-*   **Incubators**: Centres like **CIIE.CO ([IIM Ahmedabad](/colleges/iim-ahmedabad))** and **NSRCEL ([IIM Bangalore](/colleges/iim-bangalore))** provide seed funding, office space, and mentor networks.
+*   **Incubators**: Centres like **CIIE.CO ([IIM Ahmedabad](/colleges/iim-ahmedabad/))** and **NSRCEL ([IIM Bangalore](/colleges/iim-bangalore/))** provide seed funding, office space, and mentor networks.
 *   **Placement Deferral Policy**: Most Old and New IIMs allow graduating students to defer their campus placements for **up to 2 years** to work on their startup ventures with a safety net to return to campus drives if needed.
 
 ### 5. Need-Blind Admissions & Easy Educational Loans
@@ -210,7 +210,7 @@ Because IIMs are Institutes of National Importance, every major bank in India (S
 
 ## 4. Complete IIM Selection Criteria (2027–29 Batch)
 
-Getting admission into an IIM is a rigorous, multi-stage screening process that evaluates both analytical intelligence and holistic personal consistency. For a comprehensive look at expected cutoffs, refer to our [All IIM Cut Off 2027–29 Admission Guide](/blog/all-iim-cut-off-2027–29-admission-mba-pgdm).
+Getting admission into an IIM is a rigorous, multi-stage screening process that evaluates both analytical intelligence and holistic personal consistency. For a comprehensive look at expected cutoffs, refer to our [All IIM Cut Off 2027–29 Admission Guide](/blog/all-iim-cut-off-2027-29-admission-mba-pgdm/).
 
 ### Stage 1: CAT Entrance Exam & Sectional Cutoffs
 *   You must first appear for the **Common Admission Test (CAT)**.
@@ -243,7 +243,7 @@ IIMs do not select candidates based on CAT score alone. They prepare a **Final M
 | **Academic / Gender Diversity** | **5% – 10%** | Bonus points for Non-Engineers (Arts, Commerce, Medicine) and Female candidates. |
 
 > [!IMPORTANT]
-> **Why 10th & 12th Marks Matter**: Top campuses like **[IIM Bangalore](/colleges/iim-bangalore)** and **IIM Indore** give significant weightage (**up to 35-40% in initial shortlists**) to Class 10th and 12th academic records. A candidate with 99.5%ile in CAT but 70% in school boards may miss an IIM-B or IIM-I call, whereas an applicant with 98.8%ile and 95%+ throughout school exams has a very high chance of shortlisting.
+> **Why 10th & 12th Marks Matter**: Top campuses like **[IIM Bangalore](/colleges/iim-bangalore/)** and **IIM Indore** give significant weightage (**up to 35-40% in initial shortlists**) to Class 10th and 12th academic records. A candidate with 99.5%ile in CAT but 70% in school boards may miss an IIM-B or IIM-I call, whereas an applicant with 98.8%ile and 95%+ throughout school exams has a very high chance of shortlisting.
 
 ---
 
@@ -265,7 +265,7 @@ Whatever your score, thorough preparation for both the CAT written test and the 
 There are currently **21 Indian Institutes of Management (IIMs)** in India, including IIM Mumbai (formerly NITIE). All IIMs are autonomous federal business schools declared as **Institutes of National Importance (INI)** under the **IIM Act, 2017**, and are approved by the **Ministry of Education, Government of India**.
 
 ### 2. What is the highest, average, and lowest placement package across all IIMs?
-Across the 21 IIMs, the **highest package** reaches **₹1.3+ Crore per annum (international)** and **₹65–70 LPA (domestic)** at Old IIMs. **Average salary packages** range from **₹35–36.5 LPA** at [IIM Ahmedabad](/colleges/iim-ahmedabad), Bangalore, and Calcutta to **₹14.5–17 LPA** at Baby IIMs. The **lowest (minimum recorded base)** salary across batches typically sits between **₹12 LPA and ₹18 LPA** depending on campus maturity.
+Across the 21 IIMs, the **highest package** reaches **₹1.3+ Crore per annum (international)** and **₹65–70 LPA (domestic)** at Old IIMs. **Average salary packages** range from **₹35–36.5 LPA** at [IIM Ahmedabad](/colleges/iim-ahmedabad/), Bangalore, and Calcutta to **₹14.5–17 LPA** at Baby IIMs. The **lowest (minimum recorded base)** salary across batches typically sits between **₹12 LPA and ₹18 LPA** depending on campus maturity.
 
 ### 3. Do IIMs offer an MBA degree or a PGDM diploma?
 Following the enactment of the **IIM Act, 2017**, all 21 IIMs are legally empowered to award standard **Master of Business Administration (MBA)** degrees instead of the traditional PGDM diplomas.

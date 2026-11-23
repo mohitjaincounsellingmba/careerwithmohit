@@ -174,7 +174,7 @@ export function GeoMbaHubClient({ hub, colleges }: GeoMbaHubClientProps) {
       {/* ── Top Announcement & Breadcrumbs Bar ─────────────────────────────── */}
       <div className="border-b border-slate-200/80 bg-white/95 backdrop-blur-md sticky top-0 z-40 shadow-xs">
         <div className="max-w-[1220px] mx-auto px-4 sm:px-6 lg:px-8 py-2.5 flex flex-wrap items-center justify-between gap-3 text-xs">
-          <Breadcrumbs />
+          <Breadcrumbs skipJsonLd={true} />
           <div className="flex items-center gap-3">
             <span className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-emerald-50 text-emerald-700 border border-emerald-200 font-bold font-mono">
               <span className="w-2 h-2 rounded-full bg-emerald-500 animate-pulse" />

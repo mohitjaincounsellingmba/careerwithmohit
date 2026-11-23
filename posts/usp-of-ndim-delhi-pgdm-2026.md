@@ -57,7 +57,7 @@ location: Delhi NCR
 state: Delhi NCR
 ---
 
-When you're shortlisting MBA/PGDM colleges in Delhi, one name that consistently appears in every top list is **[New Delhi Institute of Management](/colleges/new-delhi-institute-of-management) (NDIM)**. But what actually makes NDIM different from the 50+ B-schools competing in the same percentile band?
+When you're shortlisting MBA/PGDM colleges in Delhi, one name that consistently appears in every top list is **[New Delhi Institute of Management](/colleges/new-delhi-institute-of-management/) (NDIM)**. But what actually makes NDIM different from the 50+ B-schools competing in the same percentile band?
 
 In this post, we break down the **10 real USPs of NDIM Delhi** — the things that actually matter when you're investing ₹13.75 Lakhs and 2 years of your life in a PGDM program.
 
@@ -293,7 +293,7 @@ At **CareerWithMohit**, we've counselled hundreds of students into NDIM, and the
 
 [👉 Compare NDIM with Other Top B-Schools](/tools/college-comparison)
 
-[👉 Explore Top MBA Colleges in Delhi NCR 2026](/blog/best-mba-colleges-in-delhi-2026)
+[👉 Explore Top MBA Colleges in Delhi NCR 2026](/blog/best-mba-colleges-in-delhi-2026/)
 
 [👉 Check Your NDIM Eligibility Using CAT/CMAT Score](/tools/college-comparison)
 

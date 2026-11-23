@@ -35,14 +35,14 @@ location: Kolkata
 state: West Bengal
 ---
 
-### **College Review: [IIM Calcutta](/colleges/iim-calcutta)**
+### **College Review: [IIM Calcutta](/colleges/iim-calcutta/)**
 *   **Quality Curriculum**: Tailored directly to industry requirements with standard practical case studies.
 *   **Established Brand**: Over the years, it has earned a strong reputation among regional corporate employers.
 *   **Holistic Learning**: Focuses on both technical business skills and global soft skills development.
 
 ---
 
-### 📊 [IIM Calcutta](/colleges/iim-calcutta) 2026 Snapshot
+### 📊 [IIM Calcutta](/colleges/iim-calcutta/) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |
@@ -70,18 +70,18 @@ state: West Bengal
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### 1. Is [IIM Calcutta](/colleges/iim-calcutta) a good option for PGDM/MBA?
-Yes, [IIM Calcutta](/colleges/iim-calcutta) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+### 1. Is [IIM Calcutta](/colleges/iim-calcutta/) a good option for PGDM/MBA?
+Yes, [IIM Calcutta](/colleges/iim-calcutta/) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
-### 2. What is the average package offered at [IIM Calcutta](/colleges/iim-calcutta)?
-The average placement package at [IIM Calcutta](/colleges/iim-calcutta) is approximately ₹35.0 LPA, with the highest package reaching up to ₹1.20 Crore.
+### 2. What is the average package offered at [IIM Calcutta](/colleges/iim-calcutta/)?
+The average placement package at [IIM Calcutta](/colleges/iim-calcutta/) is approximately ₹35.0 LPA, with the highest package reaching up to ₹1.20 Crore.
 
-### 3. What entrance exams are accepted by [IIM Calcutta](/colleges/iim-calcutta)?
+### 3. What entrance exams are accepted by [IIM Calcutta](/colleges/iim-calcutta/)?
 The college accepts scores from national level entrance examinations including CAT for the PGDM and MBA admissions.
 
 ---
 
-**Final Verdict**: [IIM Calcutta](/colleges/iim-calcutta) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
+**Final Verdict**: [IIM Calcutta](/colleges/iim-calcutta/) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
 [👉 Apply to IIM Calcutta](/inquiry) | [👉 Get Free Counselling](/inquiry)
 

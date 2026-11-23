@@ -68,7 +68,7 @@ A highly prestigious merit-based award for students at top-tier B-schools.
 
 *   **Scholarship Amount**: ₹3 Lakhs per annum.
 *   **Eligibility**:
-    *   Students of **[IIM Ahmedabad](/colleges/iim-ahmedabad), Bangalore, Kolkata, Lucknow, Indore, Kozhikode, and [XLRI Jamshedpur](/colleges/xlri-jamshedpur)**.
+    *   Students of **[IIM Ahmedabad](/colleges/iim-ahmedabad/), Bangalore, Kolkata, Lucknow, Indore, Kozhikode, and [XLRI Jamshedpur](/colleges/xlri-jamshedpur/)**.
     *   Only the **top 20 students** from each of these institutes (based on entrance ranks) are invited to apply.
     *   Selection is based on academic excellence, leadership traits, and essays.
 *   **Application Process**:
@@ -130,7 +130,7 @@ For those looking to pursue their **MBA overseas** (International B-schools).
 ### **6. Maharashtra State Scholarships (MAH MBA CET)**
 If you are appearing for MAH CET and seeking admission in Maharashtra, you might be eligible for state-specific fee reimbursements (EBC, SC/ST/OBC schemes) via the MahaDBT portal.
 
-[👉 View Detail Guide: MAH MBA CET Scholarship 2026 Eligibility & Process](/mah-mba-cet-scholarship-2026-eligibility-application-process)
+[👉 View Detail Guide: MAH MBA CET Scholarship 2026 Eligibility & Process](/tools/mhcet-mock-test/)
 
 ---
 

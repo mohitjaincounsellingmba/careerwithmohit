@@ -102,7 +102,7 @@ The ultimate ROI king of Tamil Nadu.
 
 Chennai has great private universities that offer consistent placements regardless of your entrance score:
 
-- **[SSN School of Management](/colleges/ssn-school-of-management):** Part of the Shiv Nadar legacy. Known for its merit-based scholarship and disciplined environment in Kalavakkam.
+- **[SSN School of Management](/colleges/ssn-school-of-management/):** Part of the Shiv Nadar legacy. Known for its merit-based scholarship and disciplined environment in Kalavakkam.
 - **Vel Tech / SRM University:** Deep corporate ties and massive campuses. Direct admission is available through their respective entrance tests and management quota.
 - **Hindustan Institute of Technology and Science:** A diverse brand with strong ties to the aviation and maritime sectors.
 
@@ -128,9 +128,9 @@ TANCET usually happens in **March**. It is the gateway for MBA admissions into n
 ---
 
 ### Useful Links:
-- [Best MBA Colleges with Low Fees & High ROI 2026](/blog/best-mba-colleges-low-fees-high-roi-india-2026)
-- [Top MBA Colleges in Hyderabad 2026 Guide](/blog/top-mba-colleges-hyderabad-2026)
-- [B.Tech Colleges in Chennai 2026 Guide](/blog/top-btech-colleges-chennai-2026)
+- [Best MBA Colleges with Low Fees & High ROI 2026](/blog/best-mba-colleges-low-fees-high-roi-india-2026/)
+- [Top MBA Colleges in Hyderabad 2026 Guide](/blog/top-mba-colleges-hyderabad-2026/)
+- [B.Tech Colleges in Chennai 2026 Guide](/blog/top-btech-colleges-chennai-2026/)
 
 ---
 

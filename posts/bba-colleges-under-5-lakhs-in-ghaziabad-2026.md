@@ -66,7 +66,7 @@ These institutions keep tuition fees under ₹5 Lakhs (either total program fee 
 - **Average Placement Package:** **₹4.2 LPA**
 - **Key Highlight:** Affiliated to CCS University, featuring consistent corporate linkages.
 
-### 3. [KIET Group of Institutions](/colleges/kiet-ghaziabad) (BBA)
+### 3. [KIET Group of Institutions](/colleges/kiet-ghaziabad/) (BBA)
 - **Approximate Fees:** ₹1.2 Lakhs (Annual)
 - **Accepted Entrance Exams:** Merit / CUET
 - **Average Placement Package:** **₹4.0 LPA**
@@ -88,7 +88,7 @@ Here is a quick snapshot comparing the fee structures and average placements for
 | :--- | :--- | :--- | :--- |
 | **IMS Ghaziabad (University Courses Campus)** | Merit / CUET | ₹1.5 Lakhs (Annual) | **₹4.5 LPA** |
 | **ITS Ghaziabad (Mohan Nagar)** | Merit / CUET | ₹1.4 Lakhs (Annual) | **₹4.2 LPA** |
-| **[KIET Group of Institutions](/colleges/kiet-ghaziabad) (BBA)** | Merit / CUET | ₹1.2 Lakhs (Annual) | **₹4.0 LPA** |
+| **[KIET Group of Institutions](/colleges/kiet-ghaziabad/) (BBA)** | Merit / CUET | ₹1.2 Lakhs (Annual) | **₹4.0 LPA** |
 | **Mewar Institute of Management** | Merit / CUET | ₹80,000 (Annual) | **₹3.5 LPA** |
 
 ---
@@ -111,9 +111,9 @@ Return on Investment (ROI) is the most critical metric for any management aspira
 ---
 
 ## 🔗 Related Resources
-- [Best BBA Specializations for 2026](/blog/bba-specializations-skills-salary-2026-guide)
-- [BBA vs BCom vs BMS: Career Comparison](/blog/bba-vs-bcom-vs-bms-career-comparison)
-- [Direct BBA Admission 2026](/blog/direct-bba-admission-2026-management-quota)
+- [Best BBA Specializations for 2026](/blog/bba-specializations-skills-salary-2026-guide/)
+- [BBA vs BCom vs BMS: Career Comparison](/blog/bba-vs-bcom-vs-bms-career-comparison/)
+- [Direct BBA Admission 2026](/blog/direct-bba-admission-2026-management-quota/)
 
 ---
 

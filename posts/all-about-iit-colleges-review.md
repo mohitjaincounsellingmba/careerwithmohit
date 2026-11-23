@@ -2,12 +2,11 @@
 title: 'All About IITs: B.Tech Fees, Cutoffs, Placements & Legacy 2026'
 date: '2026-03-13'
 description: >-
-  Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
-  private univer
+  All About IITs: Detailed guide covering total fees, cutoffs, average placement
+  packages, eligibility criteria & direct admission process.
 keywords:
   - IIT review 2026
-  - '[IIT Bombay](/colleges/iit-bombay) placements'
+  - '[IIT Bombay](/colleges/iit-bombay/) placements'
   - ' आईआईटी IIT BTech fees'
   - JEE Advanced cutoff IIT Delhi
   - top IITs in India
@@ -55,7 +54,7 @@ Here is a comprehensive overview of the IIT system focusing on the top-tier inst
 - **Top 5 Institutes (The "Old IITs"):**
   - IIT Madras (Consistent NIRF Rank #1)
   - IIT Delhi
-  - [IIT Bombay](/colleges/iit-bombay)
+  - [IIT Bombay](/colleges/iit-bombay/)
   - IIT Kanpur
   - IIT Kharagpur
 
@@ -92,7 +91,7 @@ IITs attract global tech giants, high-frequency trading (HFT) firms, and top-tie
 ## Student Reviews & Verdict
 
 **What Students Say:**
-- **Pros:** The peer group is the absolute best in the country. The brand value is permanent; the tag "IITian" opens doors globally. World-class research facilities, massive 500+ acre green campuses, and iconic cultural fests (like Mood Indigo at [IIT Bombay](/colleges/iit-bombay)).
+- **Pros:** The peer group is the absolute best in the country. The brand value is permanent; the tag "IITian" opens doors globally. World-class research facilities, massive 500+ acre green campuses, and iconic cultural fests (like Mood Indigo at [IIT Bombay](/colleges/iit-bombay/)).
 - **Cons:** Extremely high pressure and a toxic competitive environment for grading. The curriculum in some older branches can feel outdated compared to the fast-paced tech industry.
 
 **Our Verdict:** There is no debate. If you clear JEE Advanced with a rank good enough for an old IIT or even a core branch in a newer IIT (like Hyderabad, Indore, or BHU), you take it. The ROI, the networking, and the respect commanded by the IIT tag are unparalleled.
@@ -105,7 +104,7 @@ IITs attract global tech giants, high-frequency trading (HFT) firms, and top-tie
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### What is the typical fee structure for MBA programs in India?
-The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
+The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi/) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
 
 ### Is it possible to pursue an MBA without clearing CAT?
 Yes, many colleges accept other entrance exams like XAT, NMAT, SNAP, MAT, or CMAT. Additionally, direct admission options under management quota are available in several private B-schools.

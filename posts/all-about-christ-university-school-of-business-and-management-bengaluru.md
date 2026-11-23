@@ -44,7 +44,7 @@ location: Pune
 state: Maharashtra
 ---
 
-### **College Review: [Christ University - School of Business and Management](/colleges/christ-university-school-of-business-and-management-bengaluru)**
+### **College Review: [Christ University - School of Business and Management](/colleges/christ-university-school-of-business-and-management-bengaluru/)**
 *   **Quality Curriculum**: Tailored directly to industry requirements with standard practical case studies.
 *   **Established Brand**: Over the years, it has earned a strong reputation among regional corporate employers.
 *   **Holistic Learning**: Focuses on both technical business skills and global soft skills development.
@@ -60,7 +60,7 @@ state: Maharashtra
 > - **Eligibility & Selection**: Minimum 50% aggregate in Graduation (45% for reserved categories) plus GD-PI-WAT score.
 > - **ROI & Scholarships**: Merit scholarships ranging from 10% to 50% tuition waiver available for early 2027–29 applicants.
 
-## 📊 [Christ University - School of Business and Management](/colleges/christ-university-school-of-business-and-management-pune) 2026 Snapshot
+## 📊 [Christ University - School of Business and Management](/colleges/christ-university-school-of-business-and-management-pune/) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |
@@ -88,18 +88,18 @@ state: Maharashtra
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### 1. Is [Christ University - School of Business and Management](/colleges/christ-university-school-of-business-and-management) a good option for PGDM/MBA?
-Yes, [Christ University - School of Business and Management](/colleges/christ-university-school-of-business-and-management-bengaluru) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+### 1. Is [Christ University - School of Business and Management](/colleges/christ-university-school-of-business-and-management/) a good option for PGDM/MBA?
+Yes, [Christ University - School of Business and Management](/colleges/christ-university-school-of-business-and-management-bengaluru/) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
-### 2. What is the average package offered at [Christ University - School of Business and Management](/colleges/christ-university-school-of-business-and-management-pune)?
-The average placement package at [Christ University - School of Business and Management](/colleges/christ-university-school-of-business-and-management) is approximately ₹10 LPA, with the highest package reaching up to ₹87.50 LPA.
+### 2. What is the average package offered at [Christ University - School of Business and Management](/colleges/christ-university-school-of-business-and-management-pune/)?
+The average placement package at [Christ University - School of Business and Management](/colleges/christ-university-school-of-business-and-management/) is approximately ₹10 LPA, with the highest package reaching up to ₹87.50 LPA.
 
-### 3. What entrance exams are accepted by [Christ University - School of Business and Management](/colleges/christ-university-school-of-business-and-management-bengaluru)?
+### 3. What entrance exams are accepted by [Christ University - School of Business and Management](/colleges/christ-university-school-of-business-and-management-bengaluru/)?
 The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
 
 ---
 
-**Final Verdict**: [Christ University - School of Business and Management](/colleges/christ-university-school-of-business-and-management-pune) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
+**Final Verdict**: [Christ University - School of Business and Management](/colleges/christ-university-school-of-business-and-management-pune/) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
 [👉 Apply to Christ University - School of Business and Management](/inquiry) | [👉 Get Free Counselling](/inquiry)
 

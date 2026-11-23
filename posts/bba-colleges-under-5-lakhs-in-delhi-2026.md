@@ -60,13 +60,13 @@ These institutions keep tuition fees under ₹5 Lakhs (either total program fee 
 - **Average Placement Package:** **₹9.8 LPA**
 - **Key Highlight:** The best undergraduate business school in India under Delhi University with exceptional ROI.
 
-### 2. [Jamia Millia Islamia (JMI)](/colleges/jamia-millia-islamia)
+### 2. [Jamia Millia Islamia (JMI)](/colleges/jamia-millia-islamia/)
 - **Approximate Fees:** ₹13,000 (Annual)
 - **Accepted Entrance Exams:** JMI Entrance Exam
 - **Average Placement Package:** **₹6.0 LPA**
 - **Key Highlight:** Highly reputed central university offering premium courses at minimal fees.
 
-### 3. Maharaja Agrasen [Institute of Management Studies](/colleges/institute-of-management-studies) (MAIMS)
+### 3. Maharaja Agrasen [Institute of Management Studies](/colleges/institute-of-management-studies/) (MAIMS)
 - **Approximate Fees:** ₹1.1 Lakhs (Annual)
 - **Accepted Entrance Exams:** IPU CET / CUET
 - **Average Placement Package:** **₹4.5 LPA**
@@ -78,13 +78,13 @@ These institutions keep tuition fees under ₹5 Lakhs (either total program fee 
 - **Average Placement Package:** **₹4.6 LPA**
 - **Key Highlight:** Known for premium infrastructure, great faculty, and active student societies.
 
-### 5. [Maharaja Surajmal Institute (MSI)](/colleges/maharaja-surajmal-institute-msi-delhi)
+### 5. [Maharaja Surajmal Institute (MSI)](/colleges/maharaja-surajmal-institute-msi-delhi/)
 - **Approximate Fees:** ₹1.1 Lakhs (Annual)
 - **Accepted Entrance Exams:** IPU CET / CUET
 - **Average Placement Package:** **₹4.8 LPA**
 - **Key Highlight:** Ranked among the top IPU BBA colleges with consistent placement tracks.
 
-### 6. [Jagan Institute of Management Studies](/colleges/jagan-institute-of-management-studies) (JIMS Rohini)
+### 6. [Jagan Institute of Management Studies](/colleges/jagan-institute-of-management-studies/) (JIMS Rohini)
 - **Approximate Fees:** ₹1.2 Lakhs (Annual)
 - **Accepted Entrance Exams:** IPU CET / CUET
 - **Average Placement Package:** **₹4.2 LPA**
@@ -99,11 +99,11 @@ Here is a quick snapshot comparing the fee structures and average placements for
 | College Name | Entrance Exams | Approximate Fees | Avg Placement Package |
 | :--- | :--- | :--- | :--- |
 | **Shaheed Sukhdev College of Business Studies (SSCBS)** | CUET-UG | ₹20,000 (Annual) | **₹9.8 LPA** |
-| **[Jamia Millia Islamia (JMI)](/colleges/jamia-millia-islamia)** | JMI Entrance Exam | ₹13,000 (Annual) | **₹6.0 LPA** |
-| **Maharaja Agrasen [Institute of Management Studies](/colleges/institute-of-management-studies) (MAIMS)** | IPU CET / CUET | ₹1.1 Lakhs (Annual) | **₹4.5 LPA** |
+| **[Jamia Millia Islamia (JMI)](/colleges/jamia-millia-islamia/)** | JMI Entrance Exam | ₹13,000 (Annual) | **₹6.0 LPA** |
+| **Maharaja Agrasen [Institute of Management Studies](/colleges/institute-of-management-studies/) (MAIMS)** | IPU CET / CUET | ₹1.1 Lakhs (Annual) | **₹4.5 LPA** |
 | **Vivekananda Institute of Professional Studies (VIPS)** | IPU CET / CUET | ₹1.2 Lakhs (Annual) | **₹4.6 LPA** |
-| **[Maharaja Surajmal Institute (MSI)](/colleges/maharaja-surajmal-institute-msi-delhi)** | IPU CET / CUET | ₹1.1 Lakhs (Annual) | **₹4.8 LPA** |
-| **[Jagan Institute of Management Studies](/colleges/jagan-institute-of-management-studies) (JIMS Rohini)** | IPU CET / CUET | ₹1.2 Lakhs (Annual) | **₹4.2 LPA** |
+| **[Maharaja Surajmal Institute (MSI)](/colleges/maharaja-surajmal-institute-msi-delhi/)** | IPU CET / CUET | ₹1.1 Lakhs (Annual) | **₹4.8 LPA** |
+| **[Jagan Institute of Management Studies](/colleges/jagan-institute-of-management-studies/) (JIMS Rohini)** | IPU CET / CUET | ₹1.2 Lakhs (Annual) | **₹4.2 LPA** |
 
 ---
 
@@ -125,9 +125,9 @@ Return on Investment (ROI) is the most critical metric for any management aspira
 ---
 
 ## 🔗 Related Resources
-- [Best BBA Specializations for 2026](/blog/bba-specializations-skills-salary-2026-guide)
-- [BBA vs BCom vs BMS: Career Comparison](/blog/bba-vs-bcom-vs-bms-career-comparison)
-- [Direct BBA Admission 2026](/blog/direct-bba-admission-2026-management-quota)
+- [Best BBA Specializations for 2026](/blog/bba-specializations-skills-salary-2026-guide/)
+- [BBA vs BCom vs BMS: Career Comparison](/blog/bba-vs-bcom-vs-bms-career-comparison/)
+- [Direct BBA Admission 2026](/blog/direct-bba-admission-2026-management-quota/)
 
 ---
 

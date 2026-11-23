@@ -66,21 +66,21 @@ If you are planning to take M.Tech admission in the 2026 academic batch, this gu
 
 Here is the list of top-ranked private engineering institutions in Greater Noida offering M.Tech programs with outstanding Return on Investment (ROI) and advanced academic support:
 
-### 1. [Galgotias University](/colleges/galgotias-university) (School of Engineering)
+### 1. [Galgotias University](/colleges/galgotias-university/) (School of Engineering)
 - **Approximate Tuition Fees:** ₹1.1 Lakhs/year
 - **Accepted Entrance Exams:** GATE / Merit-based Direct Interview
 - **Admission Cutoff / Eligibility:** GATE Score 350+ (Merit-based direct entry available)
 - **Average Postgraduate Placement Package:** **₹5.8 LPA**
 - **Key Highlight:** Highly active campus offering specialized courses in AI, IoT, VLSI, and Cloud Computing.
 
-### 2. [Sharda University](/colleges/sharda-greater-noida) (School of Engineering & Technology)
+### 2. [Sharda University](/colleges/sharda-greater-noida/) (School of Engineering & Technology)
 - **Approximate Tuition Fees:** ₹1.5 Lakhs/year
 - **Accepted Entrance Exams:** GATE / SUAT Entrance Exam
 - **Admission Cutoff / Eligibility:** GATE Score 350+ (SUAT test options available)
 - **Average Postgraduate Placement Package:** **₹5.2 LPA**
 - **Key Highlight:** Sprawling global campus offering robust laboratory infrastructure and dedicated industry mentorship.
 
-### 3. [Bennett University](/colleges/bennett-greater-noida) (School of Engineering)
+### 3. [Bennett University](/colleges/bennett-greater-noida/) (School of Engineering)
 - **Approximate Tuition Fees:** ₹2.1 Lakhs/year
 - **Accepted Entrance Exams:** GATE / Merit + Interview
 - **Admission Cutoff / Eligibility:** GATE Score 360+ (Direct entry based on B.Tech CGPA)
@@ -102,9 +102,9 @@ Here is a quick snapshot comparing the fee structures, entrance criteria, and av
 
 | College Name | Accepted Entrance Exams | Approximate Tuition Fees | Average Placement Package |
 | :--- | :--- | :--- | :--- |
-| **[Galgotias University](/colleges/galgotias-university) (School of Engineering)** | GATE / Merit-based Direct Interview | ₹1.1 Lakhs/year | **₹5.8 LPA** |
-| **[Sharda University](/colleges/sharda-greater-noida) (School of Engineering & Technology)** | GATE / SUAT Entrance Exam | ₹1.5 Lakhs/year | **₹5.2 LPA** |
-| **[Bennett University](/colleges/bennett-greater-noida) (School of Engineering)** | GATE / Merit + Interview | ₹2.1 Lakhs/year | **₹6.8 LPA** |
+| **[Galgotias University](/colleges/galgotias-university/) (School of Engineering)** | GATE / Merit-based Direct Interview | ₹1.1 Lakhs/year | **₹5.8 LPA** |
+| **[Sharda University](/colleges/sharda-greater-noida/) (School of Engineering & Technology)** | GATE / SUAT Entrance Exam | ₹1.5 Lakhs/year | **₹5.2 LPA** |
+| **[Bennett University](/colleges/bennett-greater-noida/) (School of Engineering)** | GATE / Merit + Interview | ₹2.1 Lakhs/year | **₹6.8 LPA** |
 | **GL Bajaj Institute of Technology & Management** | GATE / UPTAC Counseling | ₹1.2 Lakhs/year | **₹6.5 LPA** |
 
 ---
@@ -126,9 +126,9 @@ Admissions to private M.Tech colleges in Greater Noida generally follow two dist
 ---
 
 ## 🔗 Related Resources
-- [B.Tech Admission Without JEE 2026: All Options](/blog/btech-admission-without-jee-2026-all-options)
-- [Top Engineering Colleges Accepting JEE Main Scores in 2026](/blog/jee-main-accepting-btech-colleges-2026)
-- [All IIM Cut-Off 2026-28: Admission, MBA, PGDM](/blog/all-iim-cut-off-2026-28-admission-mba-pgdm)
+- [B.Tech Admission Without JEE 2026: All Options](/blog/btech-admission-without-jee-2026-all-options/)
+- [Top Engineering Colleges Accepting JEE Main Scores in 2026](/blog/jee-main-accepting-btech-colleges-2026/)
+- [All IIM Cut-Off 2026-28: Admission, MBA, PGDM](/blog/all-iim-cut-off-2026-28-admission-mba-pgdm/)
 
 ---
 

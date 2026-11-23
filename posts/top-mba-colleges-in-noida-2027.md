@@ -70,7 +70,7 @@ In this 2027 guide, senior education mentor **Mohit Jain** evaluates the top MBA
 | College / Program | Location | Total Tuition Fee | Average Domestic CTC | Key Accepted Exams & Target Cutoff |
 | :--- | :--- | :--- | :--- | :--- |
 | **[Jaipuria Institute of Management](/colleges/jaipuria-noida/)** (PGDM Core/SM/BA) | Sector 62, Noida | ₹14.75 Lakhs | ₹11.50 LPA | CAT / XAT / CMAT / MAT (70+ %ile) |
-| **[Amity Business School](/blog/amity-noida-mba-pgdm-review-2027-fees-placements-cutoff/)** (MBA Core/IB/M&S) | Sector 125, Noida | ₹16.50 Lakhs | ₹8.50 LPA | CAT / MAT / NMAT / Amity Test |
+| **[Amity Business School](/blog/amity-noida-review-2026/)** (MBA Core/IB/M&S) | Sector 125, Noida | ₹16.50 Lakhs | ₹8.50 LPA | CAT / MAT / NMAT / Amity Test |
 | **[Asian Business School (ABS)](/colleges/asian-business-school-noida/)** (PGDM) | Sector 125, Noida | ₹8.75 Lakhs | ₹7.80 LPA | CAT / MAT / XAT / CMAT (60+ %ile) |
 | **[IMS Noida](/blog/rajagiri-centre-for-business-studies-mba-review-2027-fees-placements-cutoff/)** (PGDM / MBA) | Sector 62, Noida | ₹6.50 – ₹8.50 Lakhs | ₹6.80 LPA | MAT / CMAT / CUET-PG / Direct |
 | **[IILM Academy of Higher Learning](/colleges/iilm-delhi/)** (PGDM) | Sector 62, Noida | ₹8.25 Lakhs | ₹7.20 LPA | CAT / MAT / CMAT / XAT (60+ %ile) |
@@ -122,7 +122,7 @@ In this 2027 guide, senior education mentor **Mohit Jain** evaluates the top MBA
 ### What is the CAT cutoff for [Jaipuria Institute of Management](/colleges/jaipuria-noida/) Noida?
 For the PGDM Core and specialized programs, the CAT cutoff is typically **70 to 75 percentile**. Jaipuria also considers MAT (80+ percentile), CMAT (75+ percentile), and XAT scores.
 
-### Is [Asian Business School (ABS)](/colleges/asian-business-school-noida) Noida AICTE approved?
+### Is [Asian Business School (ABS)](/colleges/asian-business-school-noida/) Noida AICTE approved?
 Yes, Asian Business School is approved by AICTE, Ministry of Education, Government of India, and its PGDM program is recognized by AIU as equivalent to an MBA.
 
 ### What are the best low fee MBA options in Noida?

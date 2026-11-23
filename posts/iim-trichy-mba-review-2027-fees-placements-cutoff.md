@@ -74,7 +74,7 @@ The table below outlines the core operational and academic parameters of **[IIM 
 | Parameter | Official Verified Details |
 | :--- | :--- |
 | **Institute Name** | **Indian Institute of Management Tiruchirappalli (IIM Trichy / IIMT)** |
-| **Year of Establishment** | 2011 (Mentored by [IIM Bangalore](/colleges/iim-bangalore)) |
+| **Year of Establishment** | 2011 (Mentored by [IIM Bangalore](/colleges/iim-bangalore/)) |
 | **Campus Location** | Pudukkottai Road, Chinna Suriyur, Tiruchirappalli, Tamil Nadu (175 Acres) |
 | **NIRF Management Ranking** | **Rank #27** nationally |
 | **Global Accreditation** | **AMBA Accredited** (Association of MBAs, UK) |

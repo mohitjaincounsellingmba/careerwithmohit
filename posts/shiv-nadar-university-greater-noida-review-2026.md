@@ -62,9 +62,9 @@ Whether you are aspiring for engineering, management, legal studies, or new-age 
 
 ---
 
-## 🏛️ [Shiv Nadar University (SNU)](/colleges/snu-greater-noida): University Overview & Accreditation
+## 🏛️ [Shiv Nadar University (SNU)](/colleges/snu-greater-noida/): University Overview & Accreditation
 
-[Shiv Nadar University (SNU)](/colleges/snu-greater-noida) Greater Noida is a premier multidisciplinary research university established by the Shiv Nadar Foundation. Recognized as an Institution of Eminence (IoE) by the Government of India, SNU is celebrated for its low student-faculty ratio, world-class research labs, and exceptional career outcomes across engineering and management disciplines.
+[Shiv Nadar University (SNU)](/colleges/snu-greater-noida/) Greater Noida is a premier multidisciplinary research university established by the Shiv Nadar Foundation. Recognized as an Institution of Eminence (IoE) by the Government of India, SNU is celebrated for its low student-faculty ratio, world-class research labs, and exceptional career outcomes across engineering and management disciplines.
 
 ### Key Institutional Highlights (2026)
 
@@ -81,7 +81,7 @@ Whether you are aspiring for engineering, management, legal studies, or new-age 
 
 ---
 
-[InquiryCard title="Get Free Admission Counselling for [Shiv Nadar University (SNU)](/colleges/snu-greater-noida) (2026)" description="Confused about eligibility, fee structures, cutoffs, or placement ROI? Connect with Mohit Jain for 1-on-1 career guidance and admission support." cta="Get Free Counselling" type="admission"]
+[InquiryCard title="Get Free Admission Counselling for [Shiv Nadar University (SNU)](/colleges/snu-greater-noida/) (2026)" description="Confused about eligibility, fee structures, cutoffs, or placement ROI? Connect with Mohit Jain for 1-on-1 career guidance and admission support." cta="Get Free Counselling" type="admission"]
 
 ---
 
@@ -112,13 +112,13 @@ A critical indicator of any university's strength is its corporate relations cel
 - **Top Visiting Employers:** HCL Technologies, Adobe, Microsoft, Goldman Sachs, Deloitte, Cognizant, L&T, Siemens
 
 ### Return on Investment (ROI) Verdict
-When comparing the annual tuition fees against the average placement compensation of **₹10.50 LPA - ₹12.80 LPA**, [Shiv Nadar University (SNU)](/colleges/snu-greater-noida) provides a solid ROI—especially for students graduating from flagship MBA, Computer Science Engineering, and specialized corporate degree tracks.
+When comparing the annual tuition fees against the average placement compensation of **₹10.50 LPA - ₹12.80 LPA**, [Shiv Nadar University (SNU)](/colleges/snu-greater-noida/) provides a solid ROI—especially for students graduating from flagship MBA, Computer Science Engineering, and specialized corporate degree tracks.
 
 ---
 
 ## 🏫 Campus Life, Infrastructure & Student Experience
 
-Life at **[Shiv Nadar University (SNU)](/colleges/snu-greater-noida)** extends far beyond traditional classrooms. The campus is designed to promote holistic development, physical fitness, and collaborative learning:
+Life at **[Shiv Nadar University (SNU)](/colleges/snu-greater-noida/)** extends far beyond traditional classrooms. The campus is designed to promote holistic development, physical fitness, and collaborative learning:
 
 1. **Smart Classrooms & Innovation Labs:** Air-conditioned classrooms equipped with audio-visual learning tools, alongside advanced computer, AI, and domain-specific research laboratories.
 2. **Central Library & Digital Archives:** Extensive collection of academic books, international research journals, IEEE/ACM databases, and quiet reading halls.
@@ -171,10 +171,10 @@ Admissions for 2026 at Shiv Nadar University, Greater Noida are conducted based 
 
 ## 🔗 Related Resources & Internal Links
 
-- [CAT 2026 Complete Exam Guide & Preparation Strategy](/blog/all-about-cat-exam)
-- [Top MBA & PGDM Colleges in India 2026: Placements, Fees & Cutoffs](/blog/all-about-iim-colleges-placements-fees-selection-2026)
-- [Direct Admission in BBA & MBA 2026 (Management Quota Guide)](/blog/direct-bba-admission-2026-management-quota)
-- [Compare B.Tech vs BCA: Career & Salary Guide](/blog/btech-vs-bca-career-guide)
+- [CAT 2026 Complete Exam Guide & Preparation Strategy](/blog/all-about-cat-exam/)
+- [Top MBA & PGDM Colleges in India 2026: Placements, Fees & Cutoffs](/blog/all-about-iim-colleges-placements-fees-selection-2026/)
+- [Direct Admission in BBA & MBA 2026 (Management Quota Guide)](/blog/direct-bba-admission-2026-management-quota/)
+- [Compare B.Tech vs BCA: Career & Salary Guide](/blog/bca-vs-btech-cse-which-is-better-for-your-career-2026/)
 
 ---
 

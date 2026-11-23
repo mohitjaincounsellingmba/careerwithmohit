@@ -79,9 +79,9 @@ Named in honor of India's second Prime Minister, LBSIM combines a disciplined va
 
 | College Name | Total Fees | Avg Package | ROI & Admission Eligibility |
 | :--- | :--- | :--- | :--- |
-| **[IMT Ghaziabad](/colleges/imt-ghaziabad)** | ₹21.5 Lakhs | ₹17.35 LPA | **Top Brand**: Premium marketing roles; cutoff 90–93%ile |
-| **[FORE School of Management](/colleges/fore-school-delhi)** | ₹18.5 Lakhs | ₹15.42 LPA | **Balanced ROI**: Prime Delhi location; cutoff 85–88%ile |
-| **[LBSIM New Delhi](/colleges/lbsim-delhi)** | ₹15.5 Lakhs | ₹12.80 LPA | **Highest Financial ROI**: Low fee; premier BFSI placement; cutoff 82–86%ile |
+| **[IMT Ghaziabad](/colleges/imt-ghaziabad/)** | ₹21.5 Lakhs | ₹17.35 LPA | **Top Brand**: Premium marketing roles; cutoff 90–93%ile |
+| **[FORE School of Management](/colleges/fore-school-delhi/)** | ₹18.5 Lakhs | ₹15.42 LPA | **Balanced ROI**: Prime Delhi location; cutoff 85–88%ile |
+| **[LBSIM New Delhi](/colleges/lbsim-delhi/)** | ₹15.5 Lakhs | ₹12.80 LPA | **Highest Financial ROI**: Low fee; premier BFSI placement; cutoff 82–86%ile |
 
 ---
 

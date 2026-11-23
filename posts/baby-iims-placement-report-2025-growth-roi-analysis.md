@@ -89,7 +89,7 @@ graph TD
 
 ## 3. Baby IIMs vs. Top Private B-Schools: The Real Comparison
 
-A critical dilemma for CAT test-takers with 90–96 percentiles is whether to choose a Baby IIM or an established private B-school (e.g., [NMIMS Mumbai](/colleges/nmims-mumbai), [SIBM Pune](/colleges/sibm-pune), TAPMI, GIM Goa, FORE Delhi).
+A critical dilemma for CAT test-takers with 90–96 percentiles is whether to choose a Baby IIM or an established private B-school (e.g., [NMIMS Mumbai](/colleges/nmims-mumbai/), [SIBM Pune](/colleges/sibm-pune/), TAPMI, GIM Goa, FORE Delhi).
 
 | Feature / Metric | Baby IIMs (Nagpur, Amritsar, Vizag, etc.) | Top Private B-Schools (NMIMS, SIBM, TAPMI) |
 | :--- | :--- | :--- |
@@ -109,8 +109,8 @@ A critical dilemma for CAT test-takers with 90–96 percentiles is whether to ch
 
 1. **Aim for 92–95 Percentile**: To secure calls from Baby IIMs through the Common Admission Process (CAP), target an overall CAT percentile above 92, with balanced 75+ sectional percentiles.
 2. **Explore Specialized Tracks**: Programs like MBA-BA at IIM Amritsar or MBA-Analytics at IIM Kashipur often see higher median starting salaries.
-3. **Check the Complete 21 IIMs Report**: Read our **[All IIM Recent Placement Report 2025](/blog/all-iim-recent-placement-report-2025)** for the national benchmark.
-4. **Evaluate Cutoffs**: Read our **[All IIM Cut Off 2027–29 Analysis](/blog/all-iim-cut-off-2027–29-admission-mba-pgdm)** to plan your prep.
+3. **Check the Complete 21 IIMs Report**: Read our **[All IIM Recent Placement Report 2025](/blog/all-iim-recent-placement-report-2025/)** for the national benchmark.
+4. **Evaluate Cutoffs**: Read our **[All IIM Cut Off 2027–29 Analysis](/blog/all-iim-cut-off-2027-29-admission-mba-pgdm/)** to plan your prep.
 
 ---
 

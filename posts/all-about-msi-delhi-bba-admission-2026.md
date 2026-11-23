@@ -1,13 +1,13 @@
 ---
 title: >-
   [Maharaja Surajmal Institute
-  (MSI)](/colleges/maharaja-surajmal-institute-msi-delhi) BBA Admission 2026:
+  (MSI)](/colleges/maharaja-surajmal-institute-msi-delhi/) BBA Admission 2026:
   IPU CET Guide
 date: '2026-05-15'
 category: BBA Admissions
 description: >-
   Everything you need to know about BBA at [Maharaja Surajmal Institute
-  (MSI)](/colleges/maharaja-surajmal-institute-msi-delhi) Delhi for 2026. Learn
+  (MSI)](/colleges/maharaja-surajmal-institute-msi-delhi/) Delhi for 2026. Learn
   about IPU CET, latest fees, and placement packages.
 keywords:
   - msi delhi bba admission 2026
@@ -41,7 +41,7 @@ location: Delhi NCR
 state: Delhi NCR
 ---
 
-[Maharaja Surajmal Institute (MSI)](/colleges/maharaja-surajmal-institute-msi-delhi), located in Janakpuri, Delhi, is consistently ranked as the #1 college under Guru Gobind Singh Indraprastha University (GGSIPU). Known for its academic discipline and excellent placement records, MSI is a top priority for BBA aspirants in 2026 who want a high-quality education at an affordable price.
+[Maharaja Surajmal Institute (MSI)](/colleges/maharaja-surajmal-institute-msi-delhi/), located in Janakpuri, Delhi, is consistently ranked as the #1 college under Guru Gobind Singh Indraprastha University (GGSIPU). Known for its academic discipline and excellent placement records, MSI is a top priority for BBA aspirants in 2026 who want a high-quality education at an affordable price.
 
 ## 🏛️ Why Choose MSI Delhi for BBA in 2026?
 MSI is known for providing a professional environment that mimics top-tier MBA colleges.
@@ -78,9 +78,9 @@ Yes, MSI operates in two shifts: Morning (1st Shift) and Afternoon (2nd Shift). 
 Yes, Maharaja Surajmal Institute has its own hostel facility for both boys and girls within the campus.
 
 ## 🔗 Useful Links:
-- [Top 10 BBA Colleges in Delhi 2026](/blog/top-10-bba-colleges-delhi-2026)
-- [JIMS Delhi BBA Admission Guide 2026](/blog/all-about-jims-delhi-bba-admission-2026)
-- [IPU CET 2026 Preparation Strategy](/blog/all-about-ipceta-exam)
+- [Top 10 BBA Colleges in Delhi 2026](/blog/top-10-bba-colleges-delhi-2026/)
+- [JIMS Delhi BBA Admission Guide 2026](/blog/all-about-jims-delhi-bba-admission-2026/)
+- [IPU CET 2026 Preparation Strategy](/blog/all-about-ipceta-exam/)
 
 ---
 

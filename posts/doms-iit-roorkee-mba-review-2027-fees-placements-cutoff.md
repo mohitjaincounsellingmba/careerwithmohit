@@ -131,7 +131,7 @@ The final merit list incorporates:
 
 ## 4. Latest Audited Placement Report & Recruiters
 
-Placement performance is one of the strongest pillars of **[Department of Management Studies (DoMS), IIT Roorkee](/colleges/doms-iit-roorkee)**. The placement cell maintains strong corporate relationships across Fortune 500 companies and high-growth startups.
+Placement performance is one of the strongest pillars of **[Department of Management Studies (DoMS), IIT Roorkee](/colleges/doms-iit-roorkee/)**. The placement cell maintains strong corporate relationships across Fortune 500 companies and high-growth startups.
 
 ### Key Placement Metrics:
 - **Average Salary Package:** **₹18.34 LPA**

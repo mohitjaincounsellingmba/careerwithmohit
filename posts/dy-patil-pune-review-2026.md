@@ -5,9 +5,8 @@ title: >-
 date: '2026-08-03'
 category: MBA Admissions
 description: >-
-  Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
-  private univer
+  Dr. D.Y. Patil Institute of Management & Research Review 2026: Complete guide
+  on fees, verified cutoffs, average placement packages & admission process.
 keywords:
   - Dr. D.Y. Patil Institute of Management & Research review 2026
   - Dr. D.Y. Patil Institute of Management & Research mba fees
@@ -162,7 +161,7 @@ Make an informed decision by comparing fee structures, placement reports, and ad
 *   [Top Tier MBA Colleges 2026–2027: Compare Fees, Placements & Cutoffs](/top-tier-mba-colleges)
 *   [MBA & PGDM Direct Admission 2027: Complete Eligibility Guide](/mba-pgdm-admission-2027)
 *   [Explore & Compare 200+ Top Colleges in India](/colleges)
-*   [CAT 2026 Mock Test & Expected Percentile Calculator](/cat-mock-test)
+*   [CAT 2026 Mock Test & Expected Percentile Calculator](/tools/cat-mock-test/)
 *   [Check Your Eligibility for Scholarships & Education Loans](/scholarships-2026)
 
 [InquiryCard title="Get Direct Admission Counseling for Dr. D.Y. Patil Institute of Management & Research" subtitle="Verify your eligibility, check cutoff percentiles, and download official placement brochures instantly." ctaText="Apply Now / Check Eligibility"]

@@ -123,8 +123,8 @@ Joining a CAT 2026 exam preparation WhatsApp group can give you the edge you nee
 ---
 
 *Related Articles:*
-- [Best MBA Colleges in India 2026](/blog/best-mba-colleges-india-2027-29/)
-- [Executive MBA for Working Professionals 2026](/blog/executive-mba-for-working-professionals-2027-29/)
+- [Best MBA Colleges in India 2026](/blog/best-mba-colleges-india-2026/)
+- [Executive MBA for Working Professionals 2026](/blog/executive-mba-for-working-professionals-2026/)
 - [How to Prepare for CAT 2026 While Working](/blog/underrated-mba-colleges-india-2026/)
 
 ---

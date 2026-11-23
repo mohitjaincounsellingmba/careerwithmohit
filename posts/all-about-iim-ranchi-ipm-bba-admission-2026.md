@@ -3,9 +3,8 @@ title: 'IIM Ranchi IPM Admission 2026: Fees, Placements, and SAT/IPMAT Scores'
 date: '2026-05-15'
 category: BBA Admissions
 description: >-
-  Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
-  private univer
+  IIM Ranchi is one of the premier 'New IIMs' to offer the Integrated Programme
+  in Management (IPM). Check fees, cutoffs, placements & expert admission tips.
 keywords:
   - iim ranchi ipm admission 2026
   - iim ranchi ipmat fees
@@ -75,9 +74,9 @@ Generally, IIM Ranchi accepts IPMAT Indore scores. Candidates should verify the 
 The intake is approximately 120 seats for the 2027–2029 intake.
 
 ## 🔗 Useful Links:
-- [IPMAT 2026 Preparation Guide & Best Colleges](/blog/ipmat-2026-preparation-guide-colleges)
-- [IIM Indore IPM Admission 2026](/blog/all-about-iim-indore-ipm-bba-admission-2026)
-- [IIM Rohtak IPM Admission 2026](/blog/all-about-iim-rohtak-ipm-bba-admission-2026)
+- [IPMAT 2026 Preparation Guide & Best Colleges](/blog/ipmat-2026-preparation-guide-colleges/)
+- [IIM Indore IPM Admission 2026](/blog/all-about-iim-indore-ipm-bba-admission-2026/)
+- [IIM Rohtak IPM Admission 2026](/blog/all-about-iim-rohtak-ipm-bba-admission-2026/)
 
 ---
 

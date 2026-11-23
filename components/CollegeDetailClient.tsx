@@ -373,14 +373,10 @@ export function CollegeDetailClient({ college, similarColleges = [] }: { college
 
   return (
     <div className="min-h-screen bg-slate-50 flex flex-col">
-      <JsonLd data={breadcrumbSchema} />
-      <JsonLd data={collegeSchema} />
-      <JsonLd data={faqSchema} />
-
       {/* Breadcrumbs */}
       <div className="bg-white pt-6">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <Breadcrumbs />
+          <Breadcrumbs skipJsonLd={true} />
         </div>
       </div>
 

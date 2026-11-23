@@ -54,7 +54,7 @@ Whether you are aspiring for engineering, management, legal studies, or new-age 
 
 ## 🏛️ IMS Unison University Dehradun: University Overview & Accreditation
 
-IMS Unison University (IUU) in Dehradun, starting as the prestigious [Institute of Management Studies](/colleges/institute-of-management-studies) in 1996, is a specialized private university dedicated to Business Administration, Law, Hospitality, and Liberal Arts. Located on Mussoorie Road, IUU is celebrated for its corporate-styled pedagogy and excellent BFSI/Consulting placements.
+IMS Unison University (IUU) in Dehradun, starting as the prestigious [Institute of Management Studies](/colleges/institute-of-management-studies/) in 1996, is a specialized private university dedicated to Business Administration, Law, Hospitality, and Liberal Arts. Located on Mussoorie Road, IUU is celebrated for its corporate-styled pedagogy and excellent BFSI/Consulting placements.
 
 ### Key Institutional Highlights (2026)
 
@@ -161,10 +161,10 @@ Admissions for 2026 at IMS Unison University, Dehradun are conducted based on en
 
 ## 🔗 Related Resources & Internal Links
 
-- [CAT 2026 Complete Exam Guide & Preparation Strategy](/blog/all-about-cat-exam)
-- [Top MBA & PGDM Colleges in India 2026: Placements, Fees & Cutoffs](/blog/all-about-iim-colleges-placements-fees-selection-2026)
-- [Direct Admission in BBA & MBA 2026 (Management Quota Guide)](/blog/direct-bba-admission-2026-management-quota)
-- [Compare B.Tech vs BCA: Career & Salary Guide](/blog/btech-vs-bca-career-guide)
+- [CAT 2026 Complete Exam Guide & Preparation Strategy](/blog/all-about-cat-exam/)
+- [Top MBA & PGDM Colleges in India 2026: Placements, Fees & Cutoffs](/blog/all-about-iim-colleges-placements-fees-selection-2026/)
+- [Direct Admission in BBA & MBA 2026 (Management Quota Guide)](/blog/direct-bba-admission-2026-management-quota/)
+- [Compare B.Tech vs BCA: Career & Salary Guide](/blog/bca-vs-btech-cse-which-is-better-for-your-career-2026/)
 
 ---
 

@@ -41,7 +41,7 @@ location: Delhi NCR
 state: Delhi NCR
 ---
 
-**[GD Goenka University](/colleges/gd-goenka-university) (GDGU)**, located in the corporate hub of Gurugram (Sohna Road), is a premier multidisciplinary private university. Accredited with **NAAC Grade 'A+'**, it is recognized for its industry-integrated engineering programs and specialized tracks in AI, Machine Learning, and Robotics.
+**[GD Goenka University](/colleges/gd-goenka-university/) (GDGU)**, located in the corporate hub of Gurugram (Sohna Road), is a premier multidisciplinary private university. Accredited with **NAAC Grade 'A+'**, it is recognized for its industry-integrated engineering programs and specialized tracks in AI, Machine Learning, and Robotics.
 
 ### **GD Goenka Admission Channels 2026**
 1.  **Entrance Route**: Based on scores in **JEE Main 2026**, **CUET UG**, or the university's own **GATA** (Goenka Aptitude Test for Admission).
@@ -61,7 +61,7 @@ GD Goenka is accessible to merit-based candidates with decent JEE scores or high
 | **Class 10+2 (PCM)** | 80% - 90% | 70% - 80% |
 | **CUET Score** | 80th Percentile+ | 75th Percentile+ |
 
-### **[GD Goenka University](/colleges/gd-goenka-university) B.Tech Fee Structure 2026**
+### **[GD Goenka University](/colleges/gd-goenka-university/) B.Tech Fee Structure 2026**
 GDGU offers premium facilities at an annual fee comparable to other top-tier Gurugram private universities.
 *   **Annual Tuition Fee (CSE)**: approx. ₹2.75 Lakhs.
 *   **Total 4-Year Tuition Cost**: **₹11.1 Lakhs - ₹13.3 Lakhs** (for Aerospace/CSE).
@@ -80,9 +80,9 @@ The proximity to Cyber City and Udyog Vihar gives GD Goenka students a significa
 **Cons**: Hostel and mess charges are relatively high, campus environment is corporate-centric rather than traditional academic.
 
 Explore other top NCR private universities:
-*   [Bennett University Greater Noida: Review](/blog/bennett-university-btech-admission-2026-fees-review)
-*   [BML Munjal University: Admission Guide](/blog/bml-munjal-university-btech-admission-2026-fees-review)
-*   [KR Mangalam University: Admission & Review](/blog/kr-mangalam-university-btech-admission-2026-fees-review)
+*   [Bennett University Greater Noida: Review](/blog/bennett-university-btech-admission-2026-fees-review/)
+*   [BML Munjal University: Admission Guide](/blog/bml-munjal-university-btech-admission-2026-fees-review/)
+*   [KR Mangalam University: Admission & Review](/blog/kr-mangalam-university-btech-admission-2026-fees-review/)
 
 **Confused Between GD Goenka and Amity?**
 GD Goenka is often preferred for its slightly more focused student intake and business-centric campus atmosphere. At **CareerWithMohit**, we help you choose the right private university in Gurugram based on your commuting radius and branch preference.

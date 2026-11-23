@@ -58,13 +58,13 @@ Here are the **Top BBA Colleges in Delhi for 2026**.
 - **Entrance Exam:** CUET (Common University Entrance Test)
 - **USP:** The "IIM of Undergraduate Management." Best ROI in India with placements matching top MBA colleges.
 
-### 2. Maharaja Agrasen [Institute of Management Studies](/colleges/institute-of-management-studies) (MAIMS)
+### 2. Maharaja Agrasen [Institute of Management Studies](/colleges/institute-of-management-studies/) (MAIMS)
 - **Approx. Fees:** ₹1.0 - 1.2 Lakhs (Annual)
 - **Average Placement:** ₹4 - 6 LPA
 - **Entrance Exam:** GGSIPU CET / CUET
 - **USP:** Top-ranked college under IP University known for its discipline and academic results.
 
-### 3. [Jamia Millia Islamia (JMI)](/colleges/jamia-millia-islamia), Delhi
+### 3. [Jamia Millia Islamia (JMI)](/colleges/jamia-millia-islamia/), Delhi
 - **Approx. Fees:** ₹13,000 (Annual)
 - **Average Placement:** ₹4 - 5 LPA
 - **Entrance Exam:** JMI Entrance Exam
@@ -88,9 +88,9 @@ If you can clear the **CUET** with a high score, **SSCBS** is the best decision 
 ---
 
 ## 🔗 Related Resources
-- [Top BBA Colleges in Delhi NCR 2026](/blog/top-bba-colleges-delhi-ncr)
-- [Admission Guide for 2026](/blog/career-roadmaps-2026)
-- [Top Law Colleges in Delhi 2026](/blog/top-law-colleges-delhi-ncr)
+- [Top BBA Colleges in Delhi NCR 2026](/blog/top-bba-colleges-delhi-ncr/)
+- [Admission Guide for 2026](/blog/career-roadmaps-2026/)
+- [Top Law Colleges in Delhi 2026](/blog/top-law-colleges-delhi-ncr/)
 
 ---
 

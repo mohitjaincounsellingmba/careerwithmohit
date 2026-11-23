@@ -18,9 +18,9 @@ tags:
   - PGDM
   - Top Colleges
 description: >-
-  Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Gurgaon, Delhi NCR. Get details on top colleges under GGSIPU, DU,
-  and priva
+  Great Lakes Institute of Management: Detailed guide covering total fees,
+  cutoffs, average placement packages, eligibility criteria & direct admission
+  process.
 keywords:
   - career counselling
   - admissions 2026
@@ -124,7 +124,7 @@ Cutoffs for Gurgaon are slightly more relaxed than Chennai but are climbing rapi
 
 ## Quick Comparison: Chennai vs Gurgaon
 
-| Parameter | Great Lakes Chennai | [Great Lakes Gurgaon](/colleges/great-lakes-gurgaon) |
+| Parameter | Great Lakes Chennai | [Great Lakes Gurgaon](/colleges/great-lakes-gurgaon/) |
 | :--- | :--- | :--- |
 | **Status** | Flagship Campus | Growing Corporate Hub |
 | **PGPM (1-Yr) Avg. Package** | ₹17.80 LPA | ₹15.10 LPA |

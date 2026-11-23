@@ -43,7 +43,7 @@ faqs:
 location: Delhi NCR
 state: Delhi NCR
 ---
-Choosing the right B-School in Delhi NCR can be overwhelming given the number of options. For students looking at institutes with fees under ₹10 Lakhs, **[Jagan Institute of Management Studies](/colleges/jagan-institute-of-management-studies) (JIMS) Rohini** and **[Fortune Institute of International Business](/colleges/fortune-institute-of-international-business) (FIIB) Delhi** are two of the most popular choices. 
+Choosing the right B-School in Delhi NCR can be overwhelming given the number of options. For students looking at institutes with fees under ₹10 Lakhs, **[Jagan Institute of Management Studies](/colleges/jagan-institute-of-management-studies/) (JIMS) Rohini** and **[Fortune Institute of International Business](/colleges/fortune-institute-of-international-business/) (FIIB) Delhi** are two of the most popular choices. 
 
 Both institutes offer robust PGDM programs and have a long-standing legacy in management education. However, when we dive deep into the data—especially ROI, corporate exposure, and average placements—certain clear winners emerge. In this detailed comparison for the 2027–2029 intake, we break down why **FIIB Delhi holds a strong strategic advantage** for MBA/PGDM aspirants.
 
@@ -121,11 +121,11 @@ While both institutions check the boxes for a solid management education under 1
 * It offers a **better ROI** (lower fees + higher average placements).
 * You get the unbeatable **South Delhi location advantage**, keeping you closer to corporate hubs.
 * The curriculum provides a stronger, more modern **global corporate outlook**, which aligns perfectly with what top MNC recruiters seek today.
-* 👉 [Read our full, detailed review of FIIB Delhi here](/all-about-fiib)
+* 👉 [Read our full, detailed review of FIIB Delhi here](/colleges/abbs-school-of-management/)
 
 **Choose JIMS Rohini only if:**
 * Location in North Delhi is a strict personal preference or constraint for you.
-* 👉 [Read our full, detailed review of JIMS Rohini here](/all-about-jims-rohini)
+* 👉 [Read our full, detailed review of JIMS Rohini here](/colleges/jims-rohini/)
 
 ---
 

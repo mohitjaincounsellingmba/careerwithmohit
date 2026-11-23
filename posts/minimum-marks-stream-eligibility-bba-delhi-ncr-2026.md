@@ -69,7 +69,7 @@ Admissions to elite Delhi University management programs (BMS and BBA in Financi
 
 ### 2. Where Mathematics is NOT Required
 Most private universities and state-affiliated colleges in Delhi NCR do not require Mathematics in Class 12.
-- **Key Colleges:** Symbiosis (SCMS Noida), IP University colleges (MAIMS, MSI, VIPS), [Amity University](/colleges/amity-noida), [Galgotias University](/colleges/galgotias-university), [BML Munjal University](/colleges/bml-munjal-gurgaon).
+- **Key Colleges:** Symbiosis (SCMS Noida), IP University colleges (MAIMS, MSI, VIPS), [Amity University](/colleges/amity-noida/), [Galgotias University](/colleges/galgotias-university/), [BML Munjal University](/colleges/bml-munjal-gurgaon/).
 - **Rule:** General eligibility is based on total aggregate score, regardless of whether you took Mathematics.
 
 ---
@@ -99,15 +99,15 @@ To qualify for application, you must meet the minimum board percentage:
 | **Delhi University (DU)** | Mathematics / Applied Maths | 60% | No |
 | **IP University (GGSIPU)** | English + Best 4 subjects | 50% | **Yes** |
 | **Symbiosis (SET)** | English + Best 4 subjects | 50% | **Yes** |
-| **[Amity University](/colleges/amity-noida)** | Any stream subjects | 55% (Non-sponsored) | **Yes** |
+| **[Amity University](/colleges/amity-noida/)** | Any stream subjects | 55% (Non-sponsored) | **Yes** |
 | **Jamia Millia (JMI)** | Any stream subjects | 50% | **Yes** |
 
 ---
 
 ## 🔗 Related Resources
-- [BBA Colleges Without Maths — 2026 Guide](/blog/bba-colleges-without-maths-eligibility-2026)
-- [How to Choose: SSCBS vs Jamia Millia vs Amity](/blog/choose-right-bba-college-delhi-ncr-jamia-vs-amity-vs-sscbs)
-- [BBA Specializations for 2026 Admissions](/blog/bba-specializations-skills-salary-2026-guide)
+- [BBA Colleges Without Maths — 2026 Guide](/blog/bba-colleges-without-maths-eligibility-2026/)
+- [How to Choose: SSCBS vs Jamia Millia vs Amity](/blog/choose-right-bba-college-delhi-ncr-jamia-vs-amity-vs-sscbs/)
+- [BBA Specializations for 2026 Admissions](/blog/bba-specializations-skills-salary-2026-guide/)
 
 ---
 

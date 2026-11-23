@@ -106,9 +106,9 @@ Maintaining **Professional Skepticism**. You have to assume everything is wrong 
 ---
 
 ### Useful Links:
-- [Investment Banking Career Path 2026 Guide](/blog/investment-banking-career-path-salary-2026)
-- [CFA Course Guide 2026 — Dates & Syllabus](/blog/cfa-course-guide-exam-dates-syllabus-2026)
-- [GST Basics for Beginners 2026](/blog/gst-basics-beginners-filing-rates-guide-2026)
+- [Investment Banking Career Path 2026 Guide](/blog/investment-banking-career-path-salary-2026/)
+- [CFA Course Guide 2026 — Dates & Syllabus](/blog/cfa-course-guide-exam-dates-syllabus-2026/)
+- [GST Basics for Beginners 2026](/blog/gst-basics-beginners-filing-rates-guide-2026/)
 
 ---
 

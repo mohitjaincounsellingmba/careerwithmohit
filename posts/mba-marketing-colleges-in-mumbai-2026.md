@@ -45,9 +45,9 @@ For students planning their admissions for the 2027–2029 intake, this guide hi
 
 | College Name | Accepted Entrance Exams | Total Program Fees | Average Placement Package |
 | :--- | :--- | :--- | :--- |
-| **[JBIMS Mumbai](/colleges/jbims-mumbai) (Jamnalal Bajaj [Institute of Management Studies](/colleges/institute-of-management-studies))** | MAH CET / CAT | ₹6.0 Lakhs (Total) | **₹28.02 LPA** |
-| **[SPJIMR Mumbai](/colleges/spjimr-mumbai)** | CAT / GMAT | ₹24.0 Lakhs (Total) | **₹33.00 LPA** |
-| **[NMIMS Mumbai](/colleges/nmims-mumbai) (School of Business Management)** | NMAT | ₹24.0 Lakhs (Total) | **₹26.63 LPA** |
+| **[JBIMS Mumbai](/colleges/jbims-mumbai/) (Jamnalal Bajaj [Institute of Management Studies](/colleges/institute-of-management-studies/))** | MAH CET / CAT | ₹6.0 Lakhs (Total) | **₹28.02 LPA** |
+| **[SPJIMR Mumbai](/colleges/spjimr-mumbai/)** | CAT / GMAT | ₹24.0 Lakhs (Total) | **₹33.00 LPA** |
+| **[NMIMS Mumbai](/colleges/nmims-mumbai/) (School of Business Management)** | NMAT | ₹24.0 Lakhs (Total) | **₹26.63 LPA** |
 | **Welingkar Mumbai (WeSchool)** | CAT / XAT / CMAT / ATMA | ₹14.0 Lakhs (Total) | **₹12.50 LPA** |
 | **SIMSREE Mumbai** | MAH CET / CAT | ₹1.36 Lakhs (Total) | **₹12.30 LPA** |
 
@@ -70,19 +70,19 @@ Choosing a B-school in this region offers key advantages:
 
 ## 🔍 Detailed Analysis of Top B-Schools in Mumbai
 
-### 1. [JBIMS Mumbai](/colleges/jbims-mumbai) (Jamnalal Bajaj [Institute of Management Studies](/colleges/institute-of-management-studies))
+### 1. [JBIMS Mumbai](/colleges/jbims-mumbai/) (Jamnalal Bajaj [Institute of Management Studies](/colleges/institute-of-management-studies/))
 - **Approximate Fees:** ₹6.0 Lakhs (Total)
 - **Accepted Entrance Exams:** MAH CET / CAT
 - **Average Placement Package:** **₹28.02 LPA**
 - **Key Highlight:** The legendary 'CEO Factory' offering exceptional brand management placements and industry-expert faculty.
 
-### 2. [SPJIMR Mumbai](/colleges/spjimr-mumbai)
+### 2. [SPJIMR Mumbai](/colleges/spjimr-mumbai/)
 - **Approximate Fees:** ₹24.0 Lakhs (Total)
 - **Accepted Entrance Exams:** CAT / GMAT
 - **Average Placement Package:** **₹33.00 LPA**
 - **Key Highlight:** Renowned for its value-based leadership and unmatched recruiter interest from top FMCG companies.
 
-### 3. [NMIMS Mumbai](/colleges/nmims-mumbai) (School of Business Management)
+### 3. [NMIMS Mumbai](/colleges/nmims-mumbai/) (School of Business Management)
 - **Approximate Fees:** ₹24.0 Lakhs (Total)
 - **Accepted Entrance Exams:** NMAT
 - **Average Placement Package:** **₹26.63 LPA**
@@ -111,9 +111,9 @@ Choosing a B-school in this region offers key advantages:
 ---
 
 ## 🔗 Related Resources
-- [Top MBA Colleges for Finance in India 2026 — Placements & Fees](/blog/top-mba-colleges-for-finance-specialization-india-2026)
-- [Best MBA Colleges with Low Fees & High ROI in India](/blog/best-mba-colleges-low-fees-high-roi-india-2026)
-- [Is Direct MBA Admission Without Entrance Exam Worth It?](/blog/direct-mba-admission-without-entrance-exam-2026-is-it-worth-it)
+- [Top MBA Colleges for Finance in India 2026 — Placements & Fees](/blog/top-mba-colleges-for-finance-specialization-india-2026/)
+- [Best MBA Colleges with Low Fees & High ROI in India](/blog/best-mba-colleges-low-fees-high-roi-india-2026/)
+- [Is Direct MBA Admission Without Entrance Exam Worth It?](/blog/direct-mba-admission-without-entrance-exam-2026-is-it-worth-it/)
 
 ---
 
@@ -131,8 +131,8 @@ Source: Shiksha.com
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### Why is [JBIMS Mumbai](/colleges/jbims-mumbai) highly favored for Marketing?
-[JBIMS Mumbai](/colleges/jbims-mumbai) is physically located near major corporate headquarters. Its classes are taught by industry MDs and CMOs, offering invaluable industry exposure.
+### Why is [JBIMS Mumbai](/colleges/jbims-mumbai/) highly favored for Marketing?
+[JBIMS Mumbai](/colleges/jbims-mumbai/) is physically located near major corporate headquarters. Its classes are taught by industry MDs and CMOs, offering invaluable industry exposure.
 
 ### Do I need MAH CET to get into JBIMS?
 Yes, JBIMS primarily accepts MAH CET for Maharashtra state seats, but also reserves seats for All India candidates applying via CAT or CMAT.

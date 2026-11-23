@@ -20,14 +20,14 @@ faqs:
       The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
 ---
 
-### **College Review: [International Mira-Bhayandar Institute of Business Studies](/colleges/international-mira-bhayandar-institute-of-business-studies)**
+### **College Review: [International Mira-Bhayandar Institute of Business Studies](/colleges/international-mira-bhayandar-institute-of-business-studies/)**
 *   **Quality Curriculum**: Tailored directly to industry requirements with standard practical case studies.
 *   **Established Brand**: Over the years, it has earned a strong reputation among regional corporate employers.
 *   **Holistic Learning**: Focuses on both technical business skills and global soft skills development.
 
 ---
 
-### 📊 [International Mira-Bhayandar Institute of Business Studies](/colleges/international-mira-bhayandar-institute-of-business-studies) 2026 Snapshot
+### 📊 [International Mira-Bhayandar Institute of Business Studies](/colleges/international-mira-bhayandar-institute-of-business-studies/) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |
@@ -55,18 +55,18 @@ faqs:
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### 1. Is [International Mira-Bhayandar Institute of Business Studies](/colleges/international-mira-bhayandar-institute-of-business-studies) a good option for PGDM/MBA?
-Yes, [International Mira-Bhayandar Institute of Business Studies](/colleges/international-mira-bhayandar-institute-of-business-studies) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+### 1. Is [International Mira-Bhayandar Institute of Business Studies](/colleges/international-mira-bhayandar-institute-of-business-studies/) a good option for PGDM/MBA?
+Yes, [International Mira-Bhayandar Institute of Business Studies](/colleges/international-mira-bhayandar-institute-of-business-studies/) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
-### 2. What is the average package offered at [International Mira-Bhayandar Institute of Business Studies](/colleges/international-mira-bhayandar-institute-of-business-studies)?
-The average placement package at [International Mira-Bhayandar Institute of Business Studies](/colleges/international-mira-bhayandar-institute-of-business-studies) is approximately ₹7.8 LPA, with the highest package reaching up to ₹14.0 LPA.
+### 2. What is the average package offered at [International Mira-Bhayandar Institute of Business Studies](/colleges/international-mira-bhayandar-institute-of-business-studies/)?
+The average placement package at [International Mira-Bhayandar Institute of Business Studies](/colleges/international-mira-bhayandar-institute-of-business-studies/) is approximately ₹7.8 LPA, with the highest package reaching up to ₹14.0 LPA.
 
-### 3. What entrance exams are accepted by [International Mira-Bhayandar Institute of Business Studies](/colleges/international-mira-bhayandar-institute-of-business-studies)?
+### 3. What entrance exams are accepted by [International Mira-Bhayandar Institute of Business Studies](/colleges/international-mira-bhayandar-institute-of-business-studies/)?
 The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
 
 ---
 
-**Final Verdict**: [International Mira-Bhayandar Institute of Business Studies](/colleges/international-mira-bhayandar-institute-of-business-studies) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
+**Final Verdict**: [International Mira-Bhayandar Institute of Business Studies](/colleges/international-mira-bhayandar-institute-of-business-studies/) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
 [👉 Apply to International Mira-Bhayandar Institute of Business Studies](/inquiry) | [👉 Get Free Counselling](/inquiry)
 

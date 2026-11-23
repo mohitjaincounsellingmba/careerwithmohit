@@ -56,7 +56,7 @@ These institutions in **Bangalore** accept CUET UG scores for their integrated m
 > - **Eligibility & Selection**: Minimum 50% aggregate in Graduation (45% for reserved categories) plus GD-PI-WAT score.
 > - **ROI & Scholarships**: Merit scholarships ranging from 10% to 50% tuition waiver available for early 2027–29 applicants.
 
-## 1. [Jain University](/colleges/jain-university) - Integrated BBA + MBA
+## 1. [Jain University](/colleges/jain-university/) - Integrated BBA + MBA
 - **Approximate Fees:** ₹2.2 Lakhs (Annual)
 - **Accepted Entrance Exams:** CUET-UG / JET
 - **Average Placement Package:** **₹6.2 LPA**
@@ -82,7 +82,7 @@ Here is a quick snapshot comparing the fee structures and average placements for
 
 | College Name | Entrance Exams | Approximate Fees | Avg Placement Package |
 | :--- | :--- | :--- | :--- |
-| **[Jain University](/colleges/jain-university) - Integrated BBA + MBA** | CUET-UG / JET | ₹2.2 Lakhs (Annual) | **₹6.2 LPA** |
+| **[Jain University](/colleges/jain-university/) - Integrated BBA + MBA** | CUET-UG / JET | ₹2.2 Lakhs (Annual) | **₹6.2 LPA** |
 | **RV University - Integrated Management Pathway** | CUET-UG / RVSAT | ₹2.5 Lakhs (Annual) | **₹6.8 LPA** |
 | **REVA University - Integrated BBA + MBA** | CUET-UG / REE | ₹2.0 Lakhs (Annual) | **₹5.8 LPA** |
 
@@ -107,9 +107,9 @@ Pursuing a 5-Year Integrated MBA program after Class 12 offers several distinct 
 ---
 
 ## 🔗 Related Resources
-- [CUET UG University List 2026: City-wise Guide](/blog/cuet-ug-university-list-2026-citywise)
-- [CUET UG 2026 BBA Admission Guide](/blog/cuet-ug-2026-bba-admission-guide)
-- [Is Direct MBA Admission Without Entrance Exam Worth It?](/blog/direct-mba-admission-without-entrance-exam-2026-is-it-worth-it)
+- [CUET UG University List 2026: City-wise Guide](/blog/cuet-ug-university-list-2026-citywise/)
+- [CUET UG 2026 BBA Admission Guide](/blog/cuet-ug-2026-bba-admission-guide/)
+- [Is Direct MBA Admission Without Entrance Exam Worth It?](/blog/direct-mba-admission-without-entrance-exam-2026-is-it-worth-it/)
 
 ---
 

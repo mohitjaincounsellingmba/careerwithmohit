@@ -35,7 +35,7 @@ location: Mumbai
 state: Maharashtra
 ---
 
-### **College Review: [NMIMS Mumbai](/colleges/nmims-mumbai)**
+### **College Review: [NMIMS Mumbai](/colleges/nmims-mumbai/)**
 *   **Quality Curriculum**: Tailored directly to industry requirements with standard practical case studies.
 *   **Established Brand**: Over the years, it has earned a strong reputation among regional corporate employers.
 *   **Holistic Learning**: Focuses on both technical business skills and global soft skills development.
@@ -51,7 +51,7 @@ state: Maharashtra
 > - **Total Fee Structure**: Verified at ₹25.00 Lakhs for the complete 2-year full-time curriculum.
 > - **Placement & ROI Benchmark**: Average salary stands at ₹26.63 LPA (Highest ₹67.8 LPA) with AACSB Accredited.
 
-## 📊 [NMIMS Mumbai](/colleges/nmims-mumbai) 2026 Snapshot
+## 📊 [NMIMS Mumbai](/colleges/nmims-mumbai/) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |
@@ -79,18 +79,18 @@ state: Maharashtra
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### 1. Is [NMIMS Mumbai](/colleges/nmims-mumbai) a good option for PGDM/MBA?
-Yes, [NMIMS Mumbai](/colleges/nmims-mumbai) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+### 1. Is [NMIMS Mumbai](/colleges/nmims-mumbai/) a good option for PGDM/MBA?
+Yes, [NMIMS Mumbai](/colleges/nmims-mumbai/) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
-### 2. What is the average package offered at [NMIMS Mumbai](/colleges/nmims-mumbai)?
-The average placement package at [NMIMS Mumbai](/colleges/nmims-mumbai) is approximately ₹22.5 LPA, with the highest package reaching up to ₹42 LPA.
+### 2. What is the average package offered at [NMIMS Mumbai](/colleges/nmims-mumbai/)?
+The average placement package at [NMIMS Mumbai](/colleges/nmims-mumbai/) is approximately ₹22.5 LPA, with the highest package reaching up to ₹42 LPA.
 
-### 3. What entrance exams are accepted by [NMIMS Mumbai](/colleges/nmims-mumbai)?
+### 3. What entrance exams are accepted by [NMIMS Mumbai](/colleges/nmims-mumbai/)?
 The college accepts scores from national level entrance examinations including NMAT, CAT for the PGDM and MBA admissions.
 
 ---
 
-**Final Verdict**: [NMIMS Mumbai](/colleges/nmims-mumbai) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
+**Final Verdict**: [NMIMS Mumbai](/colleges/nmims-mumbai/) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
 [👉 Apply to NMIMS Mumbai](/inquiry) | [👉 Get Free Counselling](/inquiry)
 

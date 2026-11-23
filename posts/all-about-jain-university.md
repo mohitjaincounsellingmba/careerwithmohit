@@ -35,7 +35,7 @@ location: Bangalore
 state: Karnataka
 ---
 
-### **College Review: [Jain University](/colleges/jain-university)**
+### **College Review: [Jain University](/colleges/jain-university/)**
 *   **Quality Curriculum**: Tailored directly to industry requirements with standard practical case studies.
 *   **Established Brand**: Over the years, it has earned a strong reputation among regional corporate employers.
 *   **Holistic Learning**: Focuses on both technical business skills and global soft skills development.
@@ -51,7 +51,7 @@ state: Karnataka
 > - **Eligibility & Selection**: Minimum 50% aggregate in Graduation (45% for reserved categories) plus GD-PI-WAT score.
 > - **ROI & Scholarships**: Merit scholarships ranging from 10% to 50% tuition waiver available for early 2027–29 applicants.
 
-## 📊 [Jain University](/colleges/jain-university) 2026 Snapshot
+## 📊 [Jain University](/colleges/jain-university/) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |
@@ -79,18 +79,18 @@ state: Karnataka
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### 1. Is [Jain University](/colleges/jain-university) a good option for PGDM/MBA?
-Yes, [Jain University](/colleges/jain-university) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+### 1. Is [Jain University](/colleges/jain-university/) a good option for PGDM/MBA?
+Yes, [Jain University](/colleges/jain-university/) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
-### 2. What is the average package offered at [Jain University](/colleges/jain-university)?
-The average placement package at [Jain University](/colleges/jain-university) is approximately ₹6.2 LPA, with the highest package reaching up to ₹15.8 LPA.
+### 2. What is the average package offered at [Jain University](/colleges/jain-university/)?
+The average placement package at [Jain University](/colleges/jain-university/) is approximately ₹6.2 LPA, with the highest package reaching up to ₹15.8 LPA.
 
-### 3. What entrance exams are accepted by [Jain University](/colleges/jain-university)?
+### 3. What entrance exams are accepted by [Jain University](/colleges/jain-university/)?
 The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
 
 ---
 
-**Final Verdict**: [Jain University](/colleges/jain-university) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
+**Final Verdict**: [Jain University](/colleges/jain-university/) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
 [👉 Apply to Jain University](/inquiry) | [👉 Get Free Counselling](/inquiry)
 

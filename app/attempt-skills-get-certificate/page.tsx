@@ -14,5 +14,5 @@ export const metadata: Metadata = {
 };
 
 export default function AttemptSkillsGetCertificateAliasPage() {
-  redirect('/skill-assessment-certificate');
+  redirect('/skill-assessment-certificate/');
 }

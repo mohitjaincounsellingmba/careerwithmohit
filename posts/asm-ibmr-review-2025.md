@@ -1,17 +1,17 @@
 ---
-title: '[ASM IBMR](/colleges/asm-ibmr) Pune Review 2025: Legacy & Placements'
+title: '[ASM IBMR](/colleges/asm-ibmr/) Pune Review 2025: Legacy & Placements'
 date: '2026-03-14'
 description: >-
-  Is [ASM IBMR](/colleges/asm-ibmr) good for MBA? Read our 2025 review on
-  placements, fees, and the industrial legacy of [ASM IBMR](/colleges/asm-ibmr)
+  Is [ASM IBMR](/colleges/asm-ibmr/) good for MBA? Read our 2025 review on
+  placements, fees, and the industrial legacy of [ASM IBMR](/colleges/asm-ibmr/)
   Pune.
 keywords:
-  - '[ASM IBMR](/colleges/asm-ibmr) Pune review 2025'
-  - '[ASM IBMR](/colleges/asm-ibmr) placements'
-  - '[ASM IBMR](/colleges/asm-ibmr) fees'
-  - '[ASM IBMR](/colleges/asm-ibmr) Pune reviews'
+  - '[ASM IBMR](/colleges/asm-ibmr/) Pune review 2025'
+  - '[ASM IBMR](/colleges/asm-ibmr/) placements'
+  - '[ASM IBMR](/colleges/asm-ibmr/) fees'
+  - '[ASM IBMR](/colleges/asm-ibmr/) Pune reviews'
   - best management college in Chinchwad
-  - '[ASM IBMR](/colleges/asm-ibmr) average package 2025'
+  - '[ASM IBMR](/colleges/asm-ibmr/) average package 2025'
   - Pune Colleges
   - Best Colleges in Pune
   - Top Colleges in Pune 2026
@@ -52,7 +52,7 @@ ASM's Institute of Business Management & Research (IBMR) is one of the oldest ma
 ### **Fee Structure:**
 The total fee is **₹8.25 Lakhs** for PGDM and around **₹4.80 Lakhs** for MBA. It's a solid choice for students looking for a stable, legacy-backed education.
 
-[👉 Secure your seat at [ASM IBMR](/colleges/asm-ibmr) Pune today!](/inquiry)
+[👉 Secure your seat at [ASM IBMR](/colleges/asm-ibmr/) Pune today!](/inquiry)
 
 ---
 

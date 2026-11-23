@@ -3,9 +3,8 @@ title: Top MBA Colleges for CAT 70-80 Percentile 2026 — Placements & Fees
 date: '2026-04-21'
 category: MBA Admissions
 description: >-
-  Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Noida, Greater Noida, Delhi NCR. Get details on top colleges under
-  GGSIPU, 
+  Scoring between a 70 and 80 percentile in CAT can feel like being in a 'no
+  man's land. Check fees, cutoffs, placements & expert admission tips.
 keywords:
   - colleges for 70 percentile cat 2026
   - mba colleges for 80 percentile cat
@@ -63,7 +62,7 @@ However, here is the secret: **Some of India's best private B-schools thrive in 
 | **FORE School**| New Delhi | ₹17.5 Lakhs | ₹14.50 LPA |
 | **GIM Goa** | Goa | ₹18.5 Lakhs | ₹14.80 LPA |
 | **Great Lakes**| Chennai | ₹19.5 Lakhs | ₹14.50 LPA |
-| **[XIME Bangalore](/colleges/xime-bangalore)**| Bangalore | ₹12.5 Lakhs | ₹10.30 LPA |
+| **[XIME Bangalore](/colleges/xime-bangalore/)**| Bangalore | ₹12.5 Lakhs | ₹10.30 LPA |
 | **NDIM Delhi** | New Delhi | ₹10.5 Lakhs | ₹9.50 LPA |
 | **KIIT School** | Bhubaneswar| ₹14.5 Lakhs | ₹9.0 LPA |
 
@@ -75,7 +74,7 @@ However, here is the secret: **Some of India's best private B-schools thrive in 
 
 ## 🏛️ The "Safe Bets" in Delhi NCR
 
-### 1. [BIMTECH, Greater Noida](/colleges/bimtech-greater-noida)
+### 1. [BIMTECH, Greater Noida](/colleges/bimtech-greater-noida/)
 Consistently ranks among the top private B-schools in North India. While their flagship PGDM might require higher scores, their MBA/PGDM in **Insurance or Retail Management** often accepts students in the 70-75 range.
 - **Top Recruiters:** Infosys, ICICI Bank, Maruti Suzuki.
 
@@ -127,9 +126,9 @@ Most close by **mid-January**. It is better to apply *before* the CAT result is 
 ---
 
 ### Useful Links:
-- [Best MBA Colleges with Low Fees & High ROI 2026](/blog/best-mba-colleges-low-fees-high-roi-india-2026)
-- [MBA Colleges Under 10 Lakhs NCR Guide](/blog/private-mba-colleges-under-10-lakhs-delhi-ncr)
-- [Top MBA Colleges in Bangalore 2026](/blog/top-mba-colleges-bangalore-2026)
+- [Best MBA Colleges with Low Fees & High ROI 2026](/blog/best-mba-colleges-low-fees-high-roi-india-2026/)
+- [MBA Colleges Under 10 Lakhs NCR Guide](/blog/private-mba-colleges-under-10-lakhs-delhi-ncr/)
+- [Top MBA Colleges in Bangalore 2026](/blog/top-mba-colleges-bangalore-2026/)
 
 ---
 

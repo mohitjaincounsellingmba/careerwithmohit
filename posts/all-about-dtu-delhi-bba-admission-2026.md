@@ -3,7 +3,7 @@ title: 'DTU Delhi BBA Admission 2026: Fees, Placements & CUET Guide'
 date: '2026-05-15'
 category: BBA Admissions
 description: >-
-  Planning to join [DTU (Delhi Technological University)](/colleges/dtu-delhi)
+  Planning to join [DTU (Delhi Technological University)](/colleges/dtu-delhi/)
   for BBA in 2026? Learn about the admission process via CUET, latest fees, and
   strong placements.
 keywords:
@@ -75,9 +75,9 @@ The BBA program is conducted at the **East Delhi Campus (USME)** of DTU, located
 No, all admissions are strictly through the CUET merit list for the specified year.
 
 ## 🔗 Useful Links:
-- [Top 10 BBA Colleges in Delhi 2026](/blog/top-10-bba-colleges-delhi-2026)
-- [SSCBS Delhi BBA Admission Guide 2026](/blog/all-about-sscbs-delhi-bba-admission-2026)
-- [BBA Specializations — Skills & Salary Guide](/blog/bba-specializations-skills-salary-2026-guide)
+- [Top 10 BBA Colleges in Delhi 2026](/blog/top-10-bba-colleges-delhi-2026/)
+- [SSCBS Delhi BBA Admission Guide 2026](/blog/all-about-sscbs-delhi-bba-admission-2026/)
+- [BBA Specializations — Skills & Salary Guide](/blog/bba-specializations-skills-salary-2026-guide/)
 
 ---
 

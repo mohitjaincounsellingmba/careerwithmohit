@@ -95,9 +95,9 @@ For the regular PGDM, CAT or XAT is mandatory. For NRI candidates, GMAT is accep
 ---
 
 ## 🔗 Related Resources
-- [Best MBA Colleges in Delhi NCR 2026](/blog/best-mba-colleges-in-delhi-2026)
-- [Comparison: IMT vs IMI vs MDI](/blog/mba-vs-pgdm-difference)
-- [Direct MBA Admission India 2026 FAQs](/blog/direct-mba-admission-india)
+- [Best MBA Colleges in Delhi NCR 2026](/blog/best-mba-colleges-in-delhi-2026/)
+- [Comparison: IMT vs IMI vs MDI](/blog/mba-vs-pgdm-difference/)
+- [Direct MBA Admission India 2026 FAQs](/blog/direct-mba-admission-india/)
 
 [👉 Want to secure your seat at IMT Ghaziabad? Book a profile evaluation session today!](/inquiry)
 

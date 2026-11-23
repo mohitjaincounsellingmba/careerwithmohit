@@ -62,13 +62,13 @@ These institutions in **Gurgaon** accept CUET UG scores for their integrated man
 > - **Eligibility & Selection**: Minimum 50% aggregate in Graduation (45% for reserved categories) plus GD-PI-WAT score.
 > - **ROI & Scholarships**: Merit scholarships ranging from 10% to 50% tuition waiver available for early 2027–29 applicants.
 
-## 1. [BML Munjal University](/colleges/bml-munjal-gurgaon) - Integrated MBA
+## 1. [BML Munjal University](/colleges/bml-munjal-gurgaon/) - Integrated MBA
 - **Approximate Fees:** ₹3.0 Lakhs (Annual)
 - **Accepted Entrance Exams:** CUET-UG / UGAT
 - **Average Placement Package:** **₹7.5 LPA**
 - **Key Highlight:** Mentored by Imperial College London, offering deep practical exposure and case study methods.
 
-### 2. [GD Goenka University](/colleges/gd-goenka-university) - Integrated MBA
+### 2. [GD Goenka University](/colleges/gd-goenka-university/) - Integrated MBA
 - **Approximate Fees:** ₹2.5 Lakhs (Annual)
 - **Accepted Entrance Exams:** CUET-UG / GATA
 - **Average Placement Package:** **₹5.8 LPA**
@@ -88,8 +88,8 @@ Here is a quick snapshot comparing the fee structures and average placements for
 
 | College Name | Entrance Exams | Approximate Fees | Avg Placement Package |
 | :--- | :--- | :--- | :--- |
-| **[BML Munjal University](/colleges/bml-munjal-gurgaon) - Integrated MBA** | CUET-UG / UGAT | ₹3.0 Lakhs (Annual) | **₹7.5 LPA** |
-| **[GD Goenka University](/colleges/gd-goenka-university) - Integrated MBA** | CUET-UG / GATA | ₹2.5 Lakhs (Annual) | **₹5.8 LPA** |
+| **[BML Munjal University](/colleges/bml-munjal-gurgaon/) - Integrated MBA** | CUET-UG / UGAT | ₹3.0 Lakhs (Annual) | **₹7.5 LPA** |
+| **[GD Goenka University](/colleges/gd-goenka-university/) - Integrated MBA** | CUET-UG / GATA | ₹2.5 Lakhs (Annual) | **₹5.8 LPA** |
 | **K.R. Mangalam University - Integrated BBA + MBA** | CUET-UG | ₹1.8 Lakhs (Annual) | **₹5.0 LPA** |
 
 ---
@@ -113,9 +113,9 @@ Pursuing a 5-Year Integrated MBA program after Class 12 offers several distinct 
 ---
 
 ## 🔗 Related Resources
-- [CUET UG University List 2026: City-wise Guide](/blog/cuet-ug-university-list-2026-citywise)
-- [CUET UG 2026 BBA Admission Guide](/blog/cuet-ug-2026-bba-admission-guide)
-- [Is Direct MBA Admission Without Entrance Exam Worth It?](/blog/direct-mba-admission-without-entrance-exam-2026-is-it-worth-it)
+- [CUET UG University List 2026: City-wise Guide](/blog/cuet-ug-university-list-2026-citywise/)
+- [CUET UG 2026 BBA Admission Guide](/blog/cuet-ug-2026-bba-admission-guide/)
+- [Is Direct MBA Admission Without Entrance Exam Worth It?](/blog/direct-mba-admission-without-entrance-exam-2026-is-it-worth-it/)
 
 ---
 

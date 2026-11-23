@@ -56,7 +56,7 @@ For students planning their admissions for the 2026 academic year, here is a det
 
 These private business schools keep their annual tuition fees under ₹1.5 Lakhs (or offer highly competitive packages) while maintaining active corporate relations and placement support.
 
-### 1. Maharaja Agrasen [Institute of Management Studies](/colleges/institute-of-management-studies) (MAIMS)
+### 1. Maharaja Agrasen [Institute of Management Studies](/colleges/institute-of-management-studies/) (MAIMS)
 - **Approximate Fees:** ₹1.1 Lakhs (Annual)
 - **Accepted Entrance Exams:** IPU CET / CUET-UG
 - **Average Placement Package:** **₹4.5 LPA**
@@ -68,19 +68,19 @@ These private business schools keep their annual tuition fees under ₹1.5 Lakhs
 - **Average Placement Package:** **₹4.6 LPA**
 - **Key Highlight:** Premium campus in Pitampura offering stellar faculty and active corporate placement drive.
 
-### 3. [Maharaja Surajmal Institute (MSI)](/colleges/maharaja-surajmal-institute-msi-delhi)
+### 3. [Maharaja Surajmal Institute (MSI)](/colleges/maharaja-surajmal-institute-msi-delhi/)
 - **Approximate Fees:** ₹1.1 Lakhs (Annual)
 - **Accepted Entrance Exams:** IPU CET / CUET-UG
 - **Average Placement Package:** **₹4.8 LPA**
 - **Key Highlight:** Consistently ranked top under IP University with top-tier BBA placements and ROI.
 
-### 4. [Jagan Institute of Management Studies](/colleges/jagan-institute-of-management-studies) (JIMS Rohini)
+### 4. [Jagan Institute of Management Studies](/colleges/jagan-institute-of-management-studies/) (JIMS Rohini)
 - **Approximate Fees:** ₹1.2 Lakhs (Annual)
 - **Accepted Entrance Exams:** IPU CET / CUET-UG
 - **Average Placement Package:** **₹4.2 LPA**
 - **Key Highlight:** Offers excellent industry interactions, skill development modules, and corporate training.
 
-### 5. [Trinity Institute of Professional Studies](/colleges/trinity-institute-of-professional-studies-delhi) (TIPS Dwarka)
+### 5. [Trinity Institute of Professional Studies](/colleges/trinity-institute-of-professional-studies-delhi/) (TIPS Dwarka)
 - **Approximate Fees:** ₹1.0 Lakhs (Annual)
 - **Accepted Entrance Exams:** IPU CET / CUET-UG
 - **Average Placement Package:** **₹3.8 LPA**
@@ -100,11 +100,11 @@ Here is a quick snapshot comparing the fee structures and average placements for
 
 | College Name | Entrance Exams | Approximate Fees | Avg Placement Package |
 | :--- | :--- | :--- | :--- |
-| **Maharaja Agrasen [Institute of Management Studies](/colleges/institute-of-management-studies) (MAIMS)** | IPU CET / CUET-UG | ₹1.1 Lakhs (Annual) | **₹4.5 LPA** |
+| **Maharaja Agrasen [Institute of Management Studies](/colleges/institute-of-management-studies/) (MAIMS)** | IPU CET / CUET-UG | ₹1.1 Lakhs (Annual) | **₹4.5 LPA** |
 | **Vivekananda Institute of Professional Studies (VIPS)** | IPU CET / CUET-UG | ₹1.2 Lakhs (Annual) | **₹4.6 LPA** |
-| **[Maharaja Surajmal Institute (MSI)](/colleges/maharaja-surajmal-institute-msi-delhi)** | IPU CET / CUET-UG | ₹1.1 Lakhs (Annual) | **₹4.8 LPA** |
-| **[Jagan Institute of Management Studies](/colleges/jagan-institute-of-management-studies) (JIMS Rohini)** | IPU CET / CUET-UG | ₹1.2 Lakhs (Annual) | **₹4.2 LPA** |
-| **[Trinity Institute of Professional Studies](/colleges/trinity-institute-of-professional-studies-delhi) (TIPS Dwarka)** | IPU CET / CUET-UG | ₹1.0 Lakhs (Annual) | **₹3.8 LPA** |
+| **[Maharaja Surajmal Institute (MSI)](/colleges/maharaja-surajmal-institute-msi-delhi/)** | IPU CET / CUET-UG | ₹1.1 Lakhs (Annual) | **₹4.8 LPA** |
+| **[Jagan Institute of Management Studies](/colleges/jagan-institute-of-management-studies/) (JIMS Rohini)** | IPU CET / CUET-UG | ₹1.2 Lakhs (Annual) | **₹4.2 LPA** |
+| **[Trinity Institute of Professional Studies](/colleges/trinity-institute-of-professional-studies-delhi/) (TIPS Dwarka)** | IPU CET / CUET-UG | ₹1.0 Lakhs (Annual) | **₹3.8 LPA** |
 | **Rukmini Devi Institute of Advanced Studies (RDIAS)** | IPU CET / CUET-UG | ₹95,000 (Annual) | **₹3.6 LPA** |
 
 ---
@@ -127,9 +127,9 @@ Return on Investment (ROI) is the ultimate metric for business students. When yo
 ---
 
 ## 🔗 Related Resources
-- [Best BBA Specializations for 2026](/blog/bba-specializations-skills-salary-2026-guide)
-- [BBA vs BCom vs BMS: Career Comparison](/blog/bba-vs-bcom-vs-bms-career-comparison)
-- [Direct BBA Admission 2026](/blog/direct-bba-admission-2026-management-quota)
+- [Best BBA Specializations for 2026](/blog/bba-specializations-skills-salary-2026-guide/)
+- [BBA vs BCom vs BMS: Career Comparison](/blog/bba-vs-bcom-vs-bms-career-comparison/)
+- [Direct BBA Admission 2026](/blog/direct-bba-admission-2026-management-quota/)
 
 ---
 
@@ -154,7 +154,7 @@ Looking for more resources? **[Explore Our Premium Mock Test Series 2026 (CUET/I
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### Which is the best low budget private BBA college in Delhi?
-In Delhi, the top affordable private choices include institutes like Maharaja Agrasen [Institute of Management Studies](/colleges/institute-of-management-studies) (MAIMS) which offer annual BBA tuition fees ranging from ₹90,000 to ₹1.5 Lakhs, coupled with consistent local corporate placement support.
+In Delhi, the top affordable private choices include institutes like Maharaja Agrasen [Institute of Management Studies](/colleges/institute-of-management-studies/) (MAIMS) which offer annual BBA tuition fees ranging from ₹90,000 to ₹1.5 Lakhs, coupled with consistent local corporate placement support.
 
 ### Can I get direct admission in cheap private BBA colleges in Delhi?
 Yes, many private BBA institutions in Delhi offer direct admissions based on Class 12th board marks (merit-based) or via management quota, though some require standard exam scores like CUET-UG or state-level entrance scores.

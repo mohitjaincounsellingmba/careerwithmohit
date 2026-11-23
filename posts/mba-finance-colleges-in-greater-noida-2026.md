@@ -51,8 +51,8 @@ For students planning their admissions for the 2027–2029 intake, this guide hi
 
 | College Name | Accepted Entrance Exams | Total Program Fees | Average Placement Package |
 | :--- | :--- | :--- | :--- |
-| **BIMTECH ([Birla Institute of Management Technology](/colleges/birla-institute-of-management-technology))** | CAT / XAT / GMAT / CMAT | ₹14.0 Lakhs (Total) | **₹11.20 LPA** |
-| **GNIOT (GIMS - GNIOT [Institute of Management Studies](/colleges/institute-of-management-studies))** | MAT / CMAT / CAT | ₹6.2 Lakhs (Total) | **₹5.80 LPA** |
+| **BIMTECH ([Birla Institute of Management Technology](/colleges/birla-institute-of-management-technology/))** | CAT / XAT / GMAT / CMAT | ₹14.0 Lakhs (Total) | **₹11.20 LPA** |
+| **GNIOT (GIMS - GNIOT [Institute of Management Studies](/colleges/institute-of-management-studies/))** | MAT / CMAT / CAT | ₹6.2 Lakhs (Total) | **₹5.80 LPA** |
 | **GL Bajaj (GLBIMR)** | CMAT / MAT / CAT | ₹6.0 Lakhs (Total) | **₹6.00 LPA** |
 
 ---
@@ -74,13 +74,13 @@ Choosing a B-school in this region offers key advantages:
 
 ## 🔍 Detailed Analysis of Top B-Schools in Greater Noida
 
-### 1. BIMTECH ([Birla Institute of Management Technology](/colleges/birla-institute-of-management-technology))
+### 1. BIMTECH ([Birla Institute of Management Technology](/colleges/birla-institute-of-management-technology/))
 - **Approximate Fees:** ₹14.0 Lakhs (Total)
 - **Accepted Entrance Exams:** CAT / XAT / GMAT / CMAT
 - **Average Placement Package:** **₹11.20 LPA**
 - **Key Highlight:** Elite business school with deep roots in insurance, risk management, and retail banking.
 
-### 2. GNIOT (GIMS - GNIOT [Institute of Management Studies](/colleges/institute-of-management-studies))
+### 2. GNIOT (GIMS - GNIOT [Institute of Management Studies](/colleges/institute-of-management-studies/))
 - **Approximate Fees:** ₹6.2 Lakhs (Total)
 - **Accepted Entrance Exams:** MAT / CMAT / CAT
 - **Average Placement Package:** **₹5.80 LPA**
@@ -103,9 +103,9 @@ Choosing a B-school in this region offers key advantages:
 ---
 
 ## 🔗 Related Resources
-- [Top MBA Colleges for Finance in India 2026 — Placements & Fees](/blog/top-mba-colleges-for-finance-specialization-india-2026)
-- [Best MBA Colleges with Low Fees & High ROI in India](/blog/best-mba-colleges-low-fees-high-roi-india-2026)
-- [Is Direct MBA Admission Without Entrance Exam Worth It?](/blog/direct-mba-admission-without-entrance-exam-2026-is-it-worth-it)
+- [Top MBA Colleges for Finance in India 2026 — Placements & Fees](/blog/top-mba-colleges-for-finance-specialization-india-2026/)
+- [Best MBA Colleges with Low Fees & High ROI in India](/blog/best-mba-colleges-low-fees-high-roi-india-2026/)
+- [Is Direct MBA Admission Without Entrance Exam Worth It?](/blog/direct-mba-admission-without-entrance-exam-2026-is-it-worth-it/)
 
 ---
 

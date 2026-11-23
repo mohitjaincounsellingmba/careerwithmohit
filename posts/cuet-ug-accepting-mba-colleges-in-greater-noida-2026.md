@@ -67,19 +67,19 @@ These institutions in **Greater Noida** accept CUET UG scores for their integrat
 > - **Eligibility & Selection**: Minimum 50% aggregate in Graduation (45% for reserved categories) plus GD-PI-WAT score.
 > - **ROI & Scholarships**: Merit scholarships ranging from 10% to 50% tuition waiver available for early 2027–29 applicants.
 
-## 1. [Galgotias University](/colleges/galgotias-university) - Integrated MBA
+## 1. [Galgotias University](/colleges/galgotias-university/) - Integrated MBA
 - **Approximate Fees:** ₹1.2 Lakhs (Annual)
 - **Accepted Entrance Exams:** CUET-UG / Merit
 - **Average Placement Package:** **₹5.2 LPA**
 - **Key Highlight:** Vibrant campus with a robust track record of placements in finance, marketing, and tech companies.
 
-### 2. [Sharda University](/colleges/sharda-greater-noida) - Integrated BBA + MBA
+### 2. [Sharda University](/colleges/sharda-greater-noida/) - Integrated BBA + MBA
 - **Approximate Fees:** ₹1.8 Lakhs (Annual)
 - **Accepted Entrance Exams:** CUET-UG / SUAT
 - **Average Placement Package:** **₹5.5 LPA**
 - **Key Highlight:** Global curriculum offering excellent student exchange options and active business incubation hubs.
 
-### 3. [Bennett University](/colleges/bennett-greater-noida) - Integrated MBA
+### 3. [Bennett University](/colleges/bennett-greater-noida/) - Integrated MBA
 - **Approximate Fees:** ₹3.5 Lakhs (Annual)
 - **Accepted Entrance Exams:** CUET-UG
 - **Average Placement Package:** **₹7.0 LPA**
@@ -93,9 +93,9 @@ Here is a quick snapshot comparing the fee structures and average placements for
 
 | College Name | Entrance Exams | Approximate Fees | Avg Placement Package |
 | :--- | :--- | :--- | :--- |
-| **[Galgotias University](/colleges/galgotias-university) - Integrated MBA** | CUET-UG / Merit | ₹1.2 Lakhs (Annual) | **₹5.2 LPA** |
-| **[Sharda University](/colleges/sharda-greater-noida) - Integrated BBA + MBA** | CUET-UG / SUAT | ₹1.8 Lakhs (Annual) | **₹5.5 LPA** |
-| **[Bennett University](/colleges/bennett-greater-noida) - Integrated MBA** | CUET-UG | ₹3.5 Lakhs (Annual) | **₹7.0 LPA** |
+| **[Galgotias University](/colleges/galgotias-university/) - Integrated MBA** | CUET-UG / Merit | ₹1.2 Lakhs (Annual) | **₹5.2 LPA** |
+| **[Sharda University](/colleges/sharda-greater-noida/) - Integrated BBA + MBA** | CUET-UG / SUAT | ₹1.8 Lakhs (Annual) | **₹5.5 LPA** |
+| **[Bennett University](/colleges/bennett-greater-noida/) - Integrated MBA** | CUET-UG | ₹3.5 Lakhs (Annual) | **₹7.0 LPA** |
 
 ---
 
@@ -118,9 +118,9 @@ Pursuing a 5-Year Integrated MBA program after Class 12 offers several distinct 
 ---
 
 ## 🔗 Related Resources
-- [CUET UG University List 2026: City-wise Guide](/blog/cuet-ug-university-list-2026-citywise)
-- [CUET UG 2026 BBA Admission Guide](/blog/cuet-ug-2026-bba-admission-guide)
-- [Is Direct MBA Admission Without Entrance Exam Worth It?](/blog/direct-mba-admission-without-entrance-exam-2026-is-it-worth-it)
+- [CUET UG University List 2026: City-wise Guide](/blog/cuet-ug-university-list-2026-citywise/)
+- [CUET UG 2026 BBA Admission Guide](/blog/cuet-ug-2026-bba-admission-guide/)
+- [Is Direct MBA Admission Without Entrance Exam Worth It?](/blog/direct-mba-admission-without-entrance-exam-2026-is-it-worth-it/)
 
 ---
 

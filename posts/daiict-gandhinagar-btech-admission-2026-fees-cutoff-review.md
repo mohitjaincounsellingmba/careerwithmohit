@@ -89,10 +89,10 @@ DA-IICT is focused on future-ready domains:
 *   B.Tech in Mathematics and Computing (MnC)
 
 Looking for other top-tier B.Tech options? Check out our guides:
-*   [All About IIITs: Rankings & Admission Guide](/blog/all-about-iiit-colleges-review)
-*   [JEE Main 2026 Session 2: Exam Dates & Admit Card Updates](/blog/jee-main-2026-session-2-exam-dates-admit-card)
-*   [JoSAA Counselling 2026: Step-by-Step Registration](/blog/josaa-counselling-2026-dates-process-registration)
-*   [Best Engineering Colleges in Pune 2026](/blog/top-btech-colleges-pune)
+*   [All About IIITs: Rankings & Admission Guide](/blog/all-about-iiit-colleges-review/)
+*   [JEE Main 2026 Session 2: Exam Dates & Admit Card Updates](/blog/jee-main-2026-session-2-exam-dates-admit-card/)
+*   [JoSAA Counselling 2026: Step-by-Step Registration](/blog/josaa-counselling-2026-dates-process-registration/)
+*   [Best Engineering Colleges in Pune 2026](/blog/top-btech-colleges-pune/)
 
 **Confused About the Direct Application Process?**
 Unlike JoSAA colleges, DA-IICT requires a separate application form on their official website. Missing this deadline means losing the chance to get into one of India’s top ICT institutes. At **CareerWithMohit**, we help students track all major private university deadlines and choose between an NIT core branch and DA-IICT ICT.
@@ -104,7 +104,7 @@ Unlike JoSAA colleges, DA-IICT requires a separate application form on their off
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### What is the typical fee structure for MBA programs in India?
-The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
+The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi/) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
 
 ### Is it possible to pursue an MBA without clearing CAT?
 Yes, many colleges accept other entrance exams like XAT, NMAT, SNAP, MAT, or CMAT. Additionally, direct admission options under management quota are available in several private B-schools.

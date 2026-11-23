@@ -9,5 +9,5 @@ export const metadata: Metadata = {
   };
 
 export default function MockTestRedirectPage() {
-  redirect("/tools/ielts-mock-test");
+  redirect("/tools/ielts-mock-test/");
 }

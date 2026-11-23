@@ -20,14 +20,14 @@ faqs:
       The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
 ---
 
-### **College Review: [Suryadatta Rajkot School of Business & Management](/colleges/suryadatta-rajkot-school-of-business-management)**
+### **College Review: [Suryadatta Rajkot School of Business & Management](/colleges/suryadatta-rajkot-school-of-business-management/)**
 *   **Quality Curriculum**: Tailored directly to industry requirements with standard practical case studies.
 *   **Established Brand**: Over the years, it has earned a strong reputation among regional corporate employers.
 *   **Holistic Learning**: Focuses on both technical business skills and global soft skills development.
 
 ---
 
-### 📊 [Suryadatta Rajkot School of Business & Management](/colleges/suryadatta-rajkot-school-of-business-management) 2026 Snapshot
+### 📊 [Suryadatta Rajkot School of Business & Management](/colleges/suryadatta-rajkot-school-of-business-management/) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |
@@ -55,18 +55,18 @@ faqs:
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### 1. Is [Suryadatta Rajkot School of Business & Management](/colleges/suryadatta-rajkot-school-of-business-management) a good option for PGDM/MBA?
-Yes, [Suryadatta Rajkot School of Business & Management](/colleges/suryadatta-rajkot-school-of-business-management) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+### 1. Is [Suryadatta Rajkot School of Business & Management](/colleges/suryadatta-rajkot-school-of-business-management/) a good option for PGDM/MBA?
+Yes, [Suryadatta Rajkot School of Business & Management](/colleges/suryadatta-rajkot-school-of-business-management/) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
-### 2. What is the average package offered at [Suryadatta Rajkot School of Business & Management](/colleges/suryadatta-rajkot-school-of-business-management)?
-The average placement package at [Suryadatta Rajkot School of Business & Management](/colleges/suryadatta-rajkot-school-of-business-management) is approximately ₹6.4 LPA, with the highest package reaching up to ₹14.0 LPA.
+### 2. What is the average package offered at [Suryadatta Rajkot School of Business & Management](/colleges/suryadatta-rajkot-school-of-business-management/)?
+The average placement package at [Suryadatta Rajkot School of Business & Management](/colleges/suryadatta-rajkot-school-of-business-management/) is approximately ₹6.4 LPA, with the highest package reaching up to ₹14.0 LPA.
 
-### 3. What entrance exams are accepted by [Suryadatta Rajkot School of Business & Management](/colleges/suryadatta-rajkot-school-of-business-management)?
+### 3. What entrance exams are accepted by [Suryadatta Rajkot School of Business & Management](/colleges/suryadatta-rajkot-school-of-business-management/)?
 The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
 
 ---
 
-**Final Verdict**: [Suryadatta Rajkot School of Business & Management](/colleges/suryadatta-rajkot-school-of-business-management) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
+**Final Verdict**: [Suryadatta Rajkot School of Business & Management](/colleges/suryadatta-rajkot-school-of-business-management/) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
 [👉 Apply to Suryadatta Rajkot School of Business & Management](/inquiry) | [👉 Get Free Counselling](/inquiry)
 

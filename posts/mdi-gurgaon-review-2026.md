@@ -65,7 +65,7 @@ Whether you are aspiring for engineering, management, legal studies, or new-age 
 
 ---
 
-## 🏛️ [MDI Gurgaon](/colleges/mdi-gurgaon): University Overview & Accreditation
+## 🏛️ [MDI Gurgaon](/colleges/mdi-gurgaon/): University Overview & Accreditation
 
 Management Development Institute (MDI) Gurugram, located in Sukhrali in the heart of Gurugram's corporate zone, is one of India's most legendary private business schools. Ranked consistently among the top 10 B-schools in India alongside legacy IIMs, MDI boasts triple-crown accreditations, stellar MBA average salaries above ₹26 LPA, and an elite CEO alumni base.
 
@@ -84,7 +84,7 @@ Management Development Institute (MDI) Gurugram, located in Sukhrali in the hear
 
 ---
 
-[InquiryCard title="Get Free Admission Counselling for [MDI Gurgaon](/colleges/mdi-gurgaon) (2026)" description="Confused about eligibility, fee structures, cutoffs, or placement ROI? Connect with Mohit Jain for 1-on-1 career guidance and admission support." cta="Get Free Counselling" type="admission"]
+[InquiryCard title="Get Free Admission Counselling for [MDI Gurgaon](/colleges/mdi-gurgaon/) (2026)" description="Confused about eligibility, fee structures, cutoffs, or placement ROI? Connect with Mohit Jain for 1-on-1 career guidance and admission support." cta="Get Free Counselling" type="admission"]
 
 ---
 
@@ -115,13 +115,13 @@ A critical indicator of any university's strength is its corporate relations cel
 - **Top Visiting Employers:** McKinsey, BCG, Bain, Goldman Sachs, JP Morgan, HUL, ITC, Google, Microsoft, Amazon
 
 ### Return on Investment (ROI) Verdict
-When comparing the annual tuition fees against the average placement compensation of **₹25.50 LPA - ₹27.60 LPA**, [MDI Gurgaon](/colleges/mdi-gurgaon) provides a solid ROI—especially for students graduating from flagship MBA, Computer Science Engineering, and specialized corporate degree tracks.
+When comparing the annual tuition fees against the average placement compensation of **₹25.50 LPA - ₹27.60 LPA**, [MDI Gurgaon](/colleges/mdi-gurgaon/) provides a solid ROI—especially for students graduating from flagship MBA, Computer Science Engineering, and specialized corporate degree tracks.
 
 ---
 
 ## 🏫 Campus Life, Infrastructure & Student Experience
 
-Life at **[MDI Gurgaon](/colleges/mdi-gurgaon)** extends far beyond traditional classrooms. The campus is designed to promote holistic development, physical fitness, and collaborative learning:
+Life at **[MDI Gurgaon](/colleges/mdi-gurgaon/)** extends far beyond traditional classrooms. The campus is designed to promote holistic development, physical fitness, and collaborative learning:
 
 1. **Smart Classrooms & Innovation Labs:** Air-conditioned classrooms equipped with audio-visual learning tools, alongside advanced computer, AI, and domain-specific research laboratories.
 2. **Central Library & Digital Archives:** Extensive collection of academic books, international research journals, IEEE/ACM databases, and quiet reading halls.
@@ -144,7 +144,7 @@ Securing admission to Management Development Institute (MDI), Gurugram for the 2
 
 ## ⚖️ Pros & Cons (Honest Evaluation)
 
-To help you make an unbiased decision, here is a balanced summary of the key advantages and potential drawbacks of studying at **[MDI Gurgaon](/colleges/mdi-gurgaon)**:
+To help you make an unbiased decision, here is a balanced summary of the key advantages and potential drawbacks of studying at **[MDI Gurgaon](/colleges/mdi-gurgaon/)**:
 
 ### 👍 Why Choose MDI Gurgaon? (Pros)
 - **Stellar** average compensation above ₹26 LPA, competing directly with top IIMs and XLRI
@@ -174,10 +174,10 @@ Admissions for 2026 at Management Development Institute (MDI), Gurugram are cond
 
 ## 🔗 Related Resources & Internal Links
 
-- [CAT 2026 Complete Exam Guide & Preparation Strategy](/blog/all-about-cat-exam)
-- [Top MBA & PGDM Colleges in India 2026: Placements, Fees & Cutoffs](/blog/all-about-iim-colleges-placements-fees-selection-2026)
-- [Direct Admission in BBA & MBA 2026 (Management Quota Guide)](/blog/direct-bba-admission-2026-management-quota)
-- [Compare B.Tech vs BCA: Career & Salary Guide](/blog/btech-vs-bca-career-guide)
+- [CAT 2026 Complete Exam Guide & Preparation Strategy](/blog/all-about-cat-exam/)
+- [Top MBA & PGDM Colleges in India 2026: Placements, Fees & Cutoffs](/blog/all-about-iim-colleges-placements-fees-selection-2026/)
+- [Direct Admission in BBA & MBA 2026 (Management Quota Guide)](/blog/direct-bba-admission-2026-management-quota/)
+- [Compare B.Tech vs BCA: Career & Salary Guide](/blog/bca-vs-btech-cse-which-is-better-for-your-career-2026/)
 
 ---
 

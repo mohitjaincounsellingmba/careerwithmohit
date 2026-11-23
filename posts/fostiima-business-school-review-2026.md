@@ -58,7 +58,7 @@ location: Delhi NCR
 state: Delhi NCR
 ---
 
-# [FOSTIIMA Business School Delhi Review 2027–2029](/colleges/fostiima-business-school): PGDM Fees, Placements, Cutoffs & Honest Student Verdict
+# [FOSTIIMA Business School Delhi Review 2027–2029](/blog/1-year-online-mba-colleges-india-2026/): PGDM Fees, Placements, Cutoffs & Honest Student Verdict
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **2027–2029 Admission Status**: Applications are active via CAT 2026, XAT 2027, MAT, CMAT, and early profile-evaluation rounds for an approved intake of 360–420 seats.
@@ -69,7 +69,7 @@ Among mid-tier management aspirants seeking Tier-1 faculty exposure at a sensibl
 
 Located strategically in **Dwarka (West Delhi)**, right opposite the Sector 9 Metro Station corridor, FOSTIIMA attracts students targeting strong starting packages in BFSI, Marketing, FinTech, and Management Consulting. But does the IIM-A alumni tag translate into genuine placement outcomes on the ground for the upcoming **2027–2029 academic session**?
 
-In this comprehensive, data-driven **FOSTIIMA Business School review 2027–2029**, we examine the college's verified **fee structure, latest 2025–2026 placement statistics, entrance exam cutoffs, faculty credentials, campus realities, pros & cons, and comparisons with [NDIM Delhi](/blog/ndim-delhi-review-2026), [FIIB South Delhi](/blog/all-about-fiib-delhi), and [JIMS Kalkaji](/blog/all-about-jims-kalkaji)**.
+In this comprehensive, data-driven **FOSTIIMA Business School review 2027–2029**, we examine the college's verified **fee structure, latest 2025–2026 placement statistics, entrance exam cutoffs, faculty credentials, campus realities, pros & cons, and comparisons with [NDIM Delhi](/blog/ndim-delhi-review-2026/), [FIIB South Delhi](/blog/all-about-fiib-delhi/), and [JIMS Kalkaji](/blog/all-about-jims-kalkaji/)**.
 
 ---
 
@@ -110,7 +110,7 @@ FOSTIIMA provides partnered off-campus residential facilities for boys and girls
 *   **Dwarka Residential Advantage:** Sector 9 and neighboring Sectors 6, 7, and 10 have numerous student PGs, independent apartments, and food hubs catering to students.
 
 ### Scholarships & Financial Aid
-*   **Entrance Exam Merit Scholarships:** Concessions for candidates scoring 80+ percentile in [CAT Exam](/blog/all-about-cat-exam) / [XAT Exam](/blog/all-about-xat-exam) or 90+ percentile in [MAT Exam](/blog/all-about-mat-exam) / [CMAT Exam](/blog/all-about-cmat-exam).
+*   **Entrance Exam Merit Scholarships:** Concessions for candidates scoring 80+ percentile in [CAT Exam](/blog/all-about-cat-exam/) / [XAT Exam](/blog/all-about-xat-exam/) or 90+ percentile in [MAT Exam](/blog/all-about-mat-exam/) / [CMAT Exam](/blog/all-about-cmat-exam/).
 *   **Academic High-Achiever Grants:** Special tuition concessions for students with 75%+ marks throughout Class 10, 12, and Graduation.
 *   **Bank Loan Tie-Ups:** Approved for education loans with SBI, Axis Bank, HDFC Credila, and Punjab National Bank.
 
@@ -172,10 +172,10 @@ The defining characteristic that sets FOSTIIMA apart from standard private busin
 
 | Exam | Minimum Eligibility Cutoff | Safe Percentile for Merit Shortlist |
 | :--- | :--- | :--- |
-| **[CAT Exam](/blog/all-about-cat-exam)** | 60%ile | 65%ile+ |
-| **[XAT Exam](/blog/all-about-xat-exam)** | 60%ile | 65%ile+ |
-| **[MAT Exam](/blog/all-about-mat-exam)** | 75%ile | 80%ile+ |
-| **[CMAT Exam](/blog/all-about-cmat-exam)** | 70%ile | 75%ile+ |
+| **[CAT Exam](/blog/all-about-cat-exam/)** | 60%ile | 65%ile+ |
+| **[XAT Exam](/blog/all-about-xat-exam/)** | 60%ile | 65%ile+ |
+| **[MAT Exam](/blog/all-about-mat-exam/)** | 75%ile | 80%ile+ |
+| **[CMAT Exam](/blog/all-about-cmat-exam/)** | 70%ile | 75%ile+ |
 | **ATMA** | 75%ile | 80%ile+ |
 
 ### Selection Stages
@@ -205,7 +205,7 @@ The defining characteristic that sets FOSTIIMA apart from standard private busin
 
 ## 7. FOSTIIMA vs. Competitors: Detailed Comparison
 
-| Feature | **FOSTIIMA Delhi** | **[NDIM Delhi](/blog/ndim-delhi-review-2026)** | **[FIIB South Delhi](/blog/all-about-fiib-delhi)** | **[JIMS Kalkaji](/blog/all-about-jims-kalkaji)** |
+| Feature | **FOSTIIMA Delhi** | **[NDIM Delhi](/blog/ndim-delhi-review-2026/)** | **[FIIB South Delhi](/blog/all-about-fiib-delhi/)** | **[JIMS Kalkaji](/blog/all-about-jims-kalkaji/)** |
 | :--- | :--- | :--- | :--- | :--- |
 | **Location** | Dwarka, West Delhi | Tughlakabad, South Delhi | Vasant Vihar, South Delhi | Kalkaji, South Delhi |
 | **Total Program Fee** | **₹11.50 Lakhs** | ₹13.75 Lakhs | ₹12.85 Lakhs | ₹10.75 Lakhs |
@@ -222,13 +222,13 @@ The defining characteristic that sets FOSTIIMA apart from standard private busin
 
 | College Name | Total Fees (2027–29) | Avg Package (Latest) | ROI & Admission Eligibility |
 | :--- | :--- | :--- | :--- |
-| **[FOSTIIMA Business School](/colleges/fostiima-business-school)** | **₹11.50 Lakhs** | **₹11.15 LPA** | CAT/XAT/MAT/CMAT (60%+ %ile) · IIM-A Alumni Legacy · 100% Placement ROI |
-| **[NDIM New Delhi](/colleges/ndim-delhi)** | ₹13.75 Lakhs | ₹10.00 LPA | CAT/MAT/XAT/CMAT (60%+ %ile) · AIU MBA Equivalent · 420 Seats · ₹2.5 Cr Scholarships |
-| **[FIIB South Delhi](/blog/all-about-fiib-delhi)** | ₹12.85 Lakhs | ₹8.50 – ₹9.00 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA · Vasant Vihar Diplomatic Hub |
-| **[Jaipuria Institute (Noida)](/blog/jaipuria-noida-vs-ndim)** | ₹16.50 Lakhs | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member · Established Pan-India Brand |
-| **[JIMS Kalkaji](/blog/all-about-jims-kalkaji)** | ₹10.75 Lakhs | ₹8.20 – ₹9.30 LPA | CAT/MAT/CMAT (75%+ %ile) · Strong South Delhi Corporate Tie-ups |
-| **[PIBM Pune](/blog/akemi-vs-isms-vs-riim-pune-mba-comparison-2026)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Experiential Internships |
-| **[ISBR Bangalore](/blog/all-about-isbr-bangalore)** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Silicon Valley Tech Ecosystem Corporate Tie-ups |
+| **[FOSTIIMA Business School](/blog/1-year-online-mba-colleges-india-2026/)** | **₹11.50 Lakhs** | **₹11.15 LPA** | CAT/XAT/MAT/CMAT (60%+ %ile) · IIM-A Alumni Legacy · 100% Placement ROI |
+| **[NDIM New Delhi](/colleges/ndim-delhi/)** | ₹13.75 Lakhs | ₹10.00 LPA | CAT/MAT/XAT/CMAT (60%+ %ile) · AIU MBA Equivalent · 420 Seats · ₹2.5 Cr Scholarships |
+| **[FIIB South Delhi](/blog/all-about-fiib-delhi/)** | ₹12.85 Lakhs | ₹8.50 – ₹9.00 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA · Vasant Vihar Diplomatic Hub |
+| **[Jaipuria Institute (Noida)](/blog/jaipuria-noida-vs-ndim/)** | ₹16.50 Lakhs | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member · Established Pan-India Brand |
+| **[JIMS Kalkaji](/blog/all-about-jims-kalkaji/)** | ₹10.75 Lakhs | ₹8.20 – ₹9.30 LPA | CAT/MAT/CMAT (75%+ %ile) · Strong South Delhi Corporate Tie-ups |
+| **[PIBM Pune](/blog/akemi-vs-isms-vs-riim-pune-mba-comparison-2026/)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Experiential Internships |
+| **[ISBR Bangalore](/blog/all-about-isbr-bangalore/)** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Silicon Valley Tech Ecosystem Corporate Tie-ups |
 
 ---
 

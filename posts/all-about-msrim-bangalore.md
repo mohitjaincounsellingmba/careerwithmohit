@@ -37,14 +37,14 @@ location: Bangalore
 state: Karnataka
 ---
 
-### **College Review: [MSRIM (Ramaiah) Bangalore](/colleges/msrim-bangalore)**
+### **College Review: [MSRIM (Ramaiah) Bangalore](/colleges/msrim-bangalore/)**
 *   **Quality Curriculum**: Tailored directly to industry requirements with standard practical case studies.
 *   **Established Brand**: Over the years, it has earned a strong reputation among regional corporate employers.
 *   **Holistic Learning**: Focuses on both technical business skills and global soft skills development.
 
 ---
 
-### 📊 [MSRIM (Ramaiah) Bangalore](/colleges/msrim-bangalore) 2026 Snapshot
+### 📊 [MSRIM (Ramaiah) Bangalore](/colleges/msrim-bangalore/) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |
@@ -72,18 +72,18 @@ state: Karnataka
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### 1. Is [MSRIM (Ramaiah) Bangalore](/colleges/msrim-bangalore) a good option for PGDM/MBA?
-Yes, [MSRIM (Ramaiah) Bangalore](/colleges/msrim-bangalore) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+### 1. Is [MSRIM (Ramaiah) Bangalore](/colleges/msrim-bangalore/) a good option for PGDM/MBA?
+Yes, [MSRIM (Ramaiah) Bangalore](/colleges/msrim-bangalore/) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
-### 2. What is the average package offered at [MSRIM (Ramaiah) Bangalore](/colleges/msrim-bangalore)?
-The average placement package at [MSRIM (Ramaiah) Bangalore](/colleges/msrim-bangalore) is approximately ₹9.2 LPA, with the highest package reaching up to ₹20.0 LPA.
+### 2. What is the average package offered at [MSRIM (Ramaiah) Bangalore](/colleges/msrim-bangalore/)?
+The average placement package at [MSRIM (Ramaiah) Bangalore](/colleges/msrim-bangalore/) is approximately ₹9.2 LPA, with the highest package reaching up to ₹20.0 LPA.
 
-### 3. What entrance exams are accepted by [MSRIM (Ramaiah) Bangalore](/colleges/msrim-bangalore)?
+### 3. What entrance exams are accepted by [MSRIM (Ramaiah) Bangalore](/colleges/msrim-bangalore/)?
 The college accepts scores from national level entrance examinations including MAT, CMAT, CAT for the PGDM and MBA admissions.
 
 ---
 
-**Final Verdict**: [MSRIM (Ramaiah) Bangalore](/colleges/msrim-bangalore) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
+**Final Verdict**: [MSRIM (Ramaiah) Bangalore](/colleges/msrim-bangalore/) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
 [👉 Apply to MSRIM (Ramaiah) Bangalore](/inquiry) | [👉 Get Free Counselling](/inquiry)
 

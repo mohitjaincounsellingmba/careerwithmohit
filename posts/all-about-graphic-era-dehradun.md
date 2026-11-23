@@ -39,14 +39,14 @@ location: Dehradun
 state: Uttarakhand
 ---
 
-### **College Review: [Graphic Era (Deemed to be University)](/colleges/graphic-era-dehradun)**
+### **College Review: [Graphic Era (Deemed to be University)](/colleges/graphic-era-dehradun/)**
 *   **Quality Curriculum**: Tailored directly to industry requirements with standard practical case studies.
 *   **Established Brand**: Over the years, it has earned a strong reputation among regional corporate employers.
 *   **Holistic Learning**: Focuses on both technical business skills and global soft skills development.
 
 ---
 
-### 📊 [Graphic Era (Deemed to be University)](/colleges/graphic-era-dehradun) 2026 Snapshot
+### 📊 [Graphic Era (Deemed to be University)](/colleges/graphic-era-dehradun/) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |
@@ -74,18 +74,18 @@ state: Uttarakhand
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### 1. Is [Graphic Era (Deemed to be University)](/colleges/graphic-era-dehradun) a good option for PGDM/MBA?
-Yes, [Graphic Era (Deemed to be University)](/colleges/graphic-era-dehradun) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+### 1. Is [Graphic Era (Deemed to be University)](/colleges/graphic-era-dehradun/) a good option for PGDM/MBA?
+Yes, [Graphic Era (Deemed to be University)](/colleges/graphic-era-dehradun/) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
-### 2. What is the average package offered at [Graphic Era (Deemed to be University)](/colleges/graphic-era-dehradun)?
-The average placement package at [Graphic Era (Deemed to be University)](/colleges/graphic-era-dehradun) is approximately ₹6.5 LPA, with the highest package reaching up to ₹16.0 LPA.
+### 2. What is the average package offered at [Graphic Era (Deemed to be University)](/colleges/graphic-era-dehradun/)?
+The average placement package at [Graphic Era (Deemed to be University)](/colleges/graphic-era-dehradun/) is approximately ₹6.5 LPA, with the highest package reaching up to ₹16.0 LPA.
 
-### 3. What entrance exams are accepted by [Graphic Era (Deemed to be University)](/colleges/graphic-era-dehradun)?
+### 3. What entrance exams are accepted by [Graphic Era (Deemed to be University)](/colleges/graphic-era-dehradun/)?
 The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
 
 ---
 
-**Final Verdict**: [Graphic Era (Deemed to be University)](/colleges/graphic-era-dehradun) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
+**Final Verdict**: [Graphic Era (Deemed to be University)](/colleges/graphic-era-dehradun/) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
 [👉 Apply to Graphic Era (Deemed to be University)](/inquiry) | [👉 Get Free Counselling](/inquiry)
 

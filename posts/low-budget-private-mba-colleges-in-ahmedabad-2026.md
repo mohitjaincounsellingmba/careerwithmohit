@@ -70,7 +70,7 @@ These private business schools keep their total tuition fees under ₹10 Lakhs (
 - **Average Placement Package:** **₹4.2 LPA - ₹5.5 LPA**
 - **Key Highlight:** Affordable private college offering great value with focus on practical business communication skills.
 
-### 3. [Suryadatta Institute of Management](/colleges/suryadatta-institute-of-management), Ahmedabad Campus
+### 3. [Suryadatta Institute of Management](/colleges/suryadatta-institute-of-management/), Ahmedabad Campus
 - **Approximate Fees:** ₹4.0 Lakhs - ₹6.0 Lakhs (Total)
 - **Accepted Entrance Exams:** MAT / CMAT / State Entrance
 - **Average Placement Package:** **₹4.5 LPA - ₹5.8 LPA**
@@ -86,7 +86,7 @@ Here is a quick snapshot comparing the fee structures and average placements for
 | :--- | :--- | :--- | :--- |
 | **Ahmedabad Institute of Management & Technology (CIMT)** | MAT / CMAT / CAT | ₹4.5 Lakhs - ₹6.5 Lakhs (Total) | **₹4.8 LPA - ₹6.2 LPA** |
 | **Apex Business School, Ahmedabad** | CAT / CMAT / Merit-Based | ₹3.5 Lakhs - ₹5.0 Lakhs (Total) | **₹4.2 LPA - ₹5.5 LPA** |
-| **[Suryadatta Institute of Management](/colleges/suryadatta-institute-of-management), Ahmedabad Campus** | MAT / CMAT / State Entrance | ₹4.0 Lakhs - ₹6.0 Lakhs (Total) | **₹4.5 LPA - ₹5.8 LPA** |
+| **[Suryadatta Institute of Management](/colleges/suryadatta-institute-of-management/), Ahmedabad Campus** | MAT / CMAT / State Entrance | ₹4.0 Lakhs - ₹6.0 Lakhs (Total) | **₹4.5 LPA - ₹5.8 LPA** |
 
 ---
 
@@ -108,9 +108,9 @@ Return on Investment (ROI) is the ultimate metric for business students. When yo
 ---
 
 ## 🔗 Related Resources
-- [Best MBA Colleges with Low Fees and High ROI in India 2026](/blog/best-mba-colleges-low-fees-high-roi-india-2026)
-- [Is Direct MBA Admission Without Entrance Exam Worth It?](/blog/direct-mba-admission-without-entrance-exam-2026-is-it-worth-it)
-- [MBA Distance Education 2026: Top Universities & Fees](/blog/mba-distance-education-2026-top-universities-fees-admission)
+- [Best MBA Colleges with Low Fees and High ROI in India 2026](/blog/best-mba-colleges-low-fees-high-roi-india-2026/)
+- [Is Direct MBA Admission Without Entrance Exam Worth It?](/blog/direct-mba-admission-without-entrance-exam-2026-is-it-worth-it/)
+- [MBA Distance Education 2026: Top Universities & Fees](/blog/mba-distance-education-2026-top-universities-fees-admission/)
 
 ---
 

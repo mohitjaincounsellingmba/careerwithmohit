@@ -80,9 +80,9 @@ pie title GIM Goa Domain Share 2025
 
 ## 4. Related Placement Reports
 
-*   **[TAPMI Manipal Placement Report 2025](/blog/tapmi-manipal-mba-placement-report-2025)**
-*   **[Great Lakes Placement Report 2025](/blog/great-lakes-chennai-gurgaon-placement-report-2025)**
-*   **[All 21 IIMs Recent Placement Report 2025](/blog/all-iim-recent-placement-report-2025)**
+*   **[TAPMI Manipal Placement Report 2025](/blog/tapmi-manipal-mba-placement-report-2025/)**
+*   **[Great Lakes Placement Report 2025](/blog/great-lakes-chennai-gurgaon-placement-report-2025/)**
+*   **[All 21 IIMs Recent Placement Report 2025](/blog/all-iim-recent-placement-report-2025/)**
 
 ---
 

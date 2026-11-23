@@ -73,14 +73,14 @@ Here is the list of top-ranked private engineering institutions in Ghaziabad off
 - **Average Postgraduate Placement Package:** **₹6.0 LPA**
 - **Key Highlight:** Renowned for academic rigor, offering specialized industrial automation and robotics research cells.
 
-### 2. [KIET Group of Institutions](/colleges/kiet-ghaziabad)
+### 2. [KIET Group of Institutions](/colleges/kiet-ghaziabad/)
 - **Approximate Tuition Fees:** ₹1.1 Lakhs/year
 - **Accepted Entrance Exams:** GATE / UPTAC Counseling
 - **Admission Cutoff / Eligibility:** GATE Score 350+ (Vacant seat direct admissions)
 - **Average Postgraduate Placement Package:** **₹5.8 LPA**
 - **Key Highlight:** Accredited with NAAC 'A+' grade, promoting active postgraduate incubation cells and funding.
 
-### 3. [ABES Engineering College](/colleges/abes-ghaziabad)
+### 3. [ABES Engineering College](/colleges/abes-ghaziabad/)
 - **Approximate Tuition Fees:** ₹1.2 Lakhs/year
 - **Accepted Entrance Exams:** GATE / UPTAC Counseling / Direct
 - **Admission Cutoff / Eligibility:** GATE Score 350+ (Academic merit entry)
@@ -96,8 +96,8 @@ Here is a quick snapshot comparing the fee structures, entrance criteria, and av
 | College Name | Accepted Entrance Exams | Approximate Tuition Fees | Average Placement Package |
 | :--- | :--- | :--- | :--- |
 | **Ajay Kumar Garg Engineering College (AKGEC)** | GATE / UPTAC Counseling | ₹1.2 Lakhs/year | **₹6.0 LPA** |
-| **[KIET Group of Institutions](/colleges/kiet-ghaziabad)** | GATE / UPTAC Counseling | ₹1.1 Lakhs/year | **₹5.8 LPA** |
-| **[ABES Engineering College](/colleges/abes-ghaziabad)** | GATE / UPTAC Counseling / Direct | ₹1.2 Lakhs/year | **₹5.2 LPA** |
+| **[KIET Group of Institutions](/colleges/kiet-ghaziabad/)** | GATE / UPTAC Counseling | ₹1.1 Lakhs/year | **₹5.8 LPA** |
+| **[ABES Engineering College](/colleges/abes-ghaziabad/)** | GATE / UPTAC Counseling / Direct | ₹1.2 Lakhs/year | **₹5.2 LPA** |
 
 ---
 
@@ -118,9 +118,9 @@ Admissions to private M.Tech colleges in Ghaziabad generally follow two distinct
 ---
 
 ## 🔗 Related Resources
-- [B.Tech Admission Without JEE 2026: All Options](/blog/btech-admission-without-jee-2026-all-options)
-- [Top Engineering Colleges Accepting JEE Main Scores in 2026](/blog/jee-main-accepting-btech-colleges-2026)
-- [All IIM Cut-Off 2026-28: Admission, MBA, PGDM](/blog/all-iim-cut-off-2026-28-admission-mba-pgdm)
+- [B.Tech Admission Without JEE 2026: All Options](/blog/btech-admission-without-jee-2026-all-options/)
+- [Top Engineering Colleges Accepting JEE Main Scores in 2026](/blog/jee-main-accepting-btech-colleges-2026/)
+- [All IIM Cut-Off 2026-28: Admission, MBA, PGDM](/blog/all-iim-cut-off-2026-28-admission-mba-pgdm/)
 
 ---
 

@@ -37,7 +37,7 @@ location: Bangalore
 state: Karnataka
 ---
 
-Running a career upgrade requires choosing the right management program. For working professionals in Bangalore, the Executive MBA / Executive PGDM offered by [Indian Institute of Management Bangalore (IIMB)](/colleges/iim-bangalore) represents a powerful gateway to higher senior leadership positions.
+Running a career upgrade requires choosing the right management program. For working professionals in Bangalore, the Executive MBA / Executive PGDM offered by [Indian Institute of Management Bangalore (IIMB)](/colleges/iim-bangalore/) represents a powerful gateway to higher senior leadership positions.
 
 In this review, we break down everything you need to know: fees, admission cutoffs, placements, pros, cons, and our honest expert verdict.
 
@@ -81,7 +81,7 @@ In this review, we break down everything you need to know: fees, admission cutof
 
 ## 🔍 Our Expert Verdict
 
-The Executive MBA program at [Indian Institute of Management Bangalore (IIMB)](/colleges/iim-bangalore) is highly recommended for professionals based in Bangalore who want to scale their careers without disrupting their current geographic setup. 
+The Executive MBA program at [Indian Institute of Management Bangalore (IIMB)](/colleges/iim-bangalore/) is highly recommended for professionals based in Bangalore who want to scale their careers without disrupting their current geographic setup. 
 
 If you are looking for top-tier consulting placements and have 5+ years of experience, full-time residential paths are stellar. However, if you are looking to continue your full-time job, their weekend/evening classes offer outstanding return on investment.
 
@@ -89,7 +89,7 @@ If you are looking for top-tier consulting placements and have 5+ years of exper
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### What is the eligibility for EPGP at [IIM Bangalore](/colleges/iim-bangalore)?
+### What is the eligibility for EPGP at [IIM Bangalore](/colleges/iim-bangalore/)?
 A minimum of 5 years of full-time professional experience after graduation, along with a valid GMAT or GRE score.
 
 ### What is the average GMAT score of the EPGP batch?

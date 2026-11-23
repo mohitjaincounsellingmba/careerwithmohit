@@ -74,14 +74,14 @@ Here is the list of top-ranked private engineering institutions in Bangalore off
 - **Average Postgraduate Placement Package:** **₹11.0 LPA**
 - **Key Highlight:** Historic autonomous college with outstanding labs and core industry collaboration.
 
-### 3. [M.S. Ramaiah Institute of Technology (MSRIT)](/colleges/msrit-bangalore)
+### 3. [M.S. Ramaiah Institute of Technology (MSRIT)](/colleges/msrit-bangalore/)
 - **Approximate Tuition Fees:** ₹1.4 Lakhs/year (PGCET) / ₹2.8 Lakhs (Mgmt)
 - **Accepted Entrance Exams:** GATE / Karnataka PGCET
 - **Admission Cutoff / Eligibility:** GATE Score 450+ / PGCET Rank < 900
 - **Average Postgraduate Placement Package:** **₹10.2 LPA**
 - **Key Highlight:** Offers excellent academic infrastructure and research projects funded by national bodies.
 
-### 4. [PES University](/colleges/pes-university) (RR Campus)
+### 4. [PES University](/colleges/pes-university/) (RR Campus)
 - **Approximate Tuition Fees:** ₹2.2 Lakhs/year
 - **Accepted Entrance Exams:** GATE / Karnataka PGCET / PESSAT
 - **Admission Cutoff / Eligibility:** GATE Score 420+ / PESSAT Qualified
@@ -105,8 +105,8 @@ Here is a quick snapshot comparing the fee structures, entrance criteria, and av
 | :--- | :--- | :--- | :--- |
 | **RV College of Engineering (RVCE)** | GATE / Karnataka PGCET | ₹1.5 Lakhs/year (PGCET) / ₹3.0 Lakhs (Mgmt) | **₹12.5 LPA** |
 | **BMS College of Engineering (BMSCE)** | GATE / Karnataka PGCET | ₹1.4 Lakhs/year (PGCET) / ₹2.8 Lakhs (Mgmt) | **₹11.0 LPA** |
-| **[M.S. Ramaiah Institute of Technology (MSRIT)](/colleges/msrit-bangalore)** | GATE / Karnataka PGCET | ₹1.4 Lakhs/year (PGCET) / ₹2.8 Lakhs (Mgmt) | **₹10.2 LPA** |
-| **[PES University](/colleges/pes-university) (RR Campus)** | GATE / Karnataka PGCET / PESSAT | ₹2.2 Lakhs/year | **₹11.5 LPA** |
+| **[M.S. Ramaiah Institute of Technology (MSRIT)](/colleges/msrit-bangalore/)** | GATE / Karnataka PGCET | ₹1.4 Lakhs/year (PGCET) / ₹2.8 Lakhs (Mgmt) | **₹10.2 LPA** |
+| **[PES University](/colleges/pes-university/) (RR Campus)** | GATE / Karnataka PGCET / PESSAT | ₹2.2 Lakhs/year | **₹11.5 LPA** |
 | **Alliance School of Engineering & Design** | GATE / Alliance Test & Interview | ₹2.0 Lakhs/year | **₹6.8 LPA** |
 
 ---
@@ -128,9 +128,9 @@ Admissions to private M.Tech colleges in Bangalore generally follow two distinct
 ---
 
 ## 🔗 Related Resources
-- [B.Tech Admission Without JEE 2026: All Options](/blog/btech-admission-without-jee-2026-all-options)
-- [Top Engineering Colleges Accepting JEE Main Scores in 2026](/blog/jee-main-accepting-btech-colleges-2026)
-- [All IIM Cut-Off 2026-28: Admission, MBA, PGDM](/blog/all-iim-cut-off-2026-28-admission-mba-pgdm)
+- [B.Tech Admission Without JEE 2026: All Options](/blog/btech-admission-without-jee-2026-all-options/)
+- [Top Engineering Colleges Accepting JEE Main Scores in 2026](/blog/jee-main-accepting-btech-colleges-2026/)
+- [All IIM Cut-Off 2026-28: Admission, MBA, PGDM](/blog/all-iim-cut-off-2026-28-admission-mba-pgdm/)
 
 ---
 

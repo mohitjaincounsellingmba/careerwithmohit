@@ -105,9 +105,9 @@ Most campus hiring happens in **December-January**, while lateral hiring (for ex
 ---
 
 ### Useful Links:
-- [CFA Course Guide 2026 — Dates & Strategy](/blog/cfa-course-guide-exam-dates-syllabus-2026)
-- [Financial Modeling & Valuation Best Courses](/blog/financial-modeling-valuation-best-courses-2026)
-- [Corporate Finance vs Investment Banking Comparison](/blog/corporate-finance-vs-investment-banking-comparison)
+- [CFA Course Guide 2026 — Dates & Strategy](/blog/cfa-course-guide-exam-dates-syllabus-2026/)
+- [Financial Modeling & Valuation Best Courses](/blog/financial-modeling-valuation-best-courses-2026/)
+- [Corporate Finance vs Investment Banking Comparison](/blog/corporate-finance-vs-investment-banking-comparison/)
 
 ---
 

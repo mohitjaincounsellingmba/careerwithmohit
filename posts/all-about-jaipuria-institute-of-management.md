@@ -1,15 +1,15 @@
 ---
 title: >-
-  [Jaipuria Noida](/colleges/jaipuria-noida) Review 2026: Placements &
+  [Jaipuria Noida](/colleges/jaipuria-noida/) Review 2026: Placements &
   Infrastructure Highlights
 date: '2026-03-15'
 description: >-
   In-depth review of Jaipuria Institute of Management, Noida. Explore the 98%
   placement record, premium campus infra, and industry-led faculty.
 keywords:
-  - '[Jaipuria Noida](/colleges/jaipuria-noida) review 2026'
-  - '[Jaipuria Noida](/colleges/jaipuria-noida) placements 2025'
-  - '[Jaipuria Noida](/colleges/jaipuria-noida) infrastructure'
+  - '[Jaipuria Noida](/colleges/jaipuria-noida/) review 2026'
+  - '[Jaipuria Noida](/colleges/jaipuria-noida/) placements 2025'
+  - '[Jaipuria Noida](/colleges/jaipuria-noida/) infrastructure'
   - best PGDM in Noida ranked
   - Noida Colleges
   - Best Colleges in Noida
@@ -30,13 +30,13 @@ faqs:
       placement averages, the "Unison" system allows students from Jaipur and
       Indore to also participate in common placement drives, making all campuses
       strong options.
-  - question: 'Is there a management quota in [Jaipuria Noida](/colleges/jaipuria-noida)?'
+  - question: 'Is there a management quota in [Jaipuria Noida](/colleges/jaipuria-noida/)?'
     answer: >-
       Jaipuria follows a transparent, merit-based admission process. However,
       for specific queries regarding seat availability and institutional
       scholarships, you can reach out to our counselling team.
   - question: >-
-      What is the [Jaipuria Noida](/colleges/jaipuria-noida) PGDM average
+      What is the [Jaipuria Noida](/colleges/jaipuria-noida/) PGDM average
       package for 2025?
     answer: >-
       The average package for the 2025 batch stood at **₹8.95 LPA**, with the
@@ -45,14 +45,14 @@ location: Delhi NCR
 state: Delhi NCR
 ---
 
-### **College Review: [Jaipuria Institute of Management](/colleges/jaipuria-institute-of-management-indore), Noida**
+### **College Review: [Jaipuria Institute of Management](/colleges/jaipuria-institute-of-management-indore/), Noida**
 *   **National Repute**: consistently ranked among the top private B-schools in India by NIRF and other major agencies.
 *   **Unison Learning**: A unique multi-campus system that allows students to access resources across Noida, Lucknow, Jaipur, and Indore.
 *   **Corporate Branding**: Known for its premium positioning and high degree of corporate integration.
 
 ---
 
-### 📊 [Jaipuria Noida](/colleges/jaipuria-noida) 2026 Snapshot
+### 📊 [Jaipuria Noida](/colleges/jaipuria-noida/) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |
@@ -84,10 +84,10 @@ state: Delhi NCR
 ### 1. Which Jaipuria campus is best?
 While Noida and Lucknow are the flagship campuses with the highest placement averages, the "Unison" system allows students from Jaipur and Indore to also participate in common placement drives, making all campuses strong options.
 
-### 2. Is there a management quota in [Jaipuria Noida](/colleges/jaipuria-noida)?
+### 2. Is there a management quota in [Jaipuria Noida](/colleges/jaipuria-noida/)?
 Jaipuria follows a transparent, merit-based admission process. However, for specific queries regarding seat availability and institutional scholarships, you can reach out to our counselling team.
 
-### 3. What is the [Jaipuria Noida](/colleges/jaipuria-noida) PGDM average package for 2025?
+### 3. What is the [Jaipuria Noida](/colleges/jaipuria-noida/) PGDM average package for 2025?
 The average package for the 2025 batch stood at **₹8.95 LPA**, with the top 10% of the batch securing packages above **₹15 LPA**.
 
 ---

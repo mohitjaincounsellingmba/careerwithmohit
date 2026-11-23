@@ -64,21 +64,21 @@ If you are planning to take M.Tech admission in the 2026 academic batch, this gu
 
 Here is the list of top-ranked private engineering institutions in Noida offering M.Tech programs with outstanding Return on Investment (ROI) and advanced academic support:
 
-### 1. [Jaypee Institute of Information Technology (JIIT)](/colleges/jiit-noida)
+### 1. [Jaypee Institute of Information Technology (JIIT)](/colleges/jiit-noida/)
 - **Approximate Tuition Fees:** ₹1.8 Lakhs/year
 - **Accepted Entrance Exams:** GATE / JIIT Entrance Test
 - **Admission Cutoff / Eligibility:** GATE Score 380+ (Entrance exam options exist)
 - **Average Postgraduate Placement Package:** **₹7.5 LPA**
 - **Key Highlight:** NAAC accredited autonomous institute with highly specialized VLSI, CSE, and cybersecurity M.Tech domains.
 
-### 2. Amity School of Engineering & Technology ([Amity University](/colleges/amity-noida))
+### 2. Amity School of Engineering & Technology ([Amity University](/colleges/amity-noida/))
 - **Approximate Tuition Fees:** ₹2.2 Lakhs/year
 - **Accepted Entrance Exams:** Amity Test & Interview
 - **Admission Cutoff / Eligibility:** GATE Score 350+ (GATE is not mandatory for direct entry)
 - **Average Postgraduate Placement Package:** **₹6.0 LPA**
 - **Key Highlight:** Premium campus infrastructure, international exchange programs, and extensive recruiter base.
 
-### 3. [JSS Academy of Technical Education (JSSATE)](/colleges/jssate-noida)
+### 3. [JSS Academy of Technical Education (JSSATE)](/colleges/jssate-noida/)
 - **Approximate Tuition Fees:** ₹1.2 Lakhs/year
 - **Accepted Entrance Exams:** GATE / UPTAC Counseling
 - **Admission Cutoff / Eligibility:** GATE Score 350+ (Direct counseling on B.Tech marks)
@@ -93,9 +93,9 @@ Here is a quick snapshot comparing the fee structures, entrance criteria, and av
 
 | College Name | Accepted Entrance Exams | Approximate Tuition Fees | Average Placement Package |
 | :--- | :--- | :--- | :--- |
-| **[Jaypee Institute of Information Technology (JIIT)](/colleges/jiit-noida)** | GATE / JIIT Entrance Test | ₹1.8 Lakhs/year | **₹7.5 LPA** |
-| **Amity School of Engineering & Technology ([Amity University](/colleges/amity-noida))** | Amity Test & Interview | ₹2.2 Lakhs/year | **₹6.0 LPA** |
-| **[JSS Academy of Technical Education (JSSATE)](/colleges/jssate-noida)** | GATE / UPTAC Counseling | ₹1.2 Lakhs/year | **₹5.5 LPA** |
+| **[Jaypee Institute of Information Technology (JIIT)](/colleges/jiit-noida/)** | GATE / JIIT Entrance Test | ₹1.8 Lakhs/year | **₹7.5 LPA** |
+| **Amity School of Engineering & Technology ([Amity University](/colleges/amity-noida/))** | Amity Test & Interview | ₹2.2 Lakhs/year | **₹6.0 LPA** |
+| **[JSS Academy of Technical Education (JSSATE)](/colleges/jssate-noida/)** | GATE / UPTAC Counseling | ₹1.2 Lakhs/year | **₹5.5 LPA** |
 
 ---
 
@@ -116,9 +116,9 @@ Admissions to private M.Tech colleges in Noida generally follow two distinct rou
 ---
 
 ## 🔗 Related Resources
-- [B.Tech Admission Without JEE 2026: All Options](/blog/btech-admission-without-jee-2026-all-options)
-- [Top Engineering Colleges Accepting JEE Main Scores in 2026](/blog/jee-main-accepting-btech-colleges-2026)
-- [All IIM Cut-Off 2026-28: Admission, MBA, PGDM](/blog/all-iim-cut-off-2026-28-admission-mba-pgdm)
+- [B.Tech Admission Without JEE 2026: All Options](/blog/btech-admission-without-jee-2026-all-options/)
+- [Top Engineering Colleges Accepting JEE Main Scores in 2026](/blog/jee-main-accepting-btech-colleges-2026/)
+- [All IIM Cut-Off 2026-28: Admission, MBA, PGDM](/blog/all-iim-cut-off-2026-28-admission-mba-pgdm/)
 
 ---
 

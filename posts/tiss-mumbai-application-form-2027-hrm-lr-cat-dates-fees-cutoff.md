@@ -59,7 +59,7 @@ state: Maharashtra
 > - **Mandatory Entrance Exam**: **CAT 2026** (TISSNET is permanently discontinued; CUET-PG does **not** apply to HRM & LR).
 > - **Application Portal Status**: Register via [admissions.tiss.ac.in](https://admissions.tiss.ac.in) by submitting your CAT registration number.
 > - **Total Program Fee**: **₹2.80 Lakhs to ₹3.20 Lakhs** for the complete 2-year flagship curriculum.
-> - **Placement & ROI Benchmark**: Average salary stands at **₹27.22 LPA** with a median CTC of **₹25.75 LPA**, competing directly with [XLRI Jamshedpur](/colleges/xlri-jamshedpur) and [IIM Lucknow](/colleges/iim-lucknow).
+> - **Placement & ROI Benchmark**: Average salary stands at **₹27.22 LPA** with a median CTC of **₹25.75 LPA**, competing directly with [XLRI Jamshedpur](/colleges/xlri-jamshedpur/) and [IIM Lucknow](/colleges/iim-lucknow/).
 
 The **Tata Institute of Social Sciences (TISS), Mumbai**, established in 1936 in Deonar, Mumbai, is India's most prestigious institution for Human Resource Management and Industrial Relations. 
 

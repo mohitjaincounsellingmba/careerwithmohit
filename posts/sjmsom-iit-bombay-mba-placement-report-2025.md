@@ -24,11 +24,11 @@ faqs:
       With a total 2-year tuition fee of approximately INR 14.5 Lakhs and an average starting salary of INR 25.82 LPA, SJMSOM IIT Bombay delivers an exceptional return on investment (ROI) with a payback period under 8 to 10 months.
 ---
 
-The **Shailesh J. Mehta School of Management (SJMSOM)** at **[IIT Bombay](/colleges/iit-bombay)** stands as one of India's most prestigious management schools, consistently challenging older IIMs in placement figures, corporate reputation, and return on investment.
+The **Shailesh J. Mehta School of Management (SJMSOM)** at **[IIT Bombay](/colleges/iit-bombay/)** stands as one of India's most prestigious management schools, consistently challenging older IIMs in placement figures, corporate reputation, and return on investment.
 
 The **2025 MBA placement season** at SJMSOM was marked by outstanding recruiter confidence, achieving **100% placements** with strong participation across consulting, investment banking, operations, and product management.
 
-Here is the exhaustive analysis of the **SJMSOM [IIT Bombay](/colleges/iit-bombay) MBA Placement Report 2025**.
+Here is the exhaustive analysis of the **SJMSOM [IIT Bombay](/colleges/iit-bombay/) MBA Placement Report 2025**.
 
 ---
 
@@ -83,9 +83,9 @@ Capitalizing on IIT Bombay’s deep engineering strengths, global supply chain g
 | Institute | Total 2-Year Tuition Fees | Average Starting CTC (2025) | Payback Period |
 | :--- | :--- | :--- | :--- |
 | **SJMSOM IIT Bombay** | **₹14.5 Lakhs** | **₹25.82 LPA** | **~7-8 Months** |
-| **[IIM Ahmedabad](/colleges/iim-ahmedabad)** | ₹28.0 Lakhs | ₹34.45 LPA | ~10-12 Months |
-| **[SPJIMR Mumbai](/blog/spjimr-mumbai-pgdm-placement-report-2025)** | ₹24.0 Lakhs | ₹32.00 LPA | ~9-11 Months |
-| **[MDI Gurgaon](/blog/mdi-gurgaon-pgdm-placement-report-2025)** | ₹25.5 Lakhs | ₹25.60 LPA | ~12-14 Months |
+| **[IIM Ahmedabad](/colleges/iim-ahmedabad/)** | ₹28.0 Lakhs | ₹34.45 LPA | ~10-12 Months |
+| **[SPJIMR Mumbai](/blog/spjimr-mumbai-pgdm-placement-report-2025/)** | ₹24.0 Lakhs | ₹32.00 LPA | ~9-11 Months |
+| **[MDI Gurgaon](/blog/mdi-gurgaon-pgdm-placement-report-2025/)** | ₹25.5 Lakhs | ₹25.60 LPA | ~12-14 Months |
 
 ---
 
@@ -93,7 +93,7 @@ Capitalizing on IIT Bombay’s deep engineering strengths, global supply chain g
 
 *   **CAT Cutoff**: SJMSOM requires a minimum overall CAT percentile of **98.5+ to 99+ percentile** for General category candidates.
 *   **Eligibility**: 4-year Bachelor’s degree in Engineering/Technology or Master’s in Science.
-*   For the complete national benchmark, read our **[All 21 IIMs Recent Placement Report 2025](/blog/all-iim-recent-placement-report-2025)**.
+*   For the complete national benchmark, read our **[All 21 IIMs Recent Placement Report 2025](/blog/all-iim-recent-placement-report-2025/)**.
 
 ---
 

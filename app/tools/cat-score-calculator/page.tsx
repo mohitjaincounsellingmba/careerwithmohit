@@ -383,7 +383,7 @@ export default function CatScoreCalculatorPage() {
         <div className="relative z-10 max-w-[1220px] mx-auto px-4 sm:px-6 lg:px-8">
           {/* Breadcrumbs for light background */}
           <div className="mb-6 [&_a]:text-slate-500 [&_a:hover]:text-blue-600 [&_span]:text-slate-900 [&_svg]:text-slate-400">
-            <Breadcrumbs />
+            <Breadcrumbs skipJsonLd={true} />
           </div>
 
           {/* Eyebrow Pill */}

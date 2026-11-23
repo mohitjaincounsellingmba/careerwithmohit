@@ -5,9 +5,8 @@ title: >-
 date: '2026-07-21'
 category: MBBS Abroad
 description: >-
-  Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
-  private univer
+  Kazakhstan is one of the most established hubs for medical education in
+  Central Asia. Check fees, cutoffs, placements & expert admission tips.
 keywords:
   - mbbs colleges in kazakhstan 2026
   - mbbs in kazakhstan fees for indian students
@@ -76,8 +75,8 @@ state: Delhi NCR
 
 ## 🔗 Related Links
 
-* [MBBS Abroad Roadmap 2026](/blog/mbbs-abroad-for-indian-students-2026-fees-nmc-rules)
-* [NEET UG Exam Details](/blog/all-about-neet-exam)
+* [MBBS Abroad Roadmap 2026](/blog/mbbs-abroad-for-indian-students-2026-fees-nmc-rules/)
+* [NEET UG Exam Details](/blog/all-about-neet-exam/)
 ---
 
 ### 🚀 Boost Your Preparation

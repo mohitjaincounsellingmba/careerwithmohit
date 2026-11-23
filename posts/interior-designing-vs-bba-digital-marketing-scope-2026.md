@@ -5,9 +5,8 @@ title: >-
 date: '2026-04-12'
 category: Career Counselling
 description: >-
-  Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
-  private univer
+  Choosing a career path after the 12th is one of the most critical decisions
+  for any student. Check fees, cutoffs, placements & expert admission tips.
 keywords:
   - Interior Designing vs BBA Digital Marketing
   - career after 12th India 2026
@@ -70,7 +69,7 @@ Digital Marketing is no longer an "option" for businesses; it is their primary s
 *   **Modern Trends:** **AI-driven marketing automation**, Voice Search Optimization, and hyper-personalized consumer journeys.
 *   **Job Roles:** SEO Specialist, Performance Marketer, Content Strategist, Social Media Manager, or E-commerce Manager.
 
-*Related Guide:* [How to Start Digital Marketing from Scratch in 2026](/blog/how-to-start-digital-marketing-from-scratch-2026)
+*Related Guide:* [How to Start Digital Marketing from Scratch in 2026](/blog/how-to-start-digital-marketing-from-scratch-2026/)
 
 ---
 
@@ -101,7 +100,7 @@ Digital Marketing is no longer an "option" for businesses; it is their primary s
 3.  **Content Creation:** Whether it’s copy or video, storytelling is key.
 4.  **Tech-Adaptability:** Staying ahead of daily changing algorithms.
 
-*Learn more about BBA skills:* [BBA Specializations and Salary Guide 2026](/blog/bba-specializations-skills-salary-2026-guide)
+*Learn more about BBA skills:* [BBA Specializations and Salary Guide 2026](/blog/bba-specializations-skills-salary-2026-guide/)
 
 ---
 
@@ -120,9 +119,9 @@ Both fields offer incredible scope in 2026. However, **BBA in Digital Marketing*
 
 **Ready to start your journey?**
 
-*   Check out: [Career Options After 12th Commerce](/blog/career-options-after-12th-commerce-2026)
-*   Check out: [MBA/PGDM Admissions Guide 2026](/blog/mba-pgdm-admissions-2026-2028-complete-guide)
-*   Check out: [Transition from Marketing to Digital Marketing](/blog/mba-marketing-to-digital-marketing-career-2026)
+*   Check out: [Career Options After 12th Commerce](/blog/career-options-after-12th-commerce-2026/)
+*   Check out: [MBA/PGDM Admissions Guide 2026](/blog/mba-pgdm-admissions-2026-2028-complete-guide/)
+*   Check out: [Transition from Marketing to Digital Marketing](/blog/mba-marketing-to-digital-marketing-career-2026/)
 
 **Need Personalized Career Counselling?**
 [👉 Click here to talk to our expert career counselors!](/inquiry)

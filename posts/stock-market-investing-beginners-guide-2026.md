@@ -103,9 +103,9 @@ A stock that gives returns multiple times its cost (e.g., a stock that goes from
 ---
 
 ### Useful Links:
-- [India Income Tax Slabs 2026-27 Guide](/blog/india-income-tax-slabs-2026-27-regime-comparison)
-- [How to Save Tax Under 80C & 80D](/blog/save-income-tax-india-80c-80d-guide-2026)
-- [Crypto Taxation India 2026 Rules](/blog/cryptocurrency-taxation-india-2026-complete-rules)
+- [India Income Tax Slabs 2026-27 Guide](/blog/india-income-tax-slabs-2026-27-regime-comparison/)
+- [How to Save Tax Under 80C & 80D](/blog/save-income-tax-india-80c-80d-guide-2026/)
+- [Crypto Taxation India 2026 Rules](/blog/cryptocurrency-taxation-india-2026-complete-rules/)
 
 ---
 

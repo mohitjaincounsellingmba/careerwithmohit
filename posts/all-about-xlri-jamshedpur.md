@@ -20,14 +20,14 @@ faqs:
       The college accepts scores from national level entrance examinations including XAT, GMAT for the PGDM and MBA admissions.
 ---
 
-### **College Review: [XLRI Jamshedpur](/colleges/xlri-jamshedpur)**
+### **College Review: [XLRI Jamshedpur](/colleges/xlri-jamshedpur/)**
 *   **Quality Curriculum**: Tailored directly to industry requirements with standard practical case studies.
 *   **Established Brand**: Over the years, it has earned a strong reputation among regional corporate employers.
 *   **Holistic Learning**: Focuses on both technical business skills and global soft skills development.
 
 ---
 
-### 📊 [XLRI Jamshedpur](/colleges/xlri-jamshedpur) 2026 Snapshot
+### 📊 [XLRI Jamshedpur](/colleges/xlri-jamshedpur/) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |
@@ -55,18 +55,18 @@ faqs:
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### 1. Is [XLRI Jamshedpur](/colleges/xlri-jamshedpur) a good option for PGDM/MBA?
-Yes, [XLRI Jamshedpur](/colleges/xlri-jamshedpur) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+### 1. Is [XLRI Jamshedpur](/colleges/xlri-jamshedpur/) a good option for PGDM/MBA?
+Yes, [XLRI Jamshedpur](/colleges/xlri-jamshedpur/) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
-### 2. What is the average package offered at [XLRI Jamshedpur](/colleges/xlri-jamshedpur)?
-The average placement package at [XLRI Jamshedpur](/colleges/xlri-jamshedpur) is approximately ₹30.5 LPA, with the highest package reaching up to ₹80 LPA.
+### 2. What is the average package offered at [XLRI Jamshedpur](/colleges/xlri-jamshedpur/)?
+The average placement package at [XLRI Jamshedpur](/colleges/xlri-jamshedpur/) is approximately ₹30.5 LPA, with the highest package reaching up to ₹80 LPA.
 
-### 3. What entrance exams are accepted by [XLRI Jamshedpur](/colleges/xlri-jamshedpur)?
+### 3. What entrance exams are accepted by [XLRI Jamshedpur](/colleges/xlri-jamshedpur/)?
 The college accepts scores from national level entrance examinations including XAT, GMAT for the PGDM and MBA admissions.
 
 ---
 
-**Final Verdict**: [XLRI Jamshedpur](/colleges/xlri-jamshedpur) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
+**Final Verdict**: [XLRI Jamshedpur](/colleges/xlri-jamshedpur/) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
 [👉 Apply to XLRI Jamshedpur](/inquiry) | [👉 Get Free Counselling](/inquiry)
 

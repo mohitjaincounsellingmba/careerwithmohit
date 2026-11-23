@@ -61,19 +61,19 @@ These private business schools keep their annual tuition fees under ₹1.5 Lakhs
 - **Average Placement Package:** **₹4.0 LPA**
 - **Key Highlight:** Located in Noida's corporate hub, highly preferred for business exposure.
 
-### 2. [Hierank Business School](/colleges/hierank-noida)
+### 2. [Hierank Business School](/colleges/hierank-noida/)
 - **Approximate Fees:** ₹1.1 Lakhs (Annual)
 - **Accepted Entrance Exams:** Merit / CUET-UG
 - **Average Placement Package:** **₹3.8 LPA**
 - **Key Highlight:** One of the most budget-friendly BBA colleges in Sector 62 Noida.
 
-### 3. [Noida International University (NIU)](/colleges/niu-greater-noida)
+### 3. [Noida International University (NIU)](/colleges/niu-greater-noida/)
 - **Approximate Fees:** ₹1.2 Lakhs (Annual)
 - **Accepted Entrance Exams:** Merit / CUET-UG
 - **Average Placement Package:** **₹3.5 LPA**
 - **Key Highlight:** Private university featuring massive campus infra and multi-disciplinary learning.
 
-### 4. [Jaypee Institute of Information Technology (JIIT)](/colleges/jiit-noida)
+### 4. [Jaypee Institute of Information Technology (JIIT)](/colleges/jiit-noida/)
 - **Approximate Fees:** ₹1.8 Lakhs (Annual)
 - **Accepted Entrance Exams:** Merit / CUET-UG
 - **Average Placement Package:** **₹4.5 LPA**
@@ -88,9 +88,9 @@ Here is a quick snapshot comparing the fee structures and average placements for
 | College Name | Entrance Exams | Approximate Fees | Avg Placement Package |
 | :--- | :--- | :--- | :--- |
 | **IMS Noida** | Merit / CUET-UG | ₹1.5 Lakhs (Annual) | **₹4.0 LPA** |
-| **[Hierank Business School](/colleges/hierank-noida)** | Merit / CUET-UG | ₹1.1 Lakhs (Annual) | **₹3.8 LPA** |
-| **[Noida International University (NIU)](/colleges/niu-greater-noida)** | Merit / CUET-UG | ₹1.2 Lakhs (Annual) | **₹3.5 LPA** |
-| **[Jaypee Institute of Information Technology (JIIT)](/colleges/jiit-noida)** | Merit / CUET-UG | ₹1.8 Lakhs (Annual) | **₹4.5 LPA** |
+| **[Hierank Business School](/colleges/hierank-noida/)** | Merit / CUET-UG | ₹1.1 Lakhs (Annual) | **₹3.8 LPA** |
+| **[Noida International University (NIU)](/colleges/niu-greater-noida/)** | Merit / CUET-UG | ₹1.2 Lakhs (Annual) | **₹3.5 LPA** |
+| **[Jaypee Institute of Information Technology (JIIT)](/colleges/jiit-noida/)** | Merit / CUET-UG | ₹1.8 Lakhs (Annual) | **₹4.5 LPA** |
 
 ---
 
@@ -112,9 +112,9 @@ Return on Investment (ROI) is the ultimate metric for business students. When yo
 ---
 
 ## 🔗 Related Resources
-- [Best BBA Specializations for 2026](/blog/bba-specializations-skills-salary-2026-guide)
-- [BBA vs BCom vs BMS: Career Comparison](/blog/bba-vs-bcom-vs-bms-career-comparison)
-- [Direct BBA Admission 2026](/blog/direct-bba-admission-2026-management-quota)
+- [Best BBA Specializations for 2026](/blog/bba-specializations-skills-salary-2026-guide/)
+- [BBA vs BCom vs BMS: Career Comparison](/blog/bba-vs-bcom-vs-bms-career-comparison/)
+- [Direct BBA Admission 2026](/blog/direct-bba-admission-2026-management-quota/)
 
 ---
 

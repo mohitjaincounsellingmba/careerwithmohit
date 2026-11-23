@@ -15,9 +15,8 @@ tags:
   - English Proficiency
   - Study in USA
 description: >-
-  Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
-  private univer
+  The DET is gaining massive popularity among Indian students for three main
+  reasons: Convenience: No need to travel to a test center.
 keywords:
   - career counselling
   - admissions 2026
@@ -118,7 +117,7 @@ You can take the test as many times as you like, but you can only purchase three
 
 Don't go into the exam without practice. Our experts have curated a realistic simulation to help you get comfortable with the adaptive format.
 
-[👉 Take the Free Duolingo Mock Test 2026](/tools/mock-test/duolingo)
+[👉 Take the Free Duolingo Mock Test 2026](/tools/mock-test/duolingo/)
 
 ---
 

@@ -288,10 +288,10 @@ Not sure which 1-year MBA is the right fit for your background, budget, and care
 ---
 
 *Related Posts:*
-- [Best Online MBA Colleges in India 2026](/blog/best-online-mba-colleges-india-2026)
-- [Online MBA in India 2026: Full Guide](/blog/online-mba-india-2026)
-- [Best Online MBA for Working Professionals 2026](/blog/best-online-mba-colleges-working-professionals-india-2026)
-- [MBA vs PGDM: Which is Better in 2026?](/blog/mba-vs-pgdm-2026-ultimate-guide)
+- [Best Online MBA Colleges in India 2026](/blog/best-online-mba-colleges-india-2026/)
+- [Online MBA in India 2026: Full Guide](/blog/online-mba-india-2026/)
+- [Best Online MBA for Working Professionals 2026](/blog/best-online-mba-colleges-working-professionals-india-2026/)
+- [MBA vs PGDM: Which is Better in 2026?](/blog/mba-vs-pgdm-2026-ultimate-guide/)
 
 ---
 

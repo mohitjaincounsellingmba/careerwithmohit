@@ -2,9 +2,8 @@
 title: 'Christ University (Yeshwanthpur) MBA Admission 2027–2029: Fees & Review'
 date: '2026-03-24'
 description: >-
-  Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
-  private univer
+  Christ University (Yeshwanthpur) MBA Admission 2027–2029: Complete guide on
+  fees, verified cutoffs, average placement packages & admission process.
 keywords:
   - Christ University Yeshwanthpur MBA admission 2027–2029
   - Christ University Yeshwanthpur MBA fees
@@ -33,7 +32,7 @@ faqs:
       Yes, since all Christ Bangalore campuses participate in the same
       centralized placement pool.
   - question: What is the dress code?
-    answer: "Strict formal attire and professional grooming are the hallmark of Christ, including the Yeshwanthpur campus.\n\nExplore other Christ Campuses:\n*   [Christ University Central Campus MBA: Review](/blog/christ-university-central-campus-mba-admission-2026-fees-review)\n*   [Christ University Kengeri Campus MBA: Review](/blog/christ-university-kengeri-mba-admission-2026-fees-review)\n*   [Christ University Delhi-NCR MBA: Guide](/blog/christ-university-delhi-ncr-mba-admission-2026-fees-review)\n\n**Confused About Which Bangalore Campus to Choose?**\nWhile all offer the same degree and common placements, each has a different vibe—from urban heart to lush greenery to high-tech modern. At **CareerWithMohit**, we help you navigate the 2026 admission cycle to ensure you land in the campus that fits your personality and career path.\n\n[\U0001F449 Get Expert MBA Admission Guidance for Christ University!](/inquiry)"
+    answer: "Strict formal attire and professional grooming are the hallmark of Christ, including the Yeshwanthpur campus.\n\nExplore other Christ Campuses:\n*   [Christ University Central Campus MBA: Review](/blog/christ-university-central-campus-mba-admission-2026-fees-review/)\n*   [Christ University Kengeri Campus MBA: Review](/blog/christ-university-kengeri-mba-admission-2026-fees-review/)\n*   [Christ University Delhi-NCR MBA: Guide](/blog/christ-university-delhi-ncr-mba-admission-2026-fees-review/)\n\n**Confused About Which Bangalore Campus to Choose?**\nWhile all offer the same degree and common placements, each has a different vibe—from urban heart to lush greenery to high-tech modern. At **CareerWithMohit**, we help you navigate the 2026 admission cycle to ensure you land in the campus that fits your personality and career path.\n\n[\U0001F449 Get Expert MBA Admission Guidance for Christ University!](/inquiry)"
 location: Delhi NCR
 state: Delhi NCR
 ---
@@ -93,9 +92,9 @@ Yes, since all Christ Bangalore campuses participate in the same centralized pla
 Strict formal attire and professional grooming are the hallmark of Christ, including the Yeshwanthpur campus.
 
 Explore other Christ Campuses:
-*   [Christ University Central Campus MBA: Review](/blog/christ-university-central-campus-mba-admission-2026-fees-review)
-*   [Christ University Kengeri Campus MBA: Review](/blog/christ-university-kengeri-mba-admission-2026-fees-review)
-*   [Christ University Delhi-NCR MBA: Guide](/blog/christ-university-delhi-ncr-mba-admission-2026-fees-review)
+*   [Christ University Central Campus MBA: Review](/blog/christ-university-central-campus-mba-admission-2026-fees-review/)
+*   [Christ University Kengeri Campus MBA: Review](/blog/christ-university-kengeri-mba-admission-2026-fees-review/)
+*   [Christ University Delhi-NCR MBA: Guide](/blog/christ-university-delhi-ncr-mba-admission-2026-fees-review/)
 
 **Confused About Which Bangalore Campus to Choose?**
 While all offer the same degree and common placements, each has a different vibe—from urban heart to lush greenery to high-tech modern. At **CareerWithMohit**, we help you navigate the 2026 admission cycle to ensure you land in the campus that fits your personality and career path.

@@ -35,14 +35,14 @@ location: Ahmedabad
 state: Gujarat
 ---
 
-### **College Review: [IIM Ahmedabad](/colleges/iim-ahmedabad)**
+### **College Review: [IIM Ahmedabad](/colleges/iim-ahmedabad/)**
 *   **Quality Curriculum**: Tailored directly to industry requirements with standard practical case studies.
 *   **Established Brand**: Over the years, it has earned a strong reputation among regional corporate employers.
 *   **Holistic Learning**: Focuses on both technical business skills and global soft skills development.
 
 ---
 
-### 📊 [IIM Ahmedabad](/colleges/iim-ahmedabad) 2026 Snapshot
+### 📊 [IIM Ahmedabad](/colleges/iim-ahmedabad/) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |
@@ -70,18 +70,18 @@ state: Gujarat
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### 1. Is [IIM Ahmedabad](/colleges/iim-ahmedabad) a good option for PGDM/MBA?
-Yes, [IIM Ahmedabad](/colleges/iim-ahmedabad) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+### 1. Is [IIM Ahmedabad](/colleges/iim-ahmedabad/) a good option for PGDM/MBA?
+Yes, [IIM Ahmedabad](/colleges/iim-ahmedabad/) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
-### 2. What is the average package offered at [IIM Ahmedabad](/colleges/iim-ahmedabad)?
-The average placement package at [IIM Ahmedabad](/colleges/iim-ahmedabad) is approximately ₹35.0 LPA, with the highest package reaching up to ₹1.15 Crore.
+### 2. What is the average package offered at [IIM Ahmedabad](/colleges/iim-ahmedabad/)?
+The average placement package at [IIM Ahmedabad](/colleges/iim-ahmedabad/) is approximately ₹35.0 LPA, with the highest package reaching up to ₹1.15 Crore.
 
-### 3. What entrance exams are accepted by [IIM Ahmedabad](/colleges/iim-ahmedabad)?
+### 3. What entrance exams are accepted by [IIM Ahmedabad](/colleges/iim-ahmedabad/)?
 The college accepts scores from national level entrance examinations including CAT for the PGDM and MBA admissions.
 
 ---
 
-**Final Verdict**: [IIM Ahmedabad](/colleges/iim-ahmedabad) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
+**Final Verdict**: [IIM Ahmedabad](/colleges/iim-ahmedabad/) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
 [👉 Apply to IIM Ahmedabad](/inquiry) | [👉 Get Free Counselling](/inquiry)
 

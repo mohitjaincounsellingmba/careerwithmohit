@@ -2,9 +2,8 @@
 title: IIM Mumbai (formerly NITIE) Executive MBA Review
 date: '2026-07-22'
 description: >-
-  Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
-  private univer
+  In this review, we break down everything you need to know: fees, admission
+  cutoffs, placements, pros, cons, and our honest expert verdict.
 keywords:
   - IIM Mumbai (formerly NITIE) executive mba
   - IIM Mumbai (formerly NITIE) executive mba review
@@ -43,7 +42,7 @@ location: Delhi NCR
 state: Delhi NCR
 ---
 
-Running a career upgrade requires choosing the right management program. For working professionals in Mumbai, the Executive MBA / Executive PGDM offered by [IIM Mumbai (formerly NITIE)](/colleges/iim-mumbai) represents a powerful gateway to higher senior leadership positions.
+Running a career upgrade requires choosing the right management program. For working professionals in Mumbai, the Executive MBA / Executive PGDM offered by [IIM Mumbai (formerly NITIE)](/colleges/iim-mumbai/) represents a powerful gateway to higher senior leadership positions.
 
 In this review, we break down everything you need to know: fees, admission cutoffs, placements, pros, cons, and our honest expert verdict.
 
@@ -87,7 +86,7 @@ In this review, we break down everything you need to know: fees, admission cutof
 
 ## 🔍 Our Expert Verdict
 
-The Executive MBA program at [IIM Mumbai (formerly NITIE)](/colleges/iim-mumbai) is highly recommended for professionals based in Mumbai who want to scale their careers without disrupting their current geographic setup. 
+The Executive MBA program at [IIM Mumbai (formerly NITIE)](/colleges/iim-mumbai/) is highly recommended for professionals based in Mumbai who want to scale their careers without disrupting their current geographic setup. 
 
 If you are looking for top-tier consulting placements and have 5+ years of experience, full-time residential paths are stellar. However, if you are looking to continue your full-time job, their weekend/evening classes offer outstanding return on investment.
 

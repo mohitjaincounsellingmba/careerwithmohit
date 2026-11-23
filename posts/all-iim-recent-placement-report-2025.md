@@ -61,7 +61,7 @@ state: Maharashtra
 
 The **Indian Institutes of Management (IIMs)** have concluded their recent placement cycle for the graduating batch of 2025. Despite broader global macroeconomic fluctuations and cautious tech hiring worldwide, the 21 IIMs once again reinforced their position as India's premier executive talent incubators.
 
-From the pinnacle of the **[IIM BLACKI](/blog/what-is-iim-blacki-complete-guide-2026)** elite campuses to the rapid growth of **New and [Baby IIMs](/blog/baby-iims-review-2026-honest-analysis)**, the 2025 placement season highlighted clear structural trends: strong demand for management consultants, robust recruitment from bulge-bracket investment banks, and an increasing salary benchmark across newer campuses.
+From the pinnacle of the **[IIM BLACKI](/blog/what-is-iim-blacki-complete-guide-2026/)** elite campuses to the rapid growth of **New and [Baby IIMs](/blog/baby-iims-review-2026-honest-analysis/)**, the 2025 placement season highlighted clear structural trends: strong demand for management consultants, robust recruitment from bulge-bracket investment banks, and an increasing salary benchmark across newer campuses.
 
 In this definitive guide, we provide a complete, verified analysis of the **All IIM Recent Placement Report 2025**—covering college-wise average CTCs, median packages, highest international/domestic offers, lowest base salaries, top recruiters, and ROI metrics.
 
@@ -77,9 +77,9 @@ Below is the consolidated placement comparison table for **all 21 Indian Institu
 
 | Institute | Tier / Generation | Average Package (CTC) | Median Package | Highest Package (Reported) | Top Recruiting Sector |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **[IIM Ahmedabad](/colleges/iim-ahmedabad)** | Old / Top-Tier | **₹34.45 LPA** | ₹31.50 LPA | ₹1.10 Cr (Domestic) | Management Consulting |
-| **[IIM Bangalore](/colleges/iim-bangalore)** | Old / Top-Tier | **₹34.88 LPA** | ₹32.00 LPA | ₹1.15+ Cr (Intl) | Consulting & Tech |
-| **[IIM Calcutta](/colleges/iim-calcutta)** | Old / Top-Tier | **₹34.23 LPA** | ₹31.20 LPA | **₹1.45 Cr (Intl)** | BFSI & Investment Banking |
+| **[IIM Ahmedabad](/colleges/iim-ahmedabad/)** | Old / Top-Tier | **₹34.45 LPA** | ₹31.50 LPA | ₹1.10 Cr (Domestic) | Management Consulting |
+| **[IIM Bangalore](/colleges/iim-bangalore/)** | Old / Top-Tier | **₹34.88 LPA** | ₹32.00 LPA | ₹1.15+ Cr (Intl) | Consulting & Tech |
+| **[IIM Calcutta](/colleges/iim-calcutta/)** | Old / Top-Tier | **₹34.23 LPA** | ₹31.20 LPA | **₹1.45 Cr (Intl)** | BFSI & Investment Banking |
 | **IIM Lucknow** | Old / Top-Tier | **₹32.30 LPA** | ₹30.00 LPA | ₹1.00 Cr | Consulting & Gen Management |
 | **IIM Mumbai (NITIE)** | Old / Elite | **₹31.00 – 34.50 LPA** | ₹29.50 LPA | ₹71.40 LPA | Supply Chain, Ops & Fin |
 | **IIM Indore** | Old / Top-Tier | **₹29.75 LPA** | ₹27.20 LPA | ₹70.00 LPA | Consulting, Sales & Marketing |
@@ -100,7 +100,7 @@ Below is the consolidated placement comparison table for **all 21 Indian Institu
 | **IIM Sirmaur** | Baby / Gen-3 | **₹13.30 – 14.50 LPA** | ₹12.50 LPA | ₹28.00 LPA | General Management & Ops |
 
 > [!NOTE]
-> **Understanding Audit Standards & CTC Variance**: Institutes like [IIM Ahmedabad](/colleges/iim-ahmedabad) and IIM Udaipur follow Indian Placement Reporting Standards (IPRS), providing audited reports with distinct fixed basic salaries, performance bonuses, and guaranteed cash components. In contrast, non-IPRS figures reflect total cost-to-company (CTC).
+> **Understanding Audit Standards & CTC Variance**: Institutes like [IIM Ahmedabad](/colleges/iim-ahmedabad/) and IIM Udaipur follow Indian Placement Reporting Standards (IPRS), providing audited reports with distinct fixed basic salaries, performance bonuses, and guaranteed cash components. In contrast, non-IPRS figures reflect total cost-to-company (CTC).
 
 ---
 
@@ -129,14 +129,14 @@ graph TD
 
 The top tier of Indian management education demonstrated immense placement power, capturing virtually all high-profile global investment banking and front-end strategy roles.
 
-1. **[IIM Ahmedabad](/colleges/iim-ahmedabad)**:
+1. **[IIM Ahmedabad](/colleges/iim-ahmedabad/)**:
    - **Average CTC**: ₹34.45 LPA | **Median CTC**: ₹31.50 LPA
    - **Highest Domestic Offer**: ₹1.10 Crore per annum
    - **Key Highlights**: Over 38% of the batch secured offers in Management Consulting. Top recruiters included McKinsey & Company, Boston Consulting Group (BCG), Bain & Company, Oliver Wyman, and Kearney.
-2. **[IIM Bangalore](/colleges/iim-bangalore)**:
+2. **[IIM Bangalore](/colleges/iim-bangalore/)**:
    - **Average CTC**: ₹34.88 LPA | **Median CTC**: ₹32.00 LPA
    - **Key Highlights**: Saw an exceptional pre-placement offer (PPO) conversion rate of over 45%. Major recruiters included Accenture Strategy, Bain, BCG, Microsoft, Amazon, and Goldman Sachs.
-3. **[IIM Calcutta](/colleges/iim-calcutta)**:
+3. **[IIM Calcutta](/colleges/iim-calcutta/)**:
    - **Average CTC**: ₹34.23 LPA | **Median CTC**: ₹31.20 LPA
    - **Highest International Package**: **₹1.45 Crore per annum**
    - **Key Highlights**: Retained its undisputed reputation as the **Finance Capital of Indian B-Schools**. Over 32% of offers came from bulge-bracket investment banks, private equity, and hedge funds including Avendus Capital, Barclays, Citi, Goldman Sachs, and JP Morgan Chase.
@@ -229,11 +229,11 @@ When selecting an IIM, comparing the total 2-year investment against the post-MB
 
 ## Related Guides & Resources
 
-*   **[All About IIM Colleges: Fees, Placements & Selection Criteria 2026](/blog/all-about-iim-colleges-placements-fees-selection-2026)**
-*   **[All IIM Cut Off 2027–29: CAT Expected & Final Percentiles](/blog/all-iim-cut-off-2027–29-admission-mba-pgdm)**
-*   **[What is IIM BLACKI? Complete Guide](/blog/what-is-iim-blacki-complete-guide-2026)**
-*   **[Baby IIMs Review 2026: Honest Pros & Cons Analysis](/blog/baby-iims-review-2026-honest-analysis)**
-*   **[Top 10 High-Yield CAT Topics (VARC, DILR, QA)](/blog/top-10-high-yield-cat-topics-2026-varc-dilr-qa)**
+*   **[All About IIM Colleges: Fees, Placements & Selection Criteria 2026](/blog/all-about-iim-colleges-placements-fees-selection-2026/)**
+*   **[All IIM Cut Off 2027–29: CAT Expected & Final Percentiles](/blog/all-iim-cut-off-2027-29-admission-mba-pgdm/)**
+*   **[What is IIM BLACKI? Complete Guide](/blog/what-is-iim-blacki-complete-guide-2026/)**
+*   **[Baby IIMs Review 2026: Honest Pros & Cons Analysis](/blog/baby-iims-review-2026-honest-analysis/)**
+*   **[Top 10 High-Yield CAT Topics (VARC, DILR, QA)](/blog/top-10-high-yield-cat-topics-2026-varc-dilr-qa/)**
 
 ---
 

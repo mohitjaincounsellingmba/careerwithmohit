@@ -2,9 +2,8 @@
 title: 'JEE Main College Predictor 2026: Predict Your B.Tech Admissions & Top Colleges'
 date: '2026-03-23'
 description: >-
-  Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Noida, Greater Noida, Delhi NCR. Get details on top colleges under
-  GGSIPU, 
+  Are you wondering which engineering college you can get with your JEE Main
+  percentile? Check fees, cutoffs, placements & expert admission tips.
 keywords:
   - JEE Main college predictor 2026
   - B.Tech college predictor 2026
@@ -61,7 +60,7 @@ Engineering admissions in India are divided into competitive tiers. Based on his
 | **98.5+ %ile** | **Elite Tier** | NIT Trichy, NIT Surathkal, DTU Delhi, NSUT Delhi |
 | **95 - 98.4%ile** | **Top Tier** | IIIT Delhi, COEP Pune, RVCE Bangalore, PEC Chandigarh |
 | **88 - 94.9%ile** | **Premium Tier** | MAIT Delhi, PICT Pune, MSRIT Bangalore, IGDTUW |
-| **75 - 87.9%ile** | **Mid Tier** | VIT Pune, [PES University](/colleges/pes-university), AKGEC, BVCOE Delhi |
+| **75 - 87.9%ile** | **Mid Tier** | VIT Pune, [PES University](/colleges/pes-university/), AKGEC, BVCOE Delhi |
 | **60 - 74.9%ile** | **Emerging Tier** | GL Bajaj Noida, NIET, GNIOT, ABES Ghaziabad |
 
 > **Pro Tip:** For a Computer Science (CSE) seat in a top-5 NIT, you generally need a percentile above **99.2+**.
@@ -95,10 +94,10 @@ When choosing a B.Tech college, the **location** is just as important as the bra
 ---
 
 ## 💡 Related Reading for Engineering Aspirants:
-- [B.Tech Admissions FAQ 2026: 20+ Questions Answered](/blog/btech-admissions-faq-2026)
-- [Top B.Tech Colleges in Pune 2026](/blog/top-btech-colleges-pune)
-- [Top B.Tech Colleges in Gurgaon 2026](/blog/top-btech-colleges-gurgaon-2026)
-- [MBA after B.Tech: Is it a Good Choice?](/blog/mba-after-btech-benefits-2026)
+- [B.Tech Admissions FAQ 2026: 20+ Questions Answered](/blog/btech-admissions-faq-2026/)
+- [Top B.Tech Colleges in Pune 2026](/blog/top-btech-colleges-pune/)
+- [Top B.Tech Colleges in Gurgaon 2026](/blog/top-btech-colleges-gurgaon-2026/)
+- [MBA after B.Tech: Is it a Good Choice?](/blog/mba-after-btech-benefits-2026/)
 
 ---
 

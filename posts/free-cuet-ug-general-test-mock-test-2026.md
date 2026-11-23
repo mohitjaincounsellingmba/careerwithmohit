@@ -5,9 +5,8 @@ title: >-
 date: '2026-08-22'
 category: Exams
 description: >-
-  Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
-  private univer
+  Free CUET UG 2026 (General Test) Mock Test 2026: Online Practice Paper &
+  Strategy Guide: Explore fees, placements, cutoffs & admission guidelines.
 keywords:
   - CUET UG 2026 (General Test) mock test free
   - cuet-ug practice paper 2026

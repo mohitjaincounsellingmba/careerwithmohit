@@ -107,7 +107,7 @@ Here is why every MBA/PGDM finance aspirant should prioritize NISM credentials:
 - **Passing Score**: 60% with 25% negative marking for wrong answers.
 - **Fee**: ₹1,500 + GST | **Validity**: 3 Years.
 
-> 💡 **Mohit's Pro Tip**: Combine NISM Series XV with a practical [Financial Modeling & Valuation Course](/blog/financial-modeling-valuation-best-courses-2027-29/) to dominate summer internship and pre-placement interviews.
+> 💡 **Mohit's Pro Tip**: Combine NISM Series XV with a practical [Financial Modeling & Valuation Course](/blog/financial-modeling-valuation-best-courses-2026/) to dominate summer internship and pre-placement interviews.
 
 ---
 
@@ -202,10 +202,10 @@ To maximize the impact of NISM certifications without overburdening academic cou
 ```
 
 - **Semester 1 (Aug – Dec)**: Focus on **NISM Series V-A** and [Advanced Excel](/blog/advanced-excel-formulas-complete-guide/). Strengthen foundations for summer internship shortlisting.
-- **Semester 2 (Jan – Apr)**: Clear **NISM Series XV (Research Analyst)** or **Series VIII (Equity Derivatives)** alongside [Financial Modeling](/blog/financial-modeling-valuation-best-courses-2027-29/).
+- **Semester 2 (Jan – Apr)**: Clear **NISM Series XV (Research Analyst)** or **Series VIII (Equity Derivatives)** alongside [Financial Modeling](/blog/financial-modeling-valuation-best-courses-2026/).
 - **Summer Internship (May – Jul)**: Apply technical insights during your 8–10 week corporate project.
 - **Semester 3 (Jul – Nov)**: Complete **NISM Series X-A** or **Series VII (SORM)** right before final campus placement week.
-- **Semester 4 (Dec – Mar)**: Convert PPO/final offers and optionally prepare for [CFA Level 1](/blog/cfa-course-guide-exam-dates-syllabus-2027-29/) or [FRM Level 1](/blog/corporate-finance-vs-investment-banking-comparison/).
+- **Semester 4 (Dec – Mar)**: Convert PPO/final offers and optionally prepare for [CFA Level 1](/blog/cfa-course-guide-exam-dates-syllabus-2026/) or [FRM Level 1](/blog/corporate-finance-vs-investment-banking-comparison/).
 
 ---
 
@@ -267,11 +267,11 @@ Corporate recruiters across commercial banking, investment banking, brokerage, a
 ---
 
 ### Related Career & Finance Guides:
-- [CFA Course Guide: Exam Dates, Syllabus & Salary](/blog/cfa-course-guide-exam-dates-syllabus-2027-29/)
-- [Investment Banking Career Path & Placement Guide](/blog/investment-banking-career-path-salary-2027-29/)
-- [Financial Modeling & Valuation Best Courses Guide](/blog/financial-modeling-valuation-best-courses-2027-29/)
+- [CFA Course Guide: Exam Dates, Syllabus & Salary](/blog/cfa-course-guide-exam-dates-syllabus-2026/)
+- [Investment Banking Career Path & Placement Guide](/blog/investment-banking-career-path-salary-2026/)
+- [Financial Modeling & Valuation Best Courses Guide](/blog/financial-modeling-valuation-best-courses-2026/)
 - [Corporate Finance vs Investment Banking Comparison](/blog/corporate-finance-vs-investment-banking-comparison/)
-- [ACCA with MBA: Benefits, Career Scope & Exemptions](/blog/acca-benefits-with-mba-career-guide-2027-29/)
+- [ACCA with MBA: Benefits, Career Scope & Exemptions](/blog/acca-benefits-with-mba-career-guide-2026/)
 - [Top MBA Colleges for Finance Specialization in India](/blog/top-mba-colleges-for-finance-specialization-india-2026/)
 
 ---

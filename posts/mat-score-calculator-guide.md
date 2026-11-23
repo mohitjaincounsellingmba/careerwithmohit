@@ -3,9 +3,8 @@ title: >-
   AIMA MAT May 2026 Score Calculator: Marks vs Percentile & Composite Score
   Predictor
 description: >-
-  Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Noida, Greater Noida, Delhi NCR. Get details on top colleges under
-  GGSIPU, 
+  The AIMA Management Aptitude Test (MAT) May/June 2026 session is a critical
+  gateway for admissions into 600+ top B-Schools in India.
 date: '2026-06-04'
 tags:
   - MAT
@@ -121,9 +120,9 @@ Below is the historical correlation between raw scores, composite scores, and pe
 
 Depending on the mode of exam you took, check out our dedicated, step-by-step guides for checking results and scorecards:
 
-*   **Paper-Based Test (PBT) Guide:** Learn when and how to download your scorecard for the May 31 exam at **[Check MAT May 2026 PBT Score](/blog/check-may-mat-pbt-score-2026)**.
-*   **Computer-Based Test (CBT) Guide:** Stay updated with the CBT timelines, registration deadlines, and dashboard details at **[Check MAT May 2026 CBT Score](/blog/check-may-mat-cbt-score-2026)**.
-*   **Internet-Based Test (IBT) Guide:** Understand the online proctored scoring environment at **[Check MAT May 2026 IBT Score](/blog/check-may-mat-ibt-score-2026)**.
+*   **Paper-Based Test (PBT) Guide:** Learn when and how to download your scorecard for the May 31 exam at **[Check MAT May 2026 PBT Score](/blog/check-may-mat-pbt-score-2026/)**.
+*   **Computer-Based Test (CBT) Guide:** Stay updated with the CBT timelines, registration deadlines, and dashboard details at **[Check MAT May 2026 CBT Score](/blog/check-may-mat-cbt-score-2026/)**.
+*   **Internet-Based Test (IBT) Guide:** Understand the online proctored scoring environment at **[Check MAT May 2026 IBT Score](/blog/check-may-mat-ibt-score-2026/)**.
 
 ---
 
@@ -131,13 +130,13 @@ Depending on the mode of exam you took, check out our dedicated, step-by-step gu
 
 Different B-schools have varied cutoff scores. Here is a curated list of excellent B-schools accepting MAT scores:
 
-1.  **[BIMTECH Greater Noida](/blog/direct-admission-bimtech-greater-noida-management-quota-2026):** Known for its rich PGDM culture and strong placements.
-2.  **[Jaipuria Institute of Management](/blog/all-about-jaipuria-institute-of-management):** Excellent multi-campus network with customized career tracks.
-3.  **[NDIM New Delhi](/blog/all-about-ndim-delhi):** Located in the heart of Delhi, offering high corporate exposure.
-4.  **[NIBM Pune](/blog/all-about-nibm-pune):** The absolute gold standard for careers in banking, financial services, and insurance.
-5.  **[JIMS Rohini](/blog/all-about-jims-rohini):** Extremely cost-effective PGDM program with consistent ROI.
+1.  **[BIMTECH Greater Noida](/blog/direct-admission-bimtech-greater-noida-management-quota-2026/):** Known for its rich PGDM culture and strong placements.
+2.  **[Jaipuria Institute of Management](/blog/all-about-jaipuria-institute-of-management/):** Excellent multi-campus network with customized career tracks.
+3.  **[NDIM New Delhi](/blog/all-about-ndim-delhi/):** Located in the heart of Delhi, offering high corporate exposure.
+4.  **[NIBM Pune](/blog/all-about-nibm-pune/):** The absolute gold standard for careers in banking, financial services, and insurance.
+5.  **[JIMS Rohini](/blog/all-about-jims-rohini/):** Extremely cost-effective PGDM program with consistent ROI.
 
-👉 Read the full list: **[MBA Colleges Accepting MAT Score in Delhi NCR 2026](/blog/mba-colleges-accepting-mat-score-delhi-ncr-2026)**
+👉 Read the full list: **[MBA Colleges Accepting MAT Score in Delhi NCR 2026](/blog/mba-colleges-accepting-mat-score-delhi-ncr-2026/)**
 
 ---
 

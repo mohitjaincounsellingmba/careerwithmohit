@@ -96,9 +96,9 @@ Calculating your score is just the first step. Depending on your results, you sh
 3.  **Backup Plans**: Explore top private universities like BITS, Manipal, or VIT if you feel your score might not reach the NIT cutoffs.
 
 **Recommended Read:**
-*   [JEE Main College Predictor 2026: NIT/IIIT Admission Guide](/blog/jee-main-college-predictor-2026-btech-top-colleges)
-*   [Total Seats in NITs 2026: Subject-wise Seat Matrix](/blog/total-seats-in-nits-2026-seat-matrix)
-*   [How to Crack JEE Advanced 2026: Strategy for Top 500 AIR](/blog/how-to-crack-jee-advanced-2026)
+*   [JEE Main College Predictor 2026: NIT/IIIT Admission Guide](/blog/jee-main-college-predictor-2026-btech-top-colleges/)
+*   [Total Seats in NITs 2026: Subject-wise Seat Matrix](/blog/total-seats-in-nits-2026-seat-matrix/)
+*   [How to Crack JEE Advanced 2026: Strategy for Top 500 AIR](/blog/how-to-crack-jee-advanced-2026/)
 
 ---
 

@@ -99,9 +99,9 @@ Always ensure you apply directly to **AICTE-approved and NBA-accredited** instit
 ---
 
 ## Related Reads & Resources
-- [Top PGDM Colleges in Greater Noida & Ghaziabad Admission 2027](/posts/top-pgdm-colleges-greater-noida-ghaziabad-admission-2027)
-- [Top PGDM Colleges in Pune Admission 2027](/posts/pune-pgdm-admission-2027-fees-placements-cat-2026-xat-exam)
-- [Top MBA/PGDM Colleges in Jaipur Admission 2027](/posts/top-mba-pgdm-colleges-jaipur-admission-2027-cat-xat-exam)
+- [Top PGDM Colleges in Greater Noida & Ghaziabad Admission 2027](/blog/top-pgdm-colleges-greater-noida-ghaziabad-admission-2027/)
+- [Top PGDM Colleges in Pune Admission 2027](/blog/pune-pgdm-admission-2027-fees-placements-cat-2026-xat-exam/)
+- [Top MBA/PGDM Colleges in Jaipur Admission 2027](/blog/top-mba-pgdm-colleges-jaipur-admission-2027-cat-xat-exam/)
 
 ---
 

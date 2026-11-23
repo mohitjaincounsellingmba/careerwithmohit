@@ -197,8 +197,8 @@ Yes. The PGDM program at FORE is AICTE-approved, NBA-accredited, and holds offic
 ---
 
 ### 🚀 Recommended Internal Guides & Reviews
-*   [Top MBA Colleges Accepting 80 to 85 CAT Percentile](/blog/mba-colleges-accepting-cat-cut-off-80-to-85-percentile-2026)
-*   [SPJIMR Mumbai Comprehensive PGDM Review](/blog/spjimr-mumbai-pgdm-review-2027-fees-placements-cutoff)
-*   [MDI Gurgaon PGDM Admission Analysis](/blog/mdi-gurgaon-pgdm-review-2027-fees-placements-cutoff)
-*   [IMT Ghaziabad Fees, Placements & Cutoff Guide](/blog/imt-ghaziabad-pgdm-review-2027-fees-placements-cutoff)
-*   [10 Proven Strategies to Crack CAT Exam](/blog/10-tips-to-crack-cat-exam-2026)
+*   [Top MBA Colleges Accepting 80 to 85 CAT Percentile](/blog/mba-colleges-accepting-cat-cut-off-80-to-85-percentile-2026/)
+*   [SPJIMR Mumbai Comprehensive PGDM Review](/blog/spjimr-mumbai-pgdm-review-2027-fees-placements-cutoff/)
+*   [MDI Gurgaon PGDM Admission Analysis](/blog/mdi-gurgaon-pgdm-review-2027-fees-placements-cutoff/)
+*   [IMT Ghaziabad Fees, Placements & Cutoff Guide](/blog/imt-ghaziabad-pgdm-review-2027-fees-placements-cutoff/)
+*   [10 Proven Strategies to Crack CAT Exam](/blog/10-tips-to-crack-cat-exam-2026/)

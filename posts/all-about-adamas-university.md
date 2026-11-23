@@ -35,7 +35,7 @@ location: Kolkata
 state: West Bengal
 ---
 
-### **College Review: [Adamas University](/colleges/adamas-university)**
+### **College Review: [Adamas University](/colleges/adamas-university/)**
 *   **Quality Curriculum**: Tailored directly to industry requirements with standard practical case studies.
 *   **Established Brand**: Over the years, it has earned a strong reputation among regional corporate employers.
 *   **Holistic Learning**: Focuses on both technical business skills and global soft skills development.
@@ -51,7 +51,7 @@ state: West Bengal
 > - **Eligibility & Selection**: Minimum 50% aggregate in Graduation (45% for reserved categories) plus GD-PI-WAT score.
 > - **ROI & Scholarships**: Merit scholarships ranging from 10% to 50% tuition waiver available for early 2027–29 applicants.
 
-## 📊 [Adamas University](/colleges/adamas-university) 2026 Snapshot
+## 📊 [Adamas University](/colleges/adamas-university/) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |
@@ -79,18 +79,18 @@ state: West Bengal
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### 1. Is [Adamas University](/colleges/adamas-university) a good option for PGDM/MBA?
-Yes, [Adamas University](/colleges/adamas-university) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+### 1. Is [Adamas University](/colleges/adamas-university/) a good option for PGDM/MBA?
+Yes, [Adamas University](/colleges/adamas-university/) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
-### 2. What is the average package offered at [Adamas University](/colleges/adamas-university)?
-The average placement package at [Adamas University](/colleges/adamas-university) is approximately ₹8.48 LPA, with the highest package reaching up to ₹6 LPA.
+### 2. What is the average package offered at [Adamas University](/colleges/adamas-university/)?
+The average placement package at [Adamas University](/colleges/adamas-university/) is approximately ₹8.48 LPA, with the highest package reaching up to ₹6 LPA.
 
-### 3. What entrance exams are accepted by [Adamas University](/colleges/adamas-university)?
+### 3. What entrance exams are accepted by [Adamas University](/colleges/adamas-university/)?
 The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
 
 ---
 
-**Final Verdict**: [Adamas University](/colleges/adamas-university) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
+**Final Verdict**: [Adamas University](/colleges/adamas-university/) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
 [👉 Apply to Adamas University](/inquiry) | [👉 Get Free Counselling](/inquiry)
 

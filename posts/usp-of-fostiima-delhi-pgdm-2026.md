@@ -32,16 +32,16 @@ keywords:
 faqs:
   - question: Is it really founded by IIM alumni?
     answer: >-
-      Yes — by the 1973 batch of [IIM Ahmedabad](/colleges/iim-ahmedabad).
+      Yes — by the 1973 batch of [IIM Ahmedabad](/colleges/iim-ahmedabad/).
       FOSTIIMA stands for "Friends Of Seventy-Three [IIM
-      Ahmedabad](/colleges/iim-ahmedabad)."
+      Ahmedabad](/colleges/iim-ahmedabad/)."
   - question: What is the total fee?
     answer: ₹11.5 Lakhs for the 2027–29 PGDM batch.
 location: Delhi NCR
 state: Delhi NCR
 ---
 
-In the crowded Delhi PGDM market, **FOSTIIMA Business School** has carved a unique identity — it's the only private B-school in Delhi **founded, funded, and managed by [IIM Ahmedabad](/colleges/iim-ahmedabad) alumni**. Since its inception, FOSTIIMA has attracted students who want IIM-quality thinking at a fee that makes financial sense.
+In the crowded Delhi PGDM market, **FOSTIIMA Business School** has carved a unique identity — it's the only private B-school in Delhi **founded, funded, and managed by [IIM Ahmedabad](/colleges/iim-ahmedabad/) alumni**. Since its inception, FOSTIIMA has attracted students who want IIM-quality thinking at a fee that makes financial sense.
 
 Here are the **10 real USPs of FOSTIIMA Delhi** for the 2027–29 batch.
 
@@ -63,9 +63,9 @@ Here are the **10 real USPs of FOSTIIMA Delhi** for the 2027–29 batch.
 
 ## 10 Unique Selling Points (USPs) of FOSTIIMA Delhi
 
-### 1. 🎓 Founded & Managed by [IIM Ahmedabad](/colleges/iim-ahmedabad) Alumni
+### 1. 🎓 Founded & Managed by [IIM Ahmedabad](/colleges/iim-ahmedabad/) Alumni
 
-**FOSTIIMA** = *Friends Of Seventy-Three batch of [IIM Ahmedabad](/colleges/iim-ahmedabad)*. The institute is conceived, funded, and governed by IIM-A alumni with decades of corporate and academic experience. The academic philosophy, faculty standards, and curriculum rigor are directly benchmarked against IIM-A's flagship PGDM program.
+**FOSTIIMA** = *Friends Of Seventy-Three batch of [IIM Ahmedabad](/colleges/iim-ahmedabad/)*. The institute is conceived, funded, and governed by IIM-A alumni with decades of corporate and academic experience. The academic philosophy, faculty standards, and curriculum rigor are directly benchmarked against IIM-A's flagship PGDM program.
 
 ---
 
@@ -160,7 +160,7 @@ Students connect with senior professionals from all 20 IIMs and multiple IITs th
 ✅ Budget-conscious candidates wanting maximum ROI  
 
 ❌ Not ideal if you want AACSB/NIRF ranked institute — FIIB or NDIM fit better  
-❌ Not ideal if your percentile is 80+ — explore NDIM, LBSIM, or [IMI Delhi](/colleges/imi-delhi)  
+❌ Not ideal if your percentile is 80+ — explore NDIM, LBSIM, or [IMI Delhi](/colleges/imi-delhi/)  
 
 ---
 
@@ -170,7 +170,7 @@ Students connect with senior professionals from all 20 IIMs and multiple IITs th
 ₹11.15 LPA average for the 2025 batch; highest at ₹30 LPA.
 
 **Q2. Is it really founded by IIM alumni?**
-Yes — by the 1973 batch of [IIM Ahmedabad](/colleges/iim-ahmedabad). FOSTIIMA stands for "Friends Of Seventy-Three [IIM Ahmedabad](/colleges/iim-ahmedabad)."
+Yes — by the 1973 batch of [IIM Ahmedabad](/colleges/iim-ahmedabad/). FOSTIIMA stands for "Friends Of Seventy-Three [IIM Ahmedabad](/colleges/iim-ahmedabad/)."
 
 **Q3. What is the total fee?**
 ₹11.5 Lakhs for the 2027–29 PGDM batch.
@@ -179,7 +179,7 @@ Yes — by the 1973 batch of [IIM Ahmedabad](/colleges/iim-ahmedabad). FOSTIIMA 
 
 [👉 Apply to FOSTIIMA — Get Free Guidance](/inquiry)  
 [👉 Compare Top MBA Colleges in Delhi](/tools/college-comparison)  
-[👉 Top MBA Colleges in Delhi 2026](/blog/best-mba-colleges-in-delhi-2026)
+[👉 Top MBA Colleges in Delhi 2026](/blog/best-mba-colleges-in-delhi-2026/)
 
 ---
 

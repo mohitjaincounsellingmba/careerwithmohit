@@ -4,7 +4,7 @@ date: '2026-05-10'
 category: Online MBA
 description: >-
   Honest review of LPU ([Lovely Professional
-  University](/colleges/lovely-professional-university)) Online MBA 2026. Real
+  University](/colleges/lovely-professional-university/)) Online MBA 2026. Real
   fees (₹1,61,600 total), NAAC A++ rating, 11 specializations including Data
   Science & Healthcare, LPU eConnect LMS, and placement reality.
 keywords:
@@ -48,7 +48,7 @@ location: Chandigarh
 state: Punjab
 ---
 
-**[Lovely Professional University](/colleges/lovely-professional-university) (LPU)** — India's largest university by student enrollment — offers a well-structured online MBA through [lpuonline.com](https://lpuonline.com). With the highest possible **NAAC A++ grade**, a massive alumni network of 2 Lakh+ graduates in Fortune 500 companies, and one of India's most feature-rich LMS platforms (LPU eConnect), the LPU Online MBA punches well above its price point in 2026.
+**[Lovely Professional University](/colleges/lovely-professional-university/) (LPU)** — India's largest university by student enrollment — offers a well-structured online MBA through [lpuonline.com](https://lpuonline.com). With the highest possible **NAAC A++ grade**, a massive alumni network of 2 Lakh+ graduates in Fortune 500 companies, and one of India's most feature-rich LMS platforms (LPU eConnect), the LPU Online MBA punches well above its price point in 2026.
 
 ---
 
@@ -56,7 +56,7 @@ state: Punjab
 
 | Feature | Details |
 | :--- | :--- |
-| **University** | [Lovely Professional University](/colleges/lovely-professional-university) (LPU), Phagwara |
+| **University** | [Lovely Professional University](/colleges/lovely-professional-university/) (LPU), Phagwara |
 | **NAAC Grade** | **A++ (Score: 3.68/4 — Highest)** |
 | **UGC-DEB Approved** | ✅ Yes |
 | **NIRF Ranked** | ✅ Yes (Top private universities list) |
@@ -182,10 +182,10 @@ Yes. LPU provides no-cost EMI options through partner banks, making the program 
 | College | NAAC | Total Fee | NIRF | Unique Strength |
 | :--- | :--- | :--- | :--- | :--- |
 | **LPU Online** | A++ | ₹1,61,600 | ✅ Yes | Healthcare, Defence tracks |
-| [Manipal MAHE Online](/blog/manipal-academy-of-higher-education-mahe-online-mba-review-2026) | A++ | ₹2,92,000 | ✅ Yes | AI LMS, QS ranking |
-| [SRM Online](/blog/srm-university-online-mba-review-2026) | A++ | ₹1,89,000 | ✅ Yes | AI + Healthcare tracks |
-| [Amity Online](/blog/amity-university-online-mba-review-2026) | A+ | ₹1,99,000 | ✅ Yes | 15+ specializations |
-| [CU Online](/blog/chandigarh-university-online-mba-review-2026) | A+ | ₹1,65,000 | ✅ Yes | 23 specializations, KPMG curriculum |
+| [Manipal MAHE Online](/blog/manipal-academy-of-higher-education-mahe-online-mba-review-2026/) | A++ | ₹2,92,000 | ✅ Yes | AI LMS, QS ranking |
+| [SRM Online](/blog/srm-university-online-mba-review-2026/) | A++ | ₹1,89,000 | ✅ Yes | AI + Healthcare tracks |
+| [Amity Online](/blog/amity-university-online-mba-review-2026/) | A+ | ₹1,99,000 | ✅ Yes | 15+ specializations |
+| [CU Online](/blog/chandigarh-university-online-mba-review-2026/) | A+ | ₹1,65,000 | ✅ Yes | 23 specializations, KPMG curriculum |
 
 ---
 
@@ -194,9 +194,9 @@ Yes. LPU provides no-cost EMI options through partner banks, making the program 
 ---
 
 *Related Reading:*
-- [Best Online MBA Colleges in India 2026](/blog/best-online-mba-colleges-india-2026)
-- [Online MBA India 2026: Full Guide](/blog/online-mba-india-2026)
-- [LPU Online Full Review (MBA, MCA, BBA, BCA)](/blog/lpu-online-review-2026)
+- [Best Online MBA Colleges in India 2026](/blog/best-online-mba-colleges-india-2026/)
+- [Online MBA India 2026: Full Guide](/blog/online-mba-india-2026/)
+- [LPU Online Full Review (MBA, MCA, BBA, BCA)](/blog/lpu-online-review-2026/)
 
 
 

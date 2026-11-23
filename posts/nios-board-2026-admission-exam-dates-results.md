@@ -3,9 +3,8 @@ title: 'All About NIOS Board 2026: Admission, Exam Dates & Results Guide'
 date: '2026-03-25'
 category: Exams & Admissions
 description: >-
-  Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
-  private univer
+  The National Institute of Open Schooling (NIOS), formerly known as the
+  National Open School (NOS), is the largest open schooling system in the world.
 keywords:
   - NIOS board 2026
   - NIOS class 10 admission 2026

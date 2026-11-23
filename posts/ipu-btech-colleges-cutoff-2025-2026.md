@@ -147,10 +147,10 @@ MAIT is generally ranked higher for its coding culture and placement packages, b
 
 ## Useful Resources
 
-- [Best B.Tech Colleges for Placements India 2026](/blog/best-btech-colleges-placements-india-2026)
-- [B.Tech Admission Without JEE 2026 — All Options](/blog/btech-admission-without-jee-2026-all-options)
-- [Top 10 Engineering Colleges in India 2026](/blog/top-10-engineering-colleges-india-2026)
-- [IPU CET 2026 UG Exam Updates & Registration](/blog/ipu-cet-2026-ug-exam-updates-dates-registration)
+- [Best B.Tech Colleges for Placements India 2026](/blog/best-btech-colleges-placements-india-2026/)
+- [B.Tech Admission Without JEE 2026 — All Options](/blog/btech-admission-without-jee-2026-all-options/)
+- [Top 10 Engineering Colleges in India 2026](/blog/top-10-engineering-colleges-india-2026/)
+- [IPU CET 2026 UG Exam Updates & Registration](/blog/ipu-cet-2026-ug-exam-updates-dates-registration/)
 
 ---
 

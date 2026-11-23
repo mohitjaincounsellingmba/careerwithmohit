@@ -45,8 +45,8 @@ For students planning their admissions for the 2027–2029 intake, this guide hi
 
 | College Name | Accepted Entrance Exams | Total Program Fees | Average Placement Package |
 | :--- | :--- | :--- | :--- |
-| **[UPES Dehradun](/colleges/upes-dehradun) (School of Business)** | UPESMET / CAT / MAT / CMAT | ₹16.5 Lakhs (Total) | **₹8.40 LPA** |
-| **[Doon Business School](/colleges/doon-business-school) (DBS)** | CAT / MAT / CMAT | ₹8.5 Lakhs (Total) | **₹6.90 LPA** |
+| **[UPES Dehradun](/colleges/upes-dehradun/) (School of Business)** | UPESMET / CAT / MAT / CMAT | ₹16.5 Lakhs (Total) | **₹8.40 LPA** |
+| **[Doon Business School](/colleges/doon-business-school/) (DBS)** | CAT / MAT / CMAT | ₹8.5 Lakhs (Total) | **₹6.90 LPA** |
 | **Graphic Era University (GEU)** | CAT / MAT / CMAT | ₹7.2 Lakhs (Total) | **₹6.20 LPA** |
 
 ---
@@ -68,13 +68,13 @@ Choosing a B-school in this region offers key advantages:
 
 ## 🔍 Detailed Analysis of Top B-Schools in Dehradun
 
-### 1. [UPES Dehradun](/colleges/upes-dehradun) (School of Business)
+### 1. [UPES Dehradun](/colleges/upes-dehradun/) (School of Business)
 - **Approximate Fees:** ₹16.5 Lakhs (Total)
 - **Accepted Entrance Exams:** UPESMET / CAT / MAT / CMAT
 - **Average Placement Package:** **₹8.40 LPA**
 - **Key Highlight:** Pioneer in specialized management, offering state-of-the-art fintech and energy finance options.
 
-### 2. [Doon Business School](/colleges/doon-business-school) (DBS)
+### 2. [Doon Business School](/colleges/doon-business-school/) (DBS)
 - **Approximate Fees:** ₹8.5 Lakhs (Total)
 - **Accepted Entrance Exams:** CAT / MAT / CMAT
 - **Average Placement Package:** **₹6.90 LPA**
@@ -97,9 +97,9 @@ Choosing a B-school in this region offers key advantages:
 ---
 
 ## 🔗 Related Resources
-- [Top MBA Colleges for Finance in India 2026 — Placements & Fees](/blog/top-mba-colleges-for-finance-specialization-india-2026)
-- [Best MBA Colleges with Low Fees & High ROI in India](/blog/best-mba-colleges-low-fees-high-roi-india-2026)
-- [Is Direct MBA Admission Without Entrance Exam Worth It?](/blog/direct-mba-admission-without-entrance-exam-2026-is-it-worth-it)
+- [Top MBA Colleges for Finance in India 2026 — Placements & Fees](/blog/top-mba-colleges-for-finance-specialization-india-2026/)
+- [Best MBA Colleges with Low Fees & High ROI in India](/blog/best-mba-colleges-low-fees-high-roi-india-2026/)
+- [Is Direct MBA Admission Without Entrance Exam Worth It?](/blog/direct-mba-admission-without-entrance-exam-2026-is-it-worth-it/)
 
 ---
 
@@ -117,11 +117,11 @@ Source: Shiksha.com
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### What is special about the [UPES Dehradun](/colleges/upes-dehradun) MBA Finance program?
-[UPES Dehradun](/colleges/upes-dehradun) offers specialized tracks that blend core finance with digital business and financial technologies (FinTech), which is highly valued by modern employers.
+### What is special about the [UPES Dehradun](/colleges/upes-dehradun/) MBA Finance program?
+[UPES Dehradun](/colleges/upes-dehradun/) offers specialized tracks that blend core finance with digital business and financial technologies (FinTech), which is highly valued by modern employers.
 
-### Is [Doon Business School](/colleges/doon-business-school) good for placements?
-Yes, [Doon Business School](/colleges/doon-business-school) has a consistent record of regional placements in banks, retail companies, and consulting firms.
+### Is [Doon Business School](/colleges/doon-business-school/) good for placements?
+Yes, [Doon Business School](/colleges/doon-business-school/) has a consistent record of regional placements in banks, retail companies, and consulting firms.
 
 ### Can I get admission in Dehradun MBA colleges through MAT?
 Yes, almost all management institutions in Dehradun, including DBS and Graphic Era, accept MAT and CMAT scores.

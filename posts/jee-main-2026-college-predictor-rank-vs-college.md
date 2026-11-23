@@ -3,9 +3,8 @@ title: 'JEE Main 2026 College Predictor — Rank vs. NIT, IIIT & GFTI List'
 date: '2026-04-21'
 category: B.Tech Admissions
 description: >-
-  Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
-  private univer
+  With the JEE Main 2026 Session 2 results officially declared, the focus of
+  lakhs of students has shifted from 'How many marks?
 keywords:
   - jee main 2026 college predictor
   - jee main rank vs college list
@@ -36,7 +35,7 @@ faqs:
   - question: Can I use my JEE Main rank for VIT or BITS?
     answer: >-
       **VIT** has its own exam (VITEEE). **[BITS
-      Pilani](/colleges/bits-pilani)** uses BITSAT. However, universities like
+      Pilani](/colleges/bits-pilani/)** uses BITSAT. However, universities like
       **Thapar, LNMIIT, and Jaypee (JIIT)** give direct preference to students
       with JEE Main ranks under 1 Lakh.
   - question: What is the benefit of the Female Supernumerary Quota?
@@ -116,7 +115,7 @@ A 98 percentile corresponds to a rank of approx **25,000 - 30,000**. At this ran
 For the General category, CSE and ECE are unlikely. However, you can realistically target **Mechanical, Production, or Civil Engineering** at NIT Trichy.
 
 **Q3. Can I use my JEE Main rank for VIT or BITS?**
-**VIT** has its own exam (VITEEE). **[BITS Pilani](/colleges/bits-pilani)** uses BITSAT. However, universities like **Thapar, LNMIIT, and Jaypee (JIIT)** give direct preference to students with JEE Main ranks under 1 Lakh.
+**VIT** has its own exam (VITEEE). **[BITS Pilani](/colleges/bits-pilani/)** uses BITSAT. However, universities like **Thapar, LNMIIT, and Jaypee (JIIT)** give direct preference to students with JEE Main ranks under 1 Lakh.
 
 **Q4. What is the benefit of the Female Supernumerary Quota?**
 Female candidates have an extra **5-10% rank buffer** at all NITs and IITs. This means if a branch closes at 5,000 for boys, it may stay open until 8,000-10,000 for girls.
@@ -127,9 +126,9 @@ Expected to start in the **second week of June**, following the JEE Advanced res
 ---
 
 ### Useful Links:
-- [JEE Main 2026 Session 2 Result Official](/blog/jee-main-2026-session-2-result-declared-check-here)
-- [Top B.Tech Colleges in India 2026 NIRF Guide](/blog/top-btech-colleges-india-nirf-ranking-2026)
-- [How to Prepare for JoSAA 2026 Counselling](/blog/josaa-counselling-2026-dates-process-registration)
+- [JEE Main 2026 Session 2 Result Official](/blog/jee-main-2026-session-2-result-declared-check-here/)
+- [Top B.Tech Colleges in India 2026 NIRF Guide](/blog/top-btech-colleges-india-nirf-ranking-2026/)
+- [How to Prepare for JoSAA 2026 Counselling](/blog/josaa-counselling-2026-dates-process-registration/)
 
 ---
 

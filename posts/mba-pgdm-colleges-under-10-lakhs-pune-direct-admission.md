@@ -7,7 +7,7 @@ description: >-
 keywords:
   - MBA colleges under 10 lakhs in Pune
   - PGDM direct admission Pune 2026
-  - '[RIIM Pune](/colleges/riim-pune) placement'
+  - '[RIIM Pune](/colleges/riim-pune/) placement'
   - Indira Institute of Management fees
   - PIBM direct admission
   - management quota MBA Pune
@@ -36,7 +36,7 @@ If you don't have a top score in CAT or MAH-MBA CET, there are still excellent B
 Here are the **top MBA/PGDM colleges in Pune under ₹10 Lakhs** for the 2026 admission cycle.
 
 ### **1. RIIM (Ramachandran International Institute of Management)**
-[RIIM Pune](/colleges/riim-pune) is widely popular among students looking for highly affordable MBA + Employability programs.
+[RIIM Pune](/colleges/riim-pune/) is widely popular among students looking for highly affordable MBA + Employability programs.
 *   **Total Fees (Approx.)**: ₹5.50 - ₹6.50 Lakhs
 *   **Average Placement**: ₹5.5 LPA - ₹6.5 LPA
 *   **Why Choose**: High ROI, intensive corporate grooming, and certifications like SAP, Digital Marketing, and Business Analytics included.
@@ -58,7 +58,7 @@ The Indira Group is an absolute giant in Pune's management education scene, offe
 *   **Why Choose**: Tremendous brand value in Maharashtra, top-tier recruiters like Deloitte, HDFC, and TCS, excellent campus life.
 *   **Admission Mode**: Institute-level seats available for direct admission/management quota.
 
-### **3. [Lexicon Management Institute of Leadership & Excellence](/colleges/lexicon-management-institute-of-leadership-excellence) (Lexicon MILE)**
+### **3. [Lexicon Management Institute of Leadership & Excellence](/colleges/lexicon-management-institute-of-leadership-excellence/) (Lexicon MILE)**
 Lexicon MILE has gained massive popularity for its global approach to PGDM and dual-degree programs.
 *   **Total Fees (Approx.)**: ₹8.50 - ₹9.50 Lakhs
 *   **Average Placement**: ₹7.0 LPA - ₹8.5 LPA

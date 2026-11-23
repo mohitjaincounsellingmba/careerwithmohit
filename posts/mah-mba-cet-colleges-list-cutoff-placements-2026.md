@@ -2,9 +2,8 @@
 title: 'MAH MBA CET 2026 Colleges List: Cutoff, Placements & Detailed Review'
 date: '2026-04-23'
 description: >-
-  Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
-  private univer
+  MAH MBA CET 2026 Colleges List: Detailed guide covering total fees, cutoffs,
+  average placement packages, eligibility criteria & direct admission process.
 keywords:
   - MAH MBA CET 2026 colleges
   - MHCET MBA cutoff 2026
@@ -98,7 +97,7 @@ Even with a low percentile, you can secure admission through the CAP rounds. Whi
 | :--- | :--- | :--- |
 | **JSPM Narhe Campus** | 50.48 | Pune |
 | **NSCT's IBMR** | 49.38 | Chakan |
-| **[ASM IBMR](/colleges/asm-ibmr)** | 48.17 | Pune |
+| **[ASM IBMR](/colleges/asm-ibmr/)** | 48.17 | Pune |
 | **Sinhgad SIBAR** | 49.33 | Pune |
 | **GH Raisoni** | 45.63 | Nagpur |
 | **Sandip Institute** | 45.61 | Nashik |
@@ -138,17 +137,17 @@ Choosing the right college based on your percentile can be tricky. Don't waste y
 ---
 
 ### Internal References:
-* [All About MAH MBA CET Exam](/blog/all-about-mah-mba-cet-exam)
-* [Top MBA Colleges in Pune 2026](/blog/best-mba-colleges-in-pune-2026)
-* [JBIMS Cutoff & Admission Guide](/blog/direct-admission-jbims-mumbai-institute-level-seats-2026)
-* [MBA vs PGDM: Which is better?](/blog/mba-vs-pgdm-2026-ultimate-guide)
+* [All About MAH MBA CET Exam](/blog/all-about-mah-mba-cet-exam/)
+* [Top MBA Colleges in Pune 2026](/blog/best-mba-colleges-in-pune-2026/)
+* [JBIMS Cutoff & Admission Guide](/blog/direct-admission-jbims-mumbai-institute-level-seats-2026/)
+* [MBA vs PGDM: Which is better?](/blog/mba-vs-pgdm-2026-ultimate-guide/)
 
 ---
 
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### What is the typical fee structure for MBA programs in India?
-The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
+The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi/) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
 
 ### Is it possible to pursue an MBA without clearing CAT?
 Yes, many colleges accept other entrance exams like XAT, NMAT, SNAP, MAT, or CMAT. Additionally, direct admission options under management quota are available in several private B-schools.

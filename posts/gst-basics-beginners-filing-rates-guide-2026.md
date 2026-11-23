@@ -107,9 +107,9 @@ Late fees can range from ₹50 to ₹100 per day of delay, plus **18% interest**
 ---
 
 ### Useful Links:
-- [Income Tax Slabs India 2026-27 Breakdown](/blog/india-income-tax-slabs-2026-27-regime-comparison)
-- [US Income Tax Return Filing Guide 2026](/blog/us-income-tax-return-filing-guide-2026)
-- [How to Start Freelancing in India 2026](/blog/how-to-start-freelancing-2026-beginners-india)
+- [Income Tax Slabs India 2026-27 Breakdown](/blog/india-income-tax-slabs-2026-27-regime-comparison/)
+- [US Income Tax Return Filing Guide 2026](/blog/us-income-tax-return-filing-guide-2026/)
+- [How to Start Freelancing in India 2026](/blog/how-to-start-freelancing-2026-beginners-india/)
 
 ---
 

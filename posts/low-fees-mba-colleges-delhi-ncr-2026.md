@@ -61,7 +61,7 @@ These institutions keep tuition fees low via government subsidies and university
 > - **ROI & Scholarships**: Merit scholarships ranging from 10% to 50% tuition waiver available for early 2027–29 applicants.
 
 ## 1. Faculty of Management Studies (FMS) - Delhi University (DU)
-[FMS Delhi](/colleges/fms-delhi) is legendary. It offers the **highest ROI of any MBA program globally**, matching elite IIMs in recruitment quality at a fraction of the cost.
+[FMS Delhi](/colleges/fms-delhi/) is legendary. It offers the **highest ROI of any MBA program globally**, matching elite IIMs in recruitment quality at a fraction of the cost.
 - **Total Fees (2 Years):** ~₹2.0 Lakhs
 - **Average Placement Package:** **₹34.10 LPA**
 - **Entrance Exam:** CAT UG / CAT
@@ -74,7 +74,7 @@ Operating under IIT Delhi, DMS offers an outstanding tech-management curriculum 
 - **Entrance Exam:** CAT
 - **Why it fits:** Heavy corporate recruitments in analytics, consulting, and product management with high ROI.
 
-### 3. [Jamia Millia Islamia (JMI)](/colleges/jamia-millia-islamia) - Delhi (Central University)
+### 3. [Jamia Millia Islamia (JMI)](/colleges/jamia-millia-islamia/) - Delhi (Central University)
 JMI is a top-ranked central university offering MBA and specialized management degrees (International Business, Entrepreneurship, etc.) at highly nominal rates.
 - **Total Fees (2 Years):** ~₹47,000
 - **Average Placement Package:** **₹8.0 LPA**
@@ -103,7 +103,7 @@ Return on Investment (ROI) is calculated by comparing the total 2-year tuition f
 
 | College Name | Total Fees (2 Years) | Avg Placement Package | Pure ROI Ratio |
 | :--- | :--- | :--- | :--- |
-| **[FMS Delhi](/colleges/fms-delhi)** | ₹2.0 Lakhs | **₹34.10 LPA** | **17.0x (Exceptional)** |
+| **[FMS Delhi](/colleges/fms-delhi/)** | ₹2.0 Lakhs | **₹34.10 LPA** | **17.0x (Exceptional)** |
 | **Jamia Millia (JMI)** | ₹47,000 | **₹8.00 LPA** | **17.0x (Exceptional)** |
 | **DMS, IIT Delhi** | ₹11.2 Lakhs | **₹25.82 LPA** | **2.3x (Very Good)** |
 | **DSM, DTU Delhi** | ₹4.5 Lakhs | **₹9.50 LPA** | **2.1x (Very Good)** |
@@ -120,10 +120,10 @@ Return on Investment (ROI) is calculated by comparing the total 2-year tuition f
 ---
 
 ## 🔗 Related Resources
-- [Top MBA Colleges in Delhi NCR 2026 Rankings](/blog/top-mba-colleges-delhi-ncr-2026)
-- [MBA Admission Without CAT in Delhi NCR](/blog/mba-admission-without-cat-delhi-ncr-2026)
-- [Best MBA Colleges with Placement in Delhi NCR](/blog/best-mba-colleges-placement-delhi-ncr-2026)
-- [Direct MBA Admission in Delhi NCR](/blog/direct-mba-admission-delhi-ncr-2026)
+- [Top MBA Colleges in Delhi NCR 2026 Rankings](/blog/top-mba-colleges-delhi-ncr-2026/)
+- [MBA Admission Without CAT in Delhi NCR](/blog/mba-admission-without-cat-delhi-ncr-2026/)
+- [Best MBA Colleges with Placement in Delhi NCR](/blog/best-mba-colleges-placement-delhi-ncr-2026/)
+- [Direct MBA Admission in Delhi NCR](/blog/direct-mba-admission-delhi-ncr-2026/)
 
 ---
 
@@ -143,7 +143,7 @@ Source: Shiksha.com
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### What is the typical fee structure for MBA programs in India?
-The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
+The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi/) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
 
 ### Is it possible to pursue an MBA without clearing CAT?
 Yes, many colleges accept other entrance exams like XAT, NMAT, SNAP, MAT, or CMAT. Additionally, direct admission options under management quota are available in several private B-schools.

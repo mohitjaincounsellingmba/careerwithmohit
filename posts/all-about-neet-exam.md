@@ -2,9 +2,8 @@
 title: 'NEET UG 2026: Registration, Eligibility, Pattern, Syllabus & MBBS Cutoffs'
 date: '2026-03-21'
 description: >-
-  Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
-  private univer
+  The National Eligibility cum Entrance Test (NEET-UG) is the single,
+  centralized entrance exam for medical aspirants in India.
 keywords:
   - NEET 2026
   - NEET UG exam

@@ -1,15 +1,15 @@
 ---
 title: >-
-  [Lloyd Business School](/colleges/lloyd-business-school-greater-noida) Review
+  [Lloyd Business School](/colleges/lloyd-business-school-greater-noida/) Review
   2026: Placements & Infrastructure Highlights
 date: '2026-03-15'
 description: >-
   In-depth review of [Lloyd Business
-  School](/colleges/lloyd-business-school-greater-noida) Greater Noida. Explore
+  School](/colleges/lloyd-business-school-greater-noida/) Greater Noida. Explore
   the IBM-collab labs, 2025 placements, and 5-star hostel life.
 keywords:
   - >-
-    [Lloyd Business School](/colleges/lloyd-business-school-greater-noida)
+    [Lloyd Business School](/colleges/lloyd-business-school-greater-noida/)
     review 2026
   - Lloyd Greater Noida placement 2025
   - Lloyd faculty review
@@ -44,7 +44,7 @@ faqs:
 location: Delhi NCR
 state: Delhi NCR
 ---
-### **College Review: [Lloyd Business School](/colleges/lloyd-business-school-greater-noida)**
+### **College Review: [Lloyd Business School](/colleges/lloyd-business-school-greater-noida/)**
 *   **Industrial Tie-ups**: Famous for its specialization collaborations with giants like IBM for Supply Chain and Business Analytics.
 *   **Modern Prep**: Focused on providing "Next-Gen" skills including data-driven decision making.
 *   **Campus Culture**: Offers a highly professional environment that mirrors a modern corporate office.

@@ -69,8 +69,8 @@ AMU's residential life is a core part of its identity, featuring historic halls 
 *   **Process:** After admission, students undergo document verification and a physical fitness check to secure a hostel seat.
 
 ### **Check Other University Reviews:**
-*   [Jamia Millia Islamia (JMI) Review 2026](/blog/jamia-millia-islamia-jmi-review-2026)
-*   [Banaras Hindu University (BHU) Review 2026](/blog/banaras-hindu-university-bhu-review-2026)
+*   [Jamia Millia Islamia (JMI) Review 2026](/blog/jamia-millia-islamia-jmi-review-2026/)
+*   [Banaras Hindu University (BHU) Review 2026](/blog/banaras-hindu-university-bhu-review-2026/)
 
 [👉 Need guidance for AMU Admissions? Book a Consultation!](/inquiry)
 

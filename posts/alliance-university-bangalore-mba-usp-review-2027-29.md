@@ -67,7 +67,7 @@ location: Bangalore
 state: Karnataka
 ---
 
-## USP of [Alliance University Bangalore](/colleges/alliance-university-bangalore) MBA Program 2027–29: Why Alliance School of Business Stands Out
+## USP of [Alliance University Bangalore](/colleges/alliance-university-bangalore/) MBA Program 2027–29: Why Alliance School of Business Stands Out
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Core USPs & Accreditations**: Recognized **AACSB Business Education Alliance Member**, IACBE legacy, 60+ acre world-class residential campus in Bengaluru, and 50+ international university collaborations.
@@ -274,14 +274,14 @@ To make a confident decision, here is an objective admission consultant assessme
 - Candidates wanting international semester exchange opportunities across European and American universities.
 
 ### ⚠️ Who Should Reconsider / Explore Other Options:
-- Candidates with **95%+ percentiles in CAT/XAT** who should primarily target Tier-1 IIMs, [FMS Delhi](/colleges/fms-delhi), XLRI, or SPJIMR.
+- Candidates with **95%+ percentiles in CAT/XAT** who should primarily target Tier-1 IIMs, [FMS Delhi](/colleges/fms-delhi/), XLRI, or SPJIMR.
 - Aspirants strictly looking for a low-cost, budget MBA program under ₹8 Lakhs total investment (for such candidates, explore state university CAP rounds or PUMBA/SIMSREE).
 
 ---
 
 ## How Does Alliance University Compare with Peer B-Schools in Bangalore?
 
-| Comparison Parameter | Alliance School of Business | [SIBM Bangalore](/colleges/sibm-bangalore) | JAGSoM Bangalore | [ISBR Business School](/colleges/isbr-bangalore) |
+| Comparison Parameter | Alliance School of Business | [SIBM Bangalore](/colleges/sibm-bangalore/) | JAGSoM Bangalore | [ISBR Business School](/colleges/isbr-bangalore/) |
 | :--- | :--- | :--- | :--- | :--- |
 | **Degree / Diploma** | **UGC MBA Degree** | Symbiosis MBA Degree | AICTE PGDM | AICTE PGDM |
 | **Accreditation** | **AACSB Member · NIRF** | NAAC A+ | AACSB Accredited | AICTE · NBA · AIU |

@@ -74,16 +74,16 @@ state: Delhi NCR
 
 ### 1. Jaipuria Institute of Management, Jaipur
 * **Campus:** Located in Bambala Institutional Area, Pratap Nagar.
-* **Placement Highlights:** Centralized placement pool across all 4 Jaipuria campuses ensuring access to 300+ recruiters like Deloitte, ICICI Bank, HDFC, and Amazon. Check [All About Jaipuria Jaipur](/posts/all-about-jaipuria-jaipur).
+* **Placement Highlights:** Centralized placement pool across all 4 Jaipuria campuses ensuring access to 300+ recruiters like Deloitte, ICICI Bank, HDFC, and Amazon. Check [All About Jaipuria Jaipur](/blog/all-about-jaipuria-jaipur/).
 
 ### 2. IIHMR University Jaipur
-* **Specialty:** World Health Organization (WHO) collaborating centre and pioneer in Hospital Management, Pharmaceutical Management, and Development Management. Read [All About IIHMR University](/posts/all-about-iihmr-university).
+* **Specialty:** World Health Organization (WHO) collaborating centre and pioneer in Hospital Management, Pharmaceutical Management, and Development Management. Read [All About IIHMR University](/blog/all-about-iihmr-university/).
 
 ### 3. FMS-IRM Jaipur (Institute of Rural Management)
-* **Highlights:** Over 30 years of pedigree in rural management, agribusiness marketing, and financial inclusion. High ROI with fee of just ₹6.50 Lakhs. Read [All About FMS IRM Jaipur](/posts/all-about-fms-irm-jaipur).
+* **Highlights:** Over 30 years of pedigree in rural management, agribusiness marketing, and financial inclusion. High ROI with fee of just ₹6.50 Lakhs. Read [All About FMS IRM Jaipur](/blog/all-about-fms-irm-jaipur/).
 
 ### 4. Taxila Business School
-* **Focus:** Known for intensive Business Analytics, SAP, and Digital Strategy with personal career coaching. Read [All About Taxila Jaipur](/posts/all-about-taxila-jaipur).
+* **Focus:** Known for intensive Business Analytics, SAP, and Digital Strategy with personal career coaching. Read [All About Taxila Jaipur](/blog/all-about-taxila-jaipur/).
 
 ---
 
@@ -99,9 +99,9 @@ state: Delhi NCR
 ---
 
 ## Related Guides
-- [Top MBA/PGDM Colleges in Jaipur: Admission Criteria, Scholarships & Placements](/posts/top-mba-pgdm-colleges-jaipur-2027-29)
-- [All About CAT Exam](/posts/all-about-cat-exam)
-- [All About XAT Exam](/posts/all-about-xat-exam)
+- [Top MBA/PGDM Colleges in Jaipur: Admission Criteria, Scholarships & Placements](/blog/top-mba-pgdm-colleges-jaipur-2027-29/)
+- [All About CAT Exam](/blog/all-about-cat-exam/)
+- [All About XAT Exam](/blog/all-about-xat-exam/)
 
 ---
 

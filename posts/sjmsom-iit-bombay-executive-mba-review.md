@@ -46,7 +46,7 @@ location: Mumbai
 state: Maharashtra
 ---
 
-Running a career upgrade requires choosing the right management program. For working professionals in Mumbai, the Executive MBA / Executive PGDM offered by [Shailesh J. Mehta School of Management (SJMSOM), IIT Bombay](/colleges/iit-bombay) represents a powerful gateway to higher senior leadership positions.
+Running a career upgrade requires choosing the right management program. For working professionals in Mumbai, the Executive MBA / Executive PGDM offered by [Shailesh J. Mehta School of Management (SJMSOM), IIT Bombay](/colleges/iit-bombay/) represents a powerful gateway to higher senior leadership positions.
 
 In this review, we break down everything you need to know: fees, admission cutoffs, placements, pros, cons, and our honest expert verdict.
 
@@ -78,7 +78,7 @@ In this review, we break down everything you need to know: fees, admission cutof
 ## 📝 Student Reviews: Pros & Cons
 
 ### Pros
-- **Highlight:** Joint degree awarded by [IIT Bombay](/colleges/iit-bombay) and Washington University in St. Louis.
+- **Highlight:** Joint degree awarded by [IIT Bombay](/colleges/iit-bombay/) and Washington University in St. Louis.
 - **Highlight:** Mandatory residency module in St. Louis, USA, including global business visits.
 - **Highlight:** Highly elite cohort consisting of directors, CXOs, and industry leaders.
 
@@ -90,7 +90,7 @@ In this review, we break down everything you need to know: fees, admission cutof
 
 ## 🔍 Our Expert Verdict
 
-The Executive MBA program at [Shailesh J. Mehta School of Management (SJMSOM), IIT Bombay](/colleges/iit-bombay) is highly recommended for professionals based in Mumbai who want to scale their careers without disrupting their current geographic setup. 
+The Executive MBA program at [Shailesh J. Mehta School of Management (SJMSOM), IIT Bombay](/colleges/iit-bombay/) is highly recommended for professionals based in Mumbai who want to scale their careers without disrupting their current geographic setup. 
 
 If you are looking for top-tier consulting placements and have 5+ years of experience, full-time residential paths are stellar. However, if you are looking to continue your full-time job, their weekend/evening classes offer outstanding return on investment.
 
@@ -98,14 +98,14 @@ If you are looking for top-tier consulting placements and have 5+ years of exper
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### Is the degree awarded jointly by [IIT Bombay](/colleges/iit-bombay) and WashU?
-Yes, this is the only program in India that awards a joint Executive MBA degree from both a top Indian institution ([IIT Bombay](/colleges/iit-bombay)) and an elite American university (Washington University in St. Louis).
+### Is the degree awarded jointly by [IIT Bombay](/colleges/iit-bombay/) and WashU?
+Yes, this is the only program in India that awards a joint Executive MBA degree from both a top Indian institution ([IIT Bombay](/colleges/iit-bombay/)) and an elite American university (Washington University in St. Louis).
 
 ### Does the program include international travel?
 Yes, the program includes a mandatory 2-week capstone residency module at Washington University in St. Louis, USA.
 
 ### What is the schedule of classes?
-Classes are held once a month in a 4-day residency format (Thursday through Sunday) at the [IIT Bombay](/colleges/iit-bombay) campus.
+Classes are held once a month in a 4-day residency format (Thursday through Sunday) at the [IIT Bombay](/colleges/iit-bombay/) campus.
 
 
 Source: Shiksha.com and Official College Websites

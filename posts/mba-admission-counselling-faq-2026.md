@@ -2,9 +2,8 @@
 title: 'MBA Admission Counselling FAQ 2026: 30 Questions Every Student Must Know'
 date: '2026-04-14'
 description: >-
-  Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
-  private univer
+  We've compiled the 30 most frequent questions our counsellors receive from MBA
+  aspirants every year — answered honestly.
 keywords:
   - MBA admission counselling 2026
   - MBA admission FAQ
@@ -106,7 +105,7 @@ Use this 4-filter approach:
 4. **Accreditation** – NAAC, NBA, or AIU equivalence status.
 
 **12. Should I prefer an MBA or a PGDM?**
-For IIMs, ISB, and top private institutes, PGDM often has better industry alignment. For government jobs or further academics (PhD), an MBA from a university is safer. Check our detailed guide: [MBA vs PGDM 2026 Ultimate Guide](/blog/mba-vs-pgdm-2026-ultimate-guide).
+For IIMs, ISB, and top private institutes, PGDM often has better industry alignment. For government jobs or further academics (PhD), an MBA from a university is safer. Check our detailed guide: [MBA vs PGDM 2026 Ultimate Guide](/blog/mba-vs-pgdm-2026-ultimate-guide/).
 
 **13. What is the difference between AICTE approved and AIU approved?**
 AICTE approval means the institute can legally offer management programs. AIU (Association of Indian Universities) equivalence means the PGDM diploma is treated as equal to an MBA degree — critical for government jobs and PhD eligibility.
@@ -133,13 +132,13 @@ Yes — multiple sources exist:
 - **Merit-based**: Most top B-schools offer 10–50% fee waivers based on CAT/CMAT score.
 - **Government scholarships**: Bihar Student Credit Card, state schemes.
 - **Community-based**: JITO scholarships for Jain students, SC/ST central grants.
-Read our full guide: [MBA Scholarships 2026 Master Guide](/blog/mba-scholarships-2026-master-guide).
+Read our full guide: [MBA Scholarships 2026 Master Guide](/blog/mba-scholarships-2026-master-guide/).
 
 **18. Can I get an education loan for MBA?**
 Yes. Nationalized banks (SBI, Bank of Baroda) offer collateral-free loans up to ₹7.5 lakh and collateral-backed loans up to ₹1.5 crore. Private banks offer up to ₹40 lakhs. IIA and NBFCs cater to students from lower-ranked colleges too.
 
 **19. What is the fee refund policy if I switch colleges?**
-AICTE mandates a graded fee refund: 100% before the last date of admission at state level, 80% if you leave 15 days before the session, and so on. Read: [Fee Refund Policy AICTE/UGC 2026](/blog/fee-refund-policy-aicte-ugc-2026).
+AICTE mandates a graded fee refund: 100% before the last date of admission at state level, 80% if you leave 15 days before the session, and so on. Read: [Fee Refund Policy AICTE/UGC 2026](/blog/fee-refund-policy-aicte-ugc-2026/).
 
 **20. Can I negotiate fees with a private B-school?**
 For management quota seats, yes — there is often flexibility, especially for students with strong entrance scores. A counsellor can sometimes negotiate merit-based waivers that aren't publicly advertised.
@@ -157,7 +156,7 @@ Common themes include:
 - Business case discussions (Startup ecosystem, AI vs Jobs)
 - Social topics (Women in leadership, Climate change)
 - Abstract topics (Is silence gold? Innovation vs. Tradition)
-See our full topic list: [GD-PI Interview Topics & Solutions for MBA](/blog/gdpi-interview-topics-solutions-mba).
+See our full topic list: [GD-PI Interview Topics & Solutions for MBA](/blog/gdpi-interview-topics-solutions-mba/).
 
 **23. What should I wear for an MBA interview?**
 Formal business attire: men should wear a well-fitted shirt with trousers (tie optional), women should wear formals or a professional saree/suit. Avoid excessive accessories. First impression matters.
@@ -204,7 +203,7 @@ Yes — avoid colleges that:
 - Claim "100% placement" every year without proof
 - Have intake of 600+ students with few recruiters
 - Charge management quota fees in cash
-Read: [Why Never Join Pool Placement Colleges](/blog/why-never-join-pool-placement-colleges-mba-pgdm).
+Read: [Why Never Join Pool Placement Colleges](/blog/why-never-join-pool-placement-colleges-mba-pgdm/).
 
 **30. How do I get personalized MBA admission counselling?**
 Simply fill out the inquiry form on our website or [WhatsApp us directly](https://wa.me/919560020771). Our team will review your profile, scores, and preferences — and recommend a college shortlist within 24 hours. The first consultation is always free.
@@ -216,10 +215,10 @@ Simply fill out the inquiry form on our website or [WhatsApp us directly](https:
 Making the right MBA decision in 2026 requires more than just clearing an entrance exam. It demands a clear strategy — the right college, the right specialization, and a strong interview performance.
 
 **Explore more resources:**
-- [MBA vs PGDM 2026: The Ultimate Guide](/blog/mba-vs-pgdm-2026-ultimate-guide)
-- [Best MBA Colleges in Delhi 2026: Fees & Placements](/blog/best-mba-colleges-in-delhi-2026)
-- [Direct MBA Admission Guide India 2026](/blog/direct-mba-admission-india)
-- [Top MBA Entrance Exams 2026 Guide](/blog/top-mba-entrance-exams-2026-guide)
+- [MBA vs PGDM 2026: The Ultimate Guide](/blog/mba-vs-pgdm-2026-ultimate-guide/)
+- [Best MBA Colleges in Delhi 2026: Fees & Placements](/blog/best-mba-colleges-in-delhi-2026/)
+- [Direct MBA Admission Guide India 2026](/blog/direct-mba-admission-india/)
+- [Top MBA Entrance Exams 2026 Guide](/blog/top-mba-entrance-exams-2026-guide/)
 
 [👉 Get Free MBA Admission Counselling Today](/inquiry) | [💬 WhatsApp Expert Now](https://wa.me/919560020771)
 

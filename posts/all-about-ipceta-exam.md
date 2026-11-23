@@ -94,13 +94,13 @@ IP University assigns ranks based on the total 400 marks. Top colleges usually c
 IP University strictly centralizes the counselling process for all its affiliated Management institutes.
 
 - USMS (University School of Management Studies) - GGSIPU Main Dwarka Campus
-- MAIMS (Maharaja Agrasen [Institute of Management Studies](/colleges/institute-of-management-studies)), Rohini
+- MAIMS (Maharaja Agrasen [Institute of Management Studies](/colleges/institute-of-management-studies/)), Rohini
 - VIPS (Vivekananda Institute of Professional Studies), Pitampura
-- NDIM ([New Delhi Institute of Management](/colleges/new-delhi-institute-of-management)) - *Only the IPU affiliated MBA wing*
+- NDIM ([New Delhi Institute of Management](/colleges/new-delhi-institute-of-management/)) - *Only the IPU affiliated MBA wing*
 - RDIAS (Rukmini Devi Institute of Advanced Studies), Rohini
-- [Gitarattan International Business School (GIBS)](/colleges/gibs-delhi), Rohini
+- [Gitarattan International Business School (GIBS)](/colleges/gibs-delhi/), Rohini
 - Banarsidas Chandiwala Institute of Professional Studies (BCIPS), Dwarka
-- [BPIT (Bhagwan Parshuram Institute of Technology)](/colleges/bpit-delhi), Rohini
+- [BPIT (Bhagwan Parshuram Institute of Technology)](/colleges/bpit-delhi/), Rohini
 
 ---
 [👉 Confused about IP University Delhi Quota vs Outside Delhi counseling? Talk to Mohit Jain!](/inquiry)
@@ -110,7 +110,7 @@ IP University strictly centralizes the counselling process for all its affiliate
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### What is the typical fee structure for MBA programs in India?
-The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
+The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi/) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
 
 ### Is it possible to pursue an MBA without clearing CAT?
 Yes, many colleges accept other entrance exams like XAT, NMAT, SNAP, MAT, or CMAT. Additionally, direct admission options under management quota are available in several private B-schools.

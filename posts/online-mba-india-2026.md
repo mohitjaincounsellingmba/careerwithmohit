@@ -2,9 +2,9 @@
 title: 'Online MBA in India 2026: Top Programs, Fees, ROI & Is It Worth It?'
 date: '2026-03-13'
 description: >-
-  Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Noida, Greater Noida, Delhi NCR. Get details on top colleges under
-  GGSIPU, 
+  Online MBA in India 2026: Top Programs, Fees, ROI & Is It Worth It?. Read
+  complete guide on eligibility, syllabus, fees, placements and expert admission
+  tips.
 keywords:
   - Online MBA India 2026
   - best online MBA programs India
@@ -92,7 +92,7 @@ Whether you're a working professional looking to upskill without quitting your j
 - **Fees:** ₹1.30 Lakhs – ₹2.80 Lakhs
 - **Duration:** 2 years
 - **Specializations:** 15+ specializations including International Business, Digital Marketing, Agri Business
-- **Why Choose:** [Amity University](/colleges/amity-noida) is NAAC A+ accredited. One of the most flexible and affordable UGC-approved online MBAs in India.
+- **Why Choose:** [Amity University](/colleges/amity-noida/) is NAAC A+ accredited. One of the most flexible and affordable UGC-approved online MBAs in India.
 - **Best For:** Students wanting maximum specialization choice at minimal cost.
 
 ---
@@ -126,7 +126,7 @@ Here is a quick breakdown of the fees and duration for top Online MBA programs i
 - **NMIMS Online MBA (NMIMS)**
   - **Fees:** ₹2.5 Lakhs
   - **Duration:** 2 years
-- **Amity Online MBA ([Amity University](/colleges/amity-noida))**
+- **Amity Online MBA ([Amity University](/colleges/amity-noida/))**
   - **Fees:** ₹2.8 Lakhs
   - **Duration:** 2 years
 - **Manipal Online MBA (MAHE)**

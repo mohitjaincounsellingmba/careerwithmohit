@@ -72,19 +72,19 @@ These institutions keep tuition fees under ₹10 Lakhs (either total or annual, 
 - **Average Placement Package:** **₹6.8 LPA**
 - **Key Highlight:** Vibrant campus in Hennur with excellent business lab setup.
 
-### 3. [ISBR Business School](/colleges/isbr-bangalore)
+### 3. [ISBR Business School](/colleges/isbr-bangalore/)
 - **Approximate Fees:** ₹9.0 Lakhs (Total)
 - **Accepted Entrance Exams:** MAT / CMAT / PGCET
 - **Average Placement Package:** **₹7.5 LPA**
 - **Key Highlight:** Award-winning campus in Electronic City with global partnerships.
 
-### 4. [Indus Business Academy (IBA)](/colleges/iba-bangalore)
+### 4. [Indus Business Academy (IBA)](/colleges/iba-bangalore/)
 - **Approximate Fees:** ₹9.5 Lakhs (Total)
 - **Accepted Entrance Exams:** CAT / XAT / CMAT / MAT
 - **Average Placement Package:** **₹7.8 LPA**
 - **Key Highlight:** Beautiful residential campus focusing on analytical and strategic thinking.
 
-### 5. [Acharya Bangalore B-School](/colleges/acharya-bangalore-b-school) (ABBS)
+### 5. [Acharya Bangalore B-School](/colleges/acharya-bangalore-b-school/) (ABBS)
 - **Approximate Fees:** ₹8.9 Lakhs (Total)
 - **Accepted Entrance Exams:** MAT / CMAT / PGCET
 - **Average Placement Package:** **₹7.2 LPA**
@@ -100,9 +100,9 @@ Here is a quick snapshot comparing the fee structures and average placements for
 | :--- | :--- | :--- | :--- |
 | **Canara Bank School of Management Studies, Bangalore University** | Karnataka PGCET | ₹1.5 Lakhs (Total) | **₹6.0 LPA** |
 | **Kristu Jayanti College (MBA)** | KMAT / PGCET / MAT | ₹8.5 Lakhs (Total) | **₹6.8 LPA** |
-| **[ISBR Business School](/colleges/isbr-business-school)** | MAT / CMAT / PGCET | ₹9.0 Lakhs (Total) | **₹7.5 LPA** |
-| **[Indus Business Academy](/colleges/indus-business-academy) (IBA)** | CAT / XAT / CMAT / MAT | ₹9.5 Lakhs (Total) | **₹7.8 LPA** |
-| **[Acharya Bangalore B-School](/colleges/acharya-bangalore-b-school) (ABBS)** | MAT / CMAT / PGCET | ₹8.9 Lakhs (Total) | **₹7.2 LPA** |
+| **[ISBR Business School](/colleges/isbr-business-school/)** | MAT / CMAT / PGCET | ₹9.0 Lakhs (Total) | **₹7.5 LPA** |
+| **[Indus Business Academy](/colleges/indus-business-academy/) (IBA)** | CAT / XAT / CMAT / MAT | ₹9.5 Lakhs (Total) | **₹7.8 LPA** |
+| **[Acharya Bangalore B-School](/colleges/acharya-bangalore-b-school/) (ABBS)** | MAT / CMAT / PGCET | ₹8.9 Lakhs (Total) | **₹7.2 LPA** |
 
 ---
 
@@ -124,9 +124,9 @@ Return on Investment (ROI) is the most critical metric for any management aspira
 ---
 
 ## 🔗 Related Resources
-- [Best MBA Colleges with Low Fees and High ROI in India 2026](/blog/best-mba-colleges-low-fees-high-roi-india-2026)
-- [Is Direct MBA Admission Without Entrance Exam Worth It?](/blog/direct-mba-admission-without-entrance-exam-2026-is-it-worth-it)
-- [MBA Distance Education 2026: Top Universities & Fees](/blog/mba-distance-education-2026-top-universities-fees-admission)
+- [Best MBA Colleges with Low Fees and High ROI in India 2026](/blog/best-mba-colleges-low-fees-high-roi-india-2026/)
+- [Is Direct MBA Admission Without Entrance Exam Worth It?](/blog/direct-mba-admission-without-entrance-exam-2026-is-it-worth-it/)
+- [MBA Distance Education 2026: Top Universities & Fees](/blog/mba-distance-education-2026-top-universities-fees-admission/)
 
 ---
 

@@ -64,7 +64,7 @@ If you are planning to take M.Tech admission in the 2026 academic batch, this gu
 
 Here is the list of top-ranked private engineering institutions in Gurgaon offering M.Tech programs with outstanding Return on Investment (ROI) and advanced academic support:
 
-### 1. [The NorthCap University (NCU)](/colleges/ncu-gurgaon)
+### 1. [The NorthCap University (NCU)](/colleges/ncu-gurgaon/)
 - **Approximate Tuition Fees:** ₹1.7 Lakhs/year
 - **Accepted Entrance Exams:** GATE / NCU Entrance Exam
 - **Admission Cutoff / Eligibility:** GATE Score 360+ (Merit-based entry available)
@@ -78,7 +78,7 @@ Here is the list of top-ranked private engineering institutions in Gurgaon offer
 - **Average Postgraduate Placement Package:** **₹5.0 LPA**
 - **Key Highlight:** Industry oriented collaboration with top tech giants offering real-time research scopes.
 
-### 3. [GD Goenka University](/colleges/gd-goenka-university)
+### 3. [GD Goenka University](/colleges/gd-goenka-university/)
 - **Approximate Tuition Fees:** ₹1.3 Lakhs/year
 - **Accepted Entrance Exams:** GATE / Goenka Aptitude Test
 - **Admission Cutoff / Eligibility:** GATE Score 350+ (Direct academic evaluation options)
@@ -93,9 +93,9 @@ Here is a quick snapshot comparing the fee structures, entrance criteria, and av
 
 | College Name | Accepted Entrance Exams | Approximate Tuition Fees | Average Placement Package |
 | :--- | :--- | :--- | :--- |
-| **[The NorthCap University (NCU)](/colleges/ncu-gurgaon)** | GATE / NCU Entrance Exam | ₹1.7 Lakhs/year | **₹6.2 LPA** |
+| **[The NorthCap University (NCU)](/colleges/ncu-gurgaon/)** | GATE / NCU Entrance Exam | ₹1.7 Lakhs/year | **₹6.2 LPA** |
 | **Sushant University (School of Engineering)** | GATE / University Test & Interview | ₹1.4 Lakhs/year | **₹5.0 LPA** |
-| **[GD Goenka University](/colleges/gd-goenka-university)** | GATE / Goenka Aptitude Test | ₹1.3 Lakhs/year | **₹4.8 LPA** |
+| **[GD Goenka University](/colleges/gd-goenka-university/)** | GATE / Goenka Aptitude Test | ₹1.3 Lakhs/year | **₹4.8 LPA** |
 
 ---
 
@@ -116,9 +116,9 @@ Admissions to private M.Tech colleges in Gurgaon generally follow two distinct r
 ---
 
 ## 🔗 Related Resources
-- [B.Tech Admission Without JEE 2026: All Options](/blog/btech-admission-without-jee-2026-all-options)
-- [Top Engineering Colleges Accepting JEE Main Scores in 2026](/blog/jee-main-accepting-btech-colleges-2026)
-- [All IIM Cut-Off 2026-28: Admission, MBA, PGDM](/blog/all-iim-cut-off-2026-28-admission-mba-pgdm)
+- [B.Tech Admission Without JEE 2026: All Options](/blog/btech-admission-without-jee-2026-all-options/)
+- [Top Engineering Colleges Accepting JEE Main Scores in 2026](/blog/jee-main-accepting-btech-colleges-2026/)
+- [All IIM Cut-Off 2026-28: Admission, MBA, PGDM](/blog/all-iim-cut-off-2026-28-admission-mba-pgdm/)
 
 ---
 

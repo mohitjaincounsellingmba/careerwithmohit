@@ -75,9 +75,9 @@ For aspirants planning their **MBA/PGDM admission for the 2027-29 batch**, evalu
 
 | College Name | Location | Entrance Exam & Cutoff | Total Fees (Approx) | Avg Placement Package | Highest Package |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **[FMS Delhi](/colleges/fms-delhi)** | North Campus, Delhi | CAT (98+ %ile) | ₹2.00 Lakhs | ₹34.10 LPA | ₹1.23 CPA |
-| **[MDI Gurgaon](/colleges/mdi-gurgaon)** | Gurgaon | CAT/XAT (93-95 %ile) | ₹24.00 Lakhs | ₹26.70 LPA | ₹60.00 LPA |
-| **[FORE School of Management](/colleges/fore-school-delhi)** | Qutub Inst. Area, Delhi | CAT/XAT (85-88 %ile) | ₹16.98 Lakhs | ₹14.50 LPA | ₹30.00 LPA |
+| **[FMS Delhi](/colleges/fms-delhi/)** | North Campus, Delhi | CAT (98+ %ile) | ₹2.00 Lakhs | ₹34.10 LPA | ₹1.23 CPA |
+| **[MDI Gurgaon](/colleges/mdi-gurgaon/)** | Gurgaon | CAT/XAT (93-95 %ile) | ₹24.00 Lakhs | ₹26.70 LPA | ₹60.00 LPA |
+| **[FORE School of Management](/colleges/fore-school-delhi/)** | Qutub Inst. Area, Delhi | CAT/XAT (85-88 %ile) | ₹16.98 Lakhs | ₹14.50 LPA | ₹30.00 LPA |
 | **LBSIM Delhi** | Dwarka, Delhi | CAT/XAT (80-85 %ile) | ₹15.50 Lakhs | ₹12.40 LPA | ₹24.70 LPA |
 | **NDIM Delhi** | Tughlakabad, South Delhi | CAT/MAT/CMAT (60+ %ile) | ₹11.50L - ₹13.75L | ₹9.50 LPA | ₹24.00 LPA |
 | **FOSTIIMA Business School** | Dwarka, West Delhi | CAT/MAT/CMAT (60+ %ile) | ₹11.50 Lakhs | ₹11.15 LPA | ₹30.00 LPA |
@@ -100,18 +100,18 @@ For aspirants planning their **MBA/PGDM admission for the 2027-29 batch**, evalu
 * **Cutoff 2027-29**: CAT 93-95 percentile, XAT 94+ percentile.
 * **Specializations**: PGDM, PGDM-HRM, PGDM-IB.
 
-### 3. [New Delhi Institute of Management](/colleges/new-delhi-institute-of-management) (NDIM), South Delhi
+### 3. [New Delhi Institute of Management](/colleges/new-delhi-institute-of-management/) (NDIM), South Delhi
 * **Highlights**: UGC & AIU declared PGDM as MBA Equivalent. AICTE approved dual specialization options in FinTech, Business Analytics, Digital Marketing, and Supply Chain.
-* **Why High ROI**: Highly competitive fee structure with 300+ corporate recruiters on campus. Read full review at [All About NDIM Delhi](/blog/all-about-ndim-delhi).
+* **Why High ROI**: Highly competitive fee structure with 300+ corporate recruiters on campus. Read full review at [All About NDIM Delhi](/blog/all-about-ndim-delhi/).
 * **Placements**: Average package of ₹9.50 LPA with highest international offers reaching ₹24 LPA.
 
 ### 4. FOSTIIMA Business School, Delhi
-* **Highlights**: Founded by [IIM Ahmedabad](/colleges/iim-ahmedabad) Alumni with pan-IIM faculty team.
-* **Placement Record**: Outstanding ₹11.15 LPA average package with top brands like Deloitte, KPMG, Axis Bank, and ICICI Bank. Check detailed insights at [All About FOSTIIMA Delhi](/blog/all-about-fostiima-delhi).
+* **Highlights**: Founded by [IIM Ahmedabad](/colleges/iim-ahmedabad/) Alumni with pan-IIM faculty team.
+* **Placement Record**: Outstanding ₹11.15 LPA average package with top brands like Deloitte, KPMG, Axis Bank, and ICICI Bank. Check detailed insights at [All About FOSTIIMA Delhi](/blog/all-about-fostiima-delhi/).
 
-### 5. [Fortune Institute of International Business](/colleges/fortune-institute-of-international-business) (FIIB), South Delhi
+### 5. [Fortune Institute of International Business](/colleges/fortune-institute-of-international-business/) (FIIB), South Delhi
 * **Highlights**: Situated in Vasant Vihar, FIIB holds AACSB global membership and NBA accreditation.
-* **Curriculum**: Heavy focus on digital transformation, business analytics, and corporate mentorship. Learn more at [All About FIIB Delhi](/blog/all-about-fiib-delhi).
+* **Curriculum**: Heavy focus on digital transformation, business analytics, and corporate mentorship. Learn more at [All About FIIB Delhi](/blog/all-about-fiib-delhi/).
 
 ---
 

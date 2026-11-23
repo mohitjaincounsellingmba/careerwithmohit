@@ -3,9 +3,8 @@ title: 'UP NEET Counselling 2026 — Complete Guide, Process & Fees'
 date: '2026-04-21'
 category: Medical Admissions
 description: >-
-  Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Noida, Greater Noida, Delhi NCR. Get details on top colleges under
-  GGSIPU, 
+  UP NEET Counselling 2026 — Complete Guide, Process & Fees. Read complete guide
+  on eligibility, syllabus, fees, placements and expert admission tips.
 keywords:
   - up neet counselling 2026
   - up dgme medical admission
@@ -100,7 +99,7 @@ The DGME will release a state merit list. Based on your rank, you will fill your
 - **GSVM, Kanpur**
 
 ### Private Hubs (Open to All India)
-- **[Sharda University](/colleges/sharda-greater-noida) (Greater Noida)**
+- **[Sharda University](/colleges/sharda-greater-noida/) (Greater Noida)**
 - **Hind Institute (Barabanki/Lucknow)**
 - **SRMS (Bareilly)**
 - **Subharti Medical (Meerut)**
@@ -132,9 +131,9 @@ Usually 15-20 days after the Round 1 result. Round 2 is often when the "Category
 ---
 
 ### Useful Links:
-- [Top Medical Colleges in Lucknow 2026](/blog/top-medical-colleges-lucknow-2026)
-- [Top Medical Colleges in Delhi NCR 2026](/blog/top-medical-colleges-delhi-ncr-2026)
-- [How to Prepare for NEET 2026](/blog/neet-2026-exam-strategy-guide)
+- [Top Medical Colleges in Lucknow 2026](/blog/top-medical-colleges-lucknow-2026/)
+- [Top Medical Colleges in Delhi NCR 2026](/blog/top-medical-colleges-delhi-ncr-2026/)
+- [How to Prepare for NEET 2026](/blog/neet-2026-exam-strategy-guide/)
 
 ---
 

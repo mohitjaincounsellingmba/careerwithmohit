@@ -352,23 +352,6 @@ export default function RootLayout({
     "inLanguage": ["en-IN", "hi-IN"]
   };
 
-  const speakableData = {
-    "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "CareerWithMohit Career Counselling & MBA Admissions",
-    "speakable": {
-      "@type": "SpeakableSpecification",
-      "cssSelector": [
-        "h1",
-        "h2",
-        ".speakable-summary",
-        "#ai-fast-facts"
-      ]
-    },
-    "url": "https://careerwithmohit.online",
-    "inLanguage": "en-IN"
-  };
-
   return (
     <html lang="en-IN" className={`${bricolage.variable} ${dmSans.variable} ${jetbrainsMono.variable}`}>
       <head>
@@ -382,7 +365,6 @@ export default function RootLayout({
         <JsonLd data={personData} />
         <JsonLd data={organizationData} />
         <JsonLd data={websiteData} />
-        <JsonLd data={speakableData} />
       </head>
       <body
         className="font-body antialiased min-h-screen flex flex-col bg-background text-foreground"

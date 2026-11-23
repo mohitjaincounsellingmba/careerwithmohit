@@ -145,9 +145,9 @@ These law schools are known for their international collaborations, modern infra
 ---
 
 ## 🔗 Related Resources
-- [Top BBA Colleges in Delhi NCR 2026](/blog/top-bba-colleges-delhi-ncr)
-- [Best MBA Colleges in Delhi 2026](/blog/best-mba-colleges-in-delhi-2026)
-- [Admission Guide for 2026](/blog/career-roadmaps-2026)
+- [Top BBA Colleges in Delhi NCR 2026](/blog/top-bba-colleges-delhi-ncr/)
+- [Best MBA Colleges in Delhi 2026](/blog/best-mba-colleges-in-delhi-2026/)
+- [Admission Guide for 2026](/blog/career-roadmaps-2026/)
 
 ---
 

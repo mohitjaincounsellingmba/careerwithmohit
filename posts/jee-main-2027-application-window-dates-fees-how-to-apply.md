@@ -231,9 +231,9 @@ Historically, achieving a **99.0+ percentile in Session 1 requires significantly
 ### 3. Build Parallel Engineering Backups
 Never place 100% of your future exclusively on JoSAA counselling:
 - Review premier autonomous and private universities with separate entrance portals or direct merit seats:
-  - Explore our comprehensive analysis on [JEE Main Accepting B.Tech Colleges: Top NITs, IIITs & Private Institutes](/blog/jee-main-accepting-btech-colleges-2026).
-  - Understand non-JEE pathways in our guide to [B.Tech Admission Without JEE: Direct Admission, Management Quota & State CETs](/blog/btech-admission-without-jee-2026-all-options).
-  - Track expected college cutoffs using the [JEE Main College Predictor: Rank vs NIT & IIIT Cutoffs](/blog/jee-main-2026-college-predictor-rank-vs-college).
+  - Explore our comprehensive analysis on [JEE Main Accepting B.Tech Colleges: Top NITs, IIITs & Private Institutes](/blog/jee-main-accepting-btech-colleges-2026/).
+  - Understand non-JEE pathways in our guide to [B.Tech Admission Without JEE: Direct Admission, Management Quota & State CETs](/blog/btech-admission-without-jee-2026-all-options/).
+  - Track expected college cutoffs using the [JEE Main College Predictor: Rank vs NIT & IIIT Cutoffs](/blog/jee-main-2026-college-predictor-rank-vs-college/).
 
 ---
 

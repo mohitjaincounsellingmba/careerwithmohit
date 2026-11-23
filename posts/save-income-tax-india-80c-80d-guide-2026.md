@@ -3,9 +3,8 @@ title: How to Save Tax Under Section 80C & 80D — 2026 Ultimate Guide
 date: '2026-04-21'
 category: Finance
 description: >-
-  Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
-  private univer
+  Tax saving is often left for the last quarter of the financial year, leading
+  to rushed decisions and sub-par investment returns.
 keywords:
   - how to save tax in india 2026
   - safe tax 80c and 80d
@@ -105,7 +104,7 @@ Apart from the ₹1.5 Lakh limit of Section 80C, you can invest an additional **
 
 ## ❗ 4. Standard Warning for 2026
 
-If you have already opted for the **New Tax Regime**, most of these deductions (80C, 80D) will **NOT** be available to you. Always check your [Tax Regime Comparison](/blog/india-income-tax-slabs-2026-27-regime-comparison) before investing specifically for tax saving.
+If you have already opted for the **New Tax Regime**, most of these deductions (80C, 80D) will **NOT** be available to you. Always check your [Tax Regime Comparison](/blog/india-income-tax-slabs-2026-27-regime-comparison/) before investing specifically for tax saving.
 
 ---
 
@@ -129,9 +128,9 @@ Yes. You can claim deduction for medical insurance premiums paid for parents, re
 ---
 
 ### Useful Links:
-- [India Income Tax Slabs 2026-27 Breakdown](/blog/india-income-tax-slabs-2026-27-regime-comparison)
-- [How to Start Investing in Stock Market 2026](/blog/stock-market-investing-beginners-guide-2026)
-- [HMRC Self Assessment Guide 2026](/blog/uk-income-tax-return-self-assessment-guide-2026)
+- [India Income Tax Slabs 2026-27 Breakdown](/blog/india-income-tax-slabs-2026-27-regime-comparison/)
+- [How to Start Investing in Stock Market 2026](/blog/stock-market-investing-beginners-guide-2026/)
+- [HMRC Self Assessment Guide 2026](/blog/uk-income-tax-return-self-assessment-guide-2026/)
 
 ---
 

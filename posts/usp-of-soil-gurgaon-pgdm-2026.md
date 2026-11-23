@@ -1,6 +1,6 @@
 ---
 title: >-
-  USP of [SOIL Institute of Management](/colleges/soil-institute-gurgaon)
+  USP of [SOIL Institute of Management](/colleges/soil-gurgaon/)
   Gurgaon 2026: 10 Reasons Why SOIL Is India's Most Unique B-School
 date: '2026-05-11'
 description: >-
@@ -45,11 +45,11 @@ location: Delhi NCR
 state: Delhi NCR
 ---
 
-If you've been shortlisting B-schools in Delhi-NCR and wondering why **[SOIL Institute of Management](/colleges/soil-institute-gurgaon), Gurgaon** keeps appearing on "most unique" and "hidden gem" lists — this post explains exactly why.
+If you've been shortlisting B-schools in Delhi-NCR and wondering why **[SOIL Institute of Management](/colleges/soil-gurgaon/), Gurgaon** keeps appearing on "most unique" and "hidden gem" lists — this post explains exactly why.
 
 SOIL doesn't compete on the traditional B-school metrics of CAT cutoffs and campus size. It competes on **the kind of leader it produces** — and that's a distinction very few institutes in India can claim.
 
-Here are the **10 real USPs of [SOIL Institute of Management](/colleges/soil-institute-gurgaon), Gurgaon** for the 2027–29 batch.
+Here are the **10 real USPs of [SOIL Institute of Management](/colleges/soil-gurgaon/), Gurgaon** for the 2027–29 batch.
 
 ---
 
@@ -217,7 +217,7 @@ The scholarship program ensures that **financial constraints don't filter out hi
 | **SOIL Gurgaon** | ₹14.5–17.5 L | ₹12.3 LPA | MNC co-created, Leadership focus |
 | BML Munjal | ₹15.1 L | ₹13.39 LPA (Top 10%) | Hero Group, Imperial London |
 | NDIM Delhi | ₹13.75 L | ₹10 LPA | Industry-linked, Dual Spec |
-| [Jaipuria Noida](/colleges/jaipuria-noida) | ₹16.5 L | NIRF #41, 275+ cos | AACSB, BFSI pipeline |
+| [Jaipuria Noida](/colleges/jaipuria-noida/) | ₹16.5 L | NIRF #41, 275+ cos | AACSB, BFSI pipeline |
 
 ---
 
@@ -238,8 +238,8 @@ PGDM: ₹14.5–17.5 Lakhs | PGPM: ₹15.33 Lakhs | PGPM-HR: ₹13.33–14.5 Lak
 ---
 
 [👉 Apply to SOIL Gurgaon — Get Free Guidance](/inquiry)  
-[👉 Read: SOIL Gurgaon Placement Review 2025](/blog/soil-gurgaon-placement-review-2025)  
-[👉 Best MBA Colleges in Delhi NCR 2026](/blog/best-mba-colleges-in-delhi-2026)
+[👉 Read: SOIL Gurgaon Placement Review 2025](/blog/soil-gurgaon-placement-review-2025/)  
+[👉 Best MBA Colleges in Delhi NCR 2026](/blog/best-mba-colleges-in-delhi-2026/)
 
 ---
 

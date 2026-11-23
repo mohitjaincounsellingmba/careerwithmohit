@@ -35,14 +35,14 @@ location: Pune
 state: Maharashtra
 ---
 
-### **College Review: [DY Patil B School](/colleges/dy-patil-b-school)**
+### **College Review: [DY Patil B School](/colleges/dy-patil-b-school/)**
 *   **Quality Curriculum**: Tailored directly to industry requirements with standard practical case studies.
 *   **Established Brand**: Over the years, it has earned a strong reputation among regional corporate employers.
 *   **Holistic Learning**: Focuses on both technical business skills and global soft skills development.
 
 ---
 
-### 📊 [DY Patil B School](/colleges/dy-patil-b-school) 2026 Snapshot
+### 📊 [DY Patil B School](/colleges/dy-patil-b-school/) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |
@@ -70,18 +70,18 @@ state: Maharashtra
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### 1. Is [DY Patil B School](/colleges/dy-patil-b-school) a good option for PGDM/MBA?
-Yes, [DY Patil B School](/colleges/dy-patil-b-school) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+### 1. Is [DY Patil B School](/colleges/dy-patil-b-school/) a good option for PGDM/MBA?
+Yes, [DY Patil B School](/colleges/dy-patil-b-school/) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
-### 2. What is the average package offered at [DY Patil B School](/colleges/dy-patil-b-school)?
-The average placement package at [DY Patil B School](/colleges/dy-patil-b-school) is approximately ₹8.0 LPA, with the highest package reaching up to ₹24.0 LPA.
+### 2. What is the average package offered at [DY Patil B School](/colleges/dy-patil-b-school/)?
+The average placement package at [DY Patil B School](/colleges/dy-patil-b-school/) is approximately ₹8.0 LPA, with the highest package reaching up to ₹24.0 LPA.
 
-### 3. What entrance exams are accepted by [DY Patil B School](/colleges/dy-patil-b-school)?
+### 3. What entrance exams are accepted by [DY Patil B School](/colleges/dy-patil-b-school/)?
 The college accepts scores from national level entrance examinations including CAT, MAT, CMAT for the PGDM and MBA admissions.
 
 ---
 
-**Final Verdict**: [DY Patil B School](/colleges/dy-patil-b-school) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
+**Final Verdict**: [DY Patil B School](/colleges/dy-patil-b-school/) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
 [👉 Apply to DY Patil B School](/inquiry) | [👉 Get Free Counselling](/inquiry)
 

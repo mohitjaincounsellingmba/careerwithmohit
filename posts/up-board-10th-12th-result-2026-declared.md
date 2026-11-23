@@ -4,9 +4,8 @@ title: >-
   upresults.nic.in
 date: '2026-04-23'
 description: >-
-  Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
-  private univer
+  UP Board 10th & 12th Result 2026 Declared: Check High School & Inter Result at
+  upresults.nic.in: Explore fees, placements, cutoffs & admission guidelines.
 keywords:
   - UP Board 12th result 2026
   - UP Board 10th result 2026
@@ -94,10 +93,10 @@ You can also fetch your verified digital marksheet from the **DigiLocker** app b
 Congratulations on clearing your boards! Now is the time to make the most important decision for your career. Whether you are aiming for Engineering, Management, or Law, we are here to help.
 
 **Recommended Resources for 12th Students:**
-*   [Career Options After 12th Science: PCM & PCB Roadmap](/blog/career-options-after-12th-science-2026)
-*   [Top B.Tech Colleges in Delhi NCR: Admission 2026](/blog/best-btech-cse-colleges-delhi-ncr-direct-admission-2026)
-*   [BBA vs B.Com vs BMS: Which is Better for Your Career?](/blog/bba-vs-bcom-vs-bms-career-comparison)
-*   [Direct Admission in Top MBA/BBA Colleges 2026](/blog/direct-bba-admission-2026-management-quota)
+*   [Career Options After 12th Science: PCM & PCB Roadmap](/blog/career-options-after-12th-science-2026/)
+*   [Top B.Tech Colleges in Delhi NCR: Admission 2026](/blog/best-btech-cse-colleges-delhi-ncr-direct-admission-2026/)
+*   [BBA vs B.Com vs BMS: Which is Better for Your Career?](/blog/bba-vs-bcom-vs-bms-career-comparison/)
+*   [Direct Admission in Top MBA/BBA Colleges 2026](/blog/direct-bba-admission-2026-management-quota/)
 
 **Confused About Your Marks?**
 If you are not satisfied with your results, the UP Board will soon open the portal for **Scrutiny (Re-evaluation)** and **Compartment Exams**. Stay tuned for updates on application dates.

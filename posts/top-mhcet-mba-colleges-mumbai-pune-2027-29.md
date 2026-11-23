@@ -138,8 +138,8 @@ If you are a Finance aspirant, **Mumbai** is your playground. If you are looking
 ---
 
 ### Internal References:
-- [Best MBA Colleges in Mumbai 2027–29](/blog/best-mba-colleges-in-mumbai-2027-29/)
-- [Best MBA Colleges in Pune 2027–29](/blog/best-mba-colleges-in-pune-2027-29/)
+- [Best MBA Colleges in Mumbai 2027–29](/blog/best-mba-colleges-in-mumbai-2026/)
+- [Best MBA Colleges in Pune 2027–29](/blog/best-mba-colleges-in-pune-2026/)
 
 ---
 

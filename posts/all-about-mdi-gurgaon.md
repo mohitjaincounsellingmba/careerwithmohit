@@ -41,14 +41,14 @@ location: Delhi NCR
 state: Delhi NCR
 ---
 
-### **College Review: [MDI Gurgaon](/colleges/mdi-gurgaon)**
+### **College Review: [MDI Gurgaon](/colleges/mdi-gurgaon/)**
 *   **Quality Curriculum**: Tailored directly to industry requirements with standard practical case studies.
 *   **Established Brand**: Over the years, it has earned a strong reputation among regional corporate employers.
 *   **Holistic Learning**: Focuses on both technical business skills and global soft skills development.
 
 ---
 
-### 📊 [MDI Gurgaon](/colleges/mdi-gurgaon) 2026 Snapshot
+### 📊 [MDI Gurgaon](/colleges/mdi-gurgaon/) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |
@@ -76,18 +76,18 @@ state: Delhi NCR
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### 1. Is [MDI Gurgaon](/colleges/mdi-gurgaon) a good option for PGDM/MBA?
-Yes, [MDI Gurgaon](/colleges/mdi-gurgaon) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+### 1. Is [MDI Gurgaon](/colleges/mdi-gurgaon/) a good option for PGDM/MBA?
+Yes, [MDI Gurgaon](/colleges/mdi-gurgaon/) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
-### 2. What is the average package offered at [MDI Gurgaon](/colleges/mdi-gurgaon)?
-The average placement package at [MDI Gurgaon](/colleges/mdi-gurgaon) is approximately ₹27.6 LPA, with the highest package reaching up to ₹60.0 LPA.
+### 2. What is the average package offered at [MDI Gurgaon](/colleges/mdi-gurgaon/)?
+The average placement package at [MDI Gurgaon](/colleges/mdi-gurgaon/) is approximately ₹27.6 LPA, with the highest package reaching up to ₹60.0 LPA.
 
-### 3. What entrance exams are accepted by [MDI Gurgaon](/colleges/mdi-gurgaon)?
+### 3. What entrance exams are accepted by [MDI Gurgaon](/colleges/mdi-gurgaon/)?
 The college accepts scores from national level entrance examinations including CAT, GMAT for the PGDM and MBA admissions.
 
 ---
 
-**Final Verdict**: [MDI Gurgaon](/colleges/mdi-gurgaon) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
+**Final Verdict**: [MDI Gurgaon](/colleges/mdi-gurgaon/) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
 [👉 Apply to MDI Gurgaon](/inquiry) | [👉 Get Free Counselling](/inquiry)
 

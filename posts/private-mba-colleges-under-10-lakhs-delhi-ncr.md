@@ -72,7 +72,7 @@ If you are a budget-conscious aspirant aiming for the 2027–2029 academic cycle
 
 [InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
 
-## 1. [GNIOT [Institute of Management Studies](/colleges/institute-of-management-studies) (GIMS)](/colleges/gniot-institute-of-management-studies-gims), Greater Noida
+## 1. [GNIOT [Institute of Management Studies](/colleges/institute-of-management-studies/) (GIMS)](/colleges/gniot-institute-of-management-studies-gims), Greater Noida
 
 GNIOT has rapidly ascended the ranks as a premier choice for students seeking a rigorous, placement-driven MBA without a premium price tag. 
 
@@ -94,7 +94,7 @@ If your primary constraint is budget, but you still want an established platform
 
 ---
 
-## 3. [New Delhi Institute of Management](/colleges/new-delhi-institute-of-management) (NDIM), Delhi
+## 3. [New Delhi Institute of Management](/colleges/new-delhi-institute-of-management/) (NDIM), Delhi
 
 *Note: NDIM's fees have revised to ₹13.75 Lakhs for the 2027–29 batch, but its premium corporate placement ROI makes it a must-include for serious aspirants.*
 
@@ -107,7 +107,7 @@ Situated in the heart of Delhi, NDIM is heavily networked with industry bodies l
 
 ---
 
-## 4. [Jagan Institute of Management Studies](/colleges/jagan-institute-of-management-studies) (JIMS) Rohini, Delhi
+## 4. [Jagan Institute of Management Studies](/colleges/jagan-institute-of-management-studies/) (JIMS) Rohini, Delhi
 
 JIMS Rohini is NBA and AIU-accredited, making it one of the most credible mid-budget private b-schools in the capital.
 
@@ -121,9 +121,9 @@ JIMS Rohini is NBA and AIU-accredited, making it one of the most credible mid-bu
 
 Greater Noida, specifically the Knowledge Park area, is famous for its massive private university campuses. While some full-time, premium MBA programs at these universities exceed ₹10 Lakhs, they often offer specialized or slightly scaled-down MBA variants that fit the budget:
 
-*   **[Galgotias University](/colleges/galgotias-university)**
-*   **[Sharda University](/colleges/sharda-greater-noida)**
-*   **[Noida Institute of Engineering and Technology (NIET)](/colleges/niet-greater-noida)**
+*   **[Galgotias University](/colleges/galgotias-university/)**
+*   **[Sharda University](/colleges/sharda-greater-noida/)**
+*   **[Noida Institute of Engineering and Technology (NIET)](/colleges/niet-greater-noida/)**
 
 *Ensure you check their latest 2026 fee structures, as private university tuition can fluctuate annually.*
 

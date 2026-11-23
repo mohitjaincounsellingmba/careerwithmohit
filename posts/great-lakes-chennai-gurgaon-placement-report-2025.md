@@ -111,9 +111,9 @@ pie title Great Lakes Domain Distribution 2025
 
 ## 3. Related Placement Reports
 
-*   **[GIM Goa Placement Report 2025](/blog/gim-goa-pgdm-placement-report-2025)**
-*   **[TAPMI Manipal Placement Report 2025](/blog/tapmi-manipal-mba-placement-report-2025)**
-*   **[All 21 IIMs Recent Placement Report 2025](/blog/all-iim-recent-placement-report-2025)**
+*   **[GIM Goa Placement Report 2025](/blog/gim-goa-pgdm-placement-report-2025/)**
+*   **[TAPMI Manipal Placement Report 2025](/blog/tapmi-manipal-mba-placement-report-2025/)**
+*   **[All 21 IIMs Recent Placement Report 2025](/blog/all-iim-recent-placement-report-2025/)**
 
 ---
 

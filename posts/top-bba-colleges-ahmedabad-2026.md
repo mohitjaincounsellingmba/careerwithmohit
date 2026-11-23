@@ -5,7 +5,7 @@ category: BBA Admissions
 description: >-
   Planning your BBA in the Entrepreneurial Capital? Explore the best BBA
   colleges in Ahmedabad for 2026. Detailed guide on [Nirma
-  University](/colleges/nirma-university), Ahmedabad University, and PDEU.
+  University](/colleges/nirma-university/), Ahmedabad University, and PDEU.
 keywords:
   - top bba colleges in ahmedabad 2026
   - best bba colleges ahmedabad
@@ -48,7 +48,7 @@ Whether you are targeting the academic rigor of Nirma or the liberal arts approa
 
 | College | Type | Entrance Exam | 1st Yr Fees | Avg. Package |
 |---|---|---|---|---|
-| **[Nirma University](/colleges/nirma-university)** | Private | IPMAT Indore | ₹3.5 - 4.5 Lakhs | ₹6.5 - 10.5 LPA |
+| **[Nirma University](/colleges/nirma-university/)** | Private | IPMAT Indore | ₹3.5 - 4.5 Lakhs | ₹6.5 - 10.5 LPA |
 | **Ahmedabad Univ (AU)** | Private | Merit/Intv | ₹3.8 - 4.8 Lakhs | ₹5.5 - 9.0 LPA |
 | **PDEU Gandhinagar** | Private | Merit/Entrance| ₹2.5 - 3.2 Lakhs | ₹5.0 - 7.5 LPA |
 | **GLS University** | Private | Merit | ₹0.8 - 1.2 Lakhs | ₹3.5 - 5.5 LPA |
@@ -59,7 +59,7 @@ Whether you are targeting the academic rigor of Nirma or the liberal arts approa
 
 ## 🏛️ The Ahmedabad Powerhouses
 
-### 1. [Nirma University](/colleges/nirma-university) (Institute of Management)
+### 1. [Nirma University](/colleges/nirma-university/) (Institute of Management)
 The flagship BBA program in Gujarat. Nirma is famous for its **Integrated BBA-MBA (5 years)** and its separate 3-year BBA program.
 - **Top Choice:** For students targeting rigorous corporate management roles.
 - **Selection:** Nirma uses **IPMAT (Indore)** scores for its BBA-MBA program, making it a Tier-1 destination.
@@ -92,8 +92,8 @@ If you miss the entrance exam cutoffs, direct admission is possible in **GLS, In
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-**Q1. is [Nirma University](/colleges/nirma-university) BBA worth the high fees?**
-Yes. In terms of **Placement Brand Value** in Western India, Nirma is second only to [IIM Ahmedabad](/colleges/iim-ahmedabad) (which doesn't have an undergraduate program).
+**Q1. is [Nirma University](/colleges/nirma-university/) BBA worth the high fees?**
+Yes. In terms of **Placement Brand Value** in Western India, Nirma is second only to [IIM Ahmedabad](/colleges/iim-ahmedabad/) (which doesn't have an undergraduate program).
 
 **Q2. When is the Ahmedabad University admission 2026 starting?**
 Admissions usually open in **January/February** for the "Early Round."
@@ -110,9 +110,9 @@ For top-tier colleges like Nirma and AU, the average package ranges from ₹6L t
 ---
 
 ### Useful Links:
-- [Top BBA Colleges in India 2026](/blog/top-bba-colleges-india-2026)
-- [BBA vs B.Com — Future Career Comparison](/blog/bba-vs-bcom-vs-bms-career-comparison)
-- [Admission in [Nirma University](/colleges/nirma-university) — IPMAT Guide](/blog/ipmat-2026-preparation-guide-colleges)
+- [Top BBA Colleges in India 2026](/blog/top-bba-colleges-india-2026/)
+- [BBA vs B.Com — Future Career Comparison](/blog/bba-vs-bcom-vs-bms-career-comparison/)
+- [Admission in [Nirma University](/colleges/nirma-university/) — IPMAT Guide](/blog/ipmat-2026-preparation-guide-colleges)
 
 ---
 

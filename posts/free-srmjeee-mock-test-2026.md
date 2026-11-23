@@ -37,7 +37,7 @@ Succeeding in the **SRMJEEE 2026** entrance exam demands not just subject expert
 
 [MockTestCard title="Free Free Mock Test Full CBT Mock Test 2026" link="/mock-tests" questions="Full-Length" time="Timed Exam"]
 
-To help you measure your standing, we offer a high-fidelity **[Free SRMJEEE 2026 Mock Test](/tools/mock-test/srmjee)** designed to match the current 2026 exam pattern. Get instant percentiles, deep sectional analysis, and master your time management.
+To help you measure your standing, we offer a high-fidelity **[Free SRMJEEE 2026 Mock Test](/mock-tests/)** designed to match the current 2026 exam pattern. Get instant percentiles, deep sectional analysis, and master your time management.
 
 ---
 

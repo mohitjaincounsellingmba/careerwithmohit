@@ -3,9 +3,8 @@ title: 'Top Medical Colleges in Lucknow 2026 — Fees, Cutoffs & Admission'
 date: '2026-04-21'
 category: Medical Admissions
 description: >-
-  Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
-  private univer
+  Lucknow, the capital of Uttar Pradesh, is home to one of India’s most iconic
+  medical institutes—King George’s Medical University (KGMU).
 keywords:
   - top medical colleges in lucknow 2026
   - best mbbs colleges lucknow
@@ -126,9 +125,9 @@ Usually starts late **June/July** after the NEET results.
 ---
 
 ### Useful Links:
-- [Top MBBS Colleges in India 2026 NIRF Guide](/blog/top-mbbs-colleges-india-nirf-ranking-2026)
-- [B.Tech Colleges in Lucknow 2026](/blog/top-btech-colleges-lucknow-2026)
-- [Management Quota Medical Admission Guide](/blog/mbbs-management-quota-admission-2026)
+- [Top MBBS Colleges in India 2026 NIRF Guide](/blog/top-mbbs-colleges-india-nirf-ranking-2026/)
+- [B.Tech Colleges in Lucknow 2026](/blog/top-btech-colleges-lucknow-2026/)
+- [Management Quota Medical Admission Guide](/blog/mbbs-management-quota-admission-2026-process-fees/)
 
 ---
 

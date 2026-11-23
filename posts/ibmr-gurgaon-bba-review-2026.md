@@ -42,7 +42,7 @@ faqs:
 location: Delhi NCR
 state: Delhi NCR
 ---
-For students looking for a management degree that doesn't break the bank while providing solid industry exposure, **[IBMR Business School, Gurgaon](/colleges/ibmr-gurgaon)** is a name that frequently pops up. Known for its "out-of-class" learning approach, IBMR offers a unique **BBA + UGPM (Under Graduate Program in Management)**.
+For students looking for a management degree that doesn't break the bank while providing solid industry exposure, **[IBMR Business School, Gurgaon](/colleges/ibmr-gurgaon/)** is a name that frequently pops up. Known for its "out-of-class" learning approach, IBMR offers a unique **BBA + UGPM (Under Graduate Program in Management)**.
 
 In this **IBMR Gurgaon BBA Review 2026**, we dive into the fees, placement reality, and whether it’s the right choice for your undergraduate career.
 
@@ -115,9 +115,9 @@ Admission to IBMR Gurgaon is straightforward and primarily merit-based:
 ---
 
 ## 🔗 Related Resources
-*   [GD Goenka BBA Review 2026](/blog/gd-goenka-bba-review-2026)
-*   [Top BBA Colleges in Gurgaon 2026](/blog/top-bba-colleges-gurgaon-2026)
-*   [All About IBMR Gurgaon](/blog/all-about-ibmr-gurgaon)
+*   [GD Goenka BBA Review 2026](/blog/gd-goenka-bba-review-2026/)
+*   [Top BBA Colleges in Gurgaon 2026](/blog/top-bba-colleges-gurgaon-2026/)
+*   [All About IBMR Gurgaon](/blog/all-about-ibmr-gurgaon/)
 
 ---
 

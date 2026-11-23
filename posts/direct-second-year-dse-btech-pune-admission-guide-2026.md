@@ -5,9 +5,8 @@ title: >-
 date: '2026-04-24'
 category: B.Tech Admissions
 description: >-
-  Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
-  private univer
+  B.Tech Lateral Entry (DSE) in Pune 2026: Complete guide on fees, verified
+  cutoffs, average placement packages & admission process.
 keywords:
   - btech lateral entry pune 2026
   - direct second year engineering admission maharashtra
@@ -136,9 +135,9 @@ In government colleges like COEP, it is around ₹80k–₹1L per year. In priva
 ---
 
 ### Useful Links:
-- [Top B.Tech Colleges in Pune 2026](/blog/top-btech-colleges-pune)
-- [B.Tech Admission Without JEE 2026](/blog/btech-admission-without-jee-2026-all-options)
-- [MHT CET CAP Counselling Guide 2026](/blog/mht-cet-cap-counselling-2026-btech-admission-guide)
+- [Top B.Tech Colleges in Pune 2026](/blog/top-btech-colleges-pune/)
+- [B.Tech Admission Without JEE 2026](/blog/btech-admission-without-jee-2026-all-options/)
+- [MHT CET CAP Counselling Guide 2026](/blog/mht-cet-cap-counselling-2026-btech-admission-guide/)
 
 ---
 

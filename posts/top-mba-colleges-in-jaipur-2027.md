@@ -74,7 +74,7 @@ In this 2027 guide, senior education consultant **Mohit Jain** evaluates the top
 | **[MNIT Jaipur (Dept. of Mgmt Studies)](/colleges/mnit-jaipur/)** (MBA) | JLN Marg, Malviya Nagar | ₹2.80 Lakhs | ₹8.50 LPA | CAT / CMAT (75+ %ile) |
 | **[Manipal University Jaipur (MUJ)](/blog/direct-admission-manipal-university-jaipur-btech-2026/)** (MBA) | Dehmi Kalan, Ajmer Rd | ₹11.20 Lakhs | ₹8.20 LPA | CAT / MAT / CMAT / XAT / MUJ Test |
 | **[JK Lakshmipat University (JKLU - HSSB)](/colleges/hari-shankar-singhania-school-of-business-jk-lakshmipat-university/)** | Near Mahindra SEZ | ₹9.50 Lakhs | ₹7.80 LPA | CAT / XAT / MAT / CMAT / Direct |
-| **[Amity University Jaipur](/blog/amity-university-jaipur-review-2027-29/)** (MBA) | Kant Kalwar, NH-11C | ₹7.50 Lakhs | ₹6.50 LPA | CAT / MAT / Amity Test / Direct |
+| **[Amity University Jaipur](/blog/amity-university-jaipur-review-2026/)** (MBA) | Kant Kalwar, NH-11C | ₹7.50 Lakhs | ₹6.50 LPA | CAT / MAT / Amity Test / Direct |
 | **[Poddar Mgmt and Tech Campus](/colleges/poddar-jaipur/)** (PGDM/MBA) | Mansarovar | ₹4.50 – ₹6.20 Lakhs | ₹6.00 LPA | CMAT / MAT / CAT / Direct |
 | **[JECRC University (School of Mgmt)](/colleges/jecrc-jaipur/)** (MBA) | Sitapura | ₹4.80 Lakhs | ₹5.80 LPA | CAT / MAT / Direct Merit |
 
@@ -88,7 +88,7 @@ In this 2027 guide, senior education consultant **Mohit Jain** evaluates the top
          ┌─────────────────────────────┼─────────────────────────────┐
          ▼                             ▼                             ▼
   [General PGDM Leader]       [Healthcare & Hospital Icon]    [High-ROI Government]
-  Jaipuria Institute Jaipur   [IIHMR University](/colleges/iihmr-university) Jaipur         [MNIT Jaipur](/colleges/mnit-jaipur/) (DMS)
+  Jaipuria Institute Jaipur   [IIHMR University](/colleges/iihmr-university/) Jaipur         [MNIT Jaipur](/colleges/mnit-jaipur/) (DMS)
   - ₹11.2 LPA Avg Domestic    - India's #1 Hospital MBA       - ₹2.8L Total Fee
 ```
 
@@ -100,7 +100,7 @@ In this 2027 guide, senior education consultant **Mohit Jain** evaluates the top
 - **Niche Leadership**: Designated as a WHO Collaborating Centre for District Health Systems. Undisputed national leader for careers in Hospital Operations, Health Analytics, and Public Health Consulting.
 - **Top Recruiters**: Apollo Hospitals, Fortis Healthcare, Max Healthcare, Cipla, Dr. Reddy's, PwC Healthcare Advisory, UNICEF, and PATH.
 
-### 3. [MNIT Jaipur](/colleges/mnit-jaipur) - Department of Management Studies (DMS)
+### 3. [MNIT Jaipur](/colleges/mnit-jaipur/) - Department of Management Studies (DMS)
 - **ROI Champion**: Backed by the prestigious Malaviya National Institute of Technology (NIT) engineering and research infrastructure, offering MBA specializations in Operations, Finance, and Marketing at minimal tuition cost.
 
 ---

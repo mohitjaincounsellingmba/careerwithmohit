@@ -1,6 +1,6 @@
 ---
 title: >-
-  All About [FMS Delhi](/colleges/fms-delhi): Fees, Placements, Cutoff & True
+  All About [FMS Delhi](/colleges/fms-delhi/): Fees, Placements, Cutoff & True
   ROI Review 2026
 date: '2026-03-13'
 description: >-
@@ -8,8 +8,8 @@ description: >-
   University. Discover MBA fees, CAT cutoffs, staggering placement packages, and
   what makes FMS the highest ROI B-School in India.
 keywords:
-  - '[FMS Delhi](/colleges/fms-delhi) review'
-  - '[FMS Delhi](/colleges/fms-delhi) placements 2026'
+  - '[FMS Delhi](/colleges/fms-delhi/) review'
+  - '[FMS Delhi](/colleges/fms-delhi/) placements 2026'
   - FMS MBA fees
   - FMS cutoff CAT
   - Faculty of Management Studies Delhi University
@@ -48,7 +48,7 @@ state: Delhi NCR
 ---
 The Faculty of Management Studies (FMS), affiliated with the prestigious University of Delhi, needs no introduction. Widely known as the "Red Building of Dreams," FMS offers arguably the highest Return on Investment (ROI) of any business school on the planet.
 
-If you are an elite CAT scorer, here is why [FMS Delhi](/colleges/fms-delhi) is often chosen over top IIMs:
+If you are an elite CAT scorer, here is why [FMS Delhi](/colleges/fms-delhi/) is often chosen over top IIMs:
 
 ## Key Highlights
 
@@ -78,7 +78,7 @@ FMS offers a highly customizable curriculum with electives across:
 
 ## Placement Statistics (2025-2026)
 
-FMS consistently matches or beats the average packages of [IIM Ahmedabad](/colleges/iim-ahmedabad), Bangalore, and Calcutta.
+FMS consistently matches or beats the average packages of [IIM Ahmedabad](/colleges/iim-ahmedabad/), Bangalore, and Calcutta.
 
 - **Highest Placement Package:** ₹1.23 Crores (Domestic/International)
 - **Average Placement Package:** ₹34.10 LPA
@@ -91,7 +91,7 @@ FMS consistently matches or beats the average packages of [IIM Ahmedabad](/colle
 - **Pros:** The ultimate ROI—spending ₹2 Lakhs to get an average package of ₹34 Lakhs is unmatched globally. A highly intellectual peer group scoring 99+ in CAT. The unparalleled legacy and the vibrant culture of Delhi University’s North Campus. No debt burden upon graduation.
 - **Cons:** The infrastructure is very old. It operates out of a single red brick building without a sprawling green campus or modern hostels dedicated solely to FMS students.
 
-**Our Verdict:** [FMS Delhi](/colleges/fms-delhi) is the holy grail for MBA aspirants. If you score 99+ percentile in CAT and secure a seat here, you do not think twice. While you will miss out on the lavish 100-acre IIM campuses, graduating debt-free with a job at MBB (McKinsey, BCG, Bain) or top FMCG firms makes FMS an absolute no-brainer.
+**Our Verdict:** [FMS Delhi](/colleges/fms-delhi/) is the holy grail for MBA aspirants. If you score 99+ percentile in CAT and secure a seat here, you do not think twice. While you will miss out on the lavish 100-acre IIM campuses, graduating debt-free with a job at MBB (McKinsey, BCG, Bain) or top FMCG firms makes FMS an absolute no-brainer.
 
 ---
 [👉 Need help preparing for the rigorous FMS Extempore and Personal Interview? Connect with Mohit Jain for expert guidance!](/inquiry)
@@ -101,7 +101,7 @@ FMS consistently matches or beats the average packages of [IIM Ahmedabad](/colle
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### What is the typical fee structure for MBA programs in India?
-The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
+The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi/) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
 
 ### Is it possible to pursue an MBA without clearing CAT?
 Yes, many colleges accept other entrance exams like XAT, NMAT, SNAP, MAT, or CMAT. Additionally, direct admission options under management quota are available in several private B-schools.

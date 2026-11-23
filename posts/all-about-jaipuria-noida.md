@@ -41,14 +41,14 @@ location: Delhi NCR
 state: Delhi NCR
 ---
 
-### **College Review: [Jaipuria Noida](/colleges/jaipuria-noida)**
+### **College Review: [Jaipuria Noida](/colleges/jaipuria-noida/)**
 *   **Quality Curriculum**: Tailored directly to industry requirements with standard practical case studies.
 *   **Established Brand**: Over the years, it has earned a strong reputation among regional corporate employers.
 *   **Holistic Learning**: Focuses on both technical business skills and global soft skills development.
 
 ---
 
-### 📊 [Jaipuria Noida](/colleges/jaipuria-noida) 2026 Snapshot
+### 📊 [Jaipuria Noida](/colleges/jaipuria-noida/) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |
@@ -76,18 +76,18 @@ state: Delhi NCR
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### 1. Is [Jaipuria Noida](/colleges/jaipuria-noida) a good option for PGDM/MBA?
-Yes, [Jaipuria Noida](/colleges/jaipuria-noida) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+### 1. Is [Jaipuria Noida](/colleges/jaipuria-noida/) a good option for PGDM/MBA?
+Yes, [Jaipuria Noida](/colleges/jaipuria-noida/) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
-### 2. What is the average package offered at [Jaipuria Noida](/colleges/jaipuria-noida)?
-The average placement package at [Jaipuria Noida](/colleges/jaipuria-noida) is approximately ₹12.88 LPA, with the highest package reaching up to ₹36.64 LPA.
+### 2. What is the average package offered at [Jaipuria Noida](/colleges/jaipuria-noida/)?
+The average placement package at [Jaipuria Noida](/colleges/jaipuria-noida/) is approximately ₹12.88 LPA, with the highest package reaching up to ₹36.64 LPA.
 
-### 3. What entrance exams are accepted by [Jaipuria Noida](/colleges/jaipuria-noida)?
+### 3. What entrance exams are accepted by [Jaipuria Noida](/colleges/jaipuria-noida/)?
 The college accepts scores from national level entrance examinations including CAT, XAT, MAT, CMAT, ATMA for the PGDM and MBA admissions.
 
 ---
 
-**Final Verdict**: [Jaipuria Noida](/colleges/jaipuria-noida) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
+**Final Verdict**: [Jaipuria Noida](/colleges/jaipuria-noida/) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
 [👉 Apply to Jaipuria Noida](/inquiry) | [👉 Get Free Counselling](/inquiry)
 

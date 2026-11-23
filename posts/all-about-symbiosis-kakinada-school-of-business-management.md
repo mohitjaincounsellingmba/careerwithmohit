@@ -20,14 +20,14 @@ faqs:
       The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
 ---
 
-### **College Review: [Symbiosis Kakinada School of Business & Management](/colleges/symbiosis-kakinada-school-of-business-management)**
+### **College Review: [Symbiosis Kakinada School of Business & Management](/colleges/symbiosis-kakinada-school-of-business-management/)**
 *   **Quality Curriculum**: Tailored directly to industry requirements with standard practical case studies.
 *   **Established Brand**: Over the years, it has earned a strong reputation among regional corporate employers.
 *   **Holistic Learning**: Focuses on both technical business skills and global soft skills development.
 
 ---
 
-### 📊 [Symbiosis Kakinada School of Business & Management](/colleges/symbiosis-kakinada-school-of-business-management) 2026 Snapshot
+### 📊 [Symbiosis Kakinada School of Business & Management](/colleges/symbiosis-kakinada-school-of-business-management/) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |
@@ -55,18 +55,18 @@ faqs:
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### 1. Is [Symbiosis Kakinada School of Business & Management](/colleges/symbiosis-kakinada-school-of-business-management) a good option for PGDM/MBA?
-Yes, [Symbiosis Kakinada School of Business & Management](/colleges/symbiosis-kakinada-school-of-business-management) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+### 1. Is [Symbiosis Kakinada School of Business & Management](/colleges/symbiosis-kakinada-school-of-business-management/) a good option for PGDM/MBA?
+Yes, [Symbiosis Kakinada School of Business & Management](/colleges/symbiosis-kakinada-school-of-business-management/) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
-### 2. What is the average package offered at [Symbiosis Kakinada School of Business & Management](/colleges/symbiosis-kakinada-school-of-business-management)?
-The average placement package at [Symbiosis Kakinada School of Business & Management](/colleges/symbiosis-kakinada-school-of-business-management) is approximately ₹7.8 LPA, with the highest package reaching up to ₹20.0 LPA.
+### 2. What is the average package offered at [Symbiosis Kakinada School of Business & Management](/colleges/symbiosis-kakinada-school-of-business-management/)?
+The average placement package at [Symbiosis Kakinada School of Business & Management](/colleges/symbiosis-kakinada-school-of-business-management/) is approximately ₹7.8 LPA, with the highest package reaching up to ₹20.0 LPA.
 
-### 3. What entrance exams are accepted by [Symbiosis Kakinada School of Business & Management](/colleges/symbiosis-kakinada-school-of-business-management)?
+### 3. What entrance exams are accepted by [Symbiosis Kakinada School of Business & Management](/colleges/symbiosis-kakinada-school-of-business-management/)?
 The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
 
 ---
 
-**Final Verdict**: [Symbiosis Kakinada School of Business & Management](/colleges/symbiosis-kakinada-school-of-business-management) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
+**Final Verdict**: [Symbiosis Kakinada School of Business & Management](/colleges/symbiosis-kakinada-school-of-business-management/) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
 [👉 Apply to Symbiosis Kakinada School of Business & Management](/inquiry) | [👉 Get Free Counselling](/inquiry)
 

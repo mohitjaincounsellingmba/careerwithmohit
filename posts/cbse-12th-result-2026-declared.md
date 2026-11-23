@@ -70,17 +70,17 @@ To view your scorecard, keep your **CBSE 12th Admit Card** handy and follow thes
 ### 📲 Accessing Digital Marksheet via DigiLocker
 If the official website is slow, you can instantly download your digital marksheet through DigiLocker. This document is legally valid for all admission purposes.
 
-- **Check our [Full Step-by-Step DigiLocker Guide](/blog/cbse-12th-result-digilocker-2026-guide)** to activate your account and fetch your certificates.
+- **Check our [Full Step-by-Step DigiLocker Guide](/blog/cbse-12th-result-digilocker-2026-guide/)** to activate your account and fetch your certificates.
 
 ---
 
 ### 🎓 What’s Next After Class 12?
 Now that the results are out, it's time to focus on your next big move. Whether you've already cleared entrance exams or are looking for direct admissions, explore these resources:
 
-- **Science Students:** [Best Career Options After 12th Science 2026](/blog/career-options-after-12th-science-2026)
-- **Commerce Students:** [Top Career Options After 12th Commerce 2026](/blog/career-options-after-12th-commerce-2026)
-- **Arts Students:** [Career Paths After 12th Arts 2026](/blog/career-options-after-12th-arts-2026)
-- **Admissions:** [B.Tech Admission Without JEE 2026](/blog/btech-admission-without-jee-2026-all-options)
+- **Science Students:** [Best Career Options After 12th Science 2026](/blog/career-options-after-12th-science-2026/)
+- **Commerce Students:** [Top Career Options After 12th Commerce 2026](/blog/career-options-after-12th-commerce-2026/)
+- **Arts Students:** [Career Paths After 12th Arts 2026](/blog/career-options-after-12th-arts-2026/)
+- **Admissions:** [B.Tech Admission Without JEE 2026](/blog/btech-admission-without-jee-2026-all-options/)
 
 **Still confused about which college or course to choose?**
 Get personalized career counselling and admission assistance from Mohit Jain. We help you navigate the complex admission processes of top universities in India and abroad.

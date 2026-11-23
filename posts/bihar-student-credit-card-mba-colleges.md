@@ -93,23 +93,23 @@ If you are a student from Bihar planning to pursue an MBA in the **2027–29 ses
 Students from Bihar have successfully used the DRCC loan for the following institutions. Always confirm the specific course eligibility at your local DRCC office.
 
 ### 🏛️ Delhi NCR (Top Rated)
-- **[NDIM Delhi](/colleges/ndim-delhi)** — Grade 'A' B-school with excellent CSR placement.
-- **[NIU Noida](/blog/niu-vs-galgotias-university-mba-placement-review-2026)** — Recognized for its elite IBM-data tie-ups and strong placement focus.
-- **[Galgotias University](/blog/why-never-join-galgotias-university-for-mba-review)** — Massive intake but consistently accepts the Bihar Credit Card.
-- **[BIMTECH Greater Noida](/colleges/bimtech-greater-noida)** — Highly preferred for PGDM (Limited BSCC seats).
-- **[FIIB Delhi](/colleges/fiib-delhi)** — Known for International Business and 100% BSCC support.
-- **[GL Bajaj Greater Noida](/colleges/gl-bajaj-greater-noida)** — Great ROI (High placement, moderate fees).
+- **[NDIM Delhi](/colleges/ndim-delhi/)** — Grade 'A' B-school with excellent CSR placement.
+- **[NIU Noida](/blog/niu-vs-galgotias-university-mba-placement-review-2026/)** — Recognized for its elite IBM-data tie-ups and strong placement focus.
+- **[Galgotias University](/blog/why-never-join-galgotias-university-for-mba-review/)** — Massive intake but consistently accepts the Bihar Credit Card.
+- **[BIMTECH Greater Noida](/colleges/bimtech-greater-noida/)** — Highly preferred for PGDM (Limited BSCC seats).
+- **[FIIB Delhi](/colleges/fiib-delhi/)** — Known for International Business and 100% BSCC support.
+- **[GL Bajaj Greater Noida](/colleges/gl-bajaj-greater-noida/)** — Great ROI (High placement, moderate fees).
 
 ### 🌿 Pune & Mumbai (The Finance/IT Hub)
-- **[ITM Navi Mumbai](/colleges/itm-mumbai)** — Specialised in Fintech and Digital Marketing.
-- **[ISBM Pune](/colleges/isbm-pune)** — Good and affordable choice for DRCC students.
+- **[ITM Navi Mumbai](/colleges/itm-mumbai/)** — Specialised in Fintech and Digital Marketing.
+- **[ISBM Pune](/blog/iiebm-pune-vs-isbm-pune-comparison-2026/)** — Good and affordable choice for DRCC students.
 - **ASM's IBMR** — Chinchwad, Pune.
 - **Indira Group (ISBS/IIMP)** — Pune's favorite for centralized placements.
 
 ### 🌺 Bangalore (Silicon Valley of India)
-- **[XIME Bangalore](/colleges/xime-bangalore)** — Top-tier placement in Electronics City.
-- **[ISBR Bangalore](/colleges/isbr-bangalore)** — Awarded for Industry Excellence.
-- **[Alliance University](/colleges/alliance-university-bangalore)** — Large campus with diverse networking.
+- **[XIME Bangalore](/colleges/xime-bangalore/)** — Top-tier placement in Electronics City.
+- **[ISBR Bangalore](/colleges/isbr-bangalore/)** — Awarded for Industry Excellence.
+- **[Alliance University](/colleges/alliance-university-bangalore/)** — Large campus with diverse networking.
 - **Krupanidhi School of Management** — Known for student-centric support.
 
 ---
@@ -147,7 +147,7 @@ Usually **45 to 60 days** from the date of your DRCC office visit.
 
 ---
 
-[**Get Your DRCC College List & Free Counselling**](/inquiry) | [**Book a Session with Mohit Jain**](/whatsapp)
+[**Get Your DRCC College List & Free Counselling**](/inquiry) | [**Book a Session with Mohit Jain**](/blog/join-mba-student-community-whatsapp-telegram-groups-2027/)
 
 <script type="application/ld+json">
 {

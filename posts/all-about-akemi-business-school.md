@@ -35,14 +35,14 @@ location: Pune
 state: Maharashtra
 ---
 
-### **College Review: [AKEMI Business School](/colleges/akemi-business-school)**
+### **College Review: [AKEMI Business School](/colleges/akemi-business-school/)**
 *   **Quality Curriculum**: Tailored directly to industry requirements with standard practical case studies.
 *   **Established Brand**: Over the years, it has earned a strong reputation among regional corporate employers.
 *   **Holistic Learning**: Focuses on both technical business skills and global soft skills development.
 
 ---
 
-### 📊 [AKEMI Business School](/colleges/akemi-business-school) 2026 Snapshot
+### 📊 [AKEMI Business School](/colleges/akemi-business-school/) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |
@@ -70,18 +70,18 @@ state: Maharashtra
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### 1. Is [AKEMI Business School](/colleges/akemi-business-school) a good option for PGDM/MBA?
-Yes, [AKEMI Business School](/colleges/akemi-business-school) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+### 1. Is [AKEMI Business School](/colleges/akemi-business-school/) a good option for PGDM/MBA?
+Yes, [AKEMI Business School](/colleges/akemi-business-school/) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
-### 2. What is the average package offered at [AKEMI Business School](/colleges/akemi-business-school)?
-The average placement package at [AKEMI Business School](/colleges/akemi-business-school) is approximately ₹4.3 L - ₹7.5 LPA, with the highest package reaching up to ₹18.0 LPA.
+### 2. What is the average package offered at [AKEMI Business School](/colleges/akemi-business-school/)?
+The average placement package at [AKEMI Business School](/colleges/akemi-business-school/) is approximately ₹4.3 L - ₹7.5 LPA, with the highest package reaching up to ₹18.0 LPA.
 
-### 3. What entrance exams are accepted by [AKEMI Business School](/colleges/akemi-business-school)?
+### 3. What entrance exams are accepted by [AKEMI Business School](/colleges/akemi-business-school/)?
 The college accepts scores from national level entrance examinations including CAT, MAT, CMAT for the PGDM and MBA admissions.
 
 ---
 
-**Final Verdict**: [AKEMI Business School](/colleges/akemi-business-school) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
+**Final Verdict**: [AKEMI Business School](/colleges/akemi-business-school/) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
 [👉 Apply to AKEMI Business School](/inquiry) | [👉 Get Free Counselling](/inquiry)
 

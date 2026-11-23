@@ -79,16 +79,16 @@ When IIMs release their admission policies on their websites, they display the *
 
 | IIM Cluster | Institute Name | Official Qualifying Cutoff | Actual Calling Cutoff (General Category) | Actual Calling Cutoff (NC-OBC / EWS) | Actual Calling Cutoff (SC / ST / PwD) |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Old IIMs (BLACKI)** | [IIM Ahmedabad](/colleges/iim-ahmedabad) | 80 %ile | **99.6+ %ile** (Engg) / **98.0+** (Non-Engg) | 94 – 96 %ile | 78 – 85 %ile |
-| | [IIM Bangalore](/colleges/iim-bangalore) | 85 %ile | **99.2+ %ile** (High Academics weight) | 92 – 95 %ile | 75 – 82 %ile |
-| | [IIM Calcutta](/colleges/iim-calcutta) | 85 %ile | **99.6+ %ile** (High Quants focus) | 94 – 96 %ile | 75 – 82 %ile |
-| | [IIM Lucknow](/colleges/iim-colleges-placements-fees-selection-2026) | 90 %ile | **98.5+ %ile** | 90 – 93 %ile | 72 – 78 %ile |
-| | [IIM Kozhikode](/colleges/iim-colleges-placements-fees-selection-2026) | 85 %ile | **98.0+ %ile** (High Gender Diversity) | 88 – 92 %ile | 70 – 76 %ile |
-| | [IIM Indore](/colleges/iim-colleges-placements-fees-selection-2026) | 90 %ile | **98.0+ %ile** (Heavy 10th/12th weight) | 88 – 92 %ile | 70 – 75 %ile |
-| **New IIMs (CAP)** | [IIM Mumbai (NITIE)](/colleges/iim-colleges-placements-fees-selection-2026) | 85 %ile | **97.5+ %ile** | 90 – 93 %ile | 75 – 80 %ile |
-| | [IIM Shillong](/colleges/iim-colleges-placements-fees-selection-2026) | 75 %ile | **96.5+ %ile** | 88 – 92 %ile | 70 – 75 %ile |
-| | [IIM Udaipur](/colleges/iim-udaipur-bba-program-2026), Ranchi, Raipur, Trichy, Kashipur | 92 %ile (CAP) | **94.0 – 95.5+ %ile** | 74 – 78 %ile | 54 – 60 %ile |
-| | [IIM Rohtak](/colleges/iim-rohtak-ipm-bba-admission-2026) (Own PI) | 95 %ile | **96.0+ %ile** | 86 – 90 %ile | 65 – 72 %ile |
+| **Old IIMs (BLACKI)** | [IIM Ahmedabad](/colleges/iim-ahmedabad/) | 80 %ile | **99.6+ %ile** (Engg) / **98.0+** (Non-Engg) | 94 – 96 %ile | 78 – 85 %ile |
+| | [IIM Bangalore](/colleges/iim-bangalore/) | 85 %ile | **99.2+ %ile** (High Academics weight) | 92 – 95 %ile | 75 – 82 %ile |
+| | [IIM Calcutta](/colleges/iim-calcutta/) | 85 %ile | **99.6+ %ile** (High Quants focus) | 94 – 96 %ile | 75 – 82 %ile |
+| | [IIM Lucknow](/blog/1-year-online-mba-colleges-india-2026/) | 90 %ile | **98.5+ %ile** | 90 – 93 %ile | 72 – 78 %ile |
+| | [IIM Kozhikode](/blog/1-year-online-mba-colleges-india-2026/) | 85 %ile | **98.0+ %ile** (High Gender Diversity) | 88 – 92 %ile | 70 – 76 %ile |
+| | [IIM Indore](/blog/1-year-online-mba-colleges-india-2026/) | 90 %ile | **98.0+ %ile** (Heavy 10th/12th weight) | 88 – 92 %ile | 70 – 75 %ile |
+| **New IIMs (CAP)** | [IIM Mumbai (NITIE)](/blog/1-year-online-mba-colleges-india-2026/) | 85 %ile | **97.5+ %ile** | 90 – 93 %ile | 75 – 80 %ile |
+| | [IIM Shillong](/blog/1-year-online-mba-colleges-india-2026/) | 75 %ile | **96.5+ %ile** | 88 – 92 %ile | 70 – 75 %ile |
+| | [IIM Udaipur](/colleges/iim-udaipur/), Ranchi, Raipur, Trichy, Kashipur | 92 %ile (CAP) | **94.0 – 95.5+ %ile** | 74 – 78 %ile | 54 – 60 %ile |
+| | [IIM Rohtak](/colleges/iim-rohtak/) (Own PI) | 95 %ile | **96.0+ %ile** | 86 – 90 %ile | 65 – 72 %ile |
 | **Baby IIMs** | IIM Nagpur, Vizag, Amritsar, Bodh Gaya, Jammu, Sambalpur, Sirmaur | 92 %ile (CAP) | **92.5 – 94.0+ %ile** | 74 – 78 %ile | 50 – 58 %ile |
 
 ---
@@ -120,8 +120,8 @@ Your scaled score is compared against the highest scaled score in that year's ex
 $$\text{CAT Score Weight} = \left(\frac{\text{Candidate Scaled Score}}{\text{Highest Scaled Score}}\right) \times \text{Assigned Weight}$$
 
 ### 2. Past Academic Performance (10th, 12th & Graduation: 20% to 35% Weightage)
-*   **[IIM Bangalore](/colleges/iim-bangalore) & IIM Indore** place the heaviest premium on board marks. Having 90%+ in both 10th and 12th gives maximum points.
-*   **[IIM Calcutta](/colleges/iim-calcutta) & [IIM Ahmedabad](/colleges/iim-ahmedabad)** apply board normalization formulas to ensure fairness across state and central CBSE/ICSE boards.
+*   **[IIM Bangalore](/colleges/iim-bangalore/) & IIM Indore** place the heaviest premium on board marks. Having 90%+ in both 10th and 12th gives maximum points.
+*   **[IIM Calcutta](/colleges/iim-calcutta/) & [IIM Ahmedabad](/colleges/iim-ahmedabad/)** apply board normalization formulas to ensure fairness across state and central CBSE/ICSE boards.
 
 ### 3. Work Experience Tenure (5% to 10% Weightage)
 IIMs value post-graduation, full-time paid corporate experience:
@@ -160,10 +160,10 @@ Instead of forcing candidates to travel for 10 separate interviews, the New and 
 ---
 
 ## 🔗 Related Resources
-*   [CAT 2026 Score vs Percentile: What is a Good Score?](/blog/cat-2026-score-vs-percentile-what-is-a-good-score)
-*   [Latest WAT/GD Topics for MBA Admissions](/blog/latest-wat-gd-topics-for-mba-admissions-2026)
-*   [How to Build a Strong Profile for MBA Interviews](/blog/how-to-build-a-strong-profile-for-mba-interviews-2026)
-*   [Top MBA Colleges Accepting CAT Score 80-90 Percentile](/blog/mba-colleges-accepting-cat-score-80-90-percentile-2026)
+*   [CAT 2026 Score vs Percentile: What is a Good Score?](/blog/cat-2026-score-vs-percentile-what-is-a-good-score/)
+*   [Latest WAT/GD Topics for MBA Admissions](/blog/latest-wat-gd-topics-for-mba-admissions-2026/)
+*   [How to Build a Strong Profile for MBA Interviews](/blog/how-to-build-a-strong-profile-for-mba-interviews-2026/)
+*   [Top MBA Colleges Accepting CAT Score 80-90 Percentile](/blog/mba-colleges-accepting-cat-score-80-90-percentile-2026/)
 
 ---
 
@@ -176,7 +176,7 @@ Qualifying cutoff (typically 80-85 percentile) is the minimum eligibility criter
 IIMs compute a weighted Composite Score (CS) comprising CAT Scaled Score (40-60% weightage), Class 10th and 12th board marks, Graduation performance, Work Experience points (peaking at 24-36 months), Academic Diversity bonus, and Gender Diversity points.
 
 ### Can a non-engineer get into top IIMs with a lower CAT percentile?
-Yes, non-engineers (from Commerce, Arts, Law, Medicine, Sciences) receive 3 to 5 additional diversity points at [IIM Ahmedabad](/colleges/iim-ahmedabad), Bangalore, Lucknow, and Kozhikode, enabling calls at 97-98 percentile where engineers might need 99.5+.
+Yes, non-engineers (from Commerce, Arts, Law, Medicine, Sciences) receive 3 to 5 additional diversity points at [IIM Ahmedabad](/colleges/iim-ahmedabad/), Bangalore, Lucknow, and Kozhikode, enabling calls at 97-98 percentile where engineers might need 99.5+.
 
 ### What is the IIM CAP (Common Admission Process) cutoff for 2026?
 The CAP cutoff for New and Baby IIMs (IIM Udaipur, Ranchi, Raipur, Trichy, Kashipur, Nagpur, Bodh Gaya, Jammu, Sambalpur, Sirmaur) is generally 92-94+ percentile overall for General category with 70-75 sectional cutoffs.

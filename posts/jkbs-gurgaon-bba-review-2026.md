@@ -117,9 +117,9 @@ The selection process at JKBS is more rigorous than many other undergraduate col
 ---
 
 ## 🔗 Related Resources
-*   [GD Goenka BBA Review 2026](/blog/gd-goenka-bba-review-2026)
-*   [IBMR Gurgaon BBA Review 2026](/blog/ibmr-gurgaon-bba-review-2026)
-*   [Top BBA Colleges in Gurgaon 2026](/blog/top-bba-colleges-gurgaon-2026)
+*   [GD Goenka BBA Review 2026](/blog/gd-goenka-bba-review-2026/)
+*   [IBMR Gurgaon BBA Review 2026](/blog/ibmr-gurgaon-bba-review-2026/)
+*   [Top BBA Colleges in Gurgaon 2026](/blog/top-bba-colleges-gurgaon-2026/)
 
 ---
 

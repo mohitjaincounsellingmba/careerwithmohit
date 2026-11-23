@@ -4,9 +4,8 @@ title: >-
   2026
 date: '2026-05-01'
 description: >-
-  Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Ghaziabad, Delhi NCR. Get details on top colleges under GGSIPU,
-  DU, and pri
+  Intellipaat School of Technology (IST) has emerged as a disruptive force in
+  engineering education, offering industry-first B.
 keywords:
   - Intellipaat School of Technology review
   - IST B.Tech fees 2026

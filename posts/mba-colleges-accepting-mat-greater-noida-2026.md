@@ -60,7 +60,7 @@ Here is the detailed overview of the top management institutes in Greater Noida 
 > - **Total Fee Structure**: Verified at ₹6.50 Lakhs for the complete 2-year full-time curriculum.
 > - **Placement & ROI Benchmark**: Average salary stands at ₹6.80 LPA (Highest ₹15.5 LPA) with AICTE Approved.
 
-## 1. [Birla Institute of Management Technology](/colleges/birla-institute-of-management-technology) (BIMTECH)
+## 1. [Birla Institute of Management Technology](/colleges/birla-institute-of-management-technology/) (BIMTECH)
 BIMTECH accepts MAT scores for its specialized PGDM programs in Retail Management and Insurance Business Management.
 - **MAT Cutoff Percentile:** 75+ Percentile
 - **Approx Tuition Fees (2 Years):** ₹14.0 Lakhs
@@ -72,13 +72,13 @@ Known for practical industrial tours and a highly affordable structure with cons
 - **Approx Tuition Fees (2 Years):** ₹7.38 Lakhs
 - **Average Placement Package:** ₹6.50 LPA
 
-### 3. [Accurate Institute of Management](/colleges/accurate-greater-noida) and Technology
+### 3. [Accurate Institute of Management](/colleges/accurate-greater-noida/) and Technology
 Located in Knowledge Park III, offering solid placement support and entrepreneurship training.
 - **MAT Cutoff Percentile:** 60+ Percentile
 - **Approx Tuition Fees (2 Years):** ₹6.50 Lakhs
 - **Average Placement Package:** ₹6.00 LPA
 
-### 4. [Noida Institute of Engineering and Technology (NIET)](/colleges/niet-greater-noida)
+### 4. [Noida Institute of Engineering and Technology (NIET)](/colleges/niet-greater-noida/)
 Autonomously run MBA department focusing on skill certifications and corporate readiness.
 - **MAT Cutoff Percentile:** 60+ Percentile
 - **Approx Tuition Fees (2 Years):** ₹6.20 Lakhs
@@ -102,10 +102,10 @@ Focuses on corporate grooming, extensive internships, and interactive classroom 
 
 | College Name | Target MAT Cutoff | Approx 2-Year Fees | Average Salary Package |
 | :--- | :--- | :--- | :--- |
-| **[Birla Institute of Management Technology](/colleges/birla-institute-of-management-technology) (BIMTECH)** | 75+ Percentile | ₹14.0 Lakhs | **₹11.0 LPA** |
+| **[Birla Institute of Management Technology](/colleges/birla-institute-of-management-technology/) (BIMTECH)** | 75+ Percentile | ₹14.0 Lakhs | **₹11.0 LPA** |
 | **GNIOT Group of Institutions** | 65+ Percentile | ₹7.38 Lakhs | **₹6.50 LPA** |
-| **[Accurate Institute of Management](/colleges/accurate-greater-noida) and Technology** | 60+ Percentile | ₹6.50 Lakhs | **₹6.00 LPA** |
-| **[Noida Institute of Engineering and Technology (NIET)](/colleges/niet-greater-noida)** | 60+ Percentile | ₹6.20 Lakhs | **₹5.80 LPA** |
+| **[Accurate Institute of Management](/colleges/accurate-greater-noida/) and Technology** | 60+ Percentile | ₹6.50 Lakhs | **₹6.00 LPA** |
+| **[Noida Institute of Engineering and Technology (NIET)](/colleges/niet-greater-noida/)** | 60+ Percentile | ₹6.20 Lakhs | **₹5.80 LPA** |
 | **Mangalmay Institute of Management and Technology** | 60+ Percentile | ₹4.50 Lakhs | **₹5.20 LPA** |
 | **IBI - International Business Academy** | 65+ Percentile | ₹8.50 Lakhs | **₹6.80 LPA** |
 
@@ -134,7 +134,7 @@ Source: Shiksha.com
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### What is the typical fee structure for MBA programs in India?
-The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
+The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi/) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
 
 ### Is it possible to pursue an MBA without clearing CAT?
 Yes, many colleges accept other entrance exams like XAT, NMAT, SNAP, MAT, or CMAT. Additionally, direct admission options under management quota are available in several private B-schools.

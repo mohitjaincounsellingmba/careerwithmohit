@@ -165,7 +165,7 @@ export default function NewsPage() {
         <div className="max-w-7xl mx-auto relative z-10">
           {/* Breadcrumbs styled for dark background */}
           <div className="mb-8 [&_a]:text-slate-300 [&_a:hover]:text-amber-300 [&_span]:text-white [&_svg]:text-slate-400">
-            <Breadcrumbs />
+            <Breadcrumbs skipJsonLd={true} />
           </div>
 
           {/* Top Announcement Tag */}

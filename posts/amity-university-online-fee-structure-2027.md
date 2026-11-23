@@ -40,7 +40,7 @@ faqs:
 location: Delhi NCR
 state: Delhi NCR
 ---
-# [Amity University](/colleges/amity-noida) Online Fee Structure (2027): Complete Semester Breakdown & EMI Plans
+# [Amity University](/colleges/amity-noida/) Online Fee Structure (2027): Complete Semester Breakdown & EMI Plans
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **MBA/PGDM 2027–2029 Admissions**: Application cycles are actively accepting CAT 2026, XAT 2027, MAT, CMAT, ATMA, SNAP, NMAT, and merit-based profile rounds.
@@ -112,10 +112,10 @@ Unlike distance learning centers that charge extra for exam hall tickets, **Amit
 | University | Online MBA Total Fee | NAAC Rating | WES Global Status |
 | :--- | :--- | :--- | :--- |
 | **Amity University Online** | **₹1,99,000** | NAAC A+ | Approved |
-| **[Jain University](/colleges/jain-university) Online** | ₹1,96,000 | NAAC A++ | Approved |
+| **[Jain University](/colleges/jain-university/) Online** | ₹1,96,000 | NAAC A++ | Approved |
 | **LPU Online** | ₹1,61,600 | NAAC A++ | Approved |
 | **Chandigarh University Online** | ₹1,65,000 | NAAC A+ | Approved |
-| **[Galgotias University](/colleges/galgotias-university) Online** | ₹90,000 | NAAC A+ | Approved |
+| **[Galgotias University](/colleges/galgotias-university/) Online** | ₹90,000 | NAAC A+ | Approved |
 
 ---
 
@@ -133,7 +133,7 @@ Unlike distance learning centers that charge extra for exam hall tickets, **Amit
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### What is the typical fee structure for MBA programs in India?
-The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
+The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi/) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
 
 ### Is it possible to pursue an MBA without clearing CAT?
 Yes, many colleges accept other entrance exams like XAT, NMAT, SNAP, MAT, or CMAT. Additionally, direct admission options under management quota are available in several private B-schools.

@@ -20,14 +20,14 @@ faqs:
       The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
 ---
 
-### **College Review: [Xavier Ajmer Business School](/colleges/xavier-ajmer-business-school)**
+### **College Review: [Xavier Ajmer Business School](/colleges/xavier-ajmer-business-school/)**
 *   **Quality Curriculum**: Tailored directly to industry requirements with standard practical case studies.
 *   **Established Brand**: Over the years, it has earned a strong reputation among regional corporate employers.
 *   **Holistic Learning**: Focuses on both technical business skills and global soft skills development.
 
 ---
 
-### 📊 [Xavier Ajmer Business School](/colleges/xavier-ajmer-business-school) 2026 Snapshot
+### 📊 [Xavier Ajmer Business School](/colleges/xavier-ajmer-business-school/) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |
@@ -55,18 +55,18 @@ faqs:
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### 1. Is [Xavier Ajmer Business School](/colleges/xavier-ajmer-business-school) a good option for PGDM/MBA?
-Yes, [Xavier Ajmer Business School](/colleges/xavier-ajmer-business-school) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+### 1. Is [Xavier Ajmer Business School](/colleges/xavier-ajmer-business-school/) a good option for PGDM/MBA?
+Yes, [Xavier Ajmer Business School](/colleges/xavier-ajmer-business-school/) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
-### 2. What is the average package offered at [Xavier Ajmer Business School](/colleges/xavier-ajmer-business-school)?
-The average placement package at [Xavier Ajmer Business School](/colleges/xavier-ajmer-business-school) is approximately ₹7.1 LPA, with the highest package reaching up to ₹15.5 LPA.
+### 2. What is the average package offered at [Xavier Ajmer Business School](/colleges/xavier-ajmer-business-school/)?
+The average placement package at [Xavier Ajmer Business School](/colleges/xavier-ajmer-business-school/) is approximately ₹7.1 LPA, with the highest package reaching up to ₹15.5 LPA.
 
-### 3. What entrance exams are accepted by [Xavier Ajmer Business School](/colleges/xavier-ajmer-business-school)?
+### 3. What entrance exams are accepted by [Xavier Ajmer Business School](/colleges/xavier-ajmer-business-school/)?
 The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
 
 ---
 
-**Final Verdict**: [Xavier Ajmer Business School](/colleges/xavier-ajmer-business-school) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
+**Final Verdict**: [Xavier Ajmer Business School](/colleges/xavier-ajmer-business-school/) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
 [👉 Apply to Xavier Ajmer Business School](/inquiry) | [👉 Get Free Counselling](/inquiry)
 

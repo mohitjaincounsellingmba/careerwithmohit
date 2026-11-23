@@ -53,7 +53,7 @@ Choosing an MCA college in Kolkata means being at the gateway of North-East Indi
 |---|---|---|---|
 | **Jadavpur University (JU)** | WB JECA | ₹0.1 - 0.2 Lakhs | ₹10.5 - 18.0 LPA |
 | **Heritage Institute (HIT)**| WB JECA | ₹2.2 - 3.2 Lakhs | ₹5.5 - 9.0 LPA |
-| **[Techno India University](/colleges/techno-india-university-kolkata)** | WB JECA / Merit | ₹3.5 - 5.5 Lakhs | ₹4.5 - 7.5 LPA |
+| **[Techno India University](/colleges/techno-india-university-kolkata/)** | WB JECA / Merit | ₹3.5 - 5.5 Lakhs | ₹4.5 - 7.5 LPA |
 | **University of Calcutta** | CU Entrance | ₹0.2 - 0.4 Lakhs | ₹4.0 - 6.5 LPA |
 | **MAKAUT (In-house)** | WB JECA | ₹1.8 - 2.8 Lakhs | ₹4.2 - 7.0 LPA |
 | **Netaji Subhash (NSHM)** | WB JECA | ₹2.5 - 4.2 Lakhs | ₹3.8 - 6.0 LPA |
@@ -85,9 +85,9 @@ For an MCA student, Kolkata offers distinct benefits:
 ## 🏗️ Direct MCA Admission in Kolkata 2026
 
 If you miss the WB JECA dates, several reputable colleges offer merit-based direct entry:
-- **[Techno India Group](/colleges/techno-india-group):** A massive conglomerate with multiple campuses and a centralized placement cell.
+- **[Techno India Group](/colleges/techno-india-group/):** A massive conglomerate with multiple campuses and a centralized placement cell.
 - **Brainware University:** Focuses on job-ready skills and affordable private MCA programs.
-- **[Sister Nivedita University](/colleges/sister-nivedita-university-kolkata) (SNU):** A growing brand in New Town with high-end labs and industry tie-ups.
+- **[Sister Nivedita University](/colleges/sister-nivedita-university-kolkata/) (SNU):** A growing brand in New Town with high-end labs and industry tie-ups.
 
 ---
 
@@ -111,9 +111,9 @@ Usually held in **July**. Registrations typically open in May.
 ---
 
 ### Useful Links:
-- [Top MCA Colleges in India 2026 NIRF Guide](/blog/top-mca-colleges-india-nirf-ranking-2026)
-- [B.Tech Colleges in Kolkata 2026](/blog/top-btech-colleges-kolkata-2026)
-- [BCA Colleges in Kolkata 2026](/blog/top-bca-colleges-kolkata-2026)
+- [Top MCA Colleges in India 2026 NIRF Guide](/blog/top-mca-colleges-india-nirf-ranking-2026/)
+- [B.Tech Colleges in Kolkata 2026](/blog/top-btech-colleges-kolkata-2026/)
+- [BCA Colleges in Kolkata 2026](/blog/top-bca-colleges-kolkata-2026/)
 
 ---
 

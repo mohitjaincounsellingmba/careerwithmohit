@@ -2,9 +2,8 @@
 title: 'Top DRCC Approved MBA Colleges in India: Region-Wise List (2026-2027)'
 date: '2026-03-16'
 description: >-
-  Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Noida, Greater Noida, Delhi NCR. Get details on top colleges under
-  GGSIPU, 
+  Top DRCC Approved MBA Colleges in India: Region-Wise List (2026-2027): Explore
+  fees, placements, cutoffs & admission guidelines.
 keywords:
   - top DRCC approved MBA colleges 2026
   - Bihar Student Credit Card colleges list
@@ -60,7 +59,7 @@ location: Delhi NCR
 state: Delhi NCR
 ---
 
-Looking for a specific city? Check out our [**City-Wise List of BSCC MBA Colleges**](/blog/bihar-student-credit-card-mba-colleges) for detailed local options.
+Looking for a specific city? Check out our [**City-Wise List of BSCC MBA Colleges**](/blog/bihar-student-credit-card-mba-colleges/) for detailed local options.
 
 For MBA aspirants from Bihar, the **District Registration and Counseling Centre (DRCC)**—under the **Bihar Student Credit Card (MNSSBY) Scheme**—is a lifeline. It provides collateral-free education loans up to ₹4 Lakhs for higher studies, making premier management education accessible to thousands of students.
 
@@ -84,18 +83,18 @@ Delhi NCR boasts the largest concentration of DRCC-eligible private B-schools, o
 > - **ROI & Scholarships**: Merit scholarships ranging from 10% to 50% tuition waiver available for early 2027–29 applicants.
 
 ## Top DRCC Approved Colleges in NCR:
-*   **BIMTECH ([Birla Institute of Management Technology](/colleges/birla-institute-of-management-technology))** – Greater Noida
-*   **NDIM ([New Delhi Institute of Management](/colleges/new-delhi-institute-of-management))** – Delhi
-*   **[Jaipuria Institute of Management](/colleges/jaipuria-institute-of-management-indore)** – Noida & Ghaziabad campuses
+*   **BIMTECH ([Birla Institute of Management Technology](/colleges/birla-institute-of-management-technology/))** – Greater Noida
+*   **NDIM ([New Delhi Institute of Management](/colleges/new-delhi-institute-of-management/))** – Delhi
+*   **[Jaipuria Institute of Management](/colleges/jaipuria-institute-of-management-indore/)** – Noida & Ghaziabad campuses
 *   **IMS Ghaziabad** (University Courses & PGDM)
 *   **IILM University / Graduate School of Management** – Greater Noida
-*   **[Galgotias University](/colleges/galgotias-university)** – Greater Noida
-*   **[Sharda University](/colleges/sharda-greater-noida) (School of Business Studies)** – Greater Noida
+*   **[Galgotias University](/colleges/galgotias-university/)** – Greater Noida
+*   **[Sharda University](/colleges/sharda-greater-noida/) (School of Business Studies)** – Greater Noida
 *   **GL Bajaj Institute of Management & Technology** – Greater Noida
-*   **[GNIOT [Institute of Management Studies](/colleges/institute-of-management-studies) (GIMS)](/colleges/gniot-institute-of-management-studies-gims)** – Greater Noida
+*   **[GNIOT [Institute of Management Studies](/colleges/institute-of-management-studies/) (GIMS)](/colleges/gniot-institute-of-management-studies-gims)** – Greater Noida
 *   **Noida Institute of Engineering & Technology (NIET)** – Greater Noida
-*   **[Bennett University](/colleges/bennett-greater-noida)** – Greater Noida
-*   **[Lloyd Business School](/colleges/lloyd-business-school-greater-noida)** – Greater Noida
+*   **[Bennett University](/colleges/bennett-greater-noida/)** – Greater Noida
+*   **[Lloyd Business School](/colleges/lloyd-business-school-greater-noida/)** – Greater Noida
 
 ---
 
@@ -115,7 +114,7 @@ Pune, the "Oxford of the East," and Mumbai, India's financial capital, are premi
 *   **Lexicon MILE (Management Institute of Leadership & Excellence)** – Pune
 *   **ITM Business School** – Navi Mumbai
 *   **Dr. D.Y. Patil Vidyapeeth** – Pune
-*   **[MIT World Peace University (MIT-WPU)](/colleges/mit-wpu-pune)** – Pune
+*   **[MIT World Peace University (MIT-WPU)](/colleges/mit-wpu-pune/)** – Pune
 
 ---
 
@@ -124,12 +123,12 @@ Pune, the "Oxford of the East," and Mumbai, India's financial capital, are premi
 Jaipur has quietly emerged as an excellent hub for management studies, offering stellar infrastructure and strong regional placements at comparatively lower living costs.
 
 ### Top DRCC Approved Colleges in Rajasthan:
-*   **[Jaipuria Institute of Management](/colleges/jaipuria-institute-of-management-jaipur)** – Jaipur
+*   **[Jaipuria Institute of Management](/colleges/jaipuria-institute-of-management-jaipur/)** – Jaipur
 *   **MNIT (Malaviya National Institute of Technology)** – Jaipur *(While primarily an NIT, its management department is highly sought after)*
 *   **Vivekananda Global University (VGU)** – Jaipur
 *   **Suresh Gyan Vihar University (SGVU)** – Jaipur
 *   **Jagan Nath University** – Jaipur
-*   **[Poornima University](/colleges/poornima-jaipur)** – Jaipur
+*   **[Poornima University](/colleges/poornima-jaipur/)** – Jaipur
 
 ---
 
@@ -139,10 +138,10 @@ For students seeking a serene, distraction-free environment without compromising
 
 ### Top DRCC Approved Colleges in Dehradun:
 *   **UPES (University of Petroleum and Energy Studies)** – Dehradun
-*   **[Doon Business School](/colleges/doon-business-school) (DBS)** – Dehradun
+*   **[Doon Business School](/colleges/doon-business-school/) (DBS)** – Dehradun
 *   **Graphic Era University** – Dehradun
 *   **Tulas Institute** – Dehradun
-*   **[Uttaranchal University](/colleges/uttaranchal-university)** – Dehradun
+*   **[Uttaranchal University](/colleges/uttaranchal-university/)** – Dehradun
 
 ---
 
@@ -154,8 +153,8 @@ Bangalore's unmatched IT and startup ecosystem makes it a highly desirable desti
 *   **XIME (Xavier Institute of Management and Entrepreneurship)** – Bangalore
 *   **SIBM Bengaluru** – Electronic City
 *   **Alliance University** – Bangalore
-*   **[ISBR Business School](/colleges/isbr-bangalore)** – Bangalore
-*   **LPU ([Lovely Professional University](/colleges/lovely-professional-university))** – Jalandhar, Punjab
+*   **[ISBR Business School](/colleges/isbr-bangalore/)** – Bangalore
+*   **LPU ([Lovely Professional University](/colleges/lovely-professional-university/))** – Jalandhar, Punjab
 *   **Chandigarh University** – Mohali, Punjab
 *   **KIIT School of Management (KSOM)** – Bhubaneswar, Odisha
 

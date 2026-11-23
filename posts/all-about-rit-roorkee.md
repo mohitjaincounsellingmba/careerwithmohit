@@ -39,14 +39,14 @@ location: Dehradun
 state: Uttarakhand
 ---
 
-### **College Review: [Roorkee Institute of Technology (RIT)](/colleges/rit-roorkee)**
+### **College Review: [Roorkee Institute of Technology (RIT)](/colleges/rit-roorkee/)**
 *   **Quality Curriculum**: Tailored directly to industry requirements with standard practical case studies.
 *   **Established Brand**: Over the years, it has earned a strong reputation among regional corporate employers.
 *   **Holistic Learning**: Focuses on both technical business skills and global soft skills development.
 
 ---
 
-### 📊 [Roorkee Institute of Technology (RIT)](/colleges/rit-roorkee) 2026 Snapshot
+### 📊 [Roorkee Institute of Technology (RIT)](/colleges/rit-roorkee/) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |
@@ -74,18 +74,18 @@ state: Uttarakhand
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### 1. Is [Roorkee Institute of Technology (RIT)](/colleges/rit-roorkee) a good option for PGDM/MBA?
-Yes, [Roorkee Institute of Technology (RIT)](/colleges/rit-roorkee) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+### 1. Is [Roorkee Institute of Technology (RIT)](/colleges/rit-roorkee/) a good option for PGDM/MBA?
+Yes, [Roorkee Institute of Technology (RIT)](/colleges/rit-roorkee/) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
-### 2. What is the average package offered at [Roorkee Institute of Technology (RIT)](/colleges/rit-roorkee)?
-The average placement package at [Roorkee Institute of Technology (RIT)](/colleges/rit-roorkee) is approximately ₹5.0 LPA, with the highest package reaching up to ₹10.0 LPA.
+### 2. What is the average package offered at [Roorkee Institute of Technology (RIT)](/colleges/rit-roorkee/)?
+The average placement package at [Roorkee Institute of Technology (RIT)](/colleges/rit-roorkee/) is approximately ₹5.0 LPA, with the highest package reaching up to ₹10.0 LPA.
 
-### 3. What entrance exams are accepted by [Roorkee Institute of Technology (RIT)](/colleges/rit-roorkee)?
+### 3. What entrance exams are accepted by [Roorkee Institute of Technology (RIT)](/colleges/rit-roorkee/)?
 The college accepts scores from national level entrance examinations including CAT, MAT, CMAT for the PGDM and MBA admissions.
 
 ---
 
-**Final Verdict**: [Roorkee Institute of Technology (RIT)](/colleges/rit-roorkee) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
+**Final Verdict**: [Roorkee Institute of Technology (RIT)](/colleges/rit-roorkee/) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
 [👉 Apply to Roorkee Institute of Technology (RIT)](/inquiry) | [👉 Get Free Counselling](/inquiry)
 

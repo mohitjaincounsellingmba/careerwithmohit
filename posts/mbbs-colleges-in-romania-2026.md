@@ -55,8 +55,8 @@ faqs:
 
 ## 🔗 Related Resources
 
-* [MBBS Abroad 2026 Guide](/blog/mbbs-abroad-for-indian-students-2026-fees-nmc-rules)
-* [Top Medical Colleges in India](/blog/top-mbbs-colleges-india-nirf-ranking-2026)
+* [MBBS Abroad 2026 Guide](/blog/mbbs-abroad-for-indian-students-2026-fees-nmc-rules/)
+* [Top Medical Colleges in India](/blog/top-mbbs-colleges-india-nirf-ranking-2026/)
 ---
 
 ### 🚀 Boost Your Preparation

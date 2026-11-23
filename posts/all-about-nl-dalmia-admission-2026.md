@@ -40,7 +40,7 @@ faqs:
 location: Mumbai
 state: Maharashtra
 ---
-Located in the serene surroundings of Mira Road, Mumbai, **N. L. Dalmia [Institute of Management Studies](/colleges/institute-of-management-studies) and Research (NLDIMSR)** is widely regarded as one of India's premier destinations for Finance-focused management education. 
+Located in the serene surroundings of Mira Road, Mumbai, **N. L. Dalmia [Institute of Management Studies](/colleges/institute-of-management-studies/) and Research (NLDIMSR)** is widely regarded as one of India's premier destinations for Finance-focused management education. 
 
 Founded in 1995, the institute has built a reputation for academic excellence and industry-readiness, particularly through its state-of-the-art **Bloomberg Lab**. Here is everything you need to know about NL Dalmia for the 2025-2026 admission cycle.
 
@@ -111,7 +111,7 @@ The institute is a regular hunting ground for global financial giants:
 
 ---
 
-[👉 Check out other Top MBA Colleges in Mumbai](/blog/best-mba-colleges-in-mumbai-2026) | [💬 Get a Free Profile Evaluation from Mohit Jain](/inquiry)
+[👉 Check out other Top MBA Colleges in Mumbai](/blog/best-mba-colleges-in-mumbai-2026/) | [💬 Get a Free Profile Evaluation from Mohit Jain](/inquiry)
 
 ---
 

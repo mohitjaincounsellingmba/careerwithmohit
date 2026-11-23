@@ -4,9 +4,8 @@ title: >-
   Admission)
 date: '2026-03-24'
 description: >-
-  Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
-  private univer
+  The Rajasthan Engineering Admission Process (REAP) 2026 is the centralized
+  state-level counselling held for admission into B.
 keywords:
   - REAP Counselling 2026 dates
   - Rajasthan BTech admission 2026

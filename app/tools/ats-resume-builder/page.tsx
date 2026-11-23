@@ -168,7 +168,7 @@ export default function AtsResumeBuilderPage() {
 
                 <div className="max-w-6xl mx-auto relative z-10">
                     <div className="text-slate-300 mb-6">
-                        <Breadcrumbs />
+                        <Breadcrumbs skipJsonLd={true} />
                     </div>
 
                     <div className="max-w-4xl">

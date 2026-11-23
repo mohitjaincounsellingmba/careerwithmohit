@@ -71,8 +71,8 @@ The active placement cell at CUP consistently works to improve industry connecti
 *   **Top Recruiters:** Companies in the pharmaceutical, technology, and banking sectors, including TCS, Wipro, Infosys, and Sun Pharma, frequently recruit from the campus.
 
 ### **Check Other Central University Guides:**
-*   [Central University of Rajasthan (CURaj) Review 2026](/blog/central-university-of-rajasthan-curaj-review-2026)
-*   [University of Hyderabad (UoH) Review 2026](/blog/university-of-hyderabad-uoh-review-2026)
+*   [Central University of Rajasthan (CURaj) Review 2026](/blog/central-university-of-rajasthan-curaj-review-2026/)
+*   [University of Hyderabad (UoH) Review 2026](/blog/university-of-hyderabad-uoh-review-2026/)
 
 [👉 Get Admission Consultation for Top Central Universities!](/inquiry)
 

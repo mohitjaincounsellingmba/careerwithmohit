@@ -60,9 +60,9 @@ Whether you are aiming for the "Red Building" of FMS or looking for a high-ROI p
 
 | College | Entrance Exam | Total Fees | Avg. Package |
 |---|---|---|---|
-| **[FMS Delhi](/colleges/fms-delhi) (The ROI Champion)**| CAT | ₹2.0 Lakhs | ₹34.10 LPA |
-| **[MDI Gurgaon](/colleges/mdi-gurgaon)** | CAT | ₹25.5 Lakhs | ₹27.67 LPA |
-| **[IIFT Delhi](/colleges/iift-delhi)** | CAT (new for 2026) | ₹21.0 Lakhs | ₹29.10 LPA |
+| **[FMS Delhi](/colleges/fms-delhi/) (The ROI Champion)**| CAT | ₹2.0 Lakhs | ₹34.10 LPA |
+| **[MDI Gurgaon](/colleges/mdi-gurgaon/)** | CAT | ₹25.5 Lakhs | ₹27.67 LPA |
+| **[IIFT Delhi](/colleges/iift-delhi/)** | CAT (new for 2026) | ₹21.0 Lakhs | ₹29.10 LPA |
 | **DMS, IIT Delhi** | CAT | ₹11.2 Lakhs | ₹25.82 LPA |
 | **IMI New Delhi**| CAT / XAT | ₹20.5 Lakhs | ₹17.01 LPA |
 | **LBSIM Delhi** | CAT / GMAT | ₹14.5 Lakhs | ₹12.42 LPA |
@@ -77,18 +77,18 @@ Whether you are aiming for the "Red Building" of FMS or looking for a high-ROI p
 
 ## 🏛️ Tier 1: The Best in India (Top 10 Rankings)
 
-### 1. [FMS Delhi](/colleges/fms-delhi) (Faculty of Management Studies)
+### 1. [FMS Delhi](/colleges/fms-delhi/) (Faculty of Management Studies)
 Known globally for having the **highest ROI of any MBA program in the world**. 
 - **Total Fees:** ~₹2 Lakhs for 2 years.
 - **Top Recruiters:** BCG, McKinsey, Morgan Stanley, Google.
 - **Why Choose It:** You get IIM-ABC level placements at the cost of a basic hatchback.
 
-### 2. [MDI Gurgaon](/colleges/mdi-gurgaon)
+### 2. [MDI Gurgaon](/colleges/mdi-gurgaon/)
 Located in the corporate hub of Gurgaon. MDI is consistently ranked among India's top 10 B-schools.
 - **Why Choose It:** Unmatched proximity to companies like Google, Zomato, and Deloitte.
 - **Niche:** Excellent for Marketing and Consulting.
 
-### 3. [IIFT Delhi](/colleges/iift-delhi) (Indian Institute of Foreign Trade)
+### 3. [IIFT Delhi](/colleges/iift-delhi/) (Indian Institute of Foreign Trade)
 The premier institute for **International Business**. Recently switched from its own entrance exam to CAT scores.
 - **USP:** Global trade specialization and international placement opportunities.
 
@@ -100,7 +100,7 @@ If you are a 90+ percentile CAT/XAT holder, these Delhi NCR colleges are high-va
 
 - **IMT Ghaziabad:** India's #1 college for **Marketing** specializations after the Top 5 IIMs.
 - **DMS, IIT Delhi:** Best for tech-management roles and ROI.
-- **[FORE School of Management](/colleges/fore-school-delhi):** Located in the heart of South Delhi (Qutub Institutional Area), known for great industry internships.
+- **[FORE School of Management](/colleges/fore-school-delhi/):** Located in the heart of South Delhi (Qutub Institutional Area), known for great industry internships.
 
 ---
 
@@ -116,7 +116,7 @@ Students from UP, Bihar, and Rajasthan often target Greater Noida for its afford
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-**Q1. Is [FMS Delhi](/colleges/fms-delhi) better than [IIM Ahmedabad](/colleges/iim-ahmedabad)?**
+**Q1. Is [FMS Delhi](/colleges/fms-delhi/) better than [IIM Ahmedabad](/colleges/iim-ahmedabad/)?**
 For **ROI**, FMS is the winner. For **Global Branding**, IIM-A is ahead. For most Indian students, FMS is a preferred choice because it has ZERO debt post-graduation.
 
 **Q2. Can I get direct admission in MBA Delhi NCR?**
@@ -134,9 +134,9 @@ Top Tier-1 applications close by December. Tier-2 and private colleges continue 
 ---
 
 ### Useful Links:
-- [Under 5 Lakhs MBA Colleges in Delhi NCR](/blog/under-5-lakhs-mba-colleges-delhi-ncr-direct-admission-2026)
-- [MBA Colleges Under 10 Lakhs NCR Guide](/blog/private-mba-colleges-under-10-lakhs-delhi-ncr)
-- [CAT 70-80 Percentile Colleges 2026](/blog/top-mba-colleges-accepting-cat-score-70-to-80-percentile-2026)
+- [Under 5 Lakhs MBA Colleges in Delhi NCR](/blog/under-5-lakhs-mba-colleges-delhi-ncr-direct-admission-2026/)
+- [MBA Colleges Under 10 Lakhs NCR Guide](/blog/private-mba-colleges-under-10-lakhs-delhi-ncr/)
+- [CAT 70-80 Percentile Colleges 2026](/blog/top-mba-colleges-accepting-cat-score-70-to-80-percentile-2026/)
 
 ---
 

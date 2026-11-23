@@ -37,7 +37,7 @@ location: Mumbai
 state: Maharashtra
 ---
 
-### **College Review: [Atlas SkillTech University](/colleges/atlas-skilltech-mumbai)**
+### **College Review: [Atlas SkillTech University](/colleges/atlas-skilltech-mumbai/)**
 *   **Quality Curriculum**: Tailored directly to industry requirements with standard practical case studies.
 *   **Established Brand**: Over the years, it has earned a strong reputation among regional corporate employers.
 *   **Holistic Learning**: Focuses on both technical business skills and global soft skills development.
@@ -53,7 +53,7 @@ state: Maharashtra
 > - **Eligibility & Selection**: Minimum 50% aggregate in Graduation (45% for reserved categories) plus GD-PI-WAT score.
 > - **ROI & Scholarships**: Merit scholarships ranging from 10% to 50% tuition waiver available for early 2027–29 applicants.
 
-## 📊 [Atlas SkillTech University](/colleges/atlas-skilltech-mumbai) 2026 Snapshot
+## 📊 [Atlas SkillTech University](/colleges/atlas-skilltech-mumbai/) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |
@@ -81,18 +81,18 @@ state: Maharashtra
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### 1. Is [Atlas SkillTech University](/colleges/atlas-skilltech-mumbai) a good option for PGDM/MBA?
-Yes, [Atlas SkillTech University](/colleges/atlas-skilltech-mumbai) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+### 1. Is [Atlas SkillTech University](/colleges/atlas-skilltech-mumbai/) a good option for PGDM/MBA?
+Yes, [Atlas SkillTech University](/colleges/atlas-skilltech-mumbai/) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
-### 2. What is the average package offered at [Atlas SkillTech University](/colleges/atlas-skilltech-mumbai)?
-The average placement package at [Atlas SkillTech University](/colleges/atlas-skilltech-mumbai) is approximately ₹9.5 LPA, with the highest package reaching up to ₹22.0 LPA.
+### 2. What is the average package offered at [Atlas SkillTech University](/colleges/atlas-skilltech-mumbai/)?
+The average placement package at [Atlas SkillTech University](/colleges/atlas-skilltech-mumbai/) is approximately ₹9.5 LPA, with the highest package reaching up to ₹22.0 LPA.
 
-### 3. What entrance exams are accepted by [Atlas SkillTech University](/colleges/atlas-skilltech-mumbai)?
+### 3. What entrance exams are accepted by [Atlas SkillTech University](/colleges/atlas-skilltech-mumbai/)?
 The college accepts scores from national level entrance examinations including CAT, GMAT, XAT, NMAT for the PGDM and MBA admissions.
 
 ---
 
-**Final Verdict**: [Atlas SkillTech University](/colleges/atlas-skilltech-mumbai) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
+**Final Verdict**: [Atlas SkillTech University](/colleges/atlas-skilltech-mumbai/) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
 [👉 Apply to Atlas SkillTech University](/inquiry) | [👉 Get Free Counselling](/inquiry)
 

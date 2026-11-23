@@ -64,19 +64,19 @@ These private business schools keep their total tuition fees under ₹10 Lakhs (
 > - **Eligibility & Selection**: Minimum 50% aggregate in Graduation (45% for reserved categories) plus GD-PI-WAT score.
 > - **ROI & Scholarships**: Merit scholarships ranging from 10% to 50% tuition waiver available for early 2027–29 applicants.
 
-## 1. JIMS Rohini (Jagannath [Institute of Management Studies](/colleges/institute-of-management-studies))
+## 1. JIMS Rohini (Jagannath [Institute of Management Studies](/colleges/institute-of-management-studies/))
 - **Approximate Fees:** ₹8.7 Lakhs (Total)
 - **Accepted Entrance Exams:** CAT / MAT / CMAT
 - **Average Placement Package:** **₹7.5 LPA**
 - **Key Highlight:** AICTE approved private PGDM program with premium corporate link-ups in North Delhi.
 
-### 2. [Fortune Institute of International Business](/colleges/fortune-institute-of-international-business) (FIIB)
+### 2. [Fortune Institute of International Business](/colleges/fortune-institute-of-international-business/) (FIIB)
 - **Approximate Fees:** ₹8.9 Lakhs (Total)
 - **Accepted Entrance Exams:** CAT / MAT / CMAT
 - **Average Placement Package:** **₹7.4 LPA**
 - **Key Highlight:** Superb private business school focused on marketing, finance, and business analytics.
 
-### 3. [JIMS Kalkaji ([Jagannath International Management School](/colleges/jagannath-international-management-school))](/colleges/jims-kalkaji)
+### 3. [JIMS Kalkaji ([Jagannath International Management School](/colleges/jagannath-international-management-school/))](/colleges/jims-kalkaji)
 - **Approximate Fees:** ₹8.7 Lakhs (Total)
 - **Accepted Entrance Exams:** CAT / MAT / CMAT / XAT
 - **Average Placement Package:** **₹7.2 LPA**
@@ -102,9 +102,9 @@ Here is a quick snapshot comparing the fee structures and average placements for
 
 | College Name | Entrance Exams | Approximate Fees | Avg Placement Package |
 | :--- | :--- | :--- | :--- |
-| **JIMS Rohini (Jagannath [Institute of Management Studies](/colleges/institute-of-management-studies))** | CAT / MAT / CMAT | ₹8.7 Lakhs (Total) | **₹7.5 LPA** |
-| **[Fortune Institute of International Business](/colleges/fortune-institute-of-international-business) (FIIB)** | CAT / MAT / CMAT | ₹8.9 Lakhs (Total) | **₹7.4 LPA** |
-| **[JIMS Kalkaji ([Jagannath International Management School](/colleges/jagannath-international-management-school))](/colleges/jims-kalkaji)** | CAT / MAT / CMAT / XAT | ₹8.7 Lakhs (Total) | **₹7.2 LPA** |
+| **JIMS Rohini (Jagannath [Institute of Management Studies](/colleges/institute-of-management-studies/))** | CAT / MAT / CMAT | ₹8.7 Lakhs (Total) | **₹7.5 LPA** |
+| **[Fortune Institute of International Business](/colleges/fortune-institute-of-international-business/) (FIIB)** | CAT / MAT / CMAT | ₹8.9 Lakhs (Total) | **₹7.4 LPA** |
+| **[JIMS Kalkaji ([Jagannath International Management School](/colleges/jagannath-international-management-school/))](/colleges/jims-kalkaji)** | CAT / MAT / CMAT / XAT | ₹8.7 Lakhs (Total) | **₹7.2 LPA** |
 | **FOSTIIMA Business School** | CAT / MAT / CMAT / XAT | ₹9.0 Lakhs (Total) | **₹8.0 LPA** |
 | **Asia-Pacific Institute of Management (APIM Delhi)** | CAT / CMAT / MAT / GMAT | ₹9.5 Lakhs (Total) | **₹7.5 LPA** |
 
@@ -128,9 +128,9 @@ Return on Investment (ROI) is the ultimate metric for business students. When yo
 ---
 
 ## 🔗 Related Resources
-- [Best MBA Colleges with Low Fees and High ROI in India 2026](/blog/best-mba-colleges-low-fees-high-roi-india-2026)
-- [Is Direct MBA Admission Without Entrance Exam Worth It?](/blog/direct-mba-admission-without-entrance-exam-2026-is-it-worth-it)
-- [MBA Distance Education 2026: Top Universities & Fees](/blog/mba-distance-education-2026-top-universities-fees-admission)
+- [Best MBA Colleges with Low Fees and High ROI in India 2026](/blog/best-mba-colleges-low-fees-high-roi-india-2026/)
+- [Is Direct MBA Admission Without Entrance Exam Worth It?](/blog/direct-mba-admission-without-entrance-exam-2026-is-it-worth-it/)
+- [MBA Distance Education 2026: Top Universities & Fees](/blog/mba-distance-education-2026-top-universities-fees-admission/)
 
 ---
 
@@ -155,7 +155,7 @@ Looking for more resources? **[Explore Our Premium Mock Test Series 2026](/mock-
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### Which is the best low budget private MBA college in Delhi?
-In Delhi, the top affordable private choices include institutes like JIMS Rohini (Jagannath [Institute of Management Studies](/colleges/institute-of-management-studies)) which offer total MBA/PGDM tuition fees ranging from ₹3.5 Lakhs to ₹8.5 Lakhs, coupled with consistent local corporate placement support.
+In Delhi, the top affordable private choices include institutes like JIMS Rohini (Jagannath [Institute of Management Studies](/colleges/institute-of-management-studies/)) which offer total MBA/PGDM tuition fees ranging from ₹3.5 Lakhs to ₹8.5 Lakhs, coupled with consistent local corporate placement support.
 
 ### Can I get direct admission in cheap private MBA colleges in Delhi?
 Yes, many private MBA institutions in Delhi offer direct admissions based on graduation merit (management quota) or via scores from exams like MAT, CMAT, CAT, or regional exams.

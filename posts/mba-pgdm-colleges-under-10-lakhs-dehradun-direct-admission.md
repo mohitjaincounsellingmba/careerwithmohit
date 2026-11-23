@@ -2,13 +2,12 @@
 title: Top MBA & PGDM Colleges Under 10 Lakhs in Dehradun (Direct Admission 2026)
 date: '2026-03-26'
 description: >-
-  Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Noida, Greater Noida, Delhi NCR. Get details on top colleges under
-  GGSIPU, 
+  Top MBA & PGDM Colleges Under 10 Lakhs in Dehradun (Direct Admission 2026):
+  Explore fees, placements, cutoffs & admission guidelines.
 keywords:
   - MBA colleges under 10 lakhs in Dehradun
   - PGDM direct admission Dehradun 2026
-  - '[Doon Business School](/colleges/doon-business-school) placement'
+  - '[Doon Business School](/colleges/doon-business-school/) placement'
   - Graphic Era MBA fees
   - management quota MBA Uttarakhand
   - best ROI MBA Dehradun
@@ -30,7 +29,7 @@ faqs:
       No. Nearly 80% of placements happen for roles stationed in Delhi NCR,
       Gurgaon, and Noida.
   - question: Which specialization thrives best at these colleges?
-    answer: "Agri-Business Management (popular at DBS) is uniquely strong here. Aside from that, standard Marketing & Finance specializations see the heaviest recruitment.\n\n**Explore More Insights:**\n*   [\U0001F449 Read: Why Never Join Galgotias University for MBA](/blog/why-never-join-galgotias-university-for-mba-review)\n*   [\U0001F449 Need specific counseling? Book a Strategy Session!](/inquiry)\n\n*At **CareerWithMohit**, we recommend Dehradun for students who want focused academic rigor matched with a premier campus life experience.*"
+    answer: "Agri-Business Management (popular at DBS) is uniquely strong here. Aside from that, standard Marketing & Finance specializations see the heaviest recruitment.\n\n**Explore More Insights:**\n*   [\U0001F449 Read: Why Never Join Galgotias University for MBA](/blog/why-never-join-galgotias-university-for-mba-review/)\n*   [\U0001F449 Need specific counseling? Book a Strategy Session!](/inquiry)\n\n*At **CareerWithMohit**, we recommend Dehradun for students who want focused academic rigor matched with a premier campus life experience.*"
 location: Delhi NCR
 state: Delhi NCR
 ---
@@ -39,7 +38,7 @@ Dehradun has evolved into a premium educational hub that offers a serene, pollut
 
 If you are looking for a high-quality MBA/PGDM program without stretching beyond a ₹10 Lakh budget, Dehradun has multiple fantastic options that provide **direct admission** for the 2027–2029 intake.
 
-### **1. [Doon Business School](/colleges/doon-business-school) (DBS)**
+### **1. [Doon Business School](/colleges/doon-business-school/) (DBS)**
 DBS is arguably the most famous name in Dehradun specifically for management education (PGDM & MBA). It consistently features high on ROI lists.
 *   **Total Fees (Approx.)**: ₹7.50 - ₹8.50 Lakhs
 *   **Average Placement**: ₹6.0 LPA - ₹7.0 LPA
@@ -55,7 +54,7 @@ DBS is arguably the most famous name in Dehradun specifically for management edu
 > - **Eligibility & Selection**: Minimum 50% aggregate in Graduation (45% for reserved categories) plus GD-PI-WAT score.
 > - **ROI & Scholarships**: Merit scholarships ranging from 10% to 50% tuition waiver available for early 2027–29 applicants.
 
-## **2. [Graphic Era (Deemed to be University)](/colleges/graphic-era-dehradun)**
+## **2. [Graphic Era (Deemed to be University)](/colleges/graphic-era-dehradun/)**
 Graphic Era is synonymous with Dehradun's education scene. It’s an enormous, vibrant campus that commands high respect amongst North Indian recruiters.
 *   **Total Fees (Approx.)**: ₹6.00 - ₹7.50 Lakhs 
 *   **Average Placement**: ₹5.5 LPA - ₹6.5 LPA
@@ -91,7 +90,7 @@ No. Nearly 80% of placements happen for roles stationed in Delhi NCR, Gurgaon, a
 Agri-Business Management (popular at DBS) is uniquely strong here. Aside from that, standard Marketing & Finance specializations see the heaviest recruitment.
 
 **Explore More Insights:**
-*   [👉 Read: Why Never Join [Galgotias University](/colleges/galgotias-university) for MBA](/blog/why-never-join-galgotias-university-for-mba-review)
+*   [👉 Read: Why Never Join [Galgotias University](/colleges/galgotias-university/) for MBA](/blog/why-never-join-galgotias-university-for-mba-review)
 *   [👉 Need specific counseling? Book a Strategy Session!](/inquiry)
 
 *At **CareerWithMohit**, we recommend Dehradun for students who want focused academic rigor matched with a premier campus life experience.*

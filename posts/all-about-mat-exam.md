@@ -2,9 +2,8 @@
 title: 'All About MAT Exam 2026: Pattern, Syllabus, Cutoff & Top Colleges'
 date: '2026-03-13'
 description: >-
-  Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Noida, Greater Noida, Delhi NCR. Get details on top colleges under
-  GGSIPU, 
+  The Management Aptitude Test (MAT) is a national-level entrance exam conducted
+  by the All India Management Association (AIMA).
 keywords:
   - MAT exam 2026
   - MAT exam pattern
@@ -86,8 +85,8 @@ The 200 questions are split equally among five distinct sections (40 questions e
 
 Colleges usually look at either the Composite Score (out of 800) or the overall Percentile.
 
-- **BIMTECH (Retail/Insurance), [XIME Bangalore](/colleges/xime-bangalore):** 85.0+ to 90.0+ Percentile (~650+ Score)
-- **Christ University, [PUMBA Pune](/colleges/pumba-pune):** 80.0+ to 85.0+ Percentile (~600+ Score)
+- **BIMTECH (Retail/Insurance), [XIME Bangalore](/colleges/xime-bangalore/):** 85.0+ to 90.0+ Percentile (~650+ Score)
+- **Christ University, [PUMBA Pune](/colleges/pumba-pune/):** 80.0+ to 85.0+ Percentile (~600+ Score)
 - **NDIM Delhi, Jaipuria Institute, ITM Navi Mumbai:** 75.0+ to 80.0+ Percentile (~550+ Score)
 - **Tier-3 B-Schools:** Accept scores ranging from 50.0 to 70.0 Percentile.
 
@@ -95,15 +94,15 @@ Colleges usually look at either the Composite Score (out of 800) or the overall 
 
 While Tier-1 B-Schools prefer CAT/XAT, many excellent Tier-2 and PGDM colleges accept MAT.
 
-- BIMTECH ([Birla Institute of Management Technology](/colleges/birla-institute-of-management-technology)), Greater Noida (For niche programs)
+- BIMTECH ([Birla Institute of Management Technology](/colleges/birla-institute-of-management-technology/)), Greater Noida (For niche programs)
 - Christ University, Bangalore
 - XIME (Xavier Institute of Management & Entrepreneurship), Bangalore/Kochi/Chennai
 - PUMBA (Department of Management Sciences, Pune University)
-- [Jaipuria Institute of Management](/colleges/jaipuria-institute-of-management-indore) (Noida, Lucknow, Jaipur, Indore)
-- NDIM ([New Delhi Institute of Management](/colleges/new-delhi-institute-of-management)), Delhi
+- [Jaipuria Institute of Management](/colleges/jaipuria-institute-of-management-indore/) (Noida, Lucknow, Jaipur, Indore)
+- NDIM ([New Delhi Institute of Management](/colleges/new-delhi-institute-of-management/)), Delhi
 - ITM Business School, Navi Mumbai
 - PIBM (Pune Institute of Business Management), Pune
-- [Jagan [Institute of Management Studies](/colleges/institute-of-management-studies) (JIMS), Rohini](/colleges/jagan-institute-of-management-studies-jims-rohini-delhi), Delhi
+- [Jagan [Institute of Management Studies](/colleges/institute-of-management-studies/) (JIMS), Rohini](/colleges/jagan-institute-of-management-studies-jims-rohini-delhi), Delhi
 
 ---
 [👉 Thinking of taking MAT as a backup? Evaluate your college options with our admission experts!](/inquiry)

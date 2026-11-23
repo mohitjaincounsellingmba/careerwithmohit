@@ -9,5 +9,5 @@ export const metadata: Metadata = {
   };
 
 export default function MockTestRedirectPage() {
-  redirect("/tools/duolingo-mock-test");
+  redirect("/tools/duolingo-mock-test/");
 }

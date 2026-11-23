@@ -1,12 +1,11 @@
 ---
 title: >-
-  All About [Masters' Union, Gurgaon](/colleges/masters-union-gurgaon): Fees,
+  All About [Masters' Union, Gurgaon](/colleges/masters-union-gurgaon/): Fees,
   Placements, and Reality Check (2026)
 date: '2026-03-13'
 description: >-
-  Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Gurgaon, Delhi NCR. Get details on top colleges under GGSIPU, DU,
-  and priva
+  Masters' Union has aggressively disrupted the Indian business education
+  sector. Check fees, cutoffs, placements & expert admission tips.
 keywords:
   - Masters Union review
   - Masters Union placements 2026

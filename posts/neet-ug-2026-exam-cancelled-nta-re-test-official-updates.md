@@ -87,10 +87,10 @@ The referral to the CBI signifies the gravity of the situation. The inquiry will
 
 ## 🔗 Important Resources for Aspirants
 
-- [NEET UG 2026 Paper Analysis (May 3 Session Review)](/blog/neet-2026-paper-analysis-review)
-- [Top 10 MBBS Colleges in India — Fees & Rankings](/blog/top-mbbs-colleges-india-nirf-ranking-2026)
-- [Direct Admission Guide for MBBS 2026](/blog/mbbs-management-quota-admission-2026-process-fees)
-- [NEET 2026 Exam Strategy & Last Minute Tips](/blog/neet-2026-exam-strategy-guide)
+- [NEET UG 2026 Paper Analysis (May 3 Session Review)](/blog/neet-2026-paper-analysis-review/)
+- [Top 10 MBBS Colleges in India — Fees & Rankings](/blog/top-mbbs-colleges-india-nirf-ranking-2026/)
+- [Direct Admission Guide for MBBS 2026](/blog/mbbs-management-quota-admission-2026-process-fees/)
+- [NEET 2026 Exam Strategy & Last Minute Tips](/blog/neet-2026-exam-strategy-guide/)
 
 ---
 

@@ -2,9 +2,8 @@
 title: 'All About XAT Exam 2026: Pattern, Decision Making, Cutoff & Top Colleges'
 date: '2026-03-13'
 description: >-
-  Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Ghaziabad, Delhi NCR. Get details on top colleges under GGSIPU,
-  DU, and pri
+  All About XAT Exam 2026: Pattern, Decision Making, Cutoff & Top Colleges:
+  Explore fees, placements, cutoffs & admission guidelines.
 keywords:
   - XAT exam 2026
   - XAT pattern and syllabus
@@ -43,7 +42,7 @@ faqs:
 location: Delhi NCR
 state: Delhi NCR
 ---
-The Xavier Aptitude Test (XAT) is widely considered one of the toughest management entrance exams in India, often perceived as more rigorous than CAT due to its unique "Decision Making" section. It serves as the exclusive gateway to [XLRI Jamshedpur](/colleges/xlri-jamshedpur), a Mecca for HR and Business Management.
+The Xavier Aptitude Test (XAT) is widely considered one of the toughest management entrance exams in India, often perceived as more rigorous than CAT due to its unique "Decision Making" section. It serves as the exclusive gateway to [XLRI Jamshedpur](/colleges/xlri-jamshedpur/), a Mecca for HR and Business Management.
 
 Here is the complete breakdown of the XAT exam for 2026 admissions:
 
@@ -80,14 +79,14 @@ XAT is known for its lengthy reading passages and its unique inclusion of an ess
 
 ## Expected Cut-offs (Percentile)
 
-- **[XLRI Jamshedpur](/colleges/xlri-jamshedpur) (Business Management):** 96.0+ Percentile (Male) / 91.0+ Percentile (Female)
-- **[XLRI Jamshedpur](/colleges/xlri-jamshedpur) (Human Resource Management):** 93.0+ Percentile (Male) / 90.0+ Percentile (Female)
+- **[XLRI Jamshedpur](/colleges/xlri-jamshedpur/) (Business Management):** 96.0+ Percentile (Male) / 91.0+ Percentile (Female)
+- **[XLRI Jamshedpur](/colleges/xlri-jamshedpur/) (Human Resource Management):** 93.0+ Percentile (Male) / 90.0+ Percentile (Female)
 - **XIMB, IMT Ghaziabad, IMI New Delhi:** 90.0+ Percentile
 - **GIM Goa, Great Lakes Chennai, TAPMI:** 80.0+ to 85.0+ Percentile
 
 ## Top Colleges Accepting XAT Scores
 
-- [XLRI Jamshedpur](/colleges/xlri-jamshedpur) & XLRI Delhi-NCR
+- [XLRI Jamshedpur](/colleges/xlri-jamshedpur/) & XLRI Delhi-NCR
 - XIMB (Xavier Institute of Management, Bhubaneswar)
 - IMT (Institute of Management Technology), Ghaziabad
 - IMI (International Management Institute), New Delhi
@@ -95,7 +94,7 @@ XAT is known for its lengthy reading passages and its unique inclusion of an ess
 - TAPMI (T. A. Pai Management Institute), Manipal
 - Great Lakes Institute of Management, Chennai
 - K. J. Somaiya Institute of Management, Mumbai
-- [FORE School of Management](/colleges/fore-school-delhi), New Delhi
+- [FORE School of Management](/colleges/fore-school-delhi/), New Delhi
 
 ---
 [👉 Struggling with the XAT Decision Making section? Get expert mentoring right here!](/inquiry)

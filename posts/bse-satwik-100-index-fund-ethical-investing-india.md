@@ -54,7 +54,7 @@ While Western markets rely heavily on **ESG (Environmental, Social, and Governan
 | **Key Metric** | Carbon emissions, board diversity, resource waste. | Strict sector exclusions based on product morality and societal impact. |
 | **Goal** | Minimize corporate risk and promote sustainability. | Align investment with personal morals and clean living principles. |
 
-For young professionals entering fields like [Investment Banking](/blog/investment-banking-career-path-salary-2026) or corporate finance, understanding these shifting compliance paradigms is becoming highly valuable.
+For young professionals entering fields like [Investment Banking](/blog/investment-banking-career-path-salary-2026/) or corporate finance, understanding these shifting compliance paradigms is becoming highly valuable.
 
 ---
 
@@ -110,7 +110,7 @@ The top holdings in the BSE Saatvik index include India's largest and most stabl
 9. **Kotak Mahindra Bank Ltd.** (2.42%)
 10. **Mahindra & Mahindra Ltd.** (2.32%)
 
-For students comparing careers in finance—such as [MBA Finance vs Fintech](/blog/mba-finance-vs-fintech-comparison-2026)—analyzing these index designs provides a masterclass in how portfolio construction works in the real world.
+For students comparing careers in finance—such as [MBA Finance vs Fintech](/blog/mba-finance-vs-fintech-comparison-2026/)—analyzing these index designs provides a masterclass in how portfolio construction works in the real world.
 
 ---
 
@@ -137,7 +137,7 @@ Since the index has been officially launched, asset managers are expected to fil
 2. **Exchange-Traded Funds (ETFs):** Once listed on the NSE and BSE, you can buy and sell units of the BSE Saatvik 100 ETF directly using your Demat account, just like a regular stock.
 3. **Systematic Investment Plans (SIPs):** For long-term wealth creation, setting up a monthly SIP in a BSE Saatvik 100 Index Fund will be the most convenient and disciplined route.
 
-If you are a student or young professional learning about the fundamentals of wealth management, exploring these upcoming products is an excellent way to understand modern retail investing. You can also research high-ROI education avenues, like finding the [best MBA colleges with low fees](/blog/best-mba-colleges-low-fees-high-roi-india-2026), to boost your career earnings potential before starting your investment journey.
+If you are a student or young professional learning about the fundamentals of wealth management, exploring these upcoming products is an excellent way to understand modern retail investing. You can also research high-ROI education avenues, like finding the [best MBA colleges with low fees](/blog/best-mba-colleges-low-fees-high-roi-india-2026/), to boost your career earnings potential before starting your investment journey.
 
 ---
 

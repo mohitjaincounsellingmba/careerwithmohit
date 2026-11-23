@@ -60,7 +60,7 @@ state: Gujarat
 ## [IIM Nagpur](/colleges/iim-nagpur/) Review 2027: Fees, Cutoff, Placements & Admission ROI
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
-> - **Core USP & Legacy**: Established in 2015 and mentored by [IIM Ahmedabad](/colleges/iim-ahmedabad/), **[IIM Nagpur](/colleges/iim-nagpur)** operates from a world-class 132-acre permanent campus at MIHAN SEZ (Nagpur, Maharashtra), holding NIRF Rank #31.
+> - **Core USP & Legacy**: Established in 2015 and mentored by [IIM Ahmedabad](/colleges/iim-ahmedabad/), **[IIM Nagpur](/colleges/iim-nagpur/)** operates from a world-class 132-acre permanent campus at MIHAN SEZ (Nagpur, Maharashtra), holding NIRF Rank #31.
 > - **Fee vs Average Package (ROI)**: Total 2-year program fee is **₹18.90 Lakhs** against an audited average CTC of **₹16.74 LPA** (Median: **₹16.00 LPA**, Top 50%: **₹19.45 LPA**, Highest: **₹64.00 LPA**).
 > - **Cutoffs & Selection**: Admission is routed through the **IIM CAP (Common Admission Process)** requiring **92–94+ CAT percentile** overall alongside strong performance in Personal Interview and profile diversity.
 
@@ -77,7 +77,7 @@ The table below outlines the core operational and academic parameters of **[IIM 
 | Parameter | Official Verified Details |
 | :--- | :--- |
 | **Institute Name** | **Indian Institute of Management Nagpur (IIMN)** |
-| **Year of Establishment** | 2015 (Mentored by [IIM Ahmedabad](/colleges/iim-ahmedabad)) |
+| **Year of Establishment** | 2015 (Mentored by [IIM Ahmedabad](/colleges/iim-ahmedabad/)) |
 | **Campus Location** | MIHAN SEZ, Nagpur, Maharashtra (132 Acres) |
 | **NIRF Management Ranking** | Rank #31 nationally |
 | **Flagship Program** | Master of Business Administration (2-Year Full-Time MBA) |

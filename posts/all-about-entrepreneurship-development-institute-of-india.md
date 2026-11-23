@@ -20,14 +20,14 @@ faqs:
       The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
 ---
 
-### **College Review: [Entrepreneurship Development Institute of India](/colleges/entrepreneurship-development-institute-of-india)**
+### **College Review: [Entrepreneurship Development Institute of India](/colleges/entrepreneurship-development-institute-of-india/)**
 *   **Quality Curriculum**: Tailored directly to industry requirements with standard practical case studies.
 *   **Established Brand**: Over the years, it has earned a strong reputation among regional corporate employers.
 *   **Holistic Learning**: Focuses on both technical business skills and global soft skills development.
 
 ---
 
-### 📊 [Entrepreneurship Development Institute of India](/colleges/entrepreneurship-development-institute-of-india) 2026 Snapshot
+### 📊 [Entrepreneurship Development Institute of India](/colleges/entrepreneurship-development-institute-of-india/) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |
@@ -55,18 +55,18 @@ faqs:
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### 1. Is [Entrepreneurship Development Institute of India](/colleges/entrepreneurship-development-institute-of-india) a good option for PGDM/MBA?
-Yes, [Entrepreneurship Development Institute of India](/colleges/entrepreneurship-development-institute-of-india) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+### 1. Is [Entrepreneurship Development Institute of India](/colleges/entrepreneurship-development-institute-of-india/) a good option for PGDM/MBA?
+Yes, [Entrepreneurship Development Institute of India](/colleges/entrepreneurship-development-institute-of-india/) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
-### 2. What is the average package offered at [Entrepreneurship Development Institute of India](/colleges/entrepreneurship-development-institute-of-india)?
-The average placement package at [Entrepreneurship Development Institute of India](/colleges/entrepreneurship-development-institute-of-india) is approximately ₹4.9 LPA, with the highest package reaching up to ₹12.2 LPA.
+### 2. What is the average package offered at [Entrepreneurship Development Institute of India](/colleges/entrepreneurship-development-institute-of-india/)?
+The average placement package at [Entrepreneurship Development Institute of India](/colleges/entrepreneurship-development-institute-of-india/) is approximately ₹4.9 LPA, with the highest package reaching up to ₹12.2 LPA.
 
-### 3. What entrance exams are accepted by [Entrepreneurship Development Institute of India](/colleges/entrepreneurship-development-institute-of-india)?
+### 3. What entrance exams are accepted by [Entrepreneurship Development Institute of India](/colleges/entrepreneurship-development-institute-of-india/)?
 The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
 
 ---
 
-**Final Verdict**: [Entrepreneurship Development Institute of India](/colleges/entrepreneurship-development-institute-of-india) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
+**Final Verdict**: [Entrepreneurship Development Institute of India](/colleges/entrepreneurship-development-institute-of-india/) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
 [👉 Apply to Entrepreneurship Development Institute of India](/inquiry) | [👉 Get Free Counselling](/inquiry)
 

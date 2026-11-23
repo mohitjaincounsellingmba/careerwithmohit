@@ -72,7 +72,7 @@ Here is the list of top-ranked private engineering institutions in Kolkata offer
 - **Average Postgraduate Placement Package:** **₹5.8 LPA**
 - **Key Highlight:** Highly structured coding-focused academic regime with exceptional placements in IT services.
 
-### 3. [Techno India University](/colleges/techno-india-university-kolkata)
+### 3. [Techno India University](/colleges/techno-india-university-kolkata/)
 - **Approximate Tuition Fees:** ₹1.3 Lakhs/year
 - **Accepted Entrance Exams:** GATE / WB PGET / Direct exam
 - **Admission Cutoff / Eligibility:** GATE Score 350+ (Direct options available)
@@ -89,7 +89,7 @@ Here is a quick snapshot comparing the fee structures, entrance criteria, and av
 | :--- | :--- | :--- | :--- |
 | **Heritage Institute of Technology (HIT)** | GATE / WB PGET | ₹1.1 Lakhs/year | **₹5.6 LPA** |
 | **Institute of Engineering & Management (IEM)** | GATE / WB PGET | ₹1.2 Lakhs/year | **₹5.8 LPA** |
-| **[Techno India University](/colleges/techno-india-university-kolkata)** | GATE / WB PGET / Direct exam | ₹1.3 Lakhs/year | **₹4.8 LPA** |
+| **[Techno India University](/colleges/techno-india-university-kolkata/)** | GATE / WB PGET / Direct exam | ₹1.3 Lakhs/year | **₹4.8 LPA** |
 
 ---
 
@@ -110,9 +110,9 @@ Admissions to private M.Tech colleges in Kolkata generally follow two distinct r
 ---
 
 ## 🔗 Related Resources
-- [B.Tech Admission Without JEE 2026: All Options](/blog/btech-admission-without-jee-2026-all-options)
-- [Top Engineering Colleges Accepting JEE Main Scores in 2026](/blog/jee-main-accepting-btech-colleges-2026)
-- [All IIM Cut-Off 2026-28: Admission, MBA, PGDM](/blog/all-iim-cut-off-2026-28-admission-mba-pgdm)
+- [B.Tech Admission Without JEE 2026: All Options](/blog/btech-admission-without-jee-2026-all-options/)
+- [Top Engineering Colleges Accepting JEE Main Scores in 2026](/blog/jee-main-accepting-btech-colleges-2026/)
+- [All IIM Cut-Off 2026-28: Admission, MBA, PGDM](/blog/all-iim-cut-off-2026-28-admission-mba-pgdm/)
 
 ---
 

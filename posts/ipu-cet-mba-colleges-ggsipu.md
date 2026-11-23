@@ -84,7 +84,7 @@ Consistently ranked #1 among private affiliates for academics and discipline.
 - **Avg. Placement**: ₹7.0 LPA
 - **Top Recruiters**: KPMG, Infosys, Accenture, Federal Bank, TCS.
 
-#### 3. [Jagan [Institute of Management Studies](/colleges/institute-of-management-studies) (JIMS), Rohini](/colleges/jagan-institute-of-management-studies-jims-rohini-delhi)
+#### 3. [Jagan [Institute of Management Studies](/colleges/institute-of-management-studies/) (JIMS), Rohini](/colleges/jagan-institute-of-management-studies-jims-rohini-delhi)
 Famous for its placement cell and massive industry network.
 - **Fees**: ₹3.50 Lakhs (Total)
 - **Avg. Placement**: ₹7.5 LPA
@@ -108,7 +108,7 @@ Steady placement growth and strong faculty pool.
 - **Avg. Placement**: ₹6.0 LPA
 - **Top Recruiters**: Genpact, Yamaha, L&T Infotech, HCL, Capgemini.
 
-#### 7. [Management Education & Research Institute (MERI)](/colleges/management-education-research-institute-meri), Janakpuri
+#### 7. [Management Education & Research Institute (MERI)](/colleges/management-education-research-institute-meri/), Janakpuri
 One of the oldest and most trusted management colleges in West Delhi.
 - **Fees**: ₹3.10 Lakhs (Total)
 - **Avg. Placement**: ₹5.8 LPA
@@ -120,7 +120,7 @@ Accredited with 'A' Grade, known for its academic rigor.
 - **Avg. Placement**: ₹5.5 LPA
 - **Top Recruiters**: Amazon, Flipkart, IndusInd Bank, Zomato.
 
-#### 9. [Tecnia Institute of Advanced Studies](/colleges/tecnia-institute-of-advanced-studies-delhi), Rohini
+#### 9. [Tecnia Institute of Advanced Studies](/colleges/tecnia-institute-of-advanced-studies-delhi/), Rohini
 Centrally located with a focus on modern pedagogy and industry visits.
 - **Fees**: ₹3.00 Lakhs (Total)
 - **Avg. Placement**: ₹5.2 LPA
@@ -194,7 +194,7 @@ If you want the best placement-to-fee ratio (ROI), prioritize **USMS**, **MAIT**
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### What is the typical fee structure for MBA programs in India?
-The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
+The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi/) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
 
 ### Is it possible to pursue an MBA without clearing CAT?
 Yes, many colleges accept other entrance exams like XAT, NMAT, SNAP, MAT, or CMAT. Additionally, direct admission options under management quota are available in several private B-schools.

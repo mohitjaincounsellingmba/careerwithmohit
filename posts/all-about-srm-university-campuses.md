@@ -4,9 +4,8 @@ title: >-
   Placements 2026
 date: '2026-03-13'
 description: >-
-  Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
-  private univer
+  SRM Institute of Science and Technology (SRMIST) is one of the largest and
+  most sought-after private engineering universities in India.
 keywords:
   - SRM University review
   - SRM placements 2026

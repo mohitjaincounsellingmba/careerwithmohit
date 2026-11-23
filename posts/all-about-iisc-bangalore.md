@@ -35,14 +35,14 @@ location: Bangalore
 state: Karnataka
 ---
 
-### **College Review: [IISc (DoMS) Bangalore](/colleges/iisc-bangalore)**
+### **College Review: [IISc (DoMS) Bangalore](/colleges/iisc-bangalore/)**
 *   **Quality Curriculum**: Tailored directly to industry requirements with standard practical case studies.
 *   **Established Brand**: Over the years, it has earned a strong reputation among regional corporate employers.
 *   **Holistic Learning**: Focuses on both technical business skills and global soft skills development.
 
 ---
 
-### 📊 [IISc (DoMS) Bangalore](/colleges/iisc-bangalore) 2026 Snapshot
+### 📊 [IISc (DoMS) Bangalore](/colleges/iisc-bangalore/) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |
@@ -70,18 +70,18 @@ state: Karnataka
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### 1. Is [IISc (DoMS) Bangalore](/colleges/iisc-bangalore) a good option for PGDM/MBA?
-Yes, [IISc (DoMS) Bangalore](/colleges/iisc-bangalore) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+### 1. Is [IISc (DoMS) Bangalore](/colleges/iisc-bangalore/) a good option for PGDM/MBA?
+Yes, [IISc (DoMS) Bangalore](/colleges/iisc-bangalore/) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
-### 2. What is the average package offered at [IISc (DoMS) Bangalore](/colleges/iisc-bangalore)?
-The average placement package at [IISc (DoMS) Bangalore](/colleges/iisc-bangalore) is approximately ₹28.0 LPA, with the highest package reaching up to ₹86.0 LPA.
+### 2. What is the average package offered at [IISc (DoMS) Bangalore](/colleges/iisc-bangalore/)?
+The average placement package at [IISc (DoMS) Bangalore](/colleges/iisc-bangalore/) is approximately ₹28.0 LPA, with the highest package reaching up to ₹86.0 LPA.
 
-### 3. What entrance exams are accepted by [IISc (DoMS) Bangalore](/colleges/iisc-bangalore)?
+### 3. What entrance exams are accepted by [IISc (DoMS) Bangalore](/colleges/iisc-bangalore/)?
 The college accepts scores from national level entrance examinations including CAT, GATE for the PGDM and MBA admissions.
 
 ---
 
-**Final Verdict**: [IISc (DoMS) Bangalore](/colleges/iisc-bangalore) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
+**Final Verdict**: [IISc (DoMS) Bangalore](/colleges/iisc-bangalore/) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
 [👉 Apply to IISc (DoMS) Bangalore](/inquiry) | [👉 Get Free Counselling](/inquiry)
 

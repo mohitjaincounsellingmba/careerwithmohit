@@ -47,9 +47,9 @@ state: Delhi NCR
 
 The **Management Development Institute (MDI), Gurgaon** is recognized as one of India's premier B-schools, benefiting immensely from its prime location at the epicenter of Delhi-NCR's corporate hub.
 
-The **2025 PGDM placement season** at [MDI Gurgaon](/colleges/mdi-gurgaon) concluded with **100% placements across a massive batch of 555 students**, recording an average CTC of **₹25.60 LPA** and a highest package of **₹53.60 LPA**.
+The **2025 PGDM placement season** at [MDI Gurgaon](/colleges/mdi-gurgaon/) concluded with **100% placements across a massive batch of 555 students**, recording an average CTC of **₹25.60 LPA** and a highest package of **₹53.60 LPA**.
 
-Here is the complete **[MDI Gurgaon](/colleges/mdi-gurgaon) PGDM Placement Report 2025**.
+Here is the complete **[MDI Gurgaon](/colleges/mdi-gurgaon/) PGDM Placement Report 2025**.
 
 ---
 
@@ -102,10 +102,10 @@ pie title MDI Gurgaon Domain Split 2025
 
 ## 4. Related Placement Reports
 
-*   **[SPJIMR Mumbai Placement Report 2025](/blog/spjimr-mumbai-pgdm-placement-report-2025)**
-*   **[XLRI Jamshedpur & Delhi Placement Report 2025](/blog/xlri-jamshedpur-delhi-placement-report-2025)**
-*   **[IMI New Delhi Placement Report 2025](/blog/imi-new-delhi-pgdm-placement-report-2025)**
-*   **[All 21 IIMs Recent Placement Report 2025](/blog/all-iim-recent-placement-report-2025)**
+*   **[SPJIMR Mumbai Placement Report 2025](/blog/spjimr-mumbai-pgdm-placement-report-2025/)**
+*   **[XLRI Jamshedpur & Delhi Placement Report 2025](/blog/xlri-jamshedpur-delhi-placement-report-2025/)**
+*   **[IMI New Delhi Placement Report 2025](/blog/imi-new-delhi-pgdm-placement-report-2025/)**
+*   **[All 21 IIMs Recent Placement Report 2025](/blog/all-iim-recent-placement-report-2025/)**
 
 ---
 

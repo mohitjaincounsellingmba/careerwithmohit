@@ -130,7 +130,7 @@ The final merit list incorporates:
 
 ## 4. Latest Audited Placement Report & Recruiters
 
-Placement performance is one of the strongest pillars of **[IIM Mumbai (Formerly NITIE Mumbai)](/colleges/iim-mumbai)**. The placement cell maintains strong corporate relationships across Fortune 500 companies and high-growth startups.
+Placement performance is one of the strongest pillars of **[IIM Mumbai (Formerly NITIE Mumbai)](/colleges/iim-mumbai/)**. The placement cell maintains strong corporate relationships across Fortune 500 companies and high-growth startups.
 
 ### Key Placement Metrics:
 - **Average Salary Package:** **₹27.75 LPA**

@@ -20,14 +20,14 @@ faqs:
       The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
 ---
 
-### **College Review: [Suryadatta Manjeri Institute of Professional Studies](/colleges/suryadatta-manjeri-institute-of-professional-studies)**
+### **College Review: [Suryadatta Manjeri Institute of Professional Studies](/colleges/suryadatta-manjeri-institute-of-professional-studies/)**
 *   **Quality Curriculum**: Tailored directly to industry requirements with standard practical case studies.
 *   **Established Brand**: Over the years, it has earned a strong reputation among regional corporate employers.
 *   **Holistic Learning**: Focuses on both technical business skills and global soft skills development.
 
 ---
 
-### 📊 [Suryadatta Manjeri Institute of Professional Studies](/colleges/suryadatta-manjeri-institute-of-professional-studies) 2026 Snapshot
+### 📊 [Suryadatta Manjeri Institute of Professional Studies](/colleges/suryadatta-manjeri-institute-of-professional-studies/) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |
@@ -55,18 +55,18 @@ faqs:
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### 1. Is [Suryadatta Manjeri Institute of Professional Studies](/colleges/suryadatta-manjeri-institute-of-professional-studies) a good option for PGDM/MBA?
-Yes, [Suryadatta Manjeri Institute of Professional Studies](/colleges/suryadatta-manjeri-institute-of-professional-studies) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+### 1. Is [Suryadatta Manjeri Institute of Professional Studies](/colleges/suryadatta-manjeri-institute-of-professional-studies/) a good option for PGDM/MBA?
+Yes, [Suryadatta Manjeri Institute of Professional Studies](/colleges/suryadatta-manjeri-institute-of-professional-studies/) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
-### 2. What is the average package offered at [Suryadatta Manjeri Institute of Professional Studies](/colleges/suryadatta-manjeri-institute-of-professional-studies)?
-The average placement package at [Suryadatta Manjeri Institute of Professional Studies](/colleges/suryadatta-manjeri-institute-of-professional-studies) is approximately ₹5.0 LPA, with the highest package reaching up to ₹23.0 LPA.
+### 2. What is the average package offered at [Suryadatta Manjeri Institute of Professional Studies](/colleges/suryadatta-manjeri-institute-of-professional-studies/)?
+The average placement package at [Suryadatta Manjeri Institute of Professional Studies](/colleges/suryadatta-manjeri-institute-of-professional-studies/) is approximately ₹5.0 LPA, with the highest package reaching up to ₹23.0 LPA.
 
-### 3. What entrance exams are accepted by [Suryadatta Manjeri Institute of Professional Studies](/colleges/suryadatta-manjeri-institute-of-professional-studies)?
+### 3. What entrance exams are accepted by [Suryadatta Manjeri Institute of Professional Studies](/colleges/suryadatta-manjeri-institute-of-professional-studies/)?
 The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
 
 ---
 
-**Final Verdict**: [Suryadatta Manjeri Institute of Professional Studies](/colleges/suryadatta-manjeri-institute-of-professional-studies) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
+**Final Verdict**: [Suryadatta Manjeri Institute of Professional Studies](/colleges/suryadatta-manjeri-institute-of-professional-studies/) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
 [👉 Apply to Suryadatta Manjeri Institute of Professional Studies](/inquiry) | [👉 Get Free Counselling](/inquiry)
 

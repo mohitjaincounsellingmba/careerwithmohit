@@ -43,7 +43,7 @@ state: Delhi NCR
 ---
 Ask any veteran MBA aspirant, and they will tell you that the Verbal and Logical Ability (VALR) section of the Xavier Aptitude Test (XAT) is a different beast compared to CAT. In particular, **Reading Comprehension (RC) in XAT** has earned a reputation for being abstract, philosophical, and intensely challenging.
 
-As we prepare for [XAT Exam 2026](/blog/all-about-xat-exam), the trend lines indicate that RCs are getting even harder. The passages are becoming denser, the themes more academic, and the options more subjective.
+As we prepare for [XAT Exam 2026](/blog/all-about-xat-exam/), the trend lines indicate that RCs are getting even harder. The passages are becoming denser, the themes more academic, and the options more subjective.
 
 In this guide, we analyze why XAT RC is getting harder and outline concrete strategies to adapt your reading style to clear the VALR cutoff.
 
@@ -107,7 +107,7 @@ XAT consistently features a short poem. To solve poem questions:
 - **Days 21–40:** Solve past XAT papers (2015 to 2025). Analyze the explanations for every VALR question, especially the ones you got wrong. Understand why the other options were eliminated.
 - **Days 41–60:** Take sectional tests under timed conditions. Learn to balance speed and accuracy. In the actual XAT, you should spend about **50 to 55 minutes** on the VALR section.
 
-For a broader perspective on how to balance your preparation with other exams, check out our [Top MBA Entrance Exams Guide](/blog/top-mba-entrance-exams-2026-guide) and practice using our [Free CAT Mock Test](/tools/cat-mock-test).
+For a broader perspective on how to balance your preparation with other exams, check out our [Top MBA Entrance Exams Guide](/blog/top-mba-entrance-exams-2026-guide/) and practice using our [Free CAT Mock Test](/tools/cat-mock-test).
 
 [👉 Having trouble improving your verbal accuracy? Reach out to our expert mentors today!](/inquiry)
 

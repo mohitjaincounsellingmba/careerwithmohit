@@ -3,7 +3,7 @@ title: 'Sparsh Global Business School Review 2026: Placements & ROI'
 date: '2026-03-18'
 description: >-
   Read our deep-dive review of [Sparsh Global Business School
-  (SGBS)](/colleges/sparsh-global-greater-noida) for 2026. Explore the modern
+  (SGBS)](/colleges/sparsh-global-greater-noida/) for 2026. Explore the modern
   campus, 2025 placement success (avg ₹12 LPA), and industry mentorship.
 keywords:
   - Sparsh Global Business School review
@@ -55,7 +55,7 @@ state: Delhi NCR
 ---
 
 ## 2. Why SGBS is Emerging as a Top Choice?
-[Sparsh Global Business School (SGBS)](/colleges/sparsh-global-greater-noida) in Greater Noida has quickly gained a reputation for its boutique, high-quality approach to management education.
+[Sparsh Global Business School (SGBS)](/colleges/sparsh-global-greater-noida/) in Greater Noida has quickly gained a reputation for its boutique, high-quality approach to management education.
 *   **Sustainability Focus:** One of the few schools integrating ESG (Environmental, Social, and Governance) deep into its core curriculum.
 *   **Global Pedagogy:** Heavy use of international case studies and simulation-based learning.
 *   **Strategic Location:** Proximity to the international airport and Noida's corporate corridor ensures regular CXO interactions.

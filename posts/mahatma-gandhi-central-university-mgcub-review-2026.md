@@ -2,9 +2,8 @@
 title: 'Mahatma Gandhi Central University (MGCUB) Review 2026: Fees & Placements'
 date: '2026-05-24'
 description: >-
-  Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Gurgaon, Delhi NCR. Get details on top colleges under GGSIPU, DU,
-  and priva
+  Mahatma Gandhi Central University (MGCUB) Review 2026: Complete guide on fees,
+  verified cutoffs, average placement packages & admission process.
 keywords:
   - MGCUB review 2026
   - Mahatma Gandhi Central University placements
@@ -80,8 +79,8 @@ MGCUB provides very accessible education:
 *   **Amenities:** Standard facilities including Wi-Fi, mess, and necessary furniture are provided to ensure a comfortable stay.
 
 ### **Check Other Placement Guides:**
-*   [Central University of Haryana Review 2026](/blog/central-university-of-haryana-cuh-review-2026)
-*   [BML Munjal University Placement Review 2025](/blog/bml-munjal-university-placement-review-2025)
+*   [Central University of Haryana Review 2026](/blog/central-university-of-haryana-cuh-review-2026/)
+*   [BML Munjal University Placement Review 2025](/blog/bml-munjal-university-placement-review-2025/)
 
 [👉 Get Admission Consultation for MGCUB!](/inquiry)
 

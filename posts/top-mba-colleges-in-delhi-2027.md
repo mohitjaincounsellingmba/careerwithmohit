@@ -76,15 +76,15 @@ In this 2027 guide, senior admission consultant **Mohit Jain** presents an hones
 | College / Program | Total Tuition Fee | Average Placement CTC | Key Accepted Exams & Target Cutoff |
 | :--- | :--- | :--- | :--- |
 | **[FMS Delhi](/colleges/fms-delhi/)** (MBA Core) | ₹2.32 Lakhs | ₹30.10 LPA | CAT (99.7+ %ile) |
-| **[DMS IIT Delhi](/blog/1-year-online-mba-colleges-india-2027-29/)** (MBA / MBA Telecom) | ₹14.00 Lakhs | ₹22.53 LPA | CAT (98.0+ %ile) |
+| **[DMS IIT Delhi](/blog/1-year-online-mba-colleges-india-2026/)** (MBA / MBA Telecom) | ₹14.00 Lakhs | ₹22.53 LPA | CAT (98.0+ %ile) |
 | **[IIFT Delhi](/colleges/iift-delhi/)** (MBA - International Business) | ₹21.80 Lakhs | ₹26.00 LPA | CAT (96.5+ %ile) |
 | **[IMI New Delhi](/colleges/imi-delhi/)** (PGDM Core/HRM/BFS) | ₹23.50 Lakhs | ₹17.90 LPA | CAT / XAT (88+ %ile) |
 | **[FORE School of Management](/colleges/fore-school-delhi/)** (PGDM) | ₹20.70 Lakhs | ₹16.40 LPA | CAT / XAT (85+ %ile) |
 | **[LBSIM Delhi](/colleges/lbsim-delhi/)** (PGDM Core/Fintech) | ₹17.50 Lakhs | ₹13.80 LPA | CAT / XAT (83+ %ile) |
 | **[Delhi School of Economics (DSE)](/colleges/fms-delhi/)** (MBA HRD / IB) | ₹48,000 | ₹14.50 LPA | CAT (93+ %ile) |
 | **[Dept. of Financial Studies (DFS)](/colleges/fms-delhi/)** (MBA Finance) | ₹48,000 | ₹15.80 LPA | CAT (94+ %ile) |
-| **[SRCC GBO Delhi](/blog/10-tips-to-crack-cat-exam-2027-29/)** (Global Business Operations) | ₹3.20 Lakhs | ₹12.50 LPA | SRCC GBO Online Entrance |
-| **[Delhi School of Business (DSB)](/blog/delhi-school-of-business-mba-pgdm-review-2027-fees-placements-cutoff/)** (PGDM) | ₹10.90 Lakhs | ₹9.20 LPA | CAT / XAT / CMAT / MAT (70+ %ile) |
+| **[SRCC GBO Delhi](/blog/10-tips-to-crack-cat-exam-2026/)** (Global Business Operations) | ₹3.20 Lakhs | ₹12.50 LPA | SRCC GBO Online Entrance |
+| **[Delhi School of Business (DSB)](/blog/delhi-school-of-business-review-2026/)** (PGDM) | ₹10.90 Lakhs | ₹9.20 LPA | CAT / XAT / CMAT / MAT (70+ %ile) |
 | **[JIMS Rohini (Sector 5)](/colleges/jims-rohini/)** (PGDM) | ₹9.85 Lakhs | ₹8.50 LPA | CAT / MAT / CMAT (70+ %ile) |
 | **[NDIM New Delhi](/colleges/ndim-delhi/)** (PGDM) | ₹11.50 Lakhs | ₹8.20 LPA | CAT / MAT / CMAT (65+ %ile) |
 
@@ -131,9 +131,9 @@ Studying in Delhi provides a distinct locational advantage:
 ## Frequently Asked Questions (FAQs)
 
 ### What is the minimum CAT percentile needed for Delhi University MBA?
-For [FMS Delhi](/colleges/fms-delhi), general category cutoff stands at 99.7+ percentile. For DSE and DFS, safe composite scores are achieved at 93 to 95 percentile in CAT.
+For [FMS Delhi](/colleges/fms-delhi/), general category cutoff stands at 99.7+ percentile. For DSE and DFS, safe composite scores are achieved at 93 to 95 percentile in CAT.
 
-### Which is better: [IMI Delhi](/colleges/imi-delhi/) or [FORE School of Management](/colleges/fore-school-delhi)?
+### Which is better: [IMI Delhi](/colleges/imi-delhi/) or [FORE School of Management](/colleges/fore-school-delhi/)?
 Both are situated in the Qutab Institutional Area with strong recruiter networks. [IMI Delhi](/colleges/imi-delhi/) leads slightly in Finance and Consulting roles with a higher average CTC (₹17.9 LPA), whereas FORE School of Management offers great marketing & IT consulting tracks with competitive fees.
 
 ### Does Delhi have direct admission for MBA without entrance exams?

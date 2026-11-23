@@ -44,7 +44,7 @@ location: Delhi NCR
 state: Delhi NCR
 ---
 
-The **Xavier Aptitude Test (XAT)**, conducted by **[XLRI Jamshedpur](/colleges/xlri-jamshedpur)**, is widely recognized as one of India's most challenging and prestigious management entrance examinations. Providing gateway access to XLRI Jamshedpur, XLRI Delhi NCR, XIMB, IMT Ghaziabad, TAPMI, and 160+ top b-schools, XAT evaluates strategic thinking rather than simple speed.
+The **Xavier Aptitude Test (XAT)**, conducted by **[XLRI Jamshedpur](/colleges/xlri-jamshedpur/)**, is widely recognized as one of India's most challenging and prestigious management entrance examinations. Providing gateway access to XLRI Jamshedpur, XLRI Delhi NCR, XIMB, IMT Ghaziabad, TAPMI, and 160+ top b-schools, XAT evaluates strategic thinking rather than simple speed.
 
 Two sections make or break an aspirant's dream of cracking XLRI: **Decision Making (DM)** and **Verbal & Logical Ability (VALA)**. Unlike standard entrance tests, XAT tests your ability to think like a compassionate, ethical, and commercially astute business leader.
 
@@ -165,7 +165,7 @@ Even if you narrowly miss XLRI cutoffs, XAT opens doors to premier management in
 | **XIMB (Xavier Institute of Management, Bhubaneswar)** | **90 - 92 Percentile** | ₹20.03 LPA |
 | **IMT Ghaziabad (PGDM Marketing)** | **90 - 92 Percentile** | ₹17.35 LPA |
 | **TAPMI Manipal** | **85 - 88 Percentile** | ₹15.70 LPA |
-| **[FORE School of Management](/colleges/fore-school-delhi), New Delhi** | **83 - 85 Percentile** | ₹14.50 LPA |
+| **[FORE School of Management](/colleges/fore-school-delhi/), New Delhi** | **83 - 85 Percentile** | ₹14.50 LPA |
 | **GIM Goa (Goa Institute of Management)** | **85 - 88 Percentile** | ₹14.87 LPA |
 | **Great Lakes Institute of Management (Chennai/Gurgaon)**| **82 - 85 Percentile** | ₹14.50 LPA |
 | **IRMA Anand (Rural Management)** | **80 - 83 Percentile** | ₹15.50 LPA |

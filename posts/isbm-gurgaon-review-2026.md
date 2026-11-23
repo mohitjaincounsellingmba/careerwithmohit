@@ -52,14 +52,14 @@ location: Delhi NCR
 state: Delhi NCR
 ---
 
-# ISB&M Gurgaon ([International School of Business & Media](/colleges/international-school-of-business-media)) Review 2026: Fees, Placements, Cutoffs & ROI Analysis
+# ISB&M Gurgaon ([International School of Business & Media](/colleges/international-school-of-business-media/)) Review 2026: Fees, Placements, Cutoffs & ROI Analysis
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **MBA/PGDM 2027–2029 Admissions**: Application cycles are actively accepting CAT 2026, XAT 2027, MAT, CMAT, ATMA, SNAP, NMAT, and merit-based profile rounds.
 > - **Eligibility & Selection**: Minimum 50% aggregate in Graduation (45% for reserved categories) plus GD-PI-WAT score.
 > - **ROI & Scholarships**: Merit scholarships ranging from 10% to 50% tuition waiver available for early 2027–29 applicants.
 
-**ISB&M Gurgaon ([International School of Business & Media](/colleges/international-school-of-business-media))** continues to be one of the most prominent management destinations in **Sector 112 (Gurugram)** for the **2026–2027 intake**. Known for its robust academic rigor, strong corporate relations, and impressive ROI, it attracts thousands of management aspirants every year.
+**ISB&M Gurgaon ([International School of Business & Media](/colleges/international-school-of-business-media/))** continues to be one of the most prominent management destinations in **Sector 112 (Gurugram)** for the **2026–2027 intake**. Known for its robust academic rigor, strong corporate relations, and impressive ROI, it attracts thousands of management aspirants every year.
 
 Whether you are targeting flagship MBA/PGDM programs or comparing top business schools in Gurugram, this comprehensive review provides verified insights into **fee structures, placement packages, entrance exam cutoffs, specialization tracks, and admission criteria**.
 
@@ -67,11 +67,11 @@ Whether you are targeting flagship MBA/PGDM programs or comparing top business s
 
 ## 1. Quick Overview & Key Highlights
 
-The table below summarizes the key metrics for **ISB&M Gurgaon ([International School of Business & Media](/colleges/international-school-of-business-media))** for the upcoming 2026–2027 academic session:
+The table below summarizes the key metrics for **ISB&M Gurgaon ([International School of Business & Media](/colleges/international-school-of-business-media/))** for the upcoming 2026–2027 academic session:
 
 | Parameter | Details |
 | :--- | :--- |
-| **Institution Name** | **ISB&M Gurgaon ([International School of Business & Media](/colleges/international-school-of-business-media))** |
+| **Institution Name** | **ISB&M Gurgaon ([International School of Business & Media](/colleges/international-school-of-business-media/))** |
 | **Location & Campus** | Sector 112, Gurugram |
 | **Accreditation & Approvals** | AICTE Approved, AIU Equivalent |
 | **Flagship Program** | MBA / PGDM (2 Years Full-Time) |
@@ -162,7 +162,7 @@ Make an informed decision by comparing fee structures, placement reports, and ad
 *   [Top Tier MBA Colleges 2026–2027: Compare Fees, Placements & Cutoffs](/top-tier-mba-colleges)
 *   [MBA & PGDM Direct Admission 2027: Complete Eligibility Guide](/mba-pgdm-admission-2027)
 *   [Explore & Compare 200+ Top Colleges in India](/colleges)
-*   [CAT 2026 Mock Test & Expected Percentile Calculator](/cat-mock-test)
+*   [CAT 2026 Mock Test & Expected Percentile Calculator](/tools/cat-mock-test/)
 *   [Check Your Eligibility for Scholarships & Education Loans](/scholarships-2026)
 
 [InquiryCard title="Get Direct Admission Counseling for ISB&M Gurgaon (International School of Business & Media)" subtitle="Verify your eligibility, check cutoff percentiles, and download official placement brochures instantly." ctaText="Apply Now / Check Eligibility"]

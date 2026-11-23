@@ -59,6 +59,6 @@ state: Maharashtra
 Jamnalal Bajaj Institute of Management Studies (JBIMS) is known as the 'CEO Factory of India.' Located in the heart of Mumbai's financial district, it has one of the strongest alumni networks in the world.
 
 ### Related Articles
-- [Top MBA Colleges in Mumbai & Pune (MAH MBA CET)](/posts/mah-mba-cet-colleges-mumbai-pune)
-- [Direct MBA Admission in India 2025](/posts/direct-mba-admission-india)
-- [Bihar Student Credit Card (DRCC) MBA Colleges](/posts/bihar-student-credit-card-mba-colleges)
+- [Top MBA Colleges in Mumbai & Pune (MAH MBA CET)](/blog/mah-mba-cet-colleges-mumbai-pune/)
+- [Direct MBA Admission in India 2025](/blog/direct-mba-admission-india/)
+- [Bihar Student Credit Card (DRCC) MBA Colleges](/blog/bihar-student-credit-card-mba-colleges/)

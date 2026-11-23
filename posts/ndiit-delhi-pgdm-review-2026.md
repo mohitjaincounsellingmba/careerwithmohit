@@ -89,7 +89,7 @@ Placements at NDIIT are a mix of corporate tie-ups and student-driven initiative
 ## ⚠️ Cons to Consider
 1.  **Campus Size**: The physical campus is compact, which might not appeal to those looking for a traditional large university experience.
 2.  **Mixed Placement Reviews**: While many students land good roles, the consistency across the entire batch can vary.
-3.  **Brand Recognition**: While well-regarded, it may not have the same "instant" brand recall as top-tier IIMs or established brands like [**NDIM**](/blog/all-about-ndim-delhi).
+3.  **Brand Recognition**: While well-regarded, it may not have the same "instant" brand recall as top-tier IIMs or established brands like [**NDIM**](/blog/all-about-ndim-delhi/).
 
 ---
 
@@ -111,10 +111,10 @@ Admission is based on a holistic evaluation of the candidate's profile.
 ---
 
 ## 🔗 Related Reading
-*   [**NDIM Delhi Review 2026: Placements & Highlights**](/blog/all-about-ndim-delhi)
-*   [**Top MBA Colleges in Delhi 2026: Ranking & Fees**](/blog/best-mba-colleges-in-delhi-2026)
-*   [**PGDM vs MBA: The 2026 Comparison Guide**](/blog/mba-vs-pgdm-2026-ultimate-guide)
-*   [**IMM Delhi PGDM Review: Is it Worth It?**](/blog/imm-delhi-pgdm-review-2026)
+*   [**NDIM Delhi Review 2026: Placements & Highlights**](/blog/all-about-ndim-delhi/)
+*   [**Top MBA Colleges in Delhi 2026: Ranking & Fees**](/blog/best-mba-colleges-in-delhi-2026/)
+*   [**PGDM vs MBA: The 2026 Comparison Guide**](/blog/mba-vs-pgdm-2026-ultimate-guide/)
+*   [**IMM Delhi PGDM Review: Is it Worth It?**](/blog/imm-delhi-pgdm-review-2026/)
 
 [👉 Need help with NDIIT Delhi Admission? Talk to our experts!](/inquiry)
 
@@ -123,7 +123,7 @@ Admission is based on a holistic evaluation of the candidate's profile.
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### What is the typical fee structure for MBA programs in India?
-The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
+The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi/) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
 
 ### Is it possible to pursue an MBA without clearing CAT?
 Yes, many colleges accept other entrance exams like XAT, NMAT, SNAP, MAT, or CMAT. Additionally, direct admission options under management quota are available in several private B-schools.

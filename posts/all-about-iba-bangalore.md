@@ -37,14 +37,14 @@ location: Bangalore
 state: Karnataka
 ---
 
-### **College Review: [Indus Business Academy (IBA)](/colleges/iba-bangalore)**
+### **College Review: [Indus Business Academy (IBA)](/colleges/iba-bangalore/)**
 *   **Quality Curriculum**: Tailored directly to industry requirements with standard practical case studies.
 *   **Established Brand**: Over the years, it has earned a strong reputation among regional corporate employers.
 *   **Holistic Learning**: Focuses on both technical business skills and global soft skills development.
 
 ---
 
-### 📊 [Indus Business Academy](/colleges/indus-business-academy) (IBA) 2026 Snapshot
+### 📊 [Indus Business Academy](/colleges/indus-business-academy/) (IBA) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |
@@ -72,20 +72,20 @@ state: Karnataka
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### 1. Is [Indus Business Academy (IBA)](/colleges/iba-bangalore) a good option for PGDM/MBA?
-Yes, [Indus Business Academy](/colleges/indus-business-academy) (IBA) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+### 1. Is [Indus Business Academy (IBA)](/colleges/iba-bangalore/) a good option for PGDM/MBA?
+Yes, [Indus Business Academy](/colleges/indus-business-academy/) (IBA) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
-### 2. What is the average package offered at [Indus Business Academy (IBA)](/colleges/iba-bangalore)?
-The average placement package at [Indus Business Academy](/colleges/indus-business-academy) (IBA) is approximately ₹9.2 LPA, with the highest package reaching up to ₹18.0 LPA.
+### 2. What is the average package offered at [Indus Business Academy (IBA)](/colleges/iba-bangalore/)?
+The average placement package at [Indus Business Academy](/colleges/indus-business-academy/) (IBA) is approximately ₹9.2 LPA, with the highest package reaching up to ₹18.0 LPA.
 
-### 3. What entrance exams are accepted by [Indus Business Academy (IBA)](/colleges/iba-bangalore)?
+### 3. What entrance exams are accepted by [Indus Business Academy (IBA)](/colleges/iba-bangalore/)?
 The college accepts scores from national level entrance examinations including CAT, MAT, CMAT for the PGDM and MBA admissions.
 
 ---
 
-**Final Verdict**: [Indus Business Academy](/colleges/indus-business-academy) (IBA) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
+**Final Verdict**: [Indus Business Academy](/colleges/indus-business-academy/) (IBA) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
-[👉 Apply to [Indus Business Academy](/colleges/indus-business-academy) (IBA)](/inquiry) | [👉 Get Free Counselling](/inquiry)
+[👉 Apply to [Indus Business Academy](/colleges/indus-business-academy/) (IBA)](/inquiry) | [👉 Get Free Counselling](/inquiry)
 
 Source: Shiksha.com
 ---

@@ -47,7 +47,7 @@ location: Mumbai
 state: Maharashtra
 ---
 
-Securing a 99+ percentile in CAT or XAT is an incredible achievement, but it represents only **half the battle** in securing admission to India's premier management institutes. Premier b-schools like **[IIM Ahmedabad](/colleges/iim-ahmedabad), [IIM Bangalore](/colleges/iim-bangalore), [IIM Calcutta](/colleges/iim-calcutta), SPJIMR, XLRI, FMS, and MDI** evaluate candidates holistically.
+Securing a 99+ percentile in CAT or XAT is an incredible achievement, but it represents only **half the battle** in securing admission to India's premier management institutes. Premier b-schools like **[IIM Ahmedabad](/colleges/iim-ahmedabad/), [IIM Bangalore](/colleges/iim-bangalore/), [IIM Calcutta](/colleges/iim-calcutta/), SPJIMR, XLRI, FMS, and MDI** evaluate candidates holistically.
 
 In recent admission cycles, profile weightage in shortlisting and final merit selection has risen to **30% – 50%**. Admissions committees actively seek well-rounded candidates who bring academic rigor, professional achievements, domain certifications, leadership initiative, and clear career clarity.
 
@@ -57,7 +57,7 @@ Whether you are a college fresher aiming for 2027 admissions or a working profes
 
 > 📝 **Want Your Profile Evaluated by IIM Alumni Mentors?**
 >
-> [👉 Get a Free 1-on-1 Profile Audit & SOP Review with Mohit Jain](/direct-admission)
+> [👉 Get a Free 1-on-1 Profile Audit & SOP Review with Mohit Jain](/blog/best-bba-colleges-jaipur-direct-admission-2026/)
 
 ---
 
@@ -205,7 +205,7 @@ Follow this battle-tested 5-paragraph template:
 ### Get Your Profile Audited Today!
 
 * 📞 **Profile Evaluation Desk:** Direct one-on-one session with **Mohit Jain**.
-* 📋 **[Submit Your Resume for Free SOP Review](/direct-admission)** to receive detailed feedback before applying to top b-schools.
+* 📋 **[Submit Your Resume for Free SOP Review](/blog/best-bba-colleges-jaipur-direct-admission-2026/)** to receive detailed feedback before applying to top b-schools.
 
 ---
 

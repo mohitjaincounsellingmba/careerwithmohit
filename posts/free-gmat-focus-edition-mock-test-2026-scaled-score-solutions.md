@@ -55,7 +55,7 @@ state: Karnataka
 
 [MockTestCard title="Free MAT 2026 Full CBT Mock Test 2026" link="/mat-mock-test" questions="150 Questions" time="120 Mins"]
 
-The **GMAT™ Focus Edition** is the official global standard for admission into premier business schools worldwide—including **ISB Hyderabad, [IIM Ahmedabad](/colleges/iim-ahmedabad) (PGPX), [IIM Bangalore](/colleges/iim-bangalore) (EPGP), INSEAD France/Singapore, London Business School, Harvard Business School, and Stanford GSB**.
+The **GMAT™ Focus Edition** is the official global standard for admission into premier business schools worldwide—including **ISB Hyderabad, [IIM Ahmedabad](/colleges/iim-ahmedabad/) (PGPX), [IIM Bangalore](/colleges/iim-bangalore/) (EPGP), INSEAD France/Singapore, London Business School, Harvard Business School, and Stanford GSB**.
 
 With the removal of Sentence Correction and the introduction of the dedicated **Data Insights (DI)** section (featuring Data Sufficiency, Table Analysis, Graphics Interpretation, Two-Source, and Multi-Source Reasoning), the Focus Edition requires a fresh strategic approach.
 

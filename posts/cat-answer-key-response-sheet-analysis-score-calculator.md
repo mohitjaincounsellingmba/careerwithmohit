@@ -146,26 +146,26 @@ If you identify an error in the provisional answer key (e.g., an incorrect offic
 ## 🔮 What Next? Actions to Take After Response Sheet Analysis
 
 ### 1. Estimate Your Percentile
-Cross-reference your raw score with our benchmark [CAT Score vs Percentile Guide](/blog/cat-2026-score-vs-percentile-what-is-a-good-score) to determine whether you stand in the **99+, 95+, 85+, or 75+ percentile brackets**.
+Cross-reference your raw score with our benchmark [CAT Score vs Percentile Guide](/blog/cat-2026-score-vs-percentile-what-is-a-good-score/) to determine whether you stand in the **99+, 95+, 85+, or 75+ percentile brackets**.
 
 ### 2. Apply to Non-IIM Premier Colleges (Before Deadlines Close!)
 Many top B-schools close their applications **before or right around CAT result declaration**:
-*   [FMS Delhi](/colleges/fms-delhi) — Closes in December.
-*   [MDI Gurgaon](/colleges/mdi-gurgaon) — Closes in November/December.
-*   [SPJIMR Mumbai](/colleges/spjimr-mumbai) — Closes around CAT exam week.
-*   [FORE School of Management](/colleges/fore-school-delhi) — Early rounds in December/January.
-*   [Goa Institute of Management (GIM)](/colleges/goa-institute-of-management) & [Great Lakes](/colleges/great-lakes-campuses) — Closes early rounds in December/January.
+*   [FMS Delhi](/colleges/fms-delhi/) — Closes in December.
+*   [MDI Gurgaon](/colleges/mdi-gurgaon/) — Closes in November/December.
+*   [SPJIMR Mumbai](/colleges/spjimr-mumbai/) — Closes around CAT exam week.
+*   [FORE School of Management](/colleges/fore-school-delhi/) — Early rounds in December/January.
+*   [Goa Institute of Management (GIM)](/colleges/gim-goa/) & [Great Lakes](/blog/accurate-greater-noida-review-2026/) — Closes early rounds in December/January.
 
 ### 3. Kickstart WAT-GD-PI Preparation
-Do not wait for January scorecards to begin interview prep. Explore our curated repository of [Latest WAT/GD Topics for MBA Admissions](/blog/latest-wat-gd-topics-for-mba-admissions-2026) and read our guide on [How to Build a Strong Profile for MBA Interviews](/blog/how-to-build-a-strong-profile-for-mba-interviews-2026).
+Do not wait for January scorecards to begin interview prep. Explore our curated repository of [Latest WAT/GD Topics for MBA Admissions](/blog/latest-wat-gd-topics-for-mba-admissions-2026/) and read our guide on [How to Build a Strong Profile for MBA Interviews](/blog/how-to-build-a-strong-profile-for-mba-interviews-2026/).
 
 ---
 
 ## 🔗 Related Resources
-*   [CAT 2026 Score vs Percentile: What is a Good Score?](/blog/cat-2026-score-vs-percentile-what-is-a-good-score)
-*   [Top MBA Colleges Accepting CAT Score 80-90 Percentile](/blog/mba-colleges-accepting-cat-score-80-90-percentile-2026)
-*   [Top MBA Colleges in Delhi NCR Accepting CAT Score](/blog/top-mba-colleges-in-delhi-ncr-accepting-cat-score-2026)
-*   [XAT vs SNAP vs NMAT: Which is Easier After CAT?](/blog/xat-vs-snap-vs-nmat-which-is-easier-after-cat-2026)
+*   [CAT 2026 Score vs Percentile: What is a Good Score?](/blog/cat-2026-score-vs-percentile-what-is-a-good-score/)
+*   [Top MBA Colleges Accepting CAT Score 80-90 Percentile](/blog/mba-colleges-accepting-cat-score-80-90-percentile-2026/)
+*   [Top MBA Colleges in Delhi NCR Accepting CAT Score](/blog/top-mba-colleges-in-delhi-ncr-accepting-cat-score-2026/)
+*   [XAT vs SNAP vs NMAT: Which is Easier After CAT?](/blog/xat-vs-snap-vs-nmat-which-is-easier-after-cat-2026/)
 
 ---
 

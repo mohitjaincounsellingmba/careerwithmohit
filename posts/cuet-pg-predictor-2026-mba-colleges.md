@@ -2,9 +2,8 @@
 title: 'CUET PG MBA College Predictor 2026: Find Your Match'
 date: '2026-03-24'
 description: >-
-  Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
-  private univer
+  Are you aiming for a top-tier MBA or PGDM through the Common University
+  Entrance Test? Check fees, cutoffs, placements & expert admission tips.
 keywords:
   - CUET PG MBA college predictor 2026
   - CUET PG 2026 college predictor
@@ -59,7 +58,7 @@ Based on the latest trends, here is how your **raw score (out of 300)** translat
 
 | Raw Score (Out of 300) | Predicted Percentile | Admission Tier | Top Colleges to Target |
 | :--- | :--- | :--- | :--- |
-| **245+** | 99.8+ %ile | **Elite Tier** | TISS Mumbai (HRM), [FMS Delhi](/colleges/fms-delhi) |
+| **245+** | 99.8+ %ile | **Elite Tier** | TISS Mumbai (HRM), [FMS Delhi](/colleges/fms-delhi/) |
 | **230 - 244** | 99+ %ile | **Elite Tier** | JNU Delhi, TISS (ODCL) |
 | **205 - 229** | 96 - 98%ile | **Top Tier** | BHU Varanasi, DAVV Indore |
 | **160 - 204** | 88 - 95%ile | **Mid Tier** | Pondicherry University, CU Rajasthan |
@@ -89,9 +88,9 @@ These are your "Dream Colleges" that may be 5-10 marks away. If the difficulty l
 ---
 
 ## 💡 Related Reading for MBA Aspirants:
-- [Top MBA Colleges Accepting CUET PG 2026](/blog/top-mba-colleges-cuet-pg)
-- [CUET PG 2026 Result Expected Date](/blog/cuet-pg-2026-result-expected-date)
-- [CUET PG 2026 Score Calculator: Marks vs Percentile](/blog/cuet-pg-2026-score-calculator-marks-vs-percentile)
+- [Top MBA Colleges Accepting CUET PG 2026](/blog/top-mba-colleges-cuet-pg/)
+- [CUET PG 2026 Result Expected Date](/blog/cuet-pg-2026-result-expected-date/)
+- [CUET PG 2026 Score Calculator: Marks vs Percentile](/blog/cuet-pg-2026-score-calculator-marks-vs-percentile/)
 
 **Ready to see your results?**
 [📊 Open the CUET PG MBA College Predictor](/tools/cuet-pg-mba-predictor)

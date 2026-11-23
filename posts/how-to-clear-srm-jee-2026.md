@@ -2,9 +2,8 @@
 title: 'How to Clear SRM JEE 2026 (SRMJEEE): Complete Strategy, Syllabus & Tips'
 date: '2026-04-28'
 description: >-
-  Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
-  private univer
+  How to Clear SRM JEE 2026 (SRMJEEE): Complete Strategy, Syllabus & Tips:
+  Explore fees, placements, cutoffs & admission guidelines.
 keywords:
   - how to clear SRM JEE 2026
   - SRMJEEE preparation strategy
@@ -225,13 +224,13 @@ Once you crack the exam, you'll go through **counselling and campus/branch allot
 
 **Ready to practice?**
 
-👉 [Take the Free SRMJEEE 2026 Mock Test](/tools/mock-test/srmjee)
+👉 [Take the Free SRMJEEE 2026 Mock Test](/mock-tests/)
 
-👉 [Explore All SRM University Campuses & Fees](/blog/all-about-srm-university-campuses)
+👉 [Explore All SRM University Campuses & Fees](/blog/all-about-srm-university-campuses/)
 
-👉 [Direct Admission at SRM University 2026](/blog/direct-admission-srm-university-2026)
+👉 [Direct Admission at SRM University 2026](/blog/direct-admission-srm-university-2026/)
 
-👉 [SRM vs VIT — Which is Better for B.Tech?](/blog/srm-vs-vit-btech-comparison-2026)
+👉 [SRM vs VIT — Which is Better for B.Tech?](/blog/srm-vs-vit-btech-comparison-2026/)
 
 ---
 
@@ -261,3 +260,4 @@ B.Tech (Bachelor of Technology) is generally more practical and application-orie
 
 
 Source: Shiksha.com
+

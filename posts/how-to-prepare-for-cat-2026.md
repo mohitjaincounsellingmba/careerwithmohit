@@ -2,9 +2,8 @@
 title: 'How to Prepare for CAT 2026: Complete Study Plan & Resources'
 date: '2026-05-17'
 description: >-
-  Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
-  private univer
+  The Common Admission Test (CAT) is the gateway to India’s top MBA programs.
+  With the 2026 edition approaching, competition is fiercer than ever.
 keywords:
   - CAT 2026 preparation
   - how to prepare for CAT
@@ -54,7 +53,7 @@ The Common Admission Test (CAT) is the gateway to India’s top MBA programs. Wi
 - **Scoring:** +3 for correct, -1 for wrong (no negative for unattempted).
 - **Duration:** 180 minutes (60 minutes per section).
 
-> *Internal reference:* For the official schedule see our post **[CAT 2026 Exam Date Notification & Registration Schedule](/blog/cat-2026-exam-date-notification-registration-schedule)**.
+> *Internal reference:* For the official schedule see our post **[CAT 2026 Exam Date Notification & Registration Schedule](/blog/cat-2026-exam-date-notification-registration-schedule/)**.
 
 ---
 
@@ -76,7 +75,7 @@ The Common Admission Test (CAT) is the gateway to India’s top MBA programs. Wi
 | **Books** | *How to Prepare for CAT* by Arun Sharma, *Quantitative Aptitude for CAT* by Nishit Sinha, *Word Power Made Easy* (for VARC vocabulary). |
 | **Online Courses** | Unacademy “CAT 2026 Complete Preparation”, BYJU’S CAT Live Classes, or CareerwithMohit’s **[Free MBA Mock Test Series 2026](/mock-tests)** for timed practice. |
 | **Free Mock Tests** | Use the **[Free CAT Mock Test 2026](/mock-tests)** on our site – it mimics the real CAT interface and provides detailed analytics. |
-| **Notes & Summaries** | Download our **[CAT 2026 Preparation Strategy & Syllabus](/blog/cat-2026-preparation-strategy-syllabus-dates)** guide for a quick recap. |
+| **Notes & Summaries** | Download our **[CAT 2026 Preparation Strategy & Syllabus](/blog/cat-2026-preparation-strategy-syllabus-dates/)** guide for a quick recap. |
 
 ---
 
@@ -123,7 +122,7 @@ Ready to start your CAT 2026 journey? **[Download our free CAT preparation check
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### What is the typical fee structure for MBA programs in India?
-The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
+The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi/) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
 
 ### Is it possible to pursue an MBA without clearing CAT?
 Yes, many colleges accept other entrance exams like XAT, NMAT, SNAP, MAT, or CMAT. Additionally, direct admission options under management quota are available in several private B-schools.

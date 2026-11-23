@@ -66,7 +66,7 @@ state: Delhi NCR
 
 The **Management Aptitude Test (MAT 2026/2027)**, conducted by the **All India Management Association (AIMA)**, is one of India's most versatile national MBA entrance exams. Accepted by over **500+ AICTE-approved management institutes and top universities**, MAT is conducted four times a year in **September, December, February, and May** in Computer-Based Test (CBT), Paper-Based Test (PBT), and Remote Proctored Internet-Based Test (IBT) formats.
 
-Top business schools accepting MAT scores include **[PUMBA Pune](/colleges/pumba-pune), Welingkar (WeSchool) Mumbai, BIMTECH Greater Noida, [XIME Bangalore](/colleges/xime-bangalore), JIMS Kalkaji (New Delhi), [Jaipuria Institute of Management](/colleges/jaipuria-institute-of-management-indore) (Noida/Jaipur), Christ University, and SIES Mumbai**.
+Top business schools accepting MAT scores include **[PUMBA Pune](/colleges/pumba-pune/), Welingkar (WeSchool) Mumbai, BIMTECH Greater Noida, [XIME Bangalore](/colleges/xime-bangalore/), JIMS Kalkaji (New Delhi), [Jaipuria Institute of Management](/colleges/jaipuria-institute-of-management-indore/) (Noida/Jaipur), Christ University, and SIES Mumbai**.
 
 To help you secure a **650+ Composite Score (95+%ile)**, **CareerWithMohit** provides a **100% Free Full-Length MAT 2026/27 CBT Mock Test** featuring 150 questions, live 120-minute countdown clocks, session selectors (Sept, Dec, Feb, May MAT), instant composite score calculation, and step-by-step solutions.
 

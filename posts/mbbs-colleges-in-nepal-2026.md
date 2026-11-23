@@ -56,8 +56,8 @@ For Indian students seeking a foreign medical education that feels like home, **
 
 ## 🔗 Related Resources
 
-* [MBBS Abroad Fees & Comparison 2026](/blog/mbbs-abroad-for-indian-students-2026-fees-nmc-rules)
-* [NEET UG 2026 Complete Details](/blog/all-about-neet-exam)
+* [MBBS Abroad Fees & Comparison 2026](/blog/mbbs-abroad-for-indian-students-2026-fees-nmc-rules/)
+* [NEET UG 2026 Complete Details](/blog/all-about-neet-exam/)
 ---
 
 ### 🚀 Boost Your Preparation

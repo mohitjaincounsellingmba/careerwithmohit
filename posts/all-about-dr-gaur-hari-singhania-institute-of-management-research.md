@@ -20,14 +20,14 @@ faqs:
       The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
 ---
 
-### **College Review: [Dr Gaur Hari Singhania Institute of Management & Research](/colleges/dr-gaur-hari-singhania-institute-of-management-research)**
+### **College Review: [Dr Gaur Hari Singhania Institute of Management & Research](/colleges/dr-gaur-hari-singhania-institute-of-management-research/)**
 *   **Quality Curriculum**: Tailored directly to industry requirements with standard practical case studies.
 *   **Established Brand**: Over the years, it has earned a strong reputation among regional corporate employers.
 *   **Holistic Learning**: Focuses on both technical business skills and global soft skills development.
 
 ---
 
-### 📊 [Dr Gaur Hari Singhania Institute of Management & Research](/colleges/dr-gaur-hari-singhania-institute-of-management-research) 2026 Snapshot
+### 📊 [Dr Gaur Hari Singhania Institute of Management & Research](/colleges/dr-gaur-hari-singhania-institute-of-management-research/) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |
@@ -55,18 +55,18 @@ faqs:
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### 1. Is [Dr Gaur Hari Singhania Institute of Management & Research](/colleges/dr-gaur-hari-singhania-institute-of-management-research) a good option for PGDM/MBA?
-Yes, [Dr Gaur Hari Singhania Institute of Management & Research](/colleges/dr-gaur-hari-singhania-institute-of-management-research) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+### 1. Is [Dr Gaur Hari Singhania Institute of Management & Research](/colleges/dr-gaur-hari-singhania-institute-of-management-research/) a good option for PGDM/MBA?
+Yes, [Dr Gaur Hari Singhania Institute of Management & Research](/colleges/dr-gaur-hari-singhania-institute-of-management-research/) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
-### 2. What is the average package offered at [Dr Gaur Hari Singhania Institute of Management & Research](/colleges/dr-gaur-hari-singhania-institute-of-management-research)?
-The average placement package at [Dr Gaur Hari Singhania Institute of Management & Research](/colleges/dr-gaur-hari-singhania-institute-of-management-research) is approximately ₹4.9 LPA, with the highest package reaching up to ₹12.2 LPA.
+### 2. What is the average package offered at [Dr Gaur Hari Singhania Institute of Management & Research](/colleges/dr-gaur-hari-singhania-institute-of-management-research/)?
+The average placement package at [Dr Gaur Hari Singhania Institute of Management & Research](/colleges/dr-gaur-hari-singhania-institute-of-management-research/) is approximately ₹4.9 LPA, with the highest package reaching up to ₹12.2 LPA.
 
-### 3. What entrance exams are accepted by [Dr Gaur Hari Singhania Institute of Management & Research](/colleges/dr-gaur-hari-singhania-institute-of-management-research)?
+### 3. What entrance exams are accepted by [Dr Gaur Hari Singhania Institute of Management & Research](/colleges/dr-gaur-hari-singhania-institute-of-management-research/)?
 The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
 
 ---
 
-**Final Verdict**: [Dr Gaur Hari Singhania Institute of Management & Research](/colleges/dr-gaur-hari-singhania-institute-of-management-research) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
+**Final Verdict**: [Dr Gaur Hari Singhania Institute of Management & Research](/colleges/dr-gaur-hari-singhania-institute-of-management-research/) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
 [👉 Apply to Dr Gaur Hari Singhania Institute of Management & Research](/inquiry) | [👉 Get Free Counselling](/inquiry)
 

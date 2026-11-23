@@ -55,7 +55,7 @@ One of the most expansive and high-tech private universities in India.
 *   **Popular Degrees:** B.Tech, BBA, B.Com, BA, B.Sc.
 *   **USP:** World-class infrastructure and high-tier placements.
 
-### **2. [GD Goenka University](/colleges/gd-goenka-university)**
+### **2. [GD Goenka University](/colleges/gd-goenka-university/)**
 A top-tier institute in Gurugram, known for its undergraduate management and technology programs.
 *   **Programs:** BBA, BCA, B.Sc (Hons) Biotechnology, B.Sc (Hons) Microbiology.
 *   **USP:** Solid placement record and corporate interfaces.
@@ -65,7 +65,7 @@ Established by the KR Mangalam group, it offers multidisciplinary education.
 *   **Programs:** B.Tech, BBA, B.Com (Hons).
 *   **USP:** Global exposure and a large international student community.
 
-### **4. [BML Munjal University](/colleges/bml-munjal-gurgaon)**
+### **4. [BML Munjal University](/colleges/bml-munjal-gurgaon/)**
 Named after the Hero Group visionary, it offers multidisciplinary education.
 *   **Programs:** B.Tech, BBA, B.Com (Hons).
 *   **USP:** Focus on professional ethics and practical skills.
@@ -83,7 +83,7 @@ Known for its management and law education legacy.
 *   **Infrastructure:** World-class campuses with global-standard facilities.
 
 [👉 Get Gurugram CUET Admission Assistance](/inquiry)
-[👉 View Full Citywise University List](/cuet-ug-university-list-2026-citywise)
+[👉 View Full Citywise University List](/blog/central-university-list-india-2026-state-wise/)
 
 **Confused about which Gurugram college fits your profile? Link up with our CUET consultants for free!**
 

@@ -71,7 +71,7 @@ Familiarize yourself with tools like **HubSpot, Salesforce, or Mailchimp**. Unde
 ### D. Content Strategy & AI Integration
 In 2026, mastering Generative AI (like Claude or ChatGPT) for content research and campaign drafting is not optional—it’s a basic requirement.
 
-*Read more:* [How to Start Learning Digital Marketing from Scratch (2026)](/blog/how-to-start-digital-marketing-from-scratch-2026)
+*Read more:* [How to Start Learning Digital Marketing from Scratch (2026)](/blog/how-to-start-digital-marketing-from-scratch-2026/)
 
 ---
 
@@ -107,7 +107,7 @@ The ROI on an MBA in Marketing is significantly higher when combined with digita
 | **Performance Marketing Lead** | ₹10 - ₹18 Lakhs | ₹35 - ₹60 Lakhs |
 | **Product Marketing Manager** | ₹12 - ₹22 Lakhs | ₹45 - ₹80 Lakhs |
 
-*Read more:* [Top MBA Colleges for Digital Marketing in India (2026)](/blog/mba-digital-marketing-direct-admission-colleges-2026)
+*Read more:* [Top MBA Colleges for Digital Marketing in India (2026)](/blog/mba-digital-marketing-direct-admission-colleges-2026/)
 
 ---
 

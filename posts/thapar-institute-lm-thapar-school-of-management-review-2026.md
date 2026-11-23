@@ -52,21 +52,21 @@ faqs:
       followed by counseling, personal interviews, or merit-based shortlisting.
 ---
 
-Selecting the right university is one of the most pivotal decisions in a student's academic and professional journey. **[Thapar Institute of Engineering and Technology](/colleges/thapar-institute) (LM Thapar School of Management), Dera Bassi**, situated in **Dera Bassi / Patiala**, stands out as one of the premier destinations for undergraduate and postgraduate education in Punjab.
+Selecting the right university is one of the most pivotal decisions in a student's academic and professional journey. **[Thapar Institute of Engineering and Technology](/colleges/thapar-institute/) (LM Thapar School of Management), Dera Bassi**, situated in **Dera Bassi / Patiala**, stands out as one of the premier destinations for undergraduate and postgraduate education in Punjab.
 
-Whether you are aspiring for engineering, management, legal studies, or new-age interdisciplinary courses, understanding the reality of campus placements, actual fee structures, and return on investment (ROI) is crucial. In this comprehensive **2026 review of [Thapar Institute of Engineering and Technology](/colleges/thapar-institute) (LM Thapar School of Management), Dera Bassi**, we analyze the university's academic quality, recruiter network, facilities, and admission procedures.
+Whether you are aspiring for engineering, management, legal studies, or new-age interdisciplinary courses, understanding the reality of campus placements, actual fee structures, and return on investment (ROI) is crucial. In this comprehensive **2026 review of [Thapar Institute of Engineering and Technology](/colleges/thapar-institute/) (LM Thapar School of Management), Dera Bassi**, we analyze the university's academic quality, recruiter network, facilities, and admission procedures.
 
 ---
 
 ## 🏛️ LM Thapar School of Management (TIET): University Overview & Accreditation
 
-LM Thapar School of Management (LMTSM), located at the modern Dera Bassi campus near Chandigarh, is the flagship B-school of the legendary [Thapar Institute of Engineering and Technology](/colleges/thapar-institute) (TIET). Backed by Thapar's 68-year academic prestige, LMTSM offers tech-savvy MBA specializations, global semester exchanges, and strong consulting placements.
+LM Thapar School of Management (LMTSM), located at the modern Dera Bassi campus near Chandigarh, is the flagship B-school of the legendary [Thapar Institute of Engineering and Technology](/colleges/thapar-institute/) (TIET). Backed by Thapar's 68-year academic prestige, LMTSM offers tech-savvy MBA specializations, global semester exchanges, and strong consulting placements.
 
 ### Key Institutional Highlights (2026)
 
 | Parameter / Feature | Details |
 | :--- | :--- |
-| **Full Institutional Name** | [Thapar Institute of Engineering and Technology](/colleges/thapar-institute) (LM Thapar School of Management), Dera Bassi |
+| **Full Institutional Name** | [Thapar Institute of Engineering and Technology](/colleges/thapar-institute/) (LM Thapar School of Management), Dera Bassi |
 | **Location & Region** | Dera Bassi / Patiala, Punjab |
 | **University Type & Status** | Deemed-to-be University (UGC Approved, NAAC A+ Grade) |
 | **Established Year** | 1956 (TIET) / 2007 (LM Thapar School of Management) |
@@ -83,7 +83,7 @@ LM Thapar School of Management (LMTSM), located at the modern Dera Bassi campus 
 
 ## 💰 Courses Offered & Fee Structure (2026-2027)
 
-[Thapar Institute of Engineering and Technology](/colleges/thapar-institute) (LM Thapar School of Management), Dera Bassi offers a comprehensive portfolio of industry-aligned programs. Below is an overview of the flagship courses, approximate annual fees, and admission criteria for the 2026 academic year:
+[Thapar Institute of Engineering and Technology](/colleges/thapar-institute/) (LM Thapar School of Management), Dera Bassi offers a comprehensive portfolio of industry-aligned programs. Below is an overview of the flagship courses, approximate annual fees, and admission criteria for the 2026 academic year:
 
 | Course Name | Program Duration | Approximate Annual Fees | Key Eligibility & Entrance |
 | :--- | :--- | :--- | :--- |
@@ -167,10 +167,10 @@ Admissions for 2026 at Thapar Institute of Engineering and Technology (LM Thapar
 
 ## 🔗 Related Resources & Internal Links
 
-- [CAT 2026 Complete Exam Guide & Preparation Strategy](/blog/all-about-cat-exam)
-- [Top MBA & PGDM Colleges in India 2026: Placements, Fees & Cutoffs](/blog/all-about-iim-colleges-placements-fees-selection-2026)
-- [Direct Admission in BBA & MBA 2026 (Management Quota Guide)](/blog/direct-bba-admission-2026-management-quota)
-- [Compare B.Tech vs BCA: Career & Salary Guide](/blog/btech-vs-bca-career-guide)
+- [CAT 2026 Complete Exam Guide & Preparation Strategy](/blog/all-about-cat-exam/)
+- [Top MBA & PGDM Colleges in India 2026: Placements, Fees & Cutoffs](/blog/all-about-iim-colleges-placements-fees-selection-2026/)
+- [Direct Admission in BBA & MBA 2026 (Management Quota Guide)](/blog/direct-bba-admission-2026-management-quota/)
+- [Compare B.Tech vs BCA: Career & Salary Guide](/blog/bca-vs-btech-cse-which-is-better-for-your-career-2026/)
 
 ---
 

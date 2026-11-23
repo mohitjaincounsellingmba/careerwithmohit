@@ -52,9 +52,9 @@ Whether you are aspiring for engineering, management, legal studies, or new-age 
 
 ---
 
-## 🏛️ [Uttaranchal University](/colleges/uttaranchal-university) Dehradun: University Overview & Accreditation
+## 🏛️ [Uttaranchal University](/colleges/uttaranchal-university/) Dehradun: University Overview & Accreditation
 
-[Uttaranchal University](/colleges/uttaranchal-university) in Dehradun, home to the nationally famous Law College Dehradun (LCD), is a NAAC A+ accredited multidisciplinary university. Situated near the Indian Military Academy (IMA) on NH-72, the university is renowned for its premier legal education, agriculture research, and affordable engineering/MBA courses.
+[Uttaranchal University](/colleges/uttaranchal-university/) in Dehradun, home to the nationally famous Law College Dehradun (LCD), is a NAAC A+ accredited multidisciplinary university. Situated near the Indian Military Academy (IMA) on NH-72, the university is renowned for its premier legal education, agriculture research, and affordable engineering/MBA courses.
 
 ### Key Institutional Highlights (2026)
 
@@ -71,7 +71,7 @@ Whether you are aspiring for engineering, management, legal studies, or new-age 
 
 ---
 
-[InquiryCard title="Get Free Admission Counselling for [Uttaranchal University](/colleges/uttaranchal-university) Dehradun (2026)" description="Confused about eligibility, fee structures, cutoffs, or placement ROI? Connect with Mohit Jain for 1-on-1 career guidance and admission support." cta="Get Free Counselling" type="admission"]
+[InquiryCard title="Get Free Admission Counselling for [Uttaranchal University](/colleges/uttaranchal-university/) Dehradun (2026)" description="Confused about eligibility, fee structures, cutoffs, or placement ROI? Connect with Mohit Jain for 1-on-1 career guidance and admission support." cta="Get Free Counselling" type="admission"]
 
 ---
 
@@ -102,13 +102,13 @@ A critical indicator of any university's strength is its corporate relations cel
 - **Top Visiting Employers:** TCS, Wipro, Infosys, Amazon, HDFC Bank, ICICI Bank, Capgemini, Extramarks, Byju's
 
 ### Return on Investment (ROI) Verdict
-When comparing the annual tuition fees against the average placement compensation of **₹5.50 LPA - ₹7.00 LPA**, [Uttaranchal University](/colleges/uttaranchal-university) Dehradun provides a solid ROI—especially for students graduating from flagship MBA, Computer Science Engineering, and specialized corporate degree tracks.
+When comparing the annual tuition fees against the average placement compensation of **₹5.50 LPA - ₹7.00 LPA**, [Uttaranchal University](/colleges/uttaranchal-university/) Dehradun provides a solid ROI—especially for students graduating from flagship MBA, Computer Science Engineering, and specialized corporate degree tracks.
 
 ---
 
 ## 🏫 Campus Life, Infrastructure & Student Experience
 
-Life at **[Uttaranchal University](/colleges/uttaranchal-university) Dehradun** extends far beyond traditional classrooms. The campus is designed to promote holistic development, physical fitness, and collaborative learning:
+Life at **[Uttaranchal University](/colleges/uttaranchal-university/) Dehradun** extends far beyond traditional classrooms. The campus is designed to promote holistic development, physical fitness, and collaborative learning:
 
 1. **Smart Classrooms & Innovation Labs:** Air-conditioned classrooms equipped with audio-visual learning tools, alongside advanced computer, AI, and domain-specific research laboratories.
 2. **Central Library & Digital Archives:** Extensive collection of academic books, international research journals, IEEE/ACM databases, and quiet reading halls.
@@ -161,10 +161,10 @@ Admissions for 2026 at Uttanchal University, Dehradun are conducted based on ent
 
 ## 🔗 Related Resources & Internal Links
 
-- [CAT 2026 Complete Exam Guide & Preparation Strategy](/blog/all-about-cat-exam)
-- [Top MBA & PGDM Colleges in India 2026: Placements, Fees & Cutoffs](/blog/all-about-iim-colleges-placements-fees-selection-2026)
-- [Direct Admission in BBA & MBA 2026 (Management Quota Guide)](/blog/direct-bba-admission-2026-management-quota)
-- [Compare B.Tech vs BCA: Career & Salary Guide](/blog/btech-vs-bca-career-guide)
+- [CAT 2026 Complete Exam Guide & Preparation Strategy](/blog/all-about-cat-exam/)
+- [Top MBA & PGDM Colleges in India 2026: Placements, Fees & Cutoffs](/blog/all-about-iim-colleges-placements-fees-selection-2026/)
+- [Direct Admission in BBA & MBA 2026 (Management Quota Guide)](/blog/direct-bba-admission-2026-management-quota/)
+- [Compare B.Tech vs BCA: Career & Salary Guide](/blog/bca-vs-btech-cse-which-is-better-for-your-career-2026/)
 
 ---
 

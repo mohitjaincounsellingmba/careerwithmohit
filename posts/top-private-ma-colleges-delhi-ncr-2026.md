@@ -10,7 +10,7 @@ keywords:
   - Best private universities for MA Economics
   - MA Psychology colleges Noida
   - Ashoka University MA admission 2026
-  - '[Amity University](/colleges/amity-noida) MA fees'
+  - '[Amity University](/colleges/amity-noida/) MA fees'
   - O.P. Jindal MA International Relations
   - Private MA colleges Gurgaon
   - MA English colleges Delhi NCR 2026
@@ -56,8 +56,8 @@ In this guide, we dive deep into the top-rated private MA colleges across Noida,
 | :--- | :--- | :--- |
 | **Economics** | **Ashoka University / Shiv Nadar** | Exceptional research focus & corporate placements. |
 | **International Relations** | **O.P. Jindal Global University** | World-class faculty and global credit transfers. |
-| **Clinical Psychology** | **[Amity University](/colleges/amity-noida) / GD Goenka** | Established labs and mandatory clinical internships. |
-| **English & Liberal Arts** | **[Bennett University](/colleges/bennett-greater-noida) / Ashoka** | Critical thinking and contemporary literature focus. |
+| **Clinical Psychology** | **[Amity University](/colleges/amity-noida/) / GD Goenka** | Established labs and mandatory clinical internships. |
+| **English & Liberal Arts** | **[Bennett University](/colleges/bennett-greater-noida/) / Ashoka** | Critical thinking and contemporary literature focus. |
 | **Media & Journalism** | **SGT University / Sharda** | Massive production studios and industry tie-ups. |
 
 ---
@@ -66,12 +66,12 @@ In this guide, we dive deep into the top-rated private MA colleges across Noida,
 
 ### 1. Noida & Greater Noida: The Hub of Diversity
 The Noida region is home to some of the largest private educational setups in India.
-*   **[Amity University](/colleges/amity-noida) (Noida):** The most sought-after for **MA Clinical Psychology**. It has a dedicated Institute of Psychology (AIPS) with extensive lab facilities.
+*   **[Amity University](/colleges/amity-noida/) (Noida):** The most sought-after for **MA Clinical Psychology**. It has a dedicated Institute of Psychology (AIPS) with extensive lab facilities.
 *   **Shiv Nadar University (Greater Noida):** Known for its "Multidisciplinary Research University" status, it is a top choice for students aiming for a PhD in Economics or Sociology.
 *   **Galgotias & Sharda:** Great for students looking for regular MA programs in Political Science, History, and Sociology with affordable fee structures compared to elite private schools.
 
 ### 2. Gurgaon (Gurugram): Corporate & Clinical Focus
-*   **[GD Goenka University](/colleges/gd-goenka-university):** Their **MA in Counselling Psychology** is highly rated for its practical approach.
+*   **[GD Goenka University](/colleges/gd-goenka-university/):** Their **MA in Counselling Psychology** is highly rated for its practical approach.
 *   **K.R. Mangalam University:** Offers a very flexible MA program with special emphasis on English and Economics.
 *   **SGT University:** A medical and research-heavy university that provides great exposure for MA students in Allied Health sciences and Mass Communication.
 
@@ -101,8 +101,8 @@ Most of these universities conduct their own entrance exams or accept scores fro
 
 ## 🔗 Related Resources
 - [CUET PG 2026 Score Calculator & Predictor](/calculator/cuet-pg-2026)
-- [Top MBA Colleges Accepting CUET PG 2026](/blog/top-mba-colleges-cuet-pg)
-- [Career Counselling: How to Choose the Right Master's Degree](/blog/career-counselling-guide-2026)
+- [Top MBA Colleges Accepting CUET PG 2026](/blog/top-mba-colleges-cuet-pg/)
+- [Career Counselling: How to Choose the Right Master's Degree](/book-session/)
 
 ---
 

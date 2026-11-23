@@ -20,14 +20,14 @@ faqs:
       The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
 ---
 
-### **College Review: [Symbiosis Eluru Business School](/colleges/symbiosis-eluru-business-school)**
+### **College Review: [Symbiosis Eluru Business School](/colleges/symbiosis-eluru-business-school/)**
 *   **Quality Curriculum**: Tailored directly to industry requirements with standard practical case studies.
 *   **Established Brand**: Over the years, it has earned a strong reputation among regional corporate employers.
 *   **Holistic Learning**: Focuses on both technical business skills and global soft skills development.
 
 ---
 
-### 📊 [Symbiosis Eluru Business School](/colleges/symbiosis-eluru-business-school) 2026 Snapshot
+### 📊 [Symbiosis Eluru Business School](/colleges/symbiosis-eluru-business-school/) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |
@@ -55,18 +55,18 @@ faqs:
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### 1. Is [Symbiosis Eluru Business School](/colleges/symbiosis-eluru-business-school) a good option for PGDM/MBA?
-Yes, [Symbiosis Eluru Business School](/colleges/symbiosis-eluru-business-school) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+### 1. Is [Symbiosis Eluru Business School](/colleges/symbiosis-eluru-business-school/) a good option for PGDM/MBA?
+Yes, [Symbiosis Eluru Business School](/colleges/symbiosis-eluru-business-school/) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
-### 2. What is the average package offered at [Symbiosis Eluru Business School](/colleges/symbiosis-eluru-business-school)?
-The average placement package at [Symbiosis Eluru Business School](/colleges/symbiosis-eluru-business-school) is approximately ₹7.1 LPA, with the highest package reaching up to ₹12.5 LPA.
+### 2. What is the average package offered at [Symbiosis Eluru Business School](/colleges/symbiosis-eluru-business-school/)?
+The average placement package at [Symbiosis Eluru Business School](/colleges/symbiosis-eluru-business-school/) is approximately ₹7.1 LPA, with the highest package reaching up to ₹12.5 LPA.
 
-### 3. What entrance exams are accepted by [Symbiosis Eluru Business School](/colleges/symbiosis-eluru-business-school)?
+### 3. What entrance exams are accepted by [Symbiosis Eluru Business School](/colleges/symbiosis-eluru-business-school/)?
 The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
 
 ---
 
-**Final Verdict**: [Symbiosis Eluru Business School](/colleges/symbiosis-eluru-business-school) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
+**Final Verdict**: [Symbiosis Eluru Business School](/colleges/symbiosis-eluru-business-school/) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
 [👉 Apply to Symbiosis Eluru Business School](/inquiry) | [👉 Get Free Counselling](/inquiry)
 

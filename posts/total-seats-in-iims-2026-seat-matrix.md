@@ -2,16 +2,15 @@
 title: 'Total Seats in IIMs 2026: Institute-wise Seat Matrix for CAT Aspirants'
 date: '2026-08-04'
 description: >-
-  Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Gurgaon, Delhi NCR. Get details on top colleges under GGSIPU, DU,
-  and priva
+  Total Seats in IIMs 2026: Institute-wise Seat Matrix for CAT Aspirants:
+  Explore fees, placements, cutoffs & admission guidelines.
 keywords:
   - total seats in IIM 2026
   - IIM seat matrix 2026
   - number of seats in IIM
-  - '[IIM Ahmedabad](/colleges/iim-ahmedabad) seats'
-  - '[IIM Bangalore](/colleges/iim-bangalore) seats'
-  - '[IIM Calcutta](/colleges/iim-calcutta) seats'
+  - '[IIM Ahmedabad](/colleges/iim-ahmedabad/) seats'
+  - '[IIM Bangalore](/colleges/iim-bangalore/) seats'
+  - '[IIM Calcutta](/colleges/iim-calcutta/) seats'
   - IIM category wise seats
   - total MBA seats in India
   - baby IIMs seat matrix
@@ -103,13 +102,13 @@ The older generation of IIMs represents the pinnacle of Indian management educat
 
 | Institute Name | Flagship PGP/MBA Seats | Total Intake (Including Specializations) |
 | :--- | :--- | :--- |
-| **[IIM Ahmedabad (IIMA)](/colleges/iim-ahmedabad)** | ~400–415 | ~450+ *(includes PGP-FABM)* |
-| **[IIM Bangalore (IIMB)](/colleges/iim-bangalore)** | ~480–525 | ~550+ *(includes PGP-BA)* |
-| **[IIM Calcutta (IIMC)](/colleges/iim-calcutta)** | ~460–480 | ~480+ |
-| **[IIM Lucknow (IIML)](/colleges/iim-lucknow)** | ~490–520 | ~580+ *(includes ABM & SM)* |
-| **[IIM Kozhikode (IIMK)](/colleges/iim-kozhikode)** | ~480–500 | ~550+ *(includes PGP-LSM & Finance)* |
-| **[IIM Indore (IIMI)](/colleges/iim-indore)** | ~450–480 | ~600+ *(includes IPM 5-year intake)* |
-| **[IIM Mumbai (IIMM - formerly NITIE)](/colleges/iim-mumbai)**| ~300 | ~550+ *(includes OSCM & SM)* |
+| **[IIM Ahmedabad (IIMA)](/colleges/iim-ahmedabad/)** | ~400–415 | ~450+ *(includes PGP-FABM)* |
+| **[IIM Bangalore (IIMB)](/colleges/iim-bangalore/)** | ~480–525 | ~550+ *(includes PGP-BA)* |
+| **[IIM Calcutta (IIMC)](/colleges/iim-calcutta/)** | ~460–480 | ~480+ |
+| **[IIM Lucknow (IIML)](/colleges/iim-lucknow/)** | ~490–520 | ~580+ *(includes ABM & SM)* |
+| **[IIM Kozhikode (IIMK)](/colleges/iim-kozhikode/)** | ~480–500 | ~550+ *(includes PGP-LSM & Finance)* |
+| **[IIM Indore (IIMI)](/colleges/iim-indore/)** | ~450–480 | ~600+ *(includes IPM 5-year intake)* |
+| **[IIM Mumbai (IIMM - formerly NITIE)](/colleges/iim-mumbai/)**| ~300 | ~550+ *(includes OSCM & SM)* |
 
 ---
 
@@ -149,17 +148,17 @@ The youngest generation of IIMs has rapidly expanded their infrastructure and se
 
 ### **How Strategic MBA Aspirants Maximize Their Calls**
 
-1.  **Target Specialized MBA Programs:** If your percentile is slightly below the flagship PGP cutoff for an Old IIM, applying for specialized programs like **[IIM Bangalore](/colleges/iim-bangalore) (Business Analytics)**, **IIM Lucknow (Agri-Business / Sustainability)**, or **IIM Kozhikode (Liberal Studies & Management)** can help you earn the coveted IIM brand tag.
+1.  **Target Specialized MBA Programs:** If your percentile is slightly below the flagship PGP cutoff for an Old IIM, applying for specialized programs like **[IIM Bangalore](/colleges/iim-bangalore/) (Business Analytics)**, **IIM Lucknow (Agri-Business / Sustainability)**, or **IIM Kozhikode (Liberal Studies & Management)** can help you earn the coveted IIM brand tag.
 2.  **Understand Open Merit Dynamics:** With only **~40.5% of seats (~2,200 seats across India)** available under General unreserved merit, competition is exceptionally intense. For Old IIMs, General category candidates typically need a **99.0+ CAT percentile**, along with a strong academic profile (10th, 12th, and graduation scores).
-3.  **Keep Top Private B-Schools as Parallel Backups:** Don't rely solely on IIM calls. Top-tier private B-schools such as **[FMS Delhi](/colleges/fms-delhi)**, **[SPJIMR Mumbai](/colleges/spjimr-mumbai)**, **[MDI Gurgaon](/colleges/mdi-gurgaon)**, **[XLRI Jamshedpur](/colleges/xlri-jamshedpur)** (via XAT), and **IMT Ghaziabad** offer placements and batch profiles at par with BLACKI IIMs.
+3.  **Keep Top Private B-Schools as Parallel Backups:** Don't rely solely on IIM calls. Top-tier private B-schools such as **[FMS Delhi](/colleges/fms-delhi/)**, **[SPJIMR Mumbai](/colleges/spjimr-mumbai/)**, **[MDI Gurgaon](/colleges/mdi-gurgaon/)**, **[XLRI Jamshedpur](/colleges/xlri-jamshedpur/)** (via XAT), and **IMT Ghaziabad** offer placements and batch profiles at par with BLACKI IIMs.
 
 ---
 
 ### **Related Reading**
-*   [All IIM Cut Off 2027–29: CAT Expected Qualifying & Final Calling Percentiles](/blog/all-iim-cut-off-2027–29-admission-mba-pgdm)
-*   [Complete List of 21 IIMs: Courses, Placements & Cutoffs](/blog/all-about-iim-colleges-placements-fees-selection-2026)
-*   [All About CAT Exam: Syllabus, Dates & Preparation](/blog/all-about-cat-exam)
-*   [MBA vs PGDM: Which is Better for Your Career in 2026?](/blog/mba-vs-pgdm-2026-ultimate-guide)
+*   [All IIM Cut Off 2027–29: CAT Expected Qualifying & Final Calling Percentiles](/blog/all-iim-cut-off-2027-29-admission-mba-pgdm/)
+*   [Complete List of 21 IIMs: Courses, Placements & Cutoffs](/blog/all-about-iim-colleges-placements-fees-selection-2026/)
+*   [All About CAT Exam: Syllabus, Dates & Preparation](/blog/all-about-cat-exam/)
+*   [MBA vs PGDM: Which is Better for Your Career in 2026?](/blog/mba-vs-pgdm-2026-ultimate-guide/)
 
 ---
 

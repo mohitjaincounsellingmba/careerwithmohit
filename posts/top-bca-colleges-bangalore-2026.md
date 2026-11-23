@@ -55,7 +55,7 @@ Choosing the right BCA college in Bangalore can determine whether you start as a
 | College | Entrance Exam | Total Fees | Avg. Placement |
 |---|---|---|---|
 | **Christ University (Main)**| CUET | ₹2.5 - 3.5 Lakhs | ₹4.5 - 6.5 LPA |
-| **[Jain University](/colleges/jain-university) (CMS)** | JET | ₹2.8 - 3.6 Lakhs | ₹4.0 - 6.0 LPA |
+| **[Jain University](/colleges/jain-university/) (CMS)** | JET | ₹2.8 - 3.6 Lakhs | ₹4.0 - 6.0 LPA |
 | **MS Ramaiah (MSRCASC)** | Merit-based | ₹2.5 - 3.0 Lakhs | ₹3.5 - 5.5 LPA |
 | **St. Joseph's University** | SJU Entrance | ₹2.2 - 2.8 Lakhs | ₹3.5 - 5.0 LPA |
 | **Kristu Jayanti College** | Merit / Interview | ₹1.8 - 2.5 Lakhs | ₹3.2 - 4.8 LPA |
@@ -71,7 +71,7 @@ Consistently ranked India’s #1 BCA college. Christ University offers a rigorou
 - **Selection Process:** Christ University Entrance Test (CUET) + Micro Presentation + PI.
 - **Top Recruiters:** SAP, Oracle, Deloitte, Infosys, Wipro.
 
-### 2. [Jain University](/colleges/jain-university) (CMS)
+### 2. [Jain University](/colleges/jain-university/) (CMS)
 Known for its industry-aligned IT specializations in **Mobile Applications and Cloud Computing**. 
 - **USP:** Strong focus on entrepreneurship and internships after every semester.
 - **Admission:** JET (Jain Entrance Test).
@@ -120,9 +120,9 @@ Data Science, Artificial Intelligence (AI), and Cloud Computing are the highest-
 ---
 
 ### Useful Links:
-- [BCA vs B.Tech CSE — Which should you choose?](/blog/bca-vs-btech-cse-which-is-better-for-your-career)
-- [Top MCA Colleges in Bangalore 2026](/blog/top-mca-colleges-bangalore-2026)
-- [Top BBA Colleges in Bangalore 2026](/blog/top-bba-colleges-bangalore-2026)
+- [BCA vs B.Tech CSE — Which should you choose?](/blog/bca-vs-btech-cse-which-is-better-for-your-career-2026/)
+- [Top MCA Colleges in Bangalore 2026](/blog/top-mca-colleges-bangalore-2026/)
+- [Top BBA Colleges in Bangalore 2026](/blog/top-bba-colleges-bangalore-2026/)
 
 ---
 

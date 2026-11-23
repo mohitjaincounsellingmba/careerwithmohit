@@ -35,14 +35,14 @@ location: Kolkata
 state: West Bengal
 ---
 
-### **College Review: [Globsyn Business School](/colleges/globsyn-kolkata)**
+### **College Review: [Globsyn Business School](/colleges/globsyn-kolkata/)**
 *   **Quality Curriculum**: Tailored directly to industry requirements with standard practical case studies.
 *   **Established Brand**: Over the years, it has earned a strong reputation among regional corporate employers.
 *   **Holistic Learning**: Focuses on both technical business skills and global soft skills development.
 
 ---
 
-### 📊 [Globsyn Business School](/colleges/globsyn-kolkata) 2026 Snapshot
+### 📊 [Globsyn Business School](/colleges/globsyn-kolkata/) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |
@@ -70,18 +70,18 @@ state: West Bengal
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### 1. Is [Globsyn Business School](/colleges/globsyn-kolkata) a good option for PGDM/MBA?
-Yes, [Globsyn Business School](/colleges/globsyn-kolkata) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+### 1. Is [Globsyn Business School](/colleges/globsyn-kolkata/) a good option for PGDM/MBA?
+Yes, [Globsyn Business School](/colleges/globsyn-kolkata/) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
-### 2. What is the average package offered at [Globsyn Business School](/colleges/globsyn-kolkata)?
-The average placement package at [Globsyn Business School](/colleges/globsyn-kolkata) is approximately ₹7.5 LPA, with the highest package reaching up to ₹23.0 LPA.
+### 2. What is the average package offered at [Globsyn Business School](/colleges/globsyn-kolkata/)?
+The average placement package at [Globsyn Business School](/colleges/globsyn-kolkata/) is approximately ₹7.5 LPA, with the highest package reaching up to ₹23.0 LPA.
 
-### 3. What entrance exams are accepted by [Globsyn Business School](/colleges/globsyn-kolkata)?
+### 3. What entrance exams are accepted by [Globsyn Business School](/colleges/globsyn-kolkata/)?
 The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, JEMAT for the PGDM and MBA admissions.
 
 ---
 
-**Final Verdict**: [Globsyn Business School](/colleges/globsyn-kolkata) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
+**Final Verdict**: [Globsyn Business School](/colleges/globsyn-kolkata/) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
 [👉 Apply to Globsyn Business School](/inquiry) | [👉 Get Free Counselling](/inquiry)
 

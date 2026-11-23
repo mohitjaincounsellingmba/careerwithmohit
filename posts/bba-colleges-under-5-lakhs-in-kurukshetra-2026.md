@@ -3,9 +3,8 @@ title: 'Top BBA Colleges Under 5 Lakhs in Kurukshetra 2026: Fees & Placements'
 date: '2026-06-20'
 category: BBA Admissions
 description: >-
-  Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
-  private univer
+  Pursuing a Bachelor of Business Administration (BBA) is a great foundation for
+  a corporate career, but it doesn't need to break the bank.
 keywords:
   - BBA Colleges under 5 Lakhs in Kurukshetra
   - affordable BBA in Kurukshetra
@@ -66,7 +65,7 @@ These institutions keep tuition fees under ₹5 Lakhs (either total program fee 
 - **Average Placement Package:** **₹3.0 LPA - ₹4.2 LPA**
 - **Key Highlight:** Affordable education catering to local students with standard graduate facilities.
 
-### 3. Kurukshetra [Institute of Management Studies](/colleges/institute-of-management-studies) (CIMS)
+### 3. Kurukshetra [Institute of Management Studies](/colleges/institute-of-management-studies/) (CIMS)
 - **Approximate Fees:** ₹1.2 Lakhs - ₹1.8 Lakhs (Annual)
 - **Accepted Entrance Exams:** CUET / Institute Merit
 - **Average Placement Package:** **₹3.5 LPA - ₹4.5 LPA**
@@ -82,7 +81,7 @@ Here is a quick snapshot comparing the fee structures and average placements for
 | :--- | :--- | :--- | :--- |
 | **Department of Commerce & Management, University of Kurukshetra** | CUET / Merit-Based | ₹30,000 - ₹90,000 (Total) | **₹3.8 LPA - ₹5.0 LPA** |
 | **Government PG College, Kurukshetra** | Class 12th Marks (Merit) | ₹15,000 - ₹45,000 (Total) | **₹3.0 LPA - ₹4.2 LPA** |
-| **Kurukshetra [Institute of Management Studies](/colleges/institute-of-management-studies) (CIMS)** | CUET / Institute Merit | ₹1.2 Lakhs - ₹1.8 Lakhs (Annual) | **₹3.5 LPA - ₹4.5 LPA** |
+| **Kurukshetra [Institute of Management Studies](/colleges/institute-of-management-studies/) (CIMS)** | CUET / Institute Merit | ₹1.2 Lakhs - ₹1.8 Lakhs (Annual) | **₹3.5 LPA - ₹4.5 LPA** |
 
 ---
 
@@ -104,9 +103,9 @@ Return on Investment (ROI) is the most critical metric for any management aspira
 ---
 
 ## 🔗 Related Resources
-- [Best BBA Specializations for 2026](/blog/bba-specializations-skills-salary-2026-guide)
-- [BBA vs BCom vs BMS: Career Comparison](/blog/bba-vs-bcom-vs-bms-career-comparison)
-- [Direct BBA Admission 2026](/blog/direct-bba-admission-2026-management-quota)
+- [Best BBA Specializations for 2026](/blog/bba-specializations-skills-salary-2026-guide/)
+- [BBA vs BCom vs BMS: Career Comparison](/blog/bba-vs-bcom-vs-bms-career-comparison/)
+- [Direct BBA Admission 2026](/blog/direct-bba-admission-2026-management-quota/)
 
 ---
 

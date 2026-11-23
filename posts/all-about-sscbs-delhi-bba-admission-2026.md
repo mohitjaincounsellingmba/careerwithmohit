@@ -74,9 +74,9 @@ No, there is no management quota or direct admission. All seats are filled via C
 BMS is a general management course covering all aspects of business, while BBA(FIA) is highly specialized towards finance and investment banking.
 
 ## 🔗 Useful Links:
-- [Top BBA Colleges in India 2026 — Full List](/blog/top-bba-colleges-india-2026)
-- [BBA Colleges Without Maths — 2026 Guide](/blog/bba-colleges-without-maths-eligibility-2026)
-- [IPMAT 2026 Preparation Guide](/blog/ipmat-2026-preparation-guide-colleges)
+- [Top BBA Colleges in India 2026 — Full List](/blog/top-bba-colleges-india-2026/)
+- [BBA Colleges Without Maths — 2026 Guide](/blog/bba-colleges-without-maths-eligibility-2026/)
+- [IPMAT 2026 Preparation Guide](/blog/ipmat-2026-preparation-guide-colleges/)
 
 ---
 

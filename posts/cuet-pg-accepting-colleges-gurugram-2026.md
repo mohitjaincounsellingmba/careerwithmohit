@@ -7,8 +7,8 @@ description: >-
   and MCA.
 keywords:
   - CUET PG colleges in Gurugram 2026
-  - '[BML Munjal University](/colleges/bml-munjal-gurgaon) CUET PG admission'
-  - '[Amity University](/colleges/amity-noida) Gurugram CUET PG'
+  - '[BML Munjal University](/colleges/bml-munjal-gurgaon/) CUET PG admission'
+  - '[Amity University](/colleges/amity-noida/) Gurugram CUET PG'
   - Sushant University CUET PG
   - best PG colleges in Gurgaon under CUET
   - Noida Colleges
@@ -48,13 +48,13 @@ If you are planning to pursue **MBA, MCA, or MSc in Gurugram**, here is your det
 
 ---
 
-### **1. [BML Munjal University](/colleges/bml-munjal-gurgaon) (Gurugram)**
+### **1. [BML Munjal University](/colleges/bml-munjal-gurgaon/) (Gurugram)**
 Founded by the Hero Group, BML Munjal is highly respected for its industry-aligned curriculum.
 *   **Top Programs:** MBA (Marketing/Finance/HR/Business Analytics), MSc (Economics).
 *   **Admission Process:** They consider various national scores including CUET PG for several of their postgraduate programs.
 *   **Why Choose BML?** Strong industry-academic collaboration and high-quality teaching standards.
 
-### **2. [Amity University](/colleges/amity-noida) (Gurugram/Panchgaon)**
+### **2. [Amity University](/colleges/amity-noida/) (Gurugram/Panchgaon)**
 Amity Gurugram is known for its world-class infrastructure and focus on research-driven PG courses.
 *   **Top Programs:** MBA, MCA, MA, MSc.
 *   **Admission Process:** They consider CUET PG scores as part of the initial screening for postgraduate programs.
@@ -84,9 +84,9 @@ NCU is highly regarded for its technical and management departments in Gurugram.
 ---
 
 ### **Helpful Resources for CUET PG Aspirants:**
-- [Top MBA Colleges in Gurgaon](/blog/top-btech-colleges-gurgaon-2026)
-- [All about JKBS Gurgaon](/blog/all-about-jkbs-gurgaon)
-- [CUET PG MBA Colleges List 2026](/blog/cuet-pg-mba-colleges-list-2026)
+- [Top MBA Colleges in Gurgaon](/blog/top-btech-colleges-gurgaon-2026/)
+- [All about JKBS Gurgaon](/blog/all-about-jkbs-gurgaon/)
+- [CUET PG MBA Colleges List 2026](/blog/cuet-pg-mba-colleges-list-2026/)
 
 **Confused between BML Munjal vs. Amity?**
 Choosing the right Gurugram college requires balancing your career specialization with the campus culture. Get expert advice today!

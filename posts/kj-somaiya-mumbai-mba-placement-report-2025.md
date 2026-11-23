@@ -86,10 +86,10 @@ pie title KJ Somaiya Domain Distribution 2025
 
 ## 3. Related Placement Reports
 
-*   **[SPJIMR Mumbai Placement Report 2025](/blog/spjimr-mumbai-pgdm-placement-report-2025)**
-*   **[BITSoM Mumbai Placement Report 2025](/blog/bitsom-mumbai-mba-placement-report-2025)**
-*   **[TAPMI Manipal Placement Report 2025](/blog/tapmi-manipal-mba-placement-report-2025)**
-*   **[All 21 IIMs Recent Placement Report 2025](/blog/all-iim-recent-placement-report-2025)**
+*   **[SPJIMR Mumbai Placement Report 2025](/blog/spjimr-mumbai-pgdm-placement-report-2025/)**
+*   **[BITSoM Mumbai Placement Report 2025](/blog/bitsom-mumbai-mba-placement-report-2025/)**
+*   **[TAPMI Manipal Placement Report 2025](/blog/tapmi-manipal-mba-placement-report-2025/)**
+*   **[All 21 IIMs Recent Placement Report 2025](/blog/all-iim-recent-placement-report-2025/)**
 
 ---
 

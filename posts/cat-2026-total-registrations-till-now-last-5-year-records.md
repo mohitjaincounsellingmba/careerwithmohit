@@ -34,7 +34,7 @@ faqs:
 > - **5-Year Benchmark (Registered vs Appeared)**: Across 2020–2024, total registrations scaled from 2.28 Lakh to a record 3.29 Lakh in CAT 2024. Actual test-takers who appeared grew from 1.90 Lakh (2020) to 2.93 Lakh (2024).
 > - **Attendance Drop-off Ratio**: Historical data reveals an **83% to 89% test attendance rate**; approximately 35,000 to 40,000 registered aspirants consistently skip the exam on test day, establishing the real competitive pool at ~2.90 Lakh test-takers.
 
-The **Common Admission Test (CAT)** remains the definitive, high-stakes proving ground for graduate business education in India. Conducted annually by the Indian Institutes of Management (IIMs) on a rotational basis, CAT is the gateway to the 21 prestigious IIMs and over 1,200 premier autonomous and university B-Schools, including [FMS Delhi](/colleges/fms-delhi), [SPJIMR Mumbai](/colleges/spjimr-mumbai), [MDI Gurgaon](/colleges/mdi-gurgaon), and the IIT management departments.
+The **Common Admission Test (CAT)** remains the definitive, high-stakes proving ground for graduate business education in India. Conducted annually by the Indian Institutes of Management (IIMs) on a rotational basis, CAT is the gateway to the 21 prestigious IIMs and over 1,200 premier autonomous and university B-Schools, including [FMS Delhi](/colleges/fms-delhi/), [SPJIMR Mumbai](/colleges/spjimr-mumbai/), [MDI Gurgaon](/colleges/mdi-gurgaon/), and the IIT management departments.
 
 For any MBA aspirant aiming for the upcoming **CAT 2026** exam, understanding candidate application statistics is not merely academic trivia—it is a critical intelligence metric. The total volume of registrations and the actual number of candidates who appear dictate the percentile calculation curve, the sectional normalization formula, and the intense cut-throat race for an IIM interview call.
 
@@ -121,7 +121,7 @@ CAT Academic Demographics (Recent Cycles)
 └──────────────────────────────────────────────────────────────┘
 ```
 
-Because top IIMs (such as [IIM Ahmedabad](/colleges/iim-ahmedabad), [IIM Bangalore](/colleges/iim-bangalore), and [IIM Calcutta](/colleges/iim-calcutta)) evaluate Academic Categories (AC-1 to AC-6) and assign **academic diversity points**, non-engineering candidates can often secure interview calls at 96–98 percentile where engineers might require 99.6+ percentile.
+Because top IIMs (such as [IIM Ahmedabad](/colleges/iim-ahmedabad/), [IIM Bangalore](/colleges/iim-bangalore/), and [IIM Calcutta](/colleges/iim-calcutta/)) evaluate Academic Categories (AC-1 to AC-6) and assign **academic diversity points**, non-engineering candidates can often secure interview calls at 96–98 percentile where engineers might require 99.6+ percentile.
 
 ---
 
@@ -179,11 +179,11 @@ With total applications tracking in the 3.2 Lakh bracket, casual preparation wil
 ## Related Reading & Essential Guides
 
 To strengthen your 2026–2027 admission roadmap, explore our expert resources:
-* **[10 Tips to Crack CAT Exam 2026: Complete Strategy Guide](/blog/10-tips-to-crack-cat-exam-2026)**
-* **[All About CAT Exam 2026: Syllabus, Pattern, Registration & IIM Cutoffs](/blog/all-about-cat-exam)**
-* **[All IIM Cut-Offs 2026–2028: Category-Wise Admission Criteria](/blog/all-iim-cut-off-2026-28-admission-mba-pgdm)**
-* **[Top IIM Colleges Placement Report & Fee Structures](/blog/all-about-iim-colleges-placements-fees-selection-2026)**
-* **[MBA & PGDM Admission 2027–2029 Complete Guide](/blog/mba-pgdm-admission-2027-2029-complete-guide)**
+* **[10 Tips to Crack CAT Exam 2026: Complete Strategy Guide](/blog/10-tips-to-crack-cat-exam-2026/)**
+* **[All About CAT Exam 2026: Syllabus, Pattern, Registration & IIM Cutoffs](/blog/all-about-cat-exam/)**
+* **[All IIM Cut-Offs 2026–2028: Category-Wise Admission Criteria](/blog/all-iim-cut-off-2026-28-admission-mba-pgdm/)**
+* **[Top IIM Colleges Placement Report & Fee Structures](/blog/all-about-iim-colleges-placements-fees-selection-2026/)**
+* **[MBA & PGDM Admission 2027–2029 Complete Guide](/blog/mba-pgdm-admission-2027-2029-complete-guide/)**
 
 ---
 

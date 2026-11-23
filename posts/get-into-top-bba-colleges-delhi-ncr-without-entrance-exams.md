@@ -72,23 +72,23 @@ Most private colleges affiliated with state universities (such as IP University)
 
 If you want to skip the entrance exams, consider targeting these institutions:
 
-### 1. [Amity University, Noida](/colleges/amity-university-noida)
+### 1. [Amity University, Noida](/colleges/amity-university-noida/)
 Amity offers direct admission to its popular BBA program for students with excellent academic records.
 - **Criteria:** Direct admission (without test/interview) is often offered to candidates scoring above 80% to 85% aggregate in Class 12th. Other candidates undergo an English test and PI.
 
-### 2. [Galgotias University](/colleges/galgotias-university), Greater Noida
+### 2. [Galgotias University](/colleges/galgotias-university/), Greater Noida
 Galgotias is popular for its dynamic placements and offers direct admission based on board performance.
 - **Criteria:** Minimum 50% to 60% aggregate in Class 12th boards. Selection is merit-based.
 
-### 3. [Bennett University](/colleges/bennett-greater-noida), Greater Noida
-Backed by the Times Group, [Bennett University](/colleges/bennett-greater-noida) has a stellar corporate network and offers direct admission pathways.
+### 3. [Bennett University](/colleges/bennett-greater-noida/), Greater Noida
+Backed by the Times Group, [Bennett University](/colleges/bennett-greater-noida/) has a stellar corporate network and offers direct admission pathways.
 - **Criteria:** General selection is based on Class 12th board percentages or SAT scores.
 
-### 4. [Sharda University](/colleges/sharda-greater-noida), Greater Noida
-[Sharda University](/colleges/sharda-greater-noida) accepts students directly through its merit lists and interview rounds.
+### 4. [Sharda University](/colleges/sharda-greater-noida/), Greater Noida
+[Sharda University](/colleges/sharda-greater-noida/) accepts students directly through its merit lists and interview rounds.
 - **Criteria:** Board marks (minimum 50% aggregate) followed by a basic interview.
 
-### 5. [GD Goenka University, Gurgaon](/colleges/gd-goenka-gurgaon)
+### 5. [GD Goenka University, Gurgaon](/colleges/gd-goenka-gurgaon/)
 GD Goenka offers business programs with modern infrastructure and experiential learning.
 - **Criteria:** Class 12th aggregate marks followed by academic counselling.
 
@@ -114,9 +114,9 @@ GD Goenka offers business programs with modern infrastructure and experiential l
 ---
 
 ## 🔗 Related Resources
-- [Direct BBA Admission 2026 Management Quota Guide](/blog/direct-bba-admission-2026-management-quota)
-- [BBA Fees vs Placement: ROI Comparison](/blog/bba-fees-vs-placement-delhi-ncr-colleges-worth-it-2026)
-- [Top 10 BBA Colleges in Delhi NCR 2026](/blog/top-10-bba-colleges-delhi-ncr-2026)
+- [Direct BBA Admission 2026 Management Quota Guide](/blog/direct-bba-admission-2026-management-quota/)
+- [BBA Fees vs Placement: ROI Comparison](/blog/bba-fees-vs-placement-delhi-ncr-colleges-worth-it-2026/)
+- [Top 10 BBA Colleges in Delhi NCR 2026](/blog/top-10-bba-colleges-delhi-ncr-2026/)
 
 ---
 

@@ -1,17 +1,16 @@
 ---
 title: >-
-  [Poornima University](/colleges/poornima-jaipur) GCEC MBA Review 2026: The
+  [Poornima University](/colleges/poornima-jaipur/) GCEC MBA Review 2026: The
   Best ROI in Jaipur?
 date: '2026-03-25'
 description: >-
-  Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
-  private univer
+  Rajasthan is rapidly becoming a hub for startups and specialized education.
+  Check fees, cutoffs, placements & expert admission tips.
 keywords:
-  - '[Poornima University](/colleges/poornima-jaipur) GCEC MBA review 2026'
+  - '[Poornima University](/colleges/poornima-jaipur/) GCEC MBA review 2026'
   - GCEC Jaipur MBA placement package
   - MBA International Finance ACCA Jaipur
-  - '[Poornima University](/colleges/poornima-jaipur) MBA fees 2026'
+  - '[Poornima University](/colleges/poornima-jaipur/) MBA fees 2026'
   - Global Centre for Entrepreneurship and Commerce reviews
   - best MBA for entrepreneurship in Rajasthan
   - Delhi Colleges
@@ -27,10 +26,10 @@ keywords:
   - Colleges in Delhi NCR
   - Delhi NCR Career Counselling
 faqs:
-  - question: 'Is GCEC [Poornima University](/colleges/poornima-jaipur) degree valid?'
+  - question: 'Is GCEC [Poornima University](/colleges/poornima-jaipur/) degree valid?'
     answer: >-
       Yes. The degree is awarded by [Poornima
-      University](/colleges/poornima-jaipur), which is a UGC-recognized private
+      University](/colleges/poornima-jaipur/), which is a UGC-recognized private
       university in Rajasthan.
   - question: How many ACCA exemptions do I get in the GCEC MBA?
     answer: >-
@@ -42,7 +41,7 @@ location: Delhi NCR
 state: Delhi NCR
 ---
 
-Rajasthan is rapidly becoming a hub for startups and specialized education. Leading this change is the **Global Centre for Entrepreneurship and Commerce (GCEC)**, in collaboration with **[Poornima University](/colleges/poornima-jaipur), Jaipur**. 
+Rajasthan is rapidly becoming a hub for startups and specialized education. Leading this change is the **Global Centre for Entrepreneurship and Commerce (GCEC)**, in collaboration with **[Poornima University](/colleges/poornima-jaipur/), Jaipur**. 
 
 If you are looking for an MBA that goes beyond standard textbooks and focuses on global certifications and startup culture, the GCEC Global Foundation model is worth your attention for the 2027–2029 intake.
 
@@ -82,7 +81,7 @@ GCEC has maintained an impressive record, especially given its niche focus.
 *   **Highest Package**: Touched **₹15 - ₹18 LPA** in recent drives.
 *   **Top Recruiters**: Global giants like **EY, KPMG, PWC, Barclays, and HDFC Bank** are frequent visitors for their finance and analytics graduates.
 
-*Note: While [Poornima University](/colleges/poornima-jaipur)'s overall average is around ₹4-5 LPA, the specialized GCEC/FIRE department often sees much higher placement density due to global certifications.*
+*Note: While [Poornima University](/colleges/poornima-jaipur/)'s overall average is around ₹4-5 LPA, the specialized GCEC/FIRE department often sees much higher placement density due to global certifications.*
 
 ---
 
@@ -100,8 +99,8 @@ GCEC has maintained an impressive record, especially given its niche focus.
 ---
 
 ### **Frequently Asked Questions (FAQ)**
-**1. Is GCEC [Poornima University](/colleges/poornima-jaipur) degree valid?**
-Yes. The degree is awarded by [Poornima University](/colleges/poornima-jaipur), which is a UGC-recognized private university in Rajasthan.
+**1. Is GCEC [Poornima University](/colleges/poornima-jaipur/) degree valid?**
+Yes. The degree is awarded by [Poornima University](/colleges/poornima-jaipur/), which is a UGC-recognized private university in Rajasthan.
 
 **2. How many ACCA exemptions do I get in the GCEC MBA?**
 Students can get up to **9 paper exemptions** out of the 13 required for ACCA (UK) certification, saving nearly 2 years of study time.

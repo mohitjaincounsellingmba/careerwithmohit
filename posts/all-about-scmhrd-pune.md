@@ -35,14 +35,14 @@ location: Pune
 state: Maharashtra
 ---
 
-### **College Review: [SCMHRD Pune](/colleges/scmhrd-pune)**
+### **College Review: [SCMHRD Pune](/colleges/scmhrd-pune/)**
 *   **Quality Curriculum**: Tailored directly to industry requirements with standard practical case studies.
 *   **Established Brand**: Over the years, it has earned a strong reputation among regional corporate employers.
 *   **Holistic Learning**: Focuses on both technical business skills and global soft skills development.
 
 ---
 
-### 📊 [SCMHRD Pune](/colleges/scmhrd-pune) 2026 Snapshot
+### 📊 [SCMHRD Pune](/colleges/scmhrd-pune/) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |
@@ -70,18 +70,18 @@ state: Maharashtra
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### 1. Is [SCMHRD Pune](/colleges/scmhrd-pune) a good option for PGDM/MBA?
-Yes, [SCMHRD Pune](/colleges/scmhrd-pune) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+### 1. Is [SCMHRD Pune](/colleges/scmhrd-pune/) a good option for PGDM/MBA?
+Yes, [SCMHRD Pune](/colleges/scmhrd-pune/) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
-### 2. What is the average package offered at [SCMHRD Pune](/colleges/scmhrd-pune)?
-The average placement package at [SCMHRD Pune](/colleges/scmhrd-pune) is approximately ₹23.7 LPA, with the highest package reaching up to ₹38.5 LPA.
+### 2. What is the average package offered at [SCMHRD Pune](/colleges/scmhrd-pune/)?
+The average placement package at [SCMHRD Pune](/colleges/scmhrd-pune/) is approximately ₹23.7 LPA, with the highest package reaching up to ₹38.5 LPA.
 
-### 3. What entrance exams are accepted by [SCMHRD Pune](/colleges/scmhrd-pune)?
+### 3. What entrance exams are accepted by [SCMHRD Pune](/colleges/scmhrd-pune/)?
 The college accepts scores from national level entrance examinations including SNAP for the PGDM and MBA admissions.
 
 ---
 
-**Final Verdict**: [SCMHRD Pune](/colleges/scmhrd-pune) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
+**Final Verdict**: [SCMHRD Pune](/colleges/scmhrd-pune/) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
 [👉 Apply to SCMHRD Pune](/inquiry) | [👉 Get Free Counselling](/inquiry)
 

@@ -9,7 +9,7 @@ keywords:
   - Top BJMC colleges Delhi NCR 2026
   - Best Mass Communication colleges Noida
   - VIPS BJMC admission 2026
-  - '[Amity University](/colleges/amity-noida) mass comm fees'
+  - '[Amity University](/colleges/amity-noida/) mass comm fees'
   - Direct admission BJMC Delhi
   - IIMC Delhi admission 2026
   - Journalism colleges Gurgaon
@@ -88,13 +88,13 @@ Private colleges, specifically those affiliated with Guru Gobind Singh Indrapras
 - **Why it’s top-ranked:** Amity offers a hyper-modern campus with its own fully functional community radio station and massive production studios. It is ideal for students looking for global exposure and high-end infrastructure.
 - **Placements:** Great push for PR, advertising, and corporate communications.
 
-### 3. [Jagan Institute of Management Studies](/colleges/jagan-institute-of-management-studies) (JIMS), Vasant Kunj
+### 3. [Jagan Institute of Management Studies](/colleges/jagan-institute-of-management-studies/) (JIMS), Vasant Kunj
 - **Why it’s top-ranked:** Affiliated with IP University, JIMS Vasant Kunj is renowned for its excellent faculty and strong media connections, ensuring high-quality internships for its students.
 
-### 4. [Trinity Institute of Professional Studies](/colleges/trinity-institute-of-professional-studies-delhi) (TIPS), Dwarka
+### 4. [Trinity Institute of Professional Studies](/colleges/trinity-institute-of-professional-studies-delhi/) (TIPS), Dwarka
 - **Why it’s top-ranked:** Another heavy hitter under IP University, known for practical journalism and high success rates in placements.
 
-### 5. [Galgotias University](/colleges/galgotias-university) & [Sharda University](/colleges/sharda-greater-noida) (Greater Noida)
+### 5. [Galgotias University](/colleges/galgotias-university/) & [Sharda University](/colleges/sharda-greater-noida/) (Greater Noida)
 - **Why it’s top-ranked:** These major private universities offer holistic mass communication programs focusing not just on traditional media, but on digital marketing, podcasting, and new-age influencer management.
 
 ---
@@ -121,9 +121,9 @@ Graduating from a top college in Delhi NCR opens doors to various booming sector
 ---
 
 ## 🔗 Related Resources
-- [Top BBA Colleges in Delhi NCR 2026](/blog/top-bba-colleges-delhi-ncr-2026)
+- [Top BBA Colleges in Delhi NCR 2026](/blog/top-bba-colleges-delhi-ncr-2026/)
 - [CUET UG 2026 Score Calculator & Predictor](/calculator/cuet-ug-2026)
-- [Top Private MA Colleges in Delhi NCR 2026](/blog/top-private-ma-colleges-delhi-ncr-2026)
+- [Top Private MA Colleges in Delhi NCR 2026](/blog/top-private-ma-colleges-delhi-ncr-2026/)
 
 ---
 
@@ -138,7 +138,7 @@ Navigating the choices between IP University colleges and private universities c
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### What is the typical fee structure for MBA programs in India?
-The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
+The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi/) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
 
 ### Is it possible to pursue an MBA without clearing CAT?
 Yes, many colleges accept other entrance exams like XAT, NMAT, SNAP, MAT, or CMAT. Additionally, direct admission options under management quota are available in several private B-schools.

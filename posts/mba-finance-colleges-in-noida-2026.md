@@ -48,8 +48,8 @@ For students planning their admissions for the 2027–2029 intake, this guide hi
 
 | College Name | Accepted Entrance Exams | Total Program Fees | Average Placement Package |
 | :--- | :--- | :--- | :--- |
-| **[Jaipuria Institute of Management](/colleges/jaipuria-institute-of-management-indore), Noida** | CAT / MAT / CMAT / XAT | ₹13.5 Lakhs (Total) | **₹11.40 LPA** |
-| **[Amity University, Noida](/colleges/amity-university-noida)** | CAT / MAT / CMAT | ₹14.0 Lakhs (Total) | **₹8.50 LPA** |
+| **[Jaipuria Institute of Management](/colleges/jaipuria-institute-of-management-indore/), Noida** | CAT / MAT / CMAT / XAT | ₹13.5 Lakhs (Total) | **₹11.40 LPA** |
+| **[Amity University, Noida](/colleges/amity-university-noida/)** | CAT / MAT / CMAT | ₹14.0 Lakhs (Total) | **₹8.50 LPA** |
 | **IMS Noida** | CMAT / MAT | ₹7.9 Lakhs (Total) | **₹5.50 LPA** |
 
 ---
@@ -71,13 +71,13 @@ Choosing a B-school in this region offers key advantages:
 
 ## 🔍 Detailed Analysis of Top B-Schools in Noida
 
-### 1. [Jaipuria Institute of Management](/colleges/jaipuria-institute-of-management-jaipur), Noida
+### 1. [Jaipuria Institute of Management](/colleges/jaipuria-institute-of-management-jaipur/), Noida
 - **Approximate Fees:** ₹13.5 Lakhs (Total)
 - **Accepted Entrance Exams:** CAT / MAT / CMAT / XAT
 - **Average Placement Package:** **₹11.40 LPA**
 - **Key Highlight:** Renowned corporate tie-ups with specialized PGDM tracks in core financial services.
 
-### 2. [Amity University](/colleges/amity-noida), Noida
+### 2. [Amity University](/colleges/amity-noida/), Noida
 - **Approximate Fees:** ₹14.0 Lakhs (Total)
 - **Accepted Entrance Exams:** CAT / MAT / CMAT
 - **Average Placement Package:** **₹8.50 LPA**
@@ -100,9 +100,9 @@ Choosing a B-school in this region offers key advantages:
 ---
 
 ## 🔗 Related Resources
-- [Top MBA Colleges for Finance in India 2026 — Placements & Fees](/blog/top-mba-colleges-for-finance-specialization-india-2026)
-- [Best MBA Colleges with Low Fees & High ROI in India](/blog/best-mba-colleges-low-fees-high-roi-india-2026)
-- [Is Direct MBA Admission Without Entrance Exam Worth It?](/blog/direct-mba-admission-without-entrance-exam-2026-is-it-worth-it)
+- [Top MBA Colleges for Finance in India 2026 — Placements & Fees](/blog/top-mba-colleges-for-finance-specialization-india-2026/)
+- [Best MBA Colleges with Low Fees & High ROI in India](/blog/best-mba-colleges-low-fees-high-roi-india-2026/)
+- [Is Direct MBA Admission Without Entrance Exam Worth It?](/blog/direct-mba-admission-without-entrance-exam-2026-is-it-worth-it/)
 
 ---
 
@@ -120,11 +120,11 @@ Source: Shiksha.com
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### What is the fee structure for [Jaipuria Noida](/colleges/jaipuria-noida) PGDM?
+### What is the fee structure for [Jaipuria Noida](/colleges/jaipuria-noida/) PGDM?
 The total fee is around INR 13.5 Lakhs, which covers the entire two-year program along with standard training certifications.
 
 ### Is Amity Noida good for Finance?
-Yes, [Amity University](/colleges/amity-noida) Noida has a large, proactive placement cell that attracts many leading banks and financial firms.
+Yes, [Amity University](/colleges/amity-noida/) Noida has a large, proactive placement cell that attracts many leading banks and financial firms.
 
 ### Does IMS Noida accept MAT?
 Yes, IMS Noida accepts MAT and CMAT scores for its management admissions.

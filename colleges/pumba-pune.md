@@ -59,4 +59,4 @@ state: Maharashtra
 The Department of Management Sciences (PUMBA), Savitribai Phule Pune University, is one of India's earliest management institutes, known for its high-ROI and academic excellence.
 
 ### Related Articles
-- [Top MBA Colleges in Mumbai & Pune (MAH MBA CET)](/posts/mah-mba-cet-colleges-mumbai-pune)
+- [Top MBA Colleges in Mumbai & Pune (MAH MBA CET)](/blog/mah-mba-cet-colleges-mumbai-pune/)

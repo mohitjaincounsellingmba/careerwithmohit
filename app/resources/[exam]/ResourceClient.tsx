@@ -44,7 +44,7 @@ export function ResourceClient({ exam, examKey }: ResourceClientProps) {
     return (
         <main className="min-h-screen bg-slate-50 pt-32 pb-24 px-6">
             <div className="max-w-5xl mx-auto">
-                <Breadcrumbs />
+                <Breadcrumbs skipJsonLd={true} />
 
                 <div className="mt-10 mb-16">
                     <div className="inline-flex items-center gap-2 bg-primary px-4 py-1 mb-6 border-2 border-foreground shadow-[4px_4px_0px_0px_rgba(0,0,0,1)]">

@@ -20,7 +20,7 @@ faqs:
       The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
 ---
 
-### **College Review: [ASBM University](/colleges/asbm-university)**
+### **College Review: [ASBM University](/colleges/asbm-university/)**
 *   **Quality Curriculum**: Tailored directly to industry requirements with standard practical case studies.
 *   **Established Brand**: Over the years, it has earned a strong reputation among regional corporate employers.
 *   **Holistic Learning**: Focuses on both technical business skills and global soft skills development.
@@ -36,7 +36,7 @@ faqs:
 > - **Eligibility & Selection**: Minimum 50% aggregate in Graduation (45% for reserved categories) plus GD-PI-WAT score.
 > - **ROI & Scholarships**: Merit scholarships ranging from 10% to 50% tuition waiver available for early 2027–29 applicants.
 
-## 📊 [ASBM University](/colleges/asbm-university) 2026 Snapshot
+## 📊 [ASBM University](/colleges/asbm-university/) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |
@@ -64,18 +64,18 @@ faqs:
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### 1. Is [ASBM University](/colleges/asbm-university) a good option for PGDM/MBA?
-Yes, [ASBM University](/colleges/asbm-university) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+### 1. Is [ASBM University](/colleges/asbm-university/) a good option for PGDM/MBA?
+Yes, [ASBM University](/colleges/asbm-university/) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
-### 2. What is the average package offered at [ASBM University](/colleges/asbm-university)?
-The average placement package at [ASBM University](/colleges/asbm-university) is approximately ₹5 LPA, with the highest package reaching up to ₹3.5 LPA.
+### 2. What is the average package offered at [ASBM University](/colleges/asbm-university/)?
+The average placement package at [ASBM University](/colleges/asbm-university/) is approximately ₹5 LPA, with the highest package reaching up to ₹3.5 LPA.
 
-### 3. What entrance exams are accepted by [ASBM University](/colleges/asbm-university)?
+### 3. What entrance exams are accepted by [ASBM University](/colleges/asbm-university/)?
 The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
 
 ---
 
-**Final Verdict**: [ASBM University](/colleges/asbm-university) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
+**Final Verdict**: [ASBM University](/colleges/asbm-university/) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
 [👉 Apply to ASBM University](/inquiry) | [👉 Get Free Counselling](/inquiry)
 

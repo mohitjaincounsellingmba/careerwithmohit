@@ -71,13 +71,13 @@ These institutions keep tuition fees under ₹10 Lakhs (either total or annual, 
 - **Average Placement Package:** **₹5.5 LPA**
 - **Key Highlight:** Popular affiliated campus in Noida Sector 62 with strong corporate network.
 
-### 2. [Hierank Business School](/colleges/hierank-noida)
+### 2. [Hierank Business School](/colleges/hierank-noida/)
 - **Approximate Fees:** ₹4.5 Lakhs (Total)
 - **Accepted Entrance Exams:** Merit / CAT / MAT
 - **Average Placement Package:** **₹4.8 LPA**
 - **Key Highlight:** Located near Noida's IT hub, offering practical corporate preparation.
 
-### 3. [Amity University](/colleges/amity-noida) (Subsidized/Direct MBA)
+### 3. [Amity University](/colleges/amity-noida/) (Subsidized/Direct MBA)
 - **Approximate Fees:** ₹8.5 Lakhs (Total)
 - **Accepted Entrance Exams:** CAT / MAT / CMAT
 - **Average Placement Package:** **₹6.5 LPA**
@@ -92,8 +92,8 @@ Here is a quick snapshot comparing the fee structures and average placements for
 | College Name | Entrance Exams | Approximate Fees | Avg Placement Package |
 | :--- | :--- | :--- | :--- |
 | **IMS Noida** | CMAT / MAT | ₹7.9 Lakhs (Total) | **₹5.5 LPA** |
-| **[Hierank Business School](/colleges/hierank-noida)** | Merit / CAT / MAT | ₹4.5 Lakhs (Total) | **₹4.8 LPA** |
-| **[Amity University](/colleges/amity-noida) (Subsidized/Direct MBA)** | CAT / MAT / CMAT | ₹8.5 Lakhs (Total) | **₹6.5 LPA** |
+| **[Hierank Business School](/colleges/hierank-noida/)** | Merit / CAT / MAT | ₹4.5 Lakhs (Total) | **₹4.8 LPA** |
+| **[Amity University](/colleges/amity-noida/) (Subsidized/Direct MBA)** | CAT / MAT / CMAT | ₹8.5 Lakhs (Total) | **₹6.5 LPA** |
 
 ---
 
@@ -115,9 +115,9 @@ Return on Investment (ROI) is the most critical metric for any management aspira
 ---
 
 ## 🔗 Related Resources
-- [Best MBA Colleges with Low Fees and High ROI in India 2026](/blog/best-mba-colleges-low-fees-high-roi-india-2026)
-- [Is Direct MBA Admission Without Entrance Exam Worth It?](/blog/direct-mba-admission-without-entrance-exam-2026-is-it-worth-it)
-- [MBA Distance Education 2026: Top Universities & Fees](/blog/mba-distance-education-2026-top-universities-fees-admission)
+- [Best MBA Colleges with Low Fees and High ROI in India 2026](/blog/best-mba-colleges-low-fees-high-roi-india-2026/)
+- [Is Direct MBA Admission Without Entrance Exam Worth It?](/blog/direct-mba-admission-without-entrance-exam-2026-is-it-worth-it/)
+- [MBA Distance Education 2026: Top Universities & Fees](/blog/mba-distance-education-2026-top-universities-fees-admission/)
 
 ---
 

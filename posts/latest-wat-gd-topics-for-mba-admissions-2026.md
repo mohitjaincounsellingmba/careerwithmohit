@@ -60,7 +60,7 @@ faqs:
 state: Delhi NCR
 ---
 
-Once you receive an interview shortlist from the **IIMs, XLRI, [FMS Delhi](/colleges/fms-delhi), Symbiosis, or top private B-schools**, your CAT score takes a back seat. The second and most critical stage of the selection process begins: the **Written Ability Test (WAT)** and **Group Discussion (GD)**.
+Once you receive an interview shortlist from the **IIMs, XLRI, [FMS Delhi](/colleges/fms-delhi/), Symbiosis, or top private B-schools**, your CAT score takes a back seat. The second and most critical stage of the selection process begins: the **Written Ability Test (WAT)** and **Group Discussion (GD)**.
 
 Panels evaluate your ability to think analytically under pressure, communicate coherently, utilize structured mental frameworks, and demonstrate balanced socio-economic awareness.
 
@@ -181,10 +181,10 @@ Introduction & Context  Positive Facets & Pros  Challenges & Risks      Roadmap 
 ---
 
 ## 🔗 Related Resources
-*   [How to Build a Strong Profile for MBA Interviews](/blog/how-to-build-a-strong-profile-for-mba-interviews-2026)
-*   [IIM Shortlist Criteria & Minimum CAT Cut Offs](/blog/iim-shortlist-criteria-minimum-cat-cut-offs-2026)
-*   [CAT 2026 Score vs Percentile: What is a Good Score?](/blog/cat-2026-score-vs-percentile-what-is-a-good-score)
-*   [Top MBA Colleges in Delhi NCR Accepting CAT Score](/blog/top-mba-colleges-in-delhi-ncr-accepting-cat-score-2026)
+*   [How to Build a Strong Profile for MBA Interviews](/blog/how-to-build-a-strong-profile-for-mba-interviews-2026/)
+*   [IIM Shortlist Criteria & Minimum CAT Cut Offs](/blog/iim-shortlist-criteria-minimum-cat-cut-offs-2026/)
+*   [CAT 2026 Score vs Percentile: What is a Good Score?](/blog/cat-2026-score-vs-percentile-what-is-a-good-score/)
+*   [Top MBA Colleges in Delhi NCR Accepting CAT Score](/blog/top-mba-colleges-in-delhi-ncr-accepting-cat-score-2026/)
 
 ---
 

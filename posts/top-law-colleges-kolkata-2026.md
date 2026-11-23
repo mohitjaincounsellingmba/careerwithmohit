@@ -3,9 +3,8 @@ title: 'Top Law Colleges in Kolkata 2026 — Fees, Placements & Admission'
 date: '2026-04-21'
 category: Law Admissions
 description: >-
-  Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Noida, Greater Noida, Delhi NCR. Get details on top colleges under
-  GGSIPU, 
+  Kolkata, the 'City of Joy' and a historic bastion of the Indian legal system,
+  remains a top destination for legal studies.
 keywords:
   - top law colleges in kolkata 2026
   - best law colleges kolkata
@@ -65,7 +64,7 @@ Choosing a Law school in Kolkata means access to the biggest law firms in East I
 | **Faculty of Law, CU** | WB JELET / Merit | ₹0.3 - 0.6 Lakhs | ₹4.0 - 6.0 LPA |
 | **School of Law, Amity** | Merit-based | ₹9.5 - 12.0 Lakhs | ₹3.8 - 6.5 LPA |
 | **St. Xavier's University** | Merit-based | ₹5.5 - 8.5 Lakhs | ₹4.2 - 6.0 LPA |
-| **[Techno India University](/colleges/techno-india-university-kolkata)** | Merit-based | ₹4.5 - 7.5 Lakhs | ₹3.5 - 5.0 LPA |
+| **[Techno India University](/colleges/techno-india-university-kolkata/)** | Merit-based | ₹4.5 - 7.5 Lakhs | ₹3.5 - 5.0 LPA |
 
 ---
 
@@ -102,7 +101,7 @@ For a 2026 Law student, Kolkata offers distinct advantages:
 ## 🏗️ Direct Law Admission in Kolkata 2026
 
 If you miss the CLAT or WB-specific merit deadlines, several reputable private universities offer merit-based direct entry:
-- **[Amity University](/colleges/amity-noida) Kolkata:** A premium campus with global linkages and high-end moot labs.
+- **[Amity University](/colleges/amity-noida/) Kolkata:** A premium campus with global linkages and high-end moot labs.
 - **Brainware University:** Focuses on affordable law degrees with a practical legal training component.
 - **TIU Kolkata:** Known for its diverse alumni base and strong connections with the local legal chambers.
 
@@ -128,9 +127,9 @@ Registrations for merit-based seats usually open in **June** after the HS and CB
 ---
 
 ### Useful Links:
-- [Top NLU Rankings 2026 Guide](/blog/top-law-colleges-india-nirf-ranking-2026)
-- [B.Tech Colleges in Kolkata 2026](/blog/top-btech-colleges-kolkata-2026)
-- [BBA Colleges in Kolkata 2026](/blog/top-bba-colleges-kolkata-2026)
+- [Top NLU Rankings 2026 Guide](/blog/top-law-colleges-india-nirf-ranking-2026/)
+- [B.Tech Colleges in Kolkata 2026](/blog/top-btech-colleges-kolkata-2026/)
+- [BBA Colleges in Kolkata 2026](/blog/top-bba-colleges-kolkata-2026/)
 
 ---
 

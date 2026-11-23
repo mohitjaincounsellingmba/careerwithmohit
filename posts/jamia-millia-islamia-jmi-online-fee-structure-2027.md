@@ -38,7 +38,7 @@ faqs:
 location: Delhi NCR
 state: Delhi NCR
 ---
-# [Jamia Millia Islamia (JMI)](/colleges/jamia-millia-islamia) Online Fee Structure (2027): Complete Course Breakdown
+# [Jamia Millia Islamia (JMI)](/colleges/jamia-millia-islamia/) Online Fee Structure (2027): Complete Course Breakdown
 
 **Jamia Millia Islamia (JMI)**, a prestigious **Central University in New Delhi** ranked **#3 by NIRF**, offers some of India's most affordable UGC-DEB approved online degrees. 
 

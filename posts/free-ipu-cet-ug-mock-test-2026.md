@@ -5,9 +5,8 @@ title: >-
 date: '2026-08-22'
 category: Exams
 description: >-
-  Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
-  private univer
+  Free IPU CET / CUET UG 2026 Mock Test 2026: Online Practice Paper & Strategy
+  Guide: Explore fees, placements, cutoffs & admission guidelines.
 keywords:
   - IPU CET / CUET UG 2026 mock test free
   - ipu-cet-ug practice paper 2026

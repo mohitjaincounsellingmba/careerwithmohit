@@ -56,7 +56,7 @@ These institutions in **Mumbai** accept CUET UG scores for their integrated mana
 > - **Eligibility & Selection**: Minimum 50% aggregate in Graduation (45% for reserved categories) plus GD-PI-WAT score.
 > - **ROI & Scholarships**: Merit scholarships ranging from 10% to 50% tuition waiver available for early 2027–29 applicants.
 
-## 1. Narsee Monjee [Institute of Management Studies](/colleges/institute-of-management-studies) (NMIMS) - Integrated MBA
+## 1. Narsee Monjee [Institute of Management Studies](/colleges/institute-of-management-studies/) (NMIMS) - Integrated MBA
 - **Approximate Fees:** ₹3.5 Lakhs (Annual)
 - **Accepted Entrance Exams:** NPAT / CUET-UG
 - **Average Placement Package:** **₹9.5 LPA**
@@ -76,7 +76,7 @@ Here is a quick snapshot comparing the fee structures and average placements for
 
 | College Name | Entrance Exams | Approximate Fees | Avg Placement Package |
 | :--- | :--- | :--- | :--- |
-| **Narsee Monjee [Institute of Management Studies](/colleges/institute-of-management-studies) (NMIMS) - Integrated MBA** | NPAT / CUET-UG | ₹3.5 Lakhs (Annual) | **₹9.5 LPA** |
+| **Narsee Monjee [Institute of Management Studies](/colleges/institute-of-management-studies/) (NMIMS) - Integrated MBA** | NPAT / CUET-UG | ₹3.5 Lakhs (Annual) | **₹9.5 LPA** |
 | **Mithibai College - Integrated Management Pathway** | CUET-UG / Merit | ₹65,000 (Annual) | **₹7.2 LPA** |
 
 ---
@@ -100,9 +100,9 @@ Pursuing a 5-Year Integrated MBA program after Class 12 offers several distinct 
 ---
 
 ## 🔗 Related Resources
-- [CUET UG University List 2026: City-wise Guide](/blog/cuet-ug-university-list-2026-citywise)
-- [CUET UG 2026 BBA Admission Guide](/blog/cuet-ug-2026-bba-admission-guide)
-- [Is Direct MBA Admission Without Entrance Exam Worth It?](/blog/direct-mba-admission-without-entrance-exam-2026-is-it-worth-it)
+- [CUET UG University List 2026: City-wise Guide](/blog/cuet-ug-university-list-2026-citywise/)
+- [CUET UG 2026 BBA Admission Guide](/blog/cuet-ug-2026-bba-admission-guide/)
+- [Is Direct MBA Admission Without Entrance Exam Worth It?](/blog/direct-mba-admission-without-entrance-exam-2026-is-it-worth-it/)
 
 ---
 

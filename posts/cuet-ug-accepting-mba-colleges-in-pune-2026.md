@@ -56,7 +56,7 @@ These institutions in **Pune** accept CUET UG scores for their integrated manage
 > - **Eligibility & Selection**: Minimum 50% aggregate in Graduation (45% for reserved categories) plus GD-PI-WAT score.
 > - **ROI & Scholarships**: Merit scholarships ranging from 10% to 50% tuition waiver available for early 2027–29 applicants.
 
-## 1. [MIT World Peace University (MIT-WPU)](/colleges/mit-wpu-pune) - Integrated MBA
+## 1. [MIT World Peace University (MIT-WPU)](/colleges/mit-wpu-pune/) - Integrated MBA
 - **Approximate Fees:** ₹2.8 Lakhs (Annual)
 - **Accepted Entrance Exams:** CUET-UG / MIT-WPU CET
 - **Average Placement Package:** **₹6.5 LPA**
@@ -76,7 +76,7 @@ Here is a quick snapshot comparing the fee structures and average placements for
 
 | College Name | Entrance Exams | Approximate Fees | Avg Placement Package |
 | :--- | :--- | :--- | :--- |
-| **[MIT World Peace University (MIT-WPU)](/colleges/mit-wpu-pune) - Integrated MBA** | CUET-UG / MIT-WPU CET | ₹2.8 Lakhs (Annual) | **₹6.5 LPA** |
+| **[MIT World Peace University (MIT-WPU)](/colleges/mit-wpu-pune/) - Integrated MBA** | CUET-UG / MIT-WPU CET | ₹2.8 Lakhs (Annual) | **₹6.5 LPA** |
 | **DY Patil University - Integrated BBA + MBA** | CUET-UG / DPU CET | ₹2.0 Lakhs (Annual) | **₹5.5 LPA** |
 
 ---
@@ -100,9 +100,9 @@ Pursuing a 5-Year Integrated MBA program after Class 12 offers several distinct 
 ---
 
 ## 🔗 Related Resources
-- [CUET UG University List 2026: City-wise Guide](/blog/cuet-ug-university-list-2026-citywise)
-- [CUET UG 2026 BBA Admission Guide](/blog/cuet-ug-2026-bba-admission-guide)
-- [Is Direct MBA Admission Without Entrance Exam Worth It?](/blog/direct-mba-admission-without-entrance-exam-2026-is-it-worth-it)
+- [CUET UG University List 2026: City-wise Guide](/blog/cuet-ug-university-list-2026-citywise/)
+- [CUET UG 2026 BBA Admission Guide](/blog/cuet-ug-2026-bba-admission-guide/)
+- [Is Direct MBA Admission Without Entrance Exam Worth It?](/blog/direct-mba-admission-without-entrance-exam-2026-is-it-worth-it/)
 
 ---
 

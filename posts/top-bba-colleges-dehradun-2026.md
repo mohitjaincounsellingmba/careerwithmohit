@@ -2,13 +2,12 @@
 title: 'Top BBA Colleges in Dehradun 2026: Rankings, Fees, and Placements'
 date: '2026-03-15'
 description: >-
-  Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
-  private univer
+  Dehradun has long been known as the school capital of India, but it is now
+  equally famous for its higher education institutes.
 keywords:
   - top BBA colleges Dehradun
   - best BBA colleges in Dehradun
-  - '[UPES Dehradun](/colleges/upes-dehradun) BBA fees'
+  - '[UPES Dehradun](/colleges/upes-dehradun/) BBA fees'
   - Graphic Era BBA placements
   - BBA admission Dehradun 2026
   - Delhi Colleges
@@ -50,13 +49,13 @@ Here are the **Top BBA Colleges in Dehradun for 2026**.
 
 ## 🏛️ Premier BBA Institutes in Dehradun
 
-### 1. [UPES Dehradun](/colleges/upes-dehradun) (School of Business)
+### 1. [UPES Dehradun](/colleges/upes-dehradun/) (School of Business)
 - **Approx. Fees:** ₹3.5 - 4.5 Lakhs (Annual)
 - **Average Placement:** ₹4.2 LPA (Highest ₹7.5 LPA)
 - **Entrance Exam:** UPESMET-UG / CUET
 - **USP:** Focused on niche specializations like Digital Business and Logistics.
 
-### 2. [Graphic Era (Deemed to be University)](/colleges/graphic-era-dehradun)
+### 2. [Graphic Era (Deemed to be University)](/colleges/graphic-era-dehradun/)
 - **Rank:** NAAC A+ Rated
 - **Approx. Fees:** ₹1.15 - 1.45 Lakhs (Annual)
 - **Average Placement:** ₹4.7 - 7.4 LPA (Highest ₹53 LPA)
@@ -75,7 +74,7 @@ Here are the **Top BBA Colleges in Dehradun for 2026**.
 
 | College Name | Annual Fees | Top Recruiters | Rating |
 | :--- | :--- | :--- | :--- |
-| **[UPES Dehradun](/colleges/upes-dehradun)** | ₹4.0 Lakhs | Accenture, Amazon | ⭐⭐⭐⭐ |
+| **[UPES Dehradun](/colleges/upes-dehradun/)** | ₹4.0 Lakhs | Accenture, Amazon | ⭐⭐⭐⭐ |
 | **Graphic Era** | ₹1.3 Lakhs | Infosys, Wipro | ⭐⭐⭐⭐⭐ |
 | **Doon Univ** | ₹0.5 Lakhs | Local Firms | ⭐⭐⭐⭐ |
 
@@ -89,9 +88,9 @@ Here are the **Top BBA Colleges in Dehradun for 2026**.
 ---
 
 ## 🔗 Related Resources
-- [Top BBA Colleges in Delhi NCR 2026](/blog/top-bba-colleges-delhi-ncr)
-- [Admission FAQs 2026](/blog/mba-pgdm-admissions-faq-2026)
-- [Career Roadmaps](/blog/career-roadmaps-2026)
+- [Top BBA Colleges in Delhi NCR 2026](/blog/top-bba-colleges-delhi-ncr/)
+- [Admission FAQs 2026](/blog/mba-pgdm-admissions-faq-2026/)
+- [Career Roadmaps](/blog/career-roadmaps-2026/)
 
 ---
 

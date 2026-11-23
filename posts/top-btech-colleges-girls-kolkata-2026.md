@@ -3,9 +3,8 @@ title: 'Top B.Tech Colleges in Kolkata for Girls 2026 — Fees, Safety & Placeme
 date: '2026-04-21'
 category: B.Tech Admissions
 description: >-
-  Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
-  private univer
+  Top B.Tech Colleges in Kolkata for Girls 2026 — Fees, Safety & Placements:
+  Explore fees, placements, cutoffs & admission guidelines.
 keywords:
   - top btech colleges for girls kolkata 2026
   - best engineering colleges for women west bengal
@@ -34,7 +33,7 @@ faqs:
       student-friendly.
   - question: >-
       What is the fee for B.Tech in [Sister Nivedita
-      University](/colleges/sister-nivedita-university-kolkata)?
+      University](/colleges/sister-nivedita-university-kolkata/)?
     answer: >-
       Total annual fees for CSE/AIML range from ₹1.8 Lakhs to ₹2.2 Lakhs. They
       offer significant merit-based scholarships for girls.
@@ -75,7 +74,7 @@ The most prestigious institution in West Bengal. For girls, JU offers an incredi
 - **Scholarships:** Access to the **Kanyashree Prakalpa** (Govt. of WB) for eligible female students.
 - **Safety:** One of the most active and inclusive student communities in East India.
 
-### 2. [Sister Nivedita University](/colleges/sister-nivedita-university-kolkata) (SNU)
+### 2. [Sister Nivedita University](/colleges/sister-nivedita-university-kolkata/) (SNU)
 A new-age private university specifically focused on modern tech stacks like AI, Data Science, and Cybersecurity. They have excellent high-security hostels specifically for female students within the campus.
 - **Top Recruiters:** Google, Microsoft, and global consulting firms.
 
@@ -101,7 +100,7 @@ While most top institutes are co-ed, several private universities in the Rajarha
 **Q2. is Jadavpur University safe for girls?**
 Yes. JU has a very strong and vocal student union system that prioritizes student safety. The surrounding area of Jadavpur is also very student-friendly.
 
-**Q3. What is the fee for B.Tech in [Sister Nivedita University](/colleges/sister-nivedita-university-kolkata)?**
+**Q3. What is the fee for B.Tech in [Sister Nivedita University](/colleges/sister-nivedita-university-kolkata/)?**
 Total annual fees for CSE/AIML range from ₹1.8 Lakhs to ₹2.2 Lakhs. They offer significant merit-based scholarships for girls.
 
 **Q4. Do colleges in Kolkata provide good hostels for girls?**
@@ -113,9 +112,9 @@ Usually held in **April/May**. Result and counselling follow in June.
 ---
 
 ### Useful Links:
-- [Top B.Tech Colleges in Kolkata 2026 — General List](/blog/top-btech-colleges-kolkata-2026)
-- [How to Crack WBJEE 2026 in 4 Months](/blog/wbjee-preparation-strategy-2026)
-- [B.Tech Admissions FAQ 2026](/blog/btech-admissions-faq-2026)
+- [Top B.Tech Colleges in Kolkata 2026 — General List](/blog/top-btech-colleges-kolkata-2026/)
+- [How to Crack WBJEE 2026 in 4 Months](/tools/jee-main-mock-test/)
+- [B.Tech Admissions FAQ 2026](/blog/btech-admissions-faq-2026/)
 
 ---
 

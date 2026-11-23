@@ -42,7 +42,7 @@ faqs:
 location: Delhi NCR
 state: Delhi NCR
 ---
-As the IT sector continues to evolve with AI, Cloud Computing, and Data Analytics, choosing the right undergraduate program is critical. **[IBMR Business School, Gurgaon](/colleges/ibmr-gurgaon)** offers a specialized **BCA + UGPM (Under Graduate Program in Management)** that aims to bridge the gap between technical skills and corporate management.
+As the IT sector continues to evolve with AI, Cloud Computing, and Data Analytics, choosing the right undergraduate program is critical. **[IBMR Business School, Gurgaon](/colleges/ibmr-gurgaon/)** offers a specialized **BCA + UGPM (Under Graduate Program in Management)** that aims to bridge the gap between technical skills and corporate management.
 
 In this **IBMR Gurgaon BCA Review 2026**, we break down the costs, specializations, and career prospects to help you decide if this integrated program fits your goals.
 
@@ -113,9 +113,9 @@ The admission process is designed to be accessible yet competitive:
 ---
 
 ## 🔗 Related Resources
-*   [IBMR Gurgaon BBA Review 2026](/blog/ibmr-gurgaon-bba-review-2026)
-*   [GD Goenka BTech Review 2026](/blog/gd-goenka-btech-review-2026)
-*   [Top BBA Colleges in Gurgaon 2026](/blog/top-bba-colleges-gurgaon-2026)
+*   [IBMR Gurgaon BBA Review 2026](/blog/ibmr-gurgaon-bba-review-2026/)
+*   [GD Goenka BTech Review 2026](/blog/gd-goenka-btech-review-2026/)
+*   [Top BBA Colleges in Gurgaon 2026](/blog/top-bba-colleges-gurgaon-2026/)
 
 ---
 

@@ -37,14 +37,14 @@ location: Pune
 state: Maharashtra
 ---
 
-### **College Review: [Kirloskar Institute of Management](/colleges/kirloskar-institute-of-management-pune)**
+### **College Review: [Kirloskar Institute of Management](/colleges/kirloskar-institute-of-management-pune/)**
 *   **Quality Curriculum**: Tailored directly to industry requirements with standard practical case studies.
 *   **Established Brand**: Over the years, it has earned a strong reputation among regional corporate employers.
 *   **Holistic Learning**: Focuses on both technical business skills and global soft skills development.
 
 ---
 
-### 📊 [Kirloskar Institute of Management](/colleges/kirloskar-institute-of-management) 2026 Snapshot
+### 📊 [Kirloskar Institute of Management](/colleges/kirloskar-institute-of-management/) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |
@@ -72,18 +72,18 @@ state: Maharashtra
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### 1. Is [Kirloskar Institute of Management](/colleges/kirloskar-institute-of-management-pune) a good option for PGDM/MBA?
-Yes, [Kirloskar Institute of Management](/colleges/kirloskar-institute-of-management) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+### 1. Is [Kirloskar Institute of Management](/colleges/kirloskar-institute-of-management-pune/) a good option for PGDM/MBA?
+Yes, [Kirloskar Institute of Management](/colleges/kirloskar-institute-of-management/) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
-### 2. What is the average package offered at [Kirloskar Institute of Management](/colleges/kirloskar-institute-of-management-pune)?
-The average placement package at [Kirloskar Institute of Management](/colleges/kirloskar-institute-of-management) is approximately ₹7.0 LPA, with the highest package reaching up to ₹14.9 LPA.
+### 2. What is the average package offered at [Kirloskar Institute of Management](/colleges/kirloskar-institute-of-management-pune/)?
+The average placement package at [Kirloskar Institute of Management](/colleges/kirloskar-institute-of-management/) is approximately ₹7.0 LPA, with the highest package reaching up to ₹14.9 LPA.
 
-### 3. What entrance exams are accepted by [Kirloskar Institute of Management](/colleges/kirloskar-institute-of-management-pune)?
+### 3. What entrance exams are accepted by [Kirloskar Institute of Management](/colleges/kirloskar-institute-of-management-pune/)?
 The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
 
 ---
 
-**Final Verdict**: [Kirloskar Institute of Management](/colleges/kirloskar-institute-of-management) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
+**Final Verdict**: [Kirloskar Institute of Management](/colleges/kirloskar-institute-of-management/) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
 [👉 Apply to Kirloskar Institute of Management](/inquiry) | [👉 Get Free Counselling](/inquiry)
 

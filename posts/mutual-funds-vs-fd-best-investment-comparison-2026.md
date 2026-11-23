@@ -101,9 +101,9 @@ Do **both**. Use FDs for your "Emergency Fund" (6 months of expenses) and SIPs f
 ---
 
 ### Useful Links:
-- [Stock Market for Beginners 2026 Guide](/blog/stock-market-investing-beginners-guide-2026)
-- [How to Save Tax Under 80C & 80D](/blog/save-income-tax-india-80c-80d-guide-2026)
-- [Investment Banking Career Path 2026](/blog/investment-banking-career-path-salary-2026)
+- [Stock Market for Beginners 2026 Guide](/blog/stock-market-investing-beginners-guide-2026/)
+- [How to Save Tax Under 80C & 80D](/blog/save-income-tax-india-80c-80d-guide-2026/)
+- [Investment Banking Career Path 2026](/blog/investment-banking-career-path-salary-2026/)
 
 ---
 

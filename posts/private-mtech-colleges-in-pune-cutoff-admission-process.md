@@ -58,7 +58,7 @@ If you are planning to take M.Tech admission in the 2026 academic batch, this gu
 
 Here is the list of top-ranked private engineering institutions in Pune offering M.Tech programs with outstanding Return on Investment (ROI) and advanced academic support:
 
-### 1. [MIT World Peace University (MIT-WPU)](/colleges/mit-wpu-pune)
+### 1. [MIT World Peace University (MIT-WPU)](/colleges/mit-wpu-pune/)
 - **Approximate Tuition Fees:** ₹2.1 Lakhs/year
 - **Accepted Entrance Exams:** GATE / MIT-WPU PG Test
 - **Admission Cutoff / Eligibility:** GATE Score 360+ (Direct entry options based on PG test)
@@ -94,7 +94,7 @@ Here is a quick snapshot comparing the fee structures, entrance criteria, and av
 
 | College Name | Accepted Entrance Exams | Approximate Tuition Fees | Average Placement Package |
 | :--- | :--- | :--- | :--- |
-| **[MIT World Peace University (MIT-WPU)](/colleges/mit-wpu-pune)** | GATE / MIT-WPU PG Test | ₹2.1 Lakhs/year | **₹7.2 LPA** |
+| **[MIT World Peace University (MIT-WPU)](/colleges/mit-wpu-pune/)** | GATE / MIT-WPU PG Test | ₹2.1 Lakhs/year | **₹7.2 LPA** |
 | **Vishwakarma Institute of Technology (VIT Pune)** | GATE / CAP Counseling | ₹1.4 Lakhs/year | **₹8.0 LPA** |
 | **Symbiosis Institute of Technology (SIT Pune)** | GATE / SIT Entrance Exam | ₹1.9 Lakhs/year | **₹7.0 LPA** |
 | **DY Patil College of Engineering (Akurdi)** | GATE / CAP Rounds | ₹1.2 Lakhs/year | **₹5.5 LPA** |
@@ -118,9 +118,9 @@ Admissions to private M.Tech colleges in Pune generally follow two distinct rout
 ---
 
 ## 🔗 Related Resources
-- [B.Tech Admission Without JEE 2026: All Options](/blog/btech-admission-without-jee-2026-all-options)
-- [Top Engineering Colleges Accepting JEE Main Scores in 2026](/blog/jee-main-accepting-btech-colleges-2026)
-- [All IIM Cut-Off 2026-28: Admission, MBA, PGDM](/blog/all-iim-cut-off-2026-28-admission-mba-pgdm)
+- [B.Tech Admission Without JEE 2026: All Options](/blog/btech-admission-without-jee-2026-all-options/)
+- [Top Engineering Colleges Accepting JEE Main Scores in 2026](/blog/jee-main-accepting-btech-colleges-2026/)
+- [All IIM Cut-Off 2026-28: Admission, MBA, PGDM](/blog/all-iim-cut-off-2026-28-admission-mba-pgdm/)
 
 ---
 

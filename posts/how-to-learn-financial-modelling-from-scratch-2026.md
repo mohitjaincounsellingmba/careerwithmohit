@@ -105,10 +105,10 @@ In finance, your degree helps you get the interview, but your **Portfolio** gets
 ---
 
 ### **Internal Links to Boost Your Finance Career:**
-*   [Financial Modeling & Valuation 2026 — Best Courses & Skills](/blog/financial-modeling-valuation-best-courses-2026)
-*   [Investment Banking Career Path & Salary Guide (2026)](/blog/investment-banking-career-path-salary-2026)
-*   [CFA Course Guide 2026 — Dates, Syllabus & Fees](/blog/cfa-course-guide-exam-dates-syllabus-2026)
-*   [How to Start a Career in Sports Management (IPL 2026)](/blog/how-to-start-career-in-sports-management-ipl-2026)
+*   [Financial Modeling & Valuation 2026 — Best Courses & Skills](/blog/financial-modeling-valuation-best-courses-2026/)
+*   [Investment Banking Career Path & Salary Guide (2026)](/blog/investment-banking-career-path-salary-2026/)
+*   [CFA Course Guide 2026 — Dates, Syllabus & Fees](/blog/cfa-course-guide-exam-dates-syllabus-2026/)
+*   [How to Start a Career in Sports Management (IPL 2026)](/blog/how-to-start-career-in-sports-management-ipl-2026/)
 
 ---
 

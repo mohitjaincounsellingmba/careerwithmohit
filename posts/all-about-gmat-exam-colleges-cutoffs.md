@@ -15,9 +15,8 @@ tags:
   - GMAT Focus Edition
   - Study Abroad
 description: >-
-  Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
-  private univer
+  The GMAT Focus Edition comprises three equally weighted sections, each lasting
+  45 minutes. Check fees, cutoffs, placements & expert admission tips.
 keywords:
   - career counselling
   - admissions 2026
@@ -90,7 +89,7 @@ The GMAT Focus Edition comprises three equally weighted sections, each lasting 4
 
 ---
 
-### 📍 Detailed List: [Top MBA Colleges in India Accepting GMAT Scores 2026](/blog/top-mba-colleges-india-accepting-gmat-2026)
+### 📍 Detailed List: [Top MBA Colleges in India Accepting GMAT Scores 2026](/blog/top-mba-colleges-india-accepting-gmat-2026/)
 
 ---
 

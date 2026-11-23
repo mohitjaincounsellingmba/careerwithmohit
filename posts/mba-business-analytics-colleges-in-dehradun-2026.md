@@ -46,9 +46,9 @@ For students planning their admissions for the 2027–2029 intake, this guide hi
 
 | College Name | Accepted Entrance Exams | Total Program Fees | Average Placement Package |
 | :--- | :--- | :--- | :--- |
-| **[UPES Dehradun (School of Business)](/colleges/upes-dehradun)** | UPESMET / CAT / MAT / CMAT | ₹16.5 Lakhs (Total) | **₹8.40 LPA** |
-| **[Doon Business School (DBS)](/colleges/doon-business-school)** | CAT / MAT / CMAT | ₹8.5 Lakhs (Total) | **₹6.90 LPA** |
-| **[Graphic Era University (GEU)](/colleges/graphic-era-dehradun)** | CAT / MAT / CMAT | ₹7.2 Lakhs (Total) | **₹6.20 LPA** |
+| **[UPES Dehradun (School of Business)](/colleges/upes-dehradun/)** | UPESMET / CAT / MAT / CMAT | ₹16.5 Lakhs (Total) | **₹8.40 LPA** |
+| **[Doon Business School (DBS)](/colleges/doon-business-school/)** | CAT / MAT / CMAT | ₹8.5 Lakhs (Total) | **₹6.90 LPA** |
+| **[Graphic Era University (GEU)](/colleges/graphic-era-dehradun/)** | CAT / MAT / CMAT | ₹7.2 Lakhs (Total) | **₹6.20 LPA** |
 
 ---
 
@@ -69,19 +69,19 @@ Choosing a B-school in this region offers key advantages:
 
 ## 🔍 Detailed Analysis of Top B-Schools in Dehradun
 
-### 1. [UPES Dehradun (School of Business)](/colleges/upes-dehradun)
+### 1. [UPES Dehradun (School of Business)](/colleges/upes-dehradun/)
 - **Approximate Fees:** ₹16.5 Lakhs (Total)
 - **Accepted Entrance Exams:** UPESMET / CAT / MAT / CMAT
 - **Average Placement Package:** **₹8.40 LPA**
 - **Key Highlight:** Offers a highly specialized MBA in Business Analytics program with strong industry-tied certifications.
 
-### 2. [Doon Business School (DBS)](/colleges/doon-business-school)
+### 2. [Doon Business School (DBS)](/colleges/doon-business-school/)
 - **Approximate Fees:** ₹8.5 Lakhs (Total)
 - **Accepted Entrance Exams:** CAT / MAT / CMAT
 - **Average Placement Package:** **₹6.90 LPA**
 - **Key Highlight:** Offers PGDM with specialized electives in Business Analytics, data analysis, and dashboard tools.
 
-### 3. [Graphic Era University (GEU)](/colleges/graphic-era-dehradun)
+### 3. [Graphic Era University (GEU)](/colleges/graphic-era-dehradun/)
 - **Approximate Fees:** ₹7.2 Lakhs (Total)
 - **Accepted Entrance Exams:** CAT / MAT / CMAT
 - **Average Placement Package:** **₹6.20 LPA**
@@ -98,9 +98,9 @@ Choosing a B-school in this region offers key advantages:
 ---
 
 ## 🔗 Related Resources
-- [Top MBA Colleges for Finance in India 2026 — Placements & Fees](/blog/top-mba-colleges-for-finance-specialization-india-2026)
-- [Best MBA Colleges with Low Fees & High ROI in India](/blog/best-mba-colleges-low-fees-high-roi-india-2026)
-- [Is Direct MBA Admission Without Entrance Exam Worth It?](/blog/direct-mba-admission-without-entrance-exam-2026-is-it-worth-it)
+- [Top MBA Colleges for Finance in India 2026 — Placements & Fees](/blog/top-mba-colleges-for-finance-specialization-india-2026/)
+- [Best MBA Colleges with Low Fees & High ROI in India](/blog/best-mba-colleges-low-fees-high-roi-india-2026/)
+- [Is Direct MBA Admission Without Entrance Exam Worth It?](/blog/direct-mba-admission-without-entrance-exam-2026-is-it-worth-it/)
 
 ---
 
@@ -118,11 +118,11 @@ Source: Shiksha.com
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### What is the fee structure for MBA Business Analytics at [UPES Dehradun](/colleges/upes-dehradun)?
+### What is the fee structure for MBA Business Analytics at [UPES Dehradun](/colleges/upes-dehradun/)?
 The total program tuition fee is approximately INR 16.5 Lakhs, offering extensive learning infrastructure, specialized labs, and solid placements.
 
-### Does [Doon Business School](/colleges/doon-business-school) provide good placements for analytics?
-[Doon Business School](/colleges/doon-business-school) invites consumer goods, digital platforms, and corporate banks, offering roles in sales analytics and data analyst positions.
+### Does [Doon Business School](/colleges/doon-business-school/) provide good placements for analytics?
+[Doon Business School](/colleges/doon-business-school/) invites consumer goods, digital platforms, and corporate banks, offering roles in sales analytics and data analyst positions.
 
 ### What entrance exams are accepted by Dehradun B-schools?
 Most colleges in Dehradun accept CAT, MAT, and CMAT scores for their MBA/PGDM programs.

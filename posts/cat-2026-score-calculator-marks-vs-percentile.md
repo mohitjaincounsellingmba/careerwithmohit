@@ -3,9 +3,8 @@ title: 'CAT 2026 Score Calculator: Marks vs Percentile & Scaled Score Predictor'
 date: '2026-06-28'
 category: MBA Admissions
 description: >-
-  Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Gurgaon, Delhi NCR. Get details on top colleges under GGSIPU, DU,
-  and priva
+  CAT 2026 Score Calculator: Marks vs Percentile & Scaled Score Predictor:
+  Explore fees, placements, cutoffs & admission guidelines.
 keywords:
   - CAT 2026 score calculator
   - CAT score calculator 2026
@@ -45,7 +44,7 @@ location: Delhi NCR
 state: Delhi NCR
 ---
 
-The Common Admission Test (CAT) is the primary gateway to secure admission into the 21 Indian Institutes of Management (IIMs) and over 1,200 other premier business schools in India, including [FMS Delhi](/colleges/fms-delhi), [SPJIMR Mumbai](/colleges/spjimr-mumbai), and [MDI Gurgaon](/colleges/mdi-gurgaon). Right after stepping out of the exam hall, the most pressing question on every aspirant's mind is: *What will my raw score and percentile be based on my attempts?*
+The Common Admission Test (CAT) is the primary gateway to secure admission into the 21 Indian Institutes of Management (IIMs) and over 1,200 other premier business schools in India, including [FMS Delhi](/colleges/fms-delhi/), [SPJIMR Mumbai](/colleges/spjimr-mumbai/), and [MDI Gurgaon](/colleges/mdi-gurgaon/). Right after stepping out of the exam hall, the most pressing question on every aspirant's mind is: *What will my raw score and percentile be based on my attempts?*
 
 Since CAT uses a multi-slot system with varying difficulty levels, converting raw marks directly to percentiles is complex. Using our free online **[CAT 2026 Score Calculator](/tools/cat-score-calculator)**, you can instantly estimate your raw marks, scaled scores, and overall expected percentile.
 
@@ -92,12 +91,12 @@ The following table highlights the expected raw marks required to score various 
 
 | Raw Score Range (Out of 228) | Expected Percentile | Target IIMs / Colleges |
 | :---: | :---: | :--- |
-| **185 – 228** | **99.97+ %ile** | [IIM Ahmedabad](/colleges/iim-ahmedabad), [IIM Bangalore](/colleges/iim-bangalore), [IIM Calcutta](/colleges/iim-calcutta) |
+| **185 – 228** | **99.97+ %ile** | [IIM Ahmedabad](/colleges/iim-ahmedabad/), [IIM Bangalore](/colleges/iim-bangalore/), [IIM Calcutta](/colleges/iim-calcutta/) |
 | **155 – 184** | **99.5 – 99.9 %ile** | IIM Lucknow, IIM Kozhikode, IIM Indore |
-| **130 – 154** | **98.5 – 99.4 %ile** | IIM Shillong, [MDI Gurgaon](/colleges/mdi-gurgaon), [IIFT Delhi](/colleges/iift-delhi) |
+| **130 – 154** | **98.5 – 99.4 %ile** | IIM Shillong, [MDI Gurgaon](/colleges/mdi-gurgaon/), [IIFT Delhi](/colleges/iift-delhi/) |
 | **110 – 129** | **97.0 – 98.4 %ile** | IIM Ranchi, IIM Udaipur, IIM Raipur |
-| **90 – 109** | **93.0 – 96.9 %ile** | Baby IIMs, [FMS Delhi](/colleges/fms-delhi), SPJIMR (Profile calls) |
-| **70 – 89** | **85.0 – 92.9 %ile** | [JBIMS Mumbai](/colleges/jbims-mumbai), NMIMS (NMAT equivalent), Tier-2 Colleges |
+| **90 – 109** | **93.0 – 96.9 %ile** | Baby IIMs, [FMS Delhi](/colleges/fms-delhi/), SPJIMR (Profile calls) |
+| **70 – 89** | **85.0 – 92.9 %ile** | [JBIMS Mumbai](/colleges/jbims-mumbai/), NMIMS (NMAT equivalent), Tier-2 Colleges |
 | **50 – 69** | **70.0 – 84.9 %ile** | Tier-2 B-Schools (NDIM, JIMS Rohini, FORE School) |
 | **Below 50** | **Below 70.0 %ile** | Target Tier-3 Colleges or Retake Strategy |
 
@@ -140,10 +139,10 @@ Securing a high CAT percentile is the first step. Securing final admission requi
 [👉 Book a Free Consultation Session with MBA Career Coach Mohit Jain](/inquiry)
 
 *Related Reads:*
-* [Who Conducts CAT 2026? Organizing IIM & Rotational Policy](/blog/who-conducts-cat-2026)
-* [CAT 2026 Preparation Strategy & Full Syllabus Checklist](/blog/cat-2026-preparation-strategy-syllabus-dates)
-* [Top 10 Tips to Crack CAT Exam 2026](/blog/10-tips-to-crack-cat-exam-2026)
-* [How to Prepare for CAT 2026 as a Beginner](/blog/how-to-prepare-for-cat-2026)
+* [Who Conducts CAT 2026? Organizing IIM & Rotational Policy](/blog/who-conducts-cat-2026/)
+* [CAT 2026 Preparation Strategy & Full Syllabus Checklist](/blog/cat-2026-preparation-strategy-syllabus-dates/)
+* [Top 10 Tips to Crack CAT Exam 2026](/blog/10-tips-to-crack-cat-exam-2026/)
+* [How to Prepare for CAT 2026 as a Beginner](/blog/how-to-prepare-for-cat-2026/)
 ---
 
 ### 🚀 Boost Your Preparation

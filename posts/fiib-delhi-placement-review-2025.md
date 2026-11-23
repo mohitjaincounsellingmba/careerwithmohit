@@ -42,7 +42,7 @@ faqs:
 location: Delhi NCR
 state: Delhi NCR
 ---
-[Fortune Institute of International Business](/colleges/fortune-institute-of-international-business) (FIIB) Delhi is a fast-growing B-school known for its intense focus on experiential learning and global exposure. With a consistent 96% placement rate, it remains a strong choice for management aspirants.
+[Fortune Institute of International Business](/colleges/fortune-institute-of-international-business/) (FIIB) Delhi is a fast-growing B-school known for its intense focus on experiential learning and global exposure. With a consistent 96% placement rate, it remains a strong choice for management aspirants.
 
 ### 📊 FIIB Delhi 2025 SnapShot
 
@@ -65,9 +65,9 @@ state: Delhi NCR
 *   **Mentorship Model**: The institute provides personal mentorship to ensure students are industry-ready, which reflects in their high Top-20% salary performance.
 
 ### **Check Other Placement Guides:**
-*   [NDIM Delhi Placement Review 2025](/blog/ndim-placement-review-2025)
-*   [BIMTECH Placement Review 2024-2025](/blog/bimtech-greater-noida-placement-review-2025)
-*   [MICA Ahmedabad 2026 Placement Review](/blog/mica-ahmedabad-review-2026)
+*   [NDIM Delhi Placement Review 2025](/blog/ndim-placement-review-2025/)
+*   [BIMTECH Placement Review 2024-2025](/blog/bimtech-greater-noida-placement-review-2025/)
+*   [MICA Ahmedabad 2026 Placement Review](/blog/mica-ahmedabad-review-2026/)
 
 [👉 Get More Information regarding FIIB Delhi admissions!](/inquiry)
 

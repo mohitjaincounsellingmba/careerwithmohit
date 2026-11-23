@@ -198,7 +198,7 @@ ISBMS Pune Selection Weightage Matrix
 
 **Compared to generalist mid-tier Pune business schools, Imperial Business School offers a more concentrated finance and fund administration ecosystem at a competitive total fee point.**
 
-| Comparison Parameter | Imperial Business School (ISBMS) | [PIBM Pune](/colleges/pibm-pune/) | [IIEBM Indus Pune](/blog/iiebm-indus-pune-mba-pgdm-review-2027-fees-placements-cutoff/) | Indira Institute (ISIMP/IIMP) |
+| Comparison Parameter | Imperial Business School (ISBMS) | [PIBM Pune](/colleges/pibm-pune/) | [IIEBM Indus Pune](/blog/iiebm-indus-pune-review-2026/) | Indira Institute (ISIMP/IIMP) |
 | :--- | :--- | :--- | :--- | :--- |
 | **Location** | Hinjawadi, Pune | Pirangut / Bavdhan, Pune | Wakad, Pune | Tathawade, Pune |
 | **Total Program Fee** | **₹9.25L – ₹9.35L** | ~₹9.45 Lakhs | ~₹8.25 Lakhs | ~₹8.50L – ₹9.50L |
@@ -223,7 +223,7 @@ ISBMS Pune Selection Weightage Matrix
 ### ❌ Who Should Avoid or Reconsider:
 
 1. **Aspirants Seeking Core Marketing, Advertising, or HR**: ISBMS is heavily skewed toward finance; marketing and HR placement opportunities are comparatively limited.
-2. **Candidates with Top 90+ Percentiles**: Candidates who have secured calls from IIMs, [SIBM Pune](/colleges/sibm-pune), SCMHRD, or [JBIMS Mumbai](/colleges/jbims-mumbai) should not settle for mid-tier institutions.
+2. **Candidates with Top 90+ Percentiles**: Candidates who have secured calls from IIMs, [SIBM Pune](/colleges/sibm-pune/), SCMHRD, or [JBIMS Mumbai](/colleges/jbims-mumbai/) should not settle for mid-tier institutions.
 3. **Students Expecting Massive Campus Infrastructure**: ISBMS operates on a focused corporate-style setup rather than a sprawling 50-acre residential university campus.
 
 ---

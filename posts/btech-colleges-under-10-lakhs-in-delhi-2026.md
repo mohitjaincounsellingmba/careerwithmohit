@@ -62,7 +62,7 @@ These institutions keep their total program tuition fees under ₹10 Lakhs while
 - **Average Placement Package:** **₹15.0 LPA**
 - **Key Highlight:** One of the premier engineering institutions in India with a stellar ROI and tech environment.
 
-### 2. [Netaji Subhas University](/colleges/netaji-subhas-university) of Technology (NSUT)
+### 2. [Netaji Subhas University](/colleges/netaji-subhas-university/) of Technology (NSUT)
 - **Approximate Tuition Fees:** ₹6.6 Lakhs (Total)
 - **Accepted Entrance Exams:** JEE Main (JAC Delhi)
 - **Average Placement Package:** **₹14.0 LPA**
@@ -86,7 +86,7 @@ These institutions keep their total program tuition fees under ₹10 Lakhs while
 - **Average Placement Package:** **₹7.0 LPA**
 - **Key Highlight:** Reputed IPU college offering clean infrastructure and great academic support in West Delhi.
 
-### 6. [Jamia Millia Islamia (JMI)](/colleges/jamia-millia-islamia)
+### 6. [Jamia Millia Islamia (JMI)](/colleges/jamia-millia-islamia/)
 - **Approximate Tuition Fees:** ₹64,000 (Total)
 - **Accepted Entrance Exams:** JEE Main
 - **Average Placement Package:** **₹9.5 LPA**
@@ -101,11 +101,11 @@ Here is a quick snapshot comparing the fee structures and average placements for
 | College Name | Accepted Entrance Exams | Approximate Fees (Total) | Average Placement Package |
 | :--- | :--- | :--- | :--- |
 | **Delhi Technological University (DTU)** | JEE Main (JAC Delhi) | ₹6.6 Lakhs (Total) | **₹15.0 LPA** |
-| **[Netaji Subhas University](/colleges/netaji-subhas-university) of Technology (NSUT)** | JEE Main (JAC Delhi) | ₹6.6 Lakhs (Total) | **₹14.0 LPA** |
+| **[Netaji Subhas University](/colleges/netaji-subhas-university/) of Technology (NSUT)** | JEE Main (JAC Delhi) | ₹6.6 Lakhs (Total) | **₹14.0 LPA** |
 | **University School of ICT (USICT), GGSIPU** | JEE Main (IPU Counselling) | ₹4.8 Lakhs (Total) | **₹9.0 LPA** |
 | **Maharaja Agrasen Institute of Technology (MAIT)** | JEE Main | ₹5.6 Lakhs (Total) | **₹8.0 LPA** |
 | **Bharati Vidyapeeth's College of Engineering (BVCOE)** | JEE Main | ₹5.2 Lakhs (Total) | **₹7.0 LPA** |
-| **[Jamia Millia Islamia (JMI)](/colleges/jamia-millia-islamia)** | JEE Main | ₹64,000 (Total) | **₹9.5 LPA** |
+| **[Jamia Millia Islamia (JMI)](/colleges/jamia-millia-islamia/)** | JEE Main | ₹64,000 (Total) | **₹9.5 LPA** |
 
 ---
 
@@ -127,9 +127,9 @@ Return on Investment (ROI) is the single most critical factor for most engineeri
 ---
 
 ## 🔗 Related Resources
-- [Guide to B.Tech Specializations, Skills, and Placements (2026)](/blog/btech-specializations-skills-salary-2026-guide)
-- [B.Tech Admission Without JEE 2026: All Options](/blog/btech-admission-without-jee-2026-all-options)
-- [Top Engineering Colleges Accepting JEE Main Scores in 2026](/blog/jee-main-accepting-btech-colleges-2026)
+- [Guide to B.Tech Specializations, Skills, and Placements (2026)](/blog/btech-specializations-skills-salary-2026-guide/)
+- [B.Tech Admission Without JEE 2026: All Options](/blog/btech-admission-without-jee-2026-all-options/)
+- [Top Engineering Colleges Accepting JEE Main Scores in 2026](/blog/jee-main-accepting-btech-colleges-2026/)
 
 ---
 

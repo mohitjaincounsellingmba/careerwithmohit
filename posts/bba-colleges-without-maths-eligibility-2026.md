@@ -3,9 +3,8 @@ title: Best BBA Colleges Without Maths in 12th — Eligibility & Admission 2026
 date: '2026-04-21'
 category: BBA Admissions
 description: >-
-  Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Noida, Greater Noida, Delhi NCR. Get details on top colleges under
-  GGSIPU, 
+  One of the biggest myths in undergraduate management is that you cannot pursue
+  a top-tier BBA degree without having Mathematics in your Class 12.
 keywords:
   - bba without maths in 12th 2026
   - best bba colleges without maths
@@ -27,9 +26,9 @@ keywords:
   - Colleges in Delhi NCR
   - Delhi NCR Career Counselling
 faqs:
-  - question: 'Can I get into [NMIMS Mumbai](/colleges/nmims-mumbai) without Math?'
+  - question: 'Can I get into [NMIMS Mumbai](/colleges/nmims-mumbai/) without Math?'
     answer: >-
-      [NMIMS Mumbai](/colleges/nmims-mumbai) usually mandates
+      [NMIMS Mumbai](/colleges/nmims-mumbai/) usually mandates
       **Math/Statistics** in 12th for its BBA program. However, their other
       programs like B.Des or specialized tracks might be more flexible—always
       check the 2026 NPAT brochure.
@@ -39,7 +38,7 @@ faqs:
       are excellent specializations that do not require heavy quantitative
       analysis.
   - question: >-
-      does [Christ University Bangalore](/colleges/christ-university-bangalore)
+      does [Christ University Bangalore](/colleges/christ-university-bangalore/)
       require Math?
     answer: >-
       No. For the general BBA and BBA (Finance/IB/Law) programs, Math in 12th is
@@ -68,7 +67,7 @@ In 2026, many students are realizing that their management potential is not defi
 | **St. Xavier’s** | Mumbai | XET | ₹0.6 - 0.8 Lakhs | **NO** (Only for BMS)|
 | **Mount Carmel (MCC)** | Bangalore | Merit | ₹1.8 - 2.5 Lakhs | **NO** |
 | **Jain (CMS)** | Bangalore | JET | ₹3.2 - 4.5 Lakhs | **NO** |
-| **[Amity University](/colleges/amity-noida)** | Noida/Lucknow | Merit | ₹2.5 - 3.8 Lakhs | **NO** |
+| **[Amity University](/colleges/amity-noida/)** | Noida/Lucknow | Merit | ₹2.5 - 3.8 Lakhs | **NO** |
 | **Loyola College** | Chennai | Merit | ₹0.8 - 1.2 Lakhs | **NO** |
 
 ---
@@ -104,13 +103,13 @@ Most state-level private colleges (affiliated with GGSIPU, Mumbai University, or
 **Q1. is Math mandatory for BBA IPM (IIM)?**
 For **IIM Indore**, the exam has a heavy "Higher Math" section. While a non-math student can theoretically give the exam, it is extremely difficult to clear the cutoff. For **IIM Rohtak**, the math level is slightly lower, making it more accessible.
 
-**Q2. Can I get into [NMIMS Mumbai](/colleges/nmims-mumbai) without Math?**
-[NMIMS Mumbai](/colleges/nmims-mumbai) usually mandates **Math/Statistics** in 12th for its BBA program. However, their other programs like B.Des or specialized tracks might be more flexible—always check the 2026 NPAT brochure.
+**Q2. Can I get into [NMIMS Mumbai](/colleges/nmims-mumbai/) without Math?**
+[NMIMS Mumbai](/colleges/nmims-mumbai/) usually mandates **Math/Statistics** in 12th for its BBA program. However, their other programs like B.Des or specialized tracks might be more flexible—always check the 2026 NPAT brochure.
 
 **Q3. Which BBA specialization is best for non-math students?**
 **Marketing, Human Resource Management (HRM), and International Business** are excellent specializations that do not require heavy quantitative analysis.
 
-**Q4. does [Christ University Bangalore](/colleges/christ-university-bangalore) require Math?**
+**Q4. does [Christ University Bangalore](/colleges/christ-university-bangalore/) require Math?**
 No. For the general BBA and BBA (Finance/IB/Law) programs, Math in 12th is not a mandatory eligibility criterion.
 
 **Q5. What is the scope for BBA non-math students?**
@@ -119,9 +118,9 @@ The corporate world hires for **Problem Solving and Communication**. Non-math BB
 ---
 
 ### Useful Links:
-- [Top BBA Colleges in India 2026](/blog/top-bba-colleges-india-2026)
-- [BBA vs B.Com vs BMS — Future Career Comparison](/blog/bba-vs-bcom-vs-bms-career-comparison)
-- [How to Prepare for Symbiosis SET 2026](/blog/symbiosis-set-preparation-strategy-2026)
+- [Top BBA Colleges in India 2026](/blog/top-bba-colleges-india-2026/)
+- [BBA vs B.Com vs BMS — Future Career Comparison](/blog/bba-vs-bcom-vs-bms-career-comparison/)
+- [How to Prepare for Symbiosis SET 2026](/blog/all-about-set-exam-2026/)
 
 ---
 

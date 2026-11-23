@@ -2,9 +2,8 @@
 title: 'MAH MBA CET 2026: Exam Dates, Syllabus, Pattern & Predicted Cutoffs'
 date: '2026-03-17'
 description: >-
-  Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
-  private univer
+  The MAH MBA/MMS CET is the most important state-level management entrance test
+  in India. Check fees, cutoffs, placements & expert admission tips.
 keywords:
   - MAH MBA CET 2026
   - MAH CET syllabus 2026
@@ -41,14 +40,14 @@ faqs:
     answer: >-
       Top colleges in Pune include **PUMBA, Indira Institute of Management, and
       COEP**. [Check out the full list of Pune colleges and 2026 CET cutoffs
-      here.](/top-mhcet-mba-colleges-pune-2026-cutoffs-fees)
+      here.](/colleges/mba-colleges-pune/)
   - question: Can I get a scholarship for MBA via MAH CET?
-    answer: "Yes! Maharashtra domicile students admitted through CAP rounds can apply for **EBC (50% fee waiver)** or **Caste-based (up to 100% waiver)** scholarships via the MahaDBT portal.\n\n[\U0001F449 Read our detailed MAH MBA CET Scholarship Guide 2026](/mah-mba-cet-scholarship-2026-eligibility-application-process)\n\n[\U0001F449 Need help mastering the lightning-fast MAH CET mock tests or the CAP counselling rounds? Book an expert session!](/inquiry)"
+    answer: "Yes! Maharashtra domicile students admitted through CAP rounds can apply for **EBC (50% fee waiver)** or **Caste-based (up to 100% waiver)** scholarships via the MahaDBT portal.\n\n[\U0001F449 Read our detailed MAH MBA CET Scholarship Guide 2026](/tools/mhcet-mock-test/)\n\n[\U0001F449 Need help mastering the lightning-fast MAH CET mock tests or the CAP counselling rounds? Book an expert session!](/inquiry)"
 location: Delhi NCR
 state: Delhi NCR
 ---
 
-The MAH MBA/MMS CET is the most important state-level management entrance test in India. Facilitating admissions to the legendary Jamnalal Bajaj [Institute of Management Studies](/colleges/institute-of-management-studies) (JBIMS)—often called the "CEO Factory of India"—this exam witnesses incredible competition every year.
+The MAH MBA/MMS CET is the most important state-level management entrance test in India. Facilitating admissions to the legendary Jamnalal Bajaj [Institute of Management Studies](/colleges/institute-of-management-studies/) (JBIMS)—often called the "CEO Factory of India"—this exam witnesses incredible competition every year.
 
 Here is the complete overview of the MAH MBA CET exam for 2026 admissions:
 
@@ -91,7 +90,7 @@ Because there is no negative marking, cutoffs for top colleges skyrocket.
 
 - **JBIMS (Jamnalal Bajaj), Mumbai:** 99.99 Percentile (Score: ~145+ out of 200)
 - **SIMSREE (Sydenham), Mumbai:** 99.95 Percentile (Score: ~135+ out of 200)
-- **Welingkar & [PUMBA Pune](/colleges/pumba-pune):** 99.50+ Percentile (Score: ~125+ out of 200)
+- **Welingkar & [PUMBA Pune](/colleges/pumba-pune/):** 99.50+ Percentile (Score: ~125+ out of 200)
 - **Chetana's, MET, SIES (Mumbai):** 98.00+ to 99.00+ Percentile
 - **Tier-2 Pune/Mumbai Colleges:** 90.00+ Percentile
 
@@ -99,7 +98,7 @@ Because there is no negative marking, cutoffs for top colleges skyrocket.
 
 The Centralised Admission Process (CAP) manages counselling for nearly 300+ institutes across Maharashtra.
 
-- JBIMS (Jamnalal Bajaj [Institute of Management Studies](/colleges/institute-of-management-studies)), Mumbai
+- JBIMS (Jamnalal Bajaj [Institute of Management Studies](/colleges/institute-of-management-studies/)), Mumbai
 - SIMSREE (Sydenham Institute), Mumbai
 - Welingkar Institute of Management (WeSchool), Mumbai
 - PUMBA (Pune University Department of Management Sciences)
@@ -107,7 +106,7 @@ The Centralised Admission Process (CAP) manages counselling for nearly 300+ inst
 - Chetana’s Institute of Management and Research, Mumbai
 - MET Institute of Management, Mumbai
 - XIMR (Xavier Institute of Management & Research), Mumbai
-- Rizvi [Institute of Management Studies](/colleges/institute-of-management-studies) and Research, Mumbai
+- Rizvi [Institute of Management Studies](/colleges/institute-of-management-studies/) and Research, Mumbai
 
 ---
 
@@ -136,12 +135,12 @@ No, there is **no negative marking** in MAH MBA CET. Students are encouraged to 
 To get into JBIMS, a percentile of **99.99** is typically required, which usually equates to a raw score of **145+** out of 200.
 
 ### 4. Which are the top colleges accepting CET scores in Pune?
-Top colleges in Pune include **PUMBA, Indira Institute of Management, and COEP**. [Check out the full list of Pune colleges and 2026 CET cutoffs here.](/top-mhcet-mba-colleges-pune-2026-cutoffs-fees)
+Top colleges in Pune include **PUMBA, Indira Institute of Management, and COEP**. [Check out the full list of Pune colleges and 2026 CET cutoffs here.](/colleges/mba-colleges-pune/)
 
 ### 5. Can I get a scholarship for MBA via MAH CET?
 Yes! Maharashtra domicile students admitted through CAP rounds can apply for **EBC (50% fee waiver)** or **Caste-based (up to 100% waiver)** scholarships via the MahaDBT portal.
 
-[👉 Read our detailed MAH MBA CET Scholarship Guide 2026](/mah-mba-cet-scholarship-2026-eligibility-application-process)
+[👉 Read our detailed MAH MBA CET Scholarship Guide 2026](/tools/mhcet-mock-test/)
 
 [👉 Need help mastering the lightning-fast MAH CET mock tests or the CAP counselling rounds? Book an expert session!](/inquiry)
 

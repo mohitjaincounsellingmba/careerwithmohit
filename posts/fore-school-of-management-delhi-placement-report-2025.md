@@ -49,7 +49,7 @@ Strategically located in South Delhi’s corporate hub (Qutub Institutional Area
 
 The **2025 PGDM placement season** delivered solid placement metrics, recording an overall average package of **₹16.40 LPA** (with top 20% averaging **₹21.80 LPA**) and a highest salary of **₹29.00 LPA**.
 
-Here is the complete **[FORE School of Management](/colleges/fore-school-delhi) Delhi Placement Report 2025**.
+Here is the complete **[FORE School of Management](/colleges/fore-school-delhi/) Delhi Placement Report 2025**.
 
 ---
 
@@ -57,7 +57,7 @@ Here is the complete **[FORE School of Management](/colleges/fore-school-delhi) 
 
 ---
 
-## 1. [FORE School of Management](/colleges/fore-school-delhi) Placement 2025 Highlights
+## 1. [FORE School of Management](/colleges/fore-school-delhi/) Placement 2025 Highlights
 
 | Metric | Statistics (2025 Placement Cycle) |
 | :--- | :--- |
@@ -91,10 +91,10 @@ pie title FORE Delhi Domain Split 2025
 
 ## 3. Related Placement Reports
 
-*   **[IMI New Delhi Placement Report 2025](/blog/imi-new-delhi-pgdm-placement-report-2025)**
-*   **[IMT Ghaziabad Placement Report 2025](/blog/imt-ghaziabad-pgdm-placement-report-2025)**
-*   **[MDI Gurgaon Placement Report 2025](/blog/mdi-gurgaon-pgdm-placement-report-2025)**
-*   **[All 21 IIMs Recent Placement Report 2025](/blog/all-iim-recent-placement-report-2025)**
+*   **[IMI New Delhi Placement Report 2025](/blog/imi-new-delhi-pgdm-placement-report-2025/)**
+*   **[IMT Ghaziabad Placement Report 2025](/blog/imt-ghaziabad-pgdm-placement-report-2025/)**
+*   **[MDI Gurgaon Placement Report 2025](/blog/mdi-gurgaon-pgdm-placement-report-2025/)**
+*   **[All 21 IIMs Recent Placement Report 2025](/blog/all-iim-recent-placement-report-2025/)**
 
 ---
 

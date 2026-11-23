@@ -61,9 +61,9 @@ A common question among aspirants is when the results will be declared. Since th
 
 Once the results are out, the **Centralized Admission Process (CAP)** will begin for admission into top colleges like JBIMS, SIMSREE, and PUMBA.
 
-[👉 Check: Top MHCET MBA Colleges in Pune with Cutoffs](/blog/top-mhcet-mba-colleges-pune-2026-cutoffs-fees)
+[👉 Check: Top MHCET MBA Colleges in Pune with Cutoffs](/blog/top-mhcet-mba-colleges-pune-2026-cutoffs-fees/)
 
-[👉 Check: MAH MBA CET 2026 Accepting Colleges List & Fees](/blog/mah-mba-cet-colleges-list-cutoff-placements-2026)
+[👉 Check: MAH MBA CET 2026 Accepting Colleges List & Fees](/blog/mah-mba-cet-colleges-list-cutoff-placements-2026/)
 
 ## 4. Last-Minute Tips for May 9 Session
 If you are appearing for the May 9 session, keep these points in mind:
@@ -71,7 +71,7 @@ If you are appearing for the May 9 session, keep these points in mind:
 - **Focus on Logic:** The Logical and Abstract Reasoning sections carry the maximum weightage. Ensure you have a strategy to solve these quickly.
 - **No Negative Marking:** Remember there is no negative marking in MHCET. Try to attempt all questions, but don't spend too much time on a single difficult problem.
 
-For those who appeared in the first session, you can check the previous updates on the **[MHCET MBA 2026 Answer Key & Objection Window](/blog/mhcet-mba-2026-answer-key-out-check-link-objection-window)**.
+For those who appeared in the first session, you can check the previous updates on the **[MHCET MBA 2026 Answer Key & Objection Window](/blog/mhcet-mba-2026-answer-key-out-check-link-objection-window/)**.
 
 ---
 **Aiming for a Top B-School through MHCET?** Get expert guidance on the CAP round and college selection from our counseling team.

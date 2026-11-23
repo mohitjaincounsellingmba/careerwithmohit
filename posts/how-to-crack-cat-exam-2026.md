@@ -3,9 +3,9 @@ title: 'How to Crack CAT Exam 2026: Strategy, Syllabus & Section-wise Tips'
 date: '2026-06-04'
 category: MBA
 description: >-
-  Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Gurgaon, Delhi NCR. Get details on top colleges under GGSIPU, DU,
-  and priva
+  The Common Admission Test (CAT) is more than just a test of mathematical
+  formulas or grammar rules. Check fees, cutoffs, placements & expert admission
+  tips.
 keywords:
   - how to crack cat exam
   - crack cat 2026
@@ -29,7 +29,7 @@ faqs:
   - question: Can a student with average academics crack CAT?
     answer: >-
       Yes! While old IIMs have high academic weightage, colleges like **[FMS
-      Delhi](/colleges/fms-delhi), XLRI (via XAT), and several new IIMs** focus
+      Delhi](/colleges/fms-delhi/), XLRI (via XAT), and several new IIMs** focus
       heavily on your raw CAT score. A high percentile (99.5+) can easily offset
       average past academics.
   - question: How many mock tests should I attempt before CAT 2026?
@@ -119,18 +119,18 @@ To crack CAT in your first attempt, divide your preparation into three phases:
 
 | Institution | Expected CAT Percentile | Key Selection Criteria |
 |:---|:---:|:---|
-| **[IIM Ahmedabad](/colleges/iim-ahmedabad)** | 99.5+ | High CAT Score + Excellent Academics (10th/12th/Grad) + Interview |
-| **[IIM Bangalore](/colleges/iim-bangalore)** | 99.4+ | Work Experience weighted highly + CAT score + Interview |
-| **[IIM Calcutta](/colleges/iim-calcutta)** | 99.2+ | CAT score (High weightage) + Quant-heavy profile focus + Interview |
-| **[FMS Delhi](/colleges/fms-delhi)** | 98.5+ | High ROI, low fee structure. Primarily calls based on CAT score |
-| **[MDI Gurgaon](/colleges/mdi-gurgaon)** | 95.0 - 97.0+ | Good academics + Profile-based screening + CAT score |
+| **[IIM Ahmedabad](/colleges/iim-ahmedabad/)** | 99.5+ | High CAT Score + Excellent Academics (10th/12th/Grad) + Interview |
+| **[IIM Bangalore](/colleges/iim-bangalore/)** | 99.4+ | Work Experience weighted highly + CAT score + Interview |
+| **[IIM Calcutta](/colleges/iim-calcutta/)** | 99.2+ | CAT score (High weightage) + Quant-heavy profile focus + Interview |
+| **[FMS Delhi](/colleges/fms-delhi/)** | 98.5+ | High ROI, low fee structure. Primarily calls based on CAT score |
+| **[MDI Gurgaon](/colleges/mdi-gurgaon/)** | 95.0 - 97.0+ | Good academics + Profile-based screening + CAT score |
 
 ---
 
 ## ❓ Frequently Asked Questions (FAQs)
 
 ### Q1. Can a student with average academics crack CAT?
-Yes! While old IIMs have high academic weightage, colleges like **[FMS Delhi](/colleges/fms-delhi), XLRI (via XAT), and several new IIMs** focus heavily on your raw CAT score. A high percentile (99.5+) can easily offset average past academics.
+Yes! While old IIMs have high academic weightage, colleges like **[FMS Delhi](/colleges/fms-delhi/), XLRI (via XAT), and several new IIMs** focus heavily on your raw CAT score. A high percentile (99.5+) can easily offset average past academics.
 
 ### Q2. How many mock tests should I attempt before CAT 2026?
 An ideal target is **25 to 30 full-length mocks** along with 40+ sectional tests. What matters more than the number of mocks is the depth of your post-mock analysis.
@@ -142,9 +142,9 @@ No. Many self-studying students crack CAT using online resources, standard books
 
 ### Related Articles:
 *   [CAT Score Calculator & Percentile Predictor 2026](/tools/cat-score-calculator)
-*   [CAT 2026 Preparation Roadmap (Month-by-Month)](/blog/cat-2026-preparation-strategy-syllabus-dates)
-*   [10 Proven Tips to Crack CAT 2026: The Topper's Secret](/blog/10-tips-to-crack-cat-exam-2026)
-*   [All About CAT Exam 2026: Pattern, Syllabus & Cutoffs](/blog/all-about-cat-exam)
+*   [CAT 2026 Preparation Roadmap (Month-by-Month)](/blog/cat-2026-preparation-strategy-syllabus-dates/)
+*   [10 Proven Tips to Crack CAT 2026: The Topper's Secret](/blog/10-tips-to-crack-cat-exam-2026/)
+*   [All About CAT Exam 2026: Pattern, Syllabus & Cutoffs](/blog/all-about-cat-exam/)
 ---
 
 ### 🚀 Boost Your Preparation

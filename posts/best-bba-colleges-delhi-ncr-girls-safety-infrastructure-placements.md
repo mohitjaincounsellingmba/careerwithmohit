@@ -71,7 +71,7 @@ A premium co-ed private institution with a strong focus on student safety.
 - **Hostel:** High-end, secure, on-campus hostels exclusively for female students.
 - **Placements:** Consistently high placements in marketing, consulting, and business analytics.
 
-### 4. [Amity University, Noida](/colleges/amity-university-noida)
+### 4. [Amity University, Noida](/colleges/amity-university-noida/)
 Amity features a secure, self-contained campus with comprehensive security protocols.
 - **Safety Measures:** Sprawling, fully fenced campus with round-the-clock security checkpoints, biometric hostel entries, and internal security patrols.
 - **Hostel:** Dedicated hostel blocks for female students with strictly monitored curfew hours.
@@ -103,9 +103,9 @@ When evaluating a college, ensure it meets these requirements:
 ---
 
 ## 🔗 Related Resources
-- [Top 10 BBA Colleges in Delhi NCR 2026](/blog/top-10-bba-colleges-delhi-ncr-2026)
-- [How to Choose: SSCBS vs Jamia Millia vs Amity](/blog/choose-right-bba-college-delhi-ncr-jamia-vs-amity-vs-sscbs)
-- [Campus Life in Top BBA Colleges: Hostels & Internships](/blog/campus-life-top-bba-colleges-delhi-ncr-hostel-faculty-internships)
+- [Top 10 BBA Colleges in Delhi NCR 2026](/blog/top-10-bba-colleges-delhi-ncr-2026/)
+- [How to Choose: SSCBS vs Jamia Millia vs Amity](/blog/choose-right-bba-college-delhi-ncr-jamia-vs-amity-vs-sscbs/)
+- [Campus Life in Top BBA Colleges: Hostels & Internships](/blog/campus-life-top-bba-colleges-delhi-ncr-hostel-faculty-internships/)
 
 ---
 

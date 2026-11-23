@@ -77,8 +77,8 @@ When calculating the Return on Investment for management programs, looking purel
 
 | Program Name | Total Fees | Avg Package | ROI & Admission Eligibility |
 | :--- | :--- | :--- | :--- |
-| **[SOIL Gurgaon 1-Year PGPM (BL/HRL)](/colleges/soil-gurgaon)** | ₹15.3 Lakhs | ₹11.5 – 12.2 LPA | **Fast Payback ROI**: Min 2 years work ex; STAT/CAT/GMAT + Leadership PI |
-| **[SOIL Gurgaon 2-Year PGDM](/colleges/soil-gurgaon)** | ₹14.8 – 15.2 Lakhs | ₹10.5 – 11.2 LPA | **Comprehensive ROI**: Freshers welcome; AICTE degree; CAT/XAT/MAT/STAT |
+| **[SOIL Gurgaon 1-Year PGPM (BL/HRL)](/colleges/soil-gurgaon/)** | ₹15.3 Lakhs | ₹11.5 – 12.2 LPA | **Fast Payback ROI**: Min 2 years work ex; STAT/CAT/GMAT + Leadership PI |
+| **[SOIL Gurgaon 2-Year PGDM](/colleges/soil-gurgaon/)** | ₹14.8 – 15.2 Lakhs | ₹10.5 – 11.2 LPA | **Comprehensive ROI**: Freshers welcome; AICTE degree; CAT/XAT/MAT/STAT |
 
 ---
 

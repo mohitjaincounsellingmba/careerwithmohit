@@ -122,9 +122,9 @@ Admission to the MERI MBA program is competitive and follows the GGSIPU guidelin
 ---
 
 ## 🔗 Related Resources
-*   [Best MBA Colleges in Delhi 2026](/blog/best-mba-colleges-in-delhi-2026)
-*   [Direct MBA Admission in India 2026](/blog/direct-mba-admission-india)
-*   [All About CMAT Exam 2026](/blog/all-about-cmat-exam)
+*   [Best MBA Colleges in Delhi 2026](/blog/best-mba-colleges-in-delhi-2026/)
+*   [Direct MBA Admission in India 2026](/blog/direct-mba-admission-india/)
+*   [All About CMAT Exam 2026](/blog/all-about-cmat-exam/)
 
 [💬 Still Confused? Book a Private Counseling Session with Mohit Jain](/inquiry)
 
@@ -133,7 +133,7 @@ Admission to the MERI MBA program is competitive and follows the GGSIPU guidelin
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### What is the typical fee structure for MBA programs in India?
-The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
+The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi/) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
 
 ### Is it possible to pursue an MBA without clearing CAT?
 Yes, many colleges accept other entrance exams like XAT, NMAT, SNAP, MAT, or CMAT. Additionally, direct admission options under management quota are available in several private B-schools.

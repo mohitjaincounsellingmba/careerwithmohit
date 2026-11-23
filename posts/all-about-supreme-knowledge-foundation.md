@@ -20,14 +20,14 @@ faqs:
       The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
 ---
 
-### **College Review: [Supreme Knowledge Foundation](/colleges/supreme-knowledge-foundation)**
+### **College Review: [Supreme Knowledge Foundation](/colleges/supreme-knowledge-foundation/)**
 *   **Quality Curriculum**: Tailored directly to industry requirements with standard practical case studies.
 *   **Established Brand**: Over the years, it has earned a strong reputation among regional corporate employers.
 *   **Holistic Learning**: Focuses on both technical business skills and global soft skills development.
 
 ---
 
-### 📊 [Supreme Knowledge Foundation](/colleges/supreme-knowledge-foundation) 2026 Snapshot
+### 📊 [Supreme Knowledge Foundation](/colleges/supreme-knowledge-foundation/) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |
@@ -55,18 +55,18 @@ faqs:
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### 1. Is [Supreme Knowledge Foundation](/colleges/supreme-knowledge-foundation) a good option for PGDM/MBA?
-Yes, [Supreme Knowledge Foundation](/colleges/supreme-knowledge-foundation) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+### 1. Is [Supreme Knowledge Foundation](/colleges/supreme-knowledge-foundation/) a good option for PGDM/MBA?
+Yes, [Supreme Knowledge Foundation](/colleges/supreme-knowledge-foundation/) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
-### 2. What is the average package offered at [Supreme Knowledge Foundation](/colleges/supreme-knowledge-foundation)?
-The average placement package at [Supreme Knowledge Foundation](/colleges/supreme-knowledge-foundation) is approximately ₹5.4 LPA, with the highest package reaching up to ₹12.7 LPA.
+### 2. What is the average package offered at [Supreme Knowledge Foundation](/colleges/supreme-knowledge-foundation/)?
+The average placement package at [Supreme Knowledge Foundation](/colleges/supreme-knowledge-foundation/) is approximately ₹5.4 LPA, with the highest package reaching up to ₹12.7 LPA.
 
-### 3. What entrance exams are accepted by [Supreme Knowledge Foundation](/colleges/supreme-knowledge-foundation)?
+### 3. What entrance exams are accepted by [Supreme Knowledge Foundation](/colleges/supreme-knowledge-foundation/)?
 The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
 
 ---
 
-**Final Verdict**: [Supreme Knowledge Foundation](/colleges/supreme-knowledge-foundation) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
+**Final Verdict**: [Supreme Knowledge Foundation](/colleges/supreme-knowledge-foundation/) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
 [👉 Apply to Supreme Knowledge Foundation](/inquiry) | [👉 Get Free Counselling](/inquiry)
 

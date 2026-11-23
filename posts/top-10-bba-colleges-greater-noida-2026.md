@@ -49,12 +49,12 @@ Here is a curated list of the **Top 10 BBA Colleges in Greater Noida for 2026** 
 
 ## 🏆 Top 10 BBA Colleges in Greater Noida (2026 Rankings)
 
-### 1. [Galgotias University](/colleges/galgotias-university)
+### 1. [Galgotias University](/colleges/galgotias-university/)
 - **Approximate Annual Fees:** ₹1.2 Lakhs
 - **Entrance Exam / Admission Process:** CUET / Merit
 - **Highlight:** Known for strong academic foundations and excellent corporate connections.
 
-### 2. [Sharda University](/colleges/sharda-greater-noida)
+### 2. [Sharda University](/colleges/sharda-greater-noida/)
 - **Approximate Annual Fees:** ₹1.8 Lakhs
 - **Entrance Exam / Admission Process:** SUAT / CUET
 - **Highlight:** Known for strong academic foundations and excellent corporate connections.
@@ -69,7 +69,7 @@ Here is a curated list of the **Top 10 BBA Colleges in Greater Noida for 2026** 
 - **Entrance Exam / Admission Process:** Merit
 - **Highlight:** Known for strong academic foundations and excellent corporate connections.
 
-### 5. [Lloyd Business School](/colleges/lloyd-business-school-greater-noida)
+### 5. [Lloyd Business School](/colleges/lloyd-business-school-greater-noida/)
 - **Approximate Annual Fees:** ₹1.2 Lakhs
 - **Entrance Exam / Admission Process:** Merit
 - **Highlight:** Known for strong academic foundations and excellent corporate connections.
@@ -79,7 +79,7 @@ Here is a curated list of the **Top 10 BBA Colleges in Greater Noida for 2026** 
 - **Entrance Exam / Admission Process:** Merit
 - **Highlight:** Known for strong academic foundations and excellent corporate connections.
 
-### 7. [Accurate Institute of Management](/colleges/accurate-greater-noida)
+### 7. [Accurate Institute of Management](/colleges/accurate-greater-noida/)
 - **Approximate Annual Fees:** ₹1.0 Lakhs
 - **Entrance Exam / Admission Process:** Merit
 - **Highlight:** Known for strong academic foundations and excellent corporate connections.
@@ -89,7 +89,7 @@ Here is a curated list of the **Top 10 BBA Colleges in Greater Noida for 2026** 
 - **Entrance Exam / Admission Process:** Merit
 - **Highlight:** Known for strong academic foundations and excellent corporate connections.
 
-### 9. [Noida Institute of Engineering and Technology (NIET)](/colleges/niet-greater-noida)
+### 9. [Noida Institute of Engineering and Technology (NIET)](/colleges/niet-greater-noida/)
 - **Approximate Annual Fees:** ₹1.2 Lakhs
 - **Entrance Exam / Admission Process:** Merit
 - **Highlight:** Known for strong academic foundations and excellent corporate connections.
@@ -105,15 +105,15 @@ Here is a curated list of the **Top 10 BBA Colleges in Greater Noida for 2026** 
 
 | Rank | College Name | Entrance Exam | Annual Fees |
 | :--- | :--- | :--- | :--- |
-| **1** | **[Galgotias University](/colleges/galgotias-university)** | CUET / Merit | ₹1.2 Lakhs |
-| **2** | **[Sharda University](/colleges/sharda-greater-noida)** | SUAT / CUET | ₹1.8 Lakhs |
+| **1** | **[Galgotias University](/colleges/galgotias-university/)** | CUET / Merit | ₹1.2 Lakhs |
+| **2** | **[Sharda University](/colleges/sharda-greater-noida/)** | SUAT / CUET | ₹1.8 Lakhs |
 | **3** | **GL Bajaj Institute of Management** | Merit | ₹1.3 Lakhs |
 | **4** | **GNIOT Institute of Management** | Merit | ₹1.1 Lakhs |
-| **5** | **[Lloyd Business School](/colleges/lloyd-business-school-greater-noida)** | Merit | ₹1.2 Lakhs |
+| **5** | **[Lloyd Business School](/colleges/lloyd-business-school-greater-noida/)** | Merit | ₹1.2 Lakhs |
 | **6** | **IILM University, Greater Noida** | Merit | ₹2.0 Lakhs |
-| **7** | **[Accurate Institute of Management](/colleges/accurate-greater-noida)** | Merit | ₹1.0 Lakhs |
+| **7** | **[Accurate Institute of Management](/colleges/accurate-greater-noida/)** | Merit | ₹1.0 Lakhs |
 | **8** | **Mangalmay Institute of Management** | Merit | ₹1.0 Lakhs |
-| **9** | **[Noida Institute of Engineering and Technology (NIET)](/colleges/niet-greater-noida)** | Merit | ₹1.2 Lakhs |
+| **9** | **[Noida Institute of Engineering and Technology (NIET)](/colleges/niet-greater-noida/)** | Merit | ₹1.2 Lakhs |
 | **10** | **United Group of Institutions** | Merit | ₹1.1 Lakhs |
 
 
@@ -125,9 +125,9 @@ Admissions to the top BBA programs are highly competitive. It is advisable to tr
 ---
 
 ## 🔗 Related Resources
-- [Best BBA Specializations for 2026](/blog/bba-specializations-skills-salary-2026-guide)
-- [BBA vs BCom vs BMS: Career Comparison](/blog/bba-vs-bcom-vs-bms-career-comparison)
-- [Direct BBA Admission 2026](/blog/direct-bba-admission-2026-management-quota)
+- [Best BBA Specializations for 2026](/blog/bba-specializations-skills-salary-2026-guide/)
+- [BBA vs BCom vs BMS: Career Comparison](/blog/bba-vs-bcom-vs-bms-career-comparison/)
+- [Direct BBA Admission 2026](/blog/direct-bba-admission-2026-management-quota/)
 
 ---
 

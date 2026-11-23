@@ -58,7 +58,7 @@ These institutions keep tuition fees under ₹10 Lakhs (either total or annual, 
 - **Average Placement Package:** **₹5.5 LPA - ₹7.0 LPA**
 - **Key Highlight:** Affiliated directly with the prestigious state university, offering highly subsidized tuition fees and excellent regional ROI.
 
-### 2. [Panipat Institute of Management](/colleges/panipat-institute-of-management) & Technology (CIMT)
+### 2. [Panipat Institute of Management](/colleges/panipat-institute-of-management/) & Technology (CIMT)
 - **Approximate Fees:** ₹4.5 Lakhs - ₹6.5 Lakhs (Total)
 - **Accepted Entrance Exams:** MAT / CMAT / CAT
 - **Average Placement Package:** **₹4.8 LPA - ₹6.2 LPA**
@@ -79,7 +79,7 @@ Here is a quick snapshot comparing the fee structures and average placements for
 | College Name | Entrance Exams | Approximate Fees | Avg Placement Package |
 | :--- | :--- | :--- | :--- |
 | **Department of Business Administration, University of Panipat** | CAT / CMAT / State Entrance | ₹1.5 Lakhs - ₹3.0 Lakhs (Total) | **₹5.5 LPA - ₹7.0 LPA** |
-| **[Panipat Institute of Management](/colleges/panipat-institute-of-management) & Technology (CIMT)** | MAT / CMAT / CAT | ₹4.5 Lakhs - ₹6.5 Lakhs (Total) | **₹4.8 LPA - ₹6.2 LPA** |
+| **[Panipat Institute of Management](/colleges/panipat-institute-of-management/) & Technology (CIMT)** | MAT / CMAT / CAT | ₹4.5 Lakhs - ₹6.5 Lakhs (Total) | **₹4.8 LPA - ₹6.2 LPA** |
 | **Government College of Engineering & Management, Panipat** | State Entrance / CMAT | ₹1.2 Lakhs - ₹2.5 Lakhs (Total) | **₹5.0 LPA - ₹6.5 LPA** |
 
 ---
@@ -102,9 +102,9 @@ Return on Investment (ROI) is the most critical metric for any management aspira
 ---
 
 ## 🔗 Related Resources
-- [Best MBA Colleges with Low Fees and High ROI in India 2026](/blog/best-mba-colleges-low-fees-high-roi-india-2026)
-- [Is Direct MBA Admission Without Entrance Exam Worth It?](/blog/direct-mba-admission-without-entrance-exam-2026-is-it-worth-it)
-- [MBA Distance Education 2026: Top Universities & Fees](/blog/mba-distance-education-2026-top-universities-fees-admission)
+- [Best MBA Colleges with Low Fees and High ROI in India 2026](/blog/best-mba-colleges-low-fees-high-roi-india-2026/)
+- [Is Direct MBA Admission Without Entrance Exam Worth It?](/blog/direct-mba-admission-without-entrance-exam-2026-is-it-worth-it/)
+- [MBA Distance Education 2026: Top Universities & Fees](/blog/mba-distance-education-2026-top-universities-fees-admission/)
 
 ---
 

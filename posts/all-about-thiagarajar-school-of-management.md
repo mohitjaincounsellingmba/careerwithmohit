@@ -37,14 +37,14 @@ location: Chennai
 state: Tamil Nadu
 ---
 
-### **College Review: [Thiagarajar School of Management](/colleges/thiagarajar-school-of-management)**
+### **College Review: [Thiagarajar School of Management](/colleges/thiagarajar-school-of-management/)**
 *   **Quality Curriculum**: Tailored directly to industry requirements with standard practical case studies.
 *   **Established Brand**: Over the years, it has earned a strong reputation among regional corporate employers.
 *   **Holistic Learning**: Focuses on both technical business skills and global soft skills development.
 
 ---
 
-### 📊 [Thiagarajar School of Management](/colleges/thiagarajar-school-of-management) 2026 Snapshot
+### 📊 [Thiagarajar School of Management](/colleges/thiagarajar-school-of-management/) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |
@@ -72,18 +72,18 @@ state: Tamil Nadu
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### 1. Is [Thiagarajar School of Management](/colleges/thiagarajar-school-of-management) a good option for PGDM/MBA?
-Yes, [Thiagarajar School of Management](/colleges/thiagarajar-school-of-management) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+### 1. Is [Thiagarajar School of Management](/colleges/thiagarajar-school-of-management/) a good option for PGDM/MBA?
+Yes, [Thiagarajar School of Management](/colleges/thiagarajar-school-of-management/) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
-### 2. What is the average package offered at [Thiagarajar School of Management](/colleges/thiagarajar-school-of-management)?
-The average placement package at [Thiagarajar School of Management](/colleges/thiagarajar-school-of-management) is approximately ₹5.0 LPA, with the highest package reaching up to ₹11.0 LPA.
+### 2. What is the average package offered at [Thiagarajar School of Management](/colleges/thiagarajar-school-of-management/)?
+The average placement package at [Thiagarajar School of Management](/colleges/thiagarajar-school-of-management/) is approximately ₹5.0 LPA, with the highest package reaching up to ₹11.0 LPA.
 
-### 3. What entrance exams are accepted by [Thiagarajar School of Management](/colleges/thiagarajar-school-of-management)?
+### 3. What entrance exams are accepted by [Thiagarajar School of Management](/colleges/thiagarajar-school-of-management/)?
 The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
 
 ---
 
-**Final Verdict**: [Thiagarajar School of Management](/colleges/thiagarajar-school-of-management) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
+**Final Verdict**: [Thiagarajar School of Management](/colleges/thiagarajar-school-of-management/) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
 [👉 Apply to Thiagarajar School of Management](/inquiry) | [👉 Get Free Counselling](/inquiry)
 

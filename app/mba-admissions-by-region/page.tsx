@@ -32,6 +32,6 @@ export const metadata: Metadata = {
 };
 
 export default function MbaAdmissionsByRegionPage() {
-  redirect('/mba-pgdm-admissions-by-region');
+  redirect('/mba-pgdm-admissions-by-region/');
 }
 

@@ -1,13 +1,13 @@
 ---
 title: >-
-  [Central University of South Bihar](/colleges/cusb-gaya) (CUSB) Review 2026:
+  [Central University of South Bihar](/colleges/iim-bodh-gaya/) (CUSB) Review 2026:
   Fees, Placements & Admission
 date: '2026-05-24'
 description: >-
   Comprehensive review of Central University of South Bihar (CUSB) for 2026.
   Check CUET cutoffs, placement records, fee structure, and hostel facilities.
 keywords:
-  - '[CUSB](/colleges/cusb-gaya) admissions 2026'
+  - '[CUSB](/colleges/iim-bodh-gaya/) admissions 2026'
   - CUSB placements
   - CUSB CUET cutoff
   - Central University of South Bihar fees
@@ -29,7 +29,7 @@ faqs:
       Candidates should avoid guessing to maintain accuracy and prevent score
       drops.
 ---
-[Central University of South Bihar](/colleges/cusb-gaya) (CUSB), situated in Gaya, has rapidly emerged as a center of academic excellence. With a strong focus on integrated programs and research, CUSB offers modern infrastructure and quality education.
+[Central University of South Bihar](/colleges/iim-bodh-gaya/) (CUSB), situated in Gaya, has rapidly emerged as a center of academic excellence. With a strong focus on integrated programs and research, CUSB offers modern infrastructure and quality education.
 
 ## 📊 CUSB 2026 Overview: Fees, Placements & Cutoffs
 
@@ -63,8 +63,8 @@ CUSB has a dedicated placement cell that ensures good corporate and institutiona
 *   **Opportunities**: Strong placements are observed in the education sector, NGOs, and various corporate roles.
 
 ## Check Other University Reviews:
-*   [Dr. Harisingh Gour Vishwavidyalaya Review 2026](/blog/dr-harisingh-gour-vishwavidyalaya-dhsgsu-review-2026)
-*   [Top CUET Universities Guide](/blog/top-cuet-universities-guide)
+*   [Dr. Harisingh Gour Vishwavidyalaya Review 2026](/blog/dr-harisingh-gour-vishwavidyalaya-dhsgsu-review-2026/)
+*   [Top CUET Universities Guide](/blog/acca-benefits-with-mba-career-guide-2026/)
 
 [👉 Get Admission Consultation for CUSB!](/inquiry)
 

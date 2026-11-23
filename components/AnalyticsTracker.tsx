@@ -26,7 +26,9 @@ export function AnalyticsTracker() {
 
       // Detect blog post slug from pathname
       let blogSlug = null;
-      if (pathname.startsWith("/posts/")) {
+      if (pathname.startsWith("/blog/")) {
+        blogSlug = pathname.replace("/blog/", "").replace(/\/$/, "");
+      } else if (pathname.startsWith("/posts/")) {
         blogSlug = pathname.replace("/posts/", "").replace(/\/$/, "");
       }
 

@@ -33,7 +33,7 @@ faqs:
 ---
 **Update (May 13, 2026):** The **CBSE Class 12 Result 2026 has been officially declared today!** Students can now check their results using the official link below.
 
-### 🔴 [CLICK HERE TO CHECK CBSE 12TH RESULT 2026 (OFFICIAL)](/blog/cbse-12th-result-2026-declared)
+### 🔴 [CLICK HERE TO CHECK CBSE 12TH RESULT 2026 (OFFICIAL)](/blog/cbse-12th-result-2026-declared/)
 
 ---
 
@@ -80,11 +80,11 @@ Since DigiLocker is already showing the "Coming Soon" banner, here is how you ca
 
 The moment the results are out, admission portals for various universities will open in full swing. Depending on your stream, you should start narrowing down your options:
 
-- **Science Students:** Be aware of the **[NEET UG 2026 Cancellation & Re-Test Updates](/blog/neet-ug-2026-exam-cancelled-nta-re-test-official-updates)** which might affect your medical admission timeline.
+- **Science Students:** Be aware of the **[NEET UG 2026 Cancellation & Re-Test Updates](/blog/neet-ug-2026-exam-cancelled-nta-re-test-official-updates/)** which might affect your medical admission timeline.
 - **Career Guides:** 
-    - [Best Career Options After 12th Science 2026](/blog/career-options-after-12th-science-2026)
-    - [Top Career Options After 12th Commerce 2026](/blog/career-options-after-12th-commerce-2026)
-    - [Career Paths After 12th Arts 2026](/blog/career-options-after-12th-arts-2026)
+    - [Best Career Options After 12th Science 2026](/blog/career-options-after-12th-science-2026/)
+    - [Top Career Options After 12th Commerce 2026](/blog/career-options-after-12th-commerce-2026/)
+    - [Career Paths After 12th Arts 2026](/blog/career-options-after-12th-arts-2026/)
 
 ---
 

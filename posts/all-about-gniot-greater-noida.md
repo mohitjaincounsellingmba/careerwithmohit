@@ -83,7 +83,7 @@ state: Delhi NCR
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### 1. Is GNIOT good for PGDM?
-Yes, the GIMS (GNIOT [Institute of Management Studies](/colleges/institute-of-management-studies)) PGDM is highly rated for its focus on 4.0 Industry skills, including certifications in Python, Tableau, and Advanced Excel.
+Yes, the GIMS (GNIOT [Institute of Management Studies](/colleges/institute-of-management-studies/)) PGDM is highly rated for its focus on 4.0 Industry skills, including certifications in Python, Tableau, and Advanced Excel.
 
 ### 2. Does GNIOT accept MAT scores?
 Yes, GNIOT accepts MAT, CMAT, CAT, and XAT scores. Students can also appear for their internal GAT (GNIOT Aptitude Test) for scholarship eligibility.

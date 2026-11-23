@@ -106,9 +106,9 @@ For private colleges like Prestige, the average package ranges from **₹4.5L to
 ---
 
 ### Useful Links:
-- [IPMAT 2026 Preparation Guide](/blog/ipmat-2026-preparation-guide-colleges)
-- [Top BBA Colleges in India 2026](/blog/top-bba-colleges-india-2026)
-- [BBA vs B.Com — Future Career Comparison](/blog/bba-vs-bcom-vs-bms-career-comparison)
+- [IPMAT 2026 Preparation Guide](/blog/ipmat-2026-preparation-guide-colleges/)
+- [Top BBA Colleges in India 2026](/blog/top-bba-colleges-india-2026/)
+- [BBA vs B.Com — Future Career Comparison](/blog/bba-vs-bcom-vs-bms-career-comparison/)
 
 ---
 

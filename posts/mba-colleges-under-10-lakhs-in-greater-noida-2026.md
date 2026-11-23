@@ -68,19 +68,19 @@ These institutions keep tuition fees under ₹10 Lakhs (either total or annual, 
 > - **Eligibility & Selection**: Minimum 50% aggregate in Graduation (45% for reserved categories) plus GD-PI-WAT score.
 > - **ROI & Scholarships**: Merit scholarships ranging from 10% to 50% tuition waiver available for early 2027–29 applicants.
 
-## 1. [GNIOT [Institute of Management Studies](/colleges/institute-of-management-studies) (GIMS)](/colleges/gniot-institute-of-management-studies-gims)
+## 1. [GNIOT [Institute of Management Studies](/colleges/institute-of-management-studies/) (GIMS)](/colleges/gniot-institute-of-management-studies-gims)
 - **Approximate Fees:** ₹6.2 Lakhs (Total)
 - **Accepted Entrance Exams:** MAT / CMAT / CAT
 - **Average Placement Package:** **₹5.8 LPA**
 - **Key Highlight:** Fully AICTE approved PGDM program located in Knowledge Park II.
 
-### 2. [Galgotias University](/colleges/galgotias-university) (MBA Program)
+### 2. [Galgotias University](/colleges/galgotias-university/) (MBA Program)
 - **Approximate Fees:** ₹4.5 Lakhs (Total)
 - **Accepted Entrance Exams:** CUET-PG / CMAT
 - **Average Placement Package:** **₹5.2 LPA**
 - **Key Highlight:** Highly vibrant campus life with substantial recruiter base and modern infrastructure.
 
-### 3. [GL Bajaj Institute of Technology and Management](/colleges/gl-bajaj-greater-noida)
+### 3. [GL Bajaj Institute of Technology and Management](/colleges/gl-bajaj-greater-noida/)
 - **Approximate Fees:** ₹6.0 Lakhs (Total)
 - **Accepted Entrance Exams:** UPSEE / CMAT / CAT
 - **Average Placement Package:** **₹6.0 LPA**
@@ -100,9 +100,9 @@ Here is a quick snapshot comparing the fee structures and average placements for
 
 | College Name | Entrance Exams | Approximate Fees | Avg Placement Package |
 | :--- | :--- | :--- | :--- |
-| **[GNIOT [Institute of Management Studies](/colleges/institute-of-management-studies) (GIMS)](/colleges/gniot-institute-of-management-studies-gims)** | MAT / CMAT / CAT | ₹6.2 Lakhs (Total) | **₹5.8 LPA** |
-| **[Galgotias University](/colleges/galgotias-university) (MBA Program)** | CUET-PG / CMAT | ₹4.5 Lakhs (Total) | **₹5.2 LPA** |
-| **[GL Bajaj Institute of Technology and Management](/colleges/gl-bajaj-greater-noida)** | UPSEE / CMAT / CAT | ₹6.0 Lakhs (Total) | **₹6.0 LPA** |
+| **[GNIOT [Institute of Management Studies](/colleges/institute-of-management-studies/) (GIMS)](/colleges/gniot-institute-of-management-studies-gims)** | MAT / CMAT / CAT | ₹6.2 Lakhs (Total) | **₹5.8 LPA** |
+| **[Galgotias University](/colleges/galgotias-university/) (MBA Program)** | CUET-PG / CMAT | ₹4.5 Lakhs (Total) | **₹5.2 LPA** |
+| **[GL Bajaj Institute of Technology and Management](/colleges/gl-bajaj-greater-noida/)** | UPSEE / CMAT / CAT | ₹6.0 Lakhs (Total) | **₹6.0 LPA** |
 | **IILM Graduate School of Management** | CAT / MAT / CMAT | ₹7.5 Lakhs (Total) | **₹6.5 LPA** |
 
 ---
@@ -125,9 +125,9 @@ Return on Investment (ROI) is the most critical metric for any management aspira
 ---
 
 ## 🔗 Related Resources
-- [Best MBA Colleges with Low Fees and High ROI in India 2026](/blog/best-mba-colleges-low-fees-high-roi-india-2026)
-- [Is Direct MBA Admission Without Entrance Exam Worth It?](/blog/direct-mba-admission-without-entrance-exam-2026-is-it-worth-it)
-- [MBA Distance Education 2026: Top Universities & Fees](/blog/mba-distance-education-2026-top-universities-fees-admission)
+- [Best MBA Colleges with Low Fees and High ROI in India 2026](/blog/best-mba-colleges-low-fees-high-roi-india-2026/)
+- [Is Direct MBA Admission Without Entrance Exam Worth It?](/blog/direct-mba-admission-without-entrance-exam-2026-is-it-worth-it/)
+- [MBA Distance Education 2026: Top Universities & Fees](/blog/mba-distance-education-2026-top-universities-fees-admission/)
 
 ---
 

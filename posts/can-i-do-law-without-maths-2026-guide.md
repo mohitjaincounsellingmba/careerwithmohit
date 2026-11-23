@@ -3,9 +3,8 @@ title: Can I do Law Without Maths? — Schools & Prep Guide 2026
 date: '2026-04-21'
 category: Law Admissions
 description: >-
-  Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
-  private univer
+  One of the biggest concerns for Humanities, Arts, and Commerce (without Maths)
+  students is: 'Is Mathematics mandatory for a career in Law?
 keywords:
   - can i do law without maths in 12th
   - law colleges for non maths students 2026
@@ -119,9 +118,9 @@ If you have stayed away from logic and maths, start your CLAT prep at least **12
 ---
 
 ### Useful Links:
-- [Top Law Colleges in India 2026 NIRF Guide](/blog/top-law-colleges-india-nirf-ranking-2026)
-- [BCA vs B.Tech — Career comparison guide](/blog/bca-vs-btech-cse-which-is-better-for-your-career-2026)
-- [How to Crack CLAT 2026](/blog/clat-2026-exam-strategy-guide)
+- [Top Law Colleges in India 2026 NIRF Guide](/blog/top-law-colleges-india-nirf-ranking-2026/)
+- [BCA vs B.Tech — Career comparison guide](/blog/bca-vs-btech-cse-which-is-better-for-your-career-2026/)
+- [How to Crack CLAT 2026](/blog/clat-2026-exam-strategy-guide/)
 
 ---
 

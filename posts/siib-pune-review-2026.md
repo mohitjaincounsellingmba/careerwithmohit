@@ -5,9 +5,8 @@ title: >-
 date: '2026-08-03'
 category: MBA Admissions
 description: >-
-  Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
-  private univer
+  SIIB Pune (Symbiosis Institute of International Business) Review 2026: Fees,
+  Placements, Cutoffs & ROI Analysis: Explore fees, placements, cutoffs &.
 keywords:
   - SIIB Pune (Symbiosis Institute of International Business) review 2026
   - SIIB Pune (Symbiosis Institute of International Business) mba fees
@@ -162,7 +161,7 @@ Make an informed decision by comparing fee structures, placement reports, and ad
 *   [Top Tier MBA Colleges 2026–2027: Compare Fees, Placements & Cutoffs](/top-tier-mba-colleges)
 *   [MBA & PGDM Direct Admission 2027: Complete Eligibility Guide](/mba-pgdm-admission-2027)
 *   [Explore & Compare 200+ Top Colleges in India](/colleges)
-*   [CAT 2026 Mock Test & Expected Percentile Calculator](/cat-mock-test)
+*   [CAT 2026 Mock Test & Expected Percentile Calculator](/tools/cat-mock-test/)
 *   [Check Your Eligibility for Scholarships & Education Loans](/scholarships-2026)
 
 [InquiryCard title="Get Direct Admission Counseling for SIIB Pune (Symbiosis Institute of International Business)" subtitle="Verify your eligibility, check cutoff percentiles, and download official placement brochures instantly." ctaText="Apply Now / Check Eligibility"]

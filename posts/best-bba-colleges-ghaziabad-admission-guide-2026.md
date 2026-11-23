@@ -66,14 +66,14 @@ If brand value and campus life are your priorities, Christ University's Ghaziaba
 *   **Average Placement:** ₹5.5 LPA
 *   **USP:** The "Christ" brand name, international exchange programs, and a highly disciplined environment.
 
-### 3. [ITS - Institute of Technology and Science, Ghaziabad](/colleges/its-ghaziabad)
+### 3. [ITS - Institute of Technology and Science, Ghaziabad](/colleges/its-ghaziabad/)
 ITS is a legacy institution in Ghaziabad, offering great value for money and a strong focus on personality development.
 
 *   **Approx. Fees (Annual):** ₹1.4 Lakhs
 *   **Average Placement:** ₹4 - 5 LPA
 *   **USP:** Excellent alumni network and frequent "Corporate Connect" sessions.
 
-### 4. [KIET Group of Institutions](/colleges/kiet-ghaziabad)
+### 4. [KIET Group of Institutions](/colleges/kiet-ghaziabad/)
 While famous for engineering, KIET has established a very strong management wing for undergraduate students.
 
 *   **Approx. Fees (Annual):** ₹1.2 Lakhs
@@ -126,9 +126,9 @@ Many private institutes have a dedicated **Management Quota** or offer **Direct 
 ---
 
 ## 🔗 Relevant Internal Links
-*   [Top BBA Colleges in Delhi NCR 2026](/blog/top-bba-colleges-delhi-ncr-2026)
-*   [BBA vs BCom vs BMS: Which is better?](/blog/bba-vs-bcom-vs-bms-career-comparison)
-*   [Direct BBA Admission Guide 2026](/blog/direct-bba-admission-2026-management-quota)
+*   [Top BBA Colleges in Delhi NCR 2026](/blog/top-bba-colleges-delhi-ncr-2026/)
+*   [BBA vs BCom vs BMS: Which is better?](/blog/bba-vs-bcom-vs-bms-career-comparison/)
+*   [Direct BBA Admission Guide 2026](/blog/direct-bba-admission-2026-management-quota/)
 
 ---
 

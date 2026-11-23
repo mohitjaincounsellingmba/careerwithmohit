@@ -2,9 +2,8 @@
 title: 'Jawaharlal Nehru University (JNU) Review 2026: Fees, Placements & CUET Cutoff'
 date: '2026-05-24'
 description: >-
-  Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
-  private univer
+  Jawaharlal Nehru University (JNU) Review 2026: Complete guide on fees,
+  verified cutoffs, average placement packages & admission process.
 keywords:
   - Jawaharlal Nehru University 2026
   - JNU CUET cutoff 2026
@@ -85,8 +84,8 @@ JNU is inherently residential, but getting a hostel is competitive.
 *   **Cost:** The living cost is incredibly low. Room rent is around **₹1,200 per year**, and monthly mess bills range from ₹2,000 to ₹3,500, making it extremely affordable.
 
 ### **Check Other University Reviews:**
-*   [University of Delhi (DU) Review 2026](/blog/university-of-delhi-du-review-2026)
-*   [Jamia Millia Islamia (JMI) Review 2026](/blog/jamia-millia-islamia-jmi-review-2026)
+*   [University of Delhi (DU) Review 2026](/blog/university-of-delhi-du-review-2026/)
+*   [Jamia Millia Islamia (JMI) Review 2026](/blog/jamia-millia-islamia-jmi-review-2026/)
 
 [👉 Need guidance for JNU Admissions? Book a Consultation!](/inquiry)
 

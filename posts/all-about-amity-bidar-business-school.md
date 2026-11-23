@@ -20,14 +20,14 @@ faqs:
       The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
 ---
 
-### **College Review: [Amity Bidar Business School](/colleges/amity-bidar-business-school)**
+### **College Review: [Amity Bidar Business School](/colleges/amity-bidar-business-school/)**
 *   **Quality Curriculum**: Tailored directly to industry requirements with standard practical case studies.
 *   **Established Brand**: Over the years, it has earned a strong reputation among regional corporate employers.
 *   **Holistic Learning**: Focuses on both technical business skills and global soft skills development.
 
 ---
 
-### 📊 [Amity Bidar Business School](/colleges/amity-bidar-business-school) 2026 Snapshot
+### 📊 [Amity Bidar Business School](/colleges/amity-bidar-business-school/) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |
@@ -55,18 +55,18 @@ faqs:
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### 1. Is [Amity Bidar Business School](/colleges/amity-bidar-business-school) a good option for PGDM/MBA?
-Yes, [Amity Bidar Business School](/colleges/amity-bidar-business-school) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+### 1. Is [Amity Bidar Business School](/colleges/amity-bidar-business-school/) a good option for PGDM/MBA?
+Yes, [Amity Bidar Business School](/colleges/amity-bidar-business-school/) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
-### 2. What is the average package offered at [Amity Bidar Business School](/colleges/amity-bidar-business-school)?
-The average placement package at [Amity Bidar Business School](/colleges/amity-bidar-business-school) is approximately ₹5.7 LPA, with the highest package reaching up to ₹24.5 LPA.
+### 2. What is the average package offered at [Amity Bidar Business School](/colleges/amity-bidar-business-school/)?
+The average placement package at [Amity Bidar Business School](/colleges/amity-bidar-business-school/) is approximately ₹5.7 LPA, with the highest package reaching up to ₹24.5 LPA.
 
-### 3. What entrance exams are accepted by [Amity Bidar Business School](/colleges/amity-bidar-business-school)?
+### 3. What entrance exams are accepted by [Amity Bidar Business School](/colleges/amity-bidar-business-school/)?
 The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
 
 ---
 
-**Final Verdict**: [Amity Bidar Business School](/colleges/amity-bidar-business-school) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
+**Final Verdict**: [Amity Bidar Business School](/colleges/amity-bidar-business-school/) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
 [👉 Apply to Amity Bidar Business School](/inquiry) | [👉 Get Free Counselling](/inquiry)
 

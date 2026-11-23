@@ -4,9 +4,8 @@ title: >-
   Counselling Guide
 date: '2026-06-01'
 description: >-
-  Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
-  private univer
+  JEE Advanced 2026 Result Declared: Check Rank List, Cutoff Marks & JoSAA
+  Counselling Guide: Explore fees, placements, cutoffs & admission guidelines.
 keywords:
   - JEE Advanced 2026 result declared
   - JEE Advanced result date 2026
@@ -138,17 +137,17 @@ Don't be disheartened — this is not the end of the road. Here are your options
 | **Round 1 Seat Allotment** | June 23, 2026 |
 | **Round 2 Allotment** | June 28, 2026 |
 
-For a complete step-by-step counselling guide, check out: [JoSAA Counselling 2026: Dates, Process & Registration Guide](/blog/josaa-counselling-2026-dates-process-registration)
+For a complete step-by-step counselling guide, check out: [JoSAA Counselling 2026: Dates, Process & Registration Guide](/blog/josaa-counselling-2026-dates-process-registration/)
 
 ---
 
 ## Useful Resources for Your Next Steps
 
-- [JEE Main 2026 College Predictor: Find Your Best B.Tech College](/blog/jee-main-2026-college-predictor-rank-vs-college)
-- [B.Tech Admission Without JEE 2026 – All Options](/blog/btech-admission-without-jee-2026-all-options)
-- [How to Crack JEE Advanced 2026 – Preparation Strategy](/blog/how-to-crack-jee-advanced-2026)
-- [Free JEE Advanced Mock Test 2026](/blog/free-jee-advanced-mock-test-2026)
-- [Best B.Tech Colleges in India 2026 (NIRF Ranking)](/blog/best-btech-colleges-india-2026)
+- [JEE Main 2026 College Predictor: Find Your Best B.Tech College](/blog/jee-main-2026-college-predictor-rank-vs-college/)
+- [B.Tech Admission Without JEE 2026 – All Options](/blog/btech-admission-without-jee-2026-all-options/)
+- [How to Crack JEE Advanced 2026 – Preparation Strategy](/blog/how-to-crack-jee-advanced-2026/)
+- [Free JEE Advanced Mock Test 2026](/blog/free-jee-advanced-mock-test-2026/)
+- [Best B.Tech Colleges in India 2026 (NIRF Ranking)](/blog/best-btech-colleges-india-2026/)
 
 ---
 

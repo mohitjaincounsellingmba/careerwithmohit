@@ -51,8 +51,8 @@ For students planning their admissions for the 2027–2029 intake, this guide hi
 | College Name | Accepted Entrance Exams | Total Program Fees | Average Placement Package |
 | :--- | :--- | :--- | :--- |
 | **IMT Ghaziabad (Institute of Management Technology)** | CAT / XAT / GMAT | ₹22.27 Lakhs (Total) | **₹17.30 LPA** |
-| **[ITS Ghaziabad (Mohan Nagar)](/colleges/its-ghaziabad)** | CMAT / MAT / CAT | ₹6.0 Lakhs (Total) | **₹6.20 LPA** |
-| **[Jaipuria School of Business, Ghaziabad](/colleges/jaipuria-school-of-business-ghaziabad)** | CAT / MAT / CMAT | ₹7.9 Lakhs (Total) | **₹6.80 LPA** |
+| **[ITS Ghaziabad (Mohan Nagar)](/colleges/its-ghaziabad/)** | CMAT / MAT / CAT | ₹6.0 Lakhs (Total) | **₹6.20 LPA** |
+| **[Jaipuria School of Business, Ghaziabad](/colleges/jaipuria-school-of-business-ghaziabad/)** | CAT / MAT / CMAT | ₹7.9 Lakhs (Total) | **₹6.80 LPA** |
 
 ---
 
@@ -79,13 +79,13 @@ Choosing a B-school in this region offers key advantages:
 - **Average Placement Package:** **₹17.30 LPA**
 - **Key Highlight:** Top B-school offering strong finance specialization tracks and premium consulting recruitments.
 
-### 2. [ITS Ghaziabad (Mohan Nagar)](/colleges/its-ghaziabad)
+### 2. [ITS Ghaziabad (Mohan Nagar)](/colleges/its-ghaziabad/)
 - **Approximate Fees:** ₹6.0 Lakhs (Total)
 - **Accepted Entrance Exams:** CMAT / MAT / CAT
 - **Average Placement Package:** **₹6.20 LPA**
 - **Key Highlight:** Strong regional value B-school with solid academic foundation in data-driven finance.
 
-### 3. [Jaipuria School of Business, Ghaziabad](/colleges/jaipuria-school-of-business-ghaziabad)
+### 3. [Jaipuria School of Business, Ghaziabad](/colleges/jaipuria-school-of-business-ghaziabad/)
 - **Approximate Fees:** ₹7.9 Lakhs (Total)
 - **Accepted Entrance Exams:** CAT / MAT / CMAT
 - **Average Placement Package:** **₹6.80 LPA**
@@ -102,9 +102,9 @@ Choosing a B-school in this region offers key advantages:
 ---
 
 ## 🔗 Related Resources
-- [Top MBA Colleges for Finance in India 2026 — Placements & Fees](/blog/top-mba-colleges-for-finance-specialization-india-2026)
-- [Best MBA Colleges with Low Fees & High ROI in India](/blog/best-mba-colleges-low-fees-high-roi-india-2026)
-- [Is Direct MBA Admission Without Entrance Exam Worth It?](/blog/direct-mba-admission-without-entrance-exam-2026-is-it-worth-it)
+- [Top MBA Colleges for Finance in India 2026 — Placements & Fees](/blog/top-mba-colleges-for-finance-specialization-india-2026/)
+- [Best MBA Colleges with Low Fees & High ROI in India](/blog/best-mba-colleges-low-fees-high-roi-india-2026/)
+- [Is Direct MBA Admission Without Entrance Exam Worth It?](/blog/direct-mba-admission-without-entrance-exam-2026-is-it-worth-it/)
 
 ---
 

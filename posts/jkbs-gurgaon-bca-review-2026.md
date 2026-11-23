@@ -114,9 +114,9 @@ JKBS does not offer direct admission on marks alone. They follow a holistic sele
 ---
 
 ## 🔗 Related Resources
-*   [JKBS Gurgaon BBA Review 2026](/blog/jkbs-gurgaon-bba-review-2026)
-*   [IBMR Gurgaon BCA Review 2026](/blog/ibmr-gurgaon-bca-review-2026)
-*   [GD Goenka BTech Review 2026](/blog/gd-goenka-btech-review-2026)
+*   [JKBS Gurgaon BBA Review 2026](/blog/jkbs-gurgaon-bba-review-2026/)
+*   [IBMR Gurgaon BCA Review 2026](/blog/ibmr-gurgaon-bca-review-2026/)
+*   [GD Goenka BTech Review 2026](/blog/gd-goenka-btech-review-2026/)
 
 ---
 

@@ -60,6 +60,6 @@ state: Karnataka
 Xavier Institute of Management and Entrepreneurship (XIME) is a prestigious B-school with campuses in Bangalore, Chennai, and Kochi. The Bangalore campus is situated in Electronic City, the tech heart of India.
 
 ### Related Articles
-- [Direct MBA Admission in India 2025](/posts/direct-mba-admission-india)
-- [Bihar Student Credit Card (DRCC) MBA Colleges](/posts/bihar-student-credit-card-mba-colleges)
+- [Direct MBA Admission in India 2025](/blog/direct-mba-admission-india/)
+- [Bihar Student Credit Card (DRCC) MBA Colleges](/blog/bihar-student-credit-card-mba-colleges/)
 

@@ -44,14 +44,14 @@ location: Bangalore
 state: Karnataka
 ---
 
-### **College Review: [International Institute of Business Studies (IIBS)](/colleges/iibs-bangalore)**
+### **College Review: [International Institute of Business Studies (IIBS)](/colleges/iibs-bangalore/)**
 *   **Quality Curriculum**: Tailored directly to industry requirements with standard practical case studies.
 *   **Established Brand**: Over the years, it has earned a strong reputation among regional corporate employers.
 *   **Holistic Learning**: Focuses on both technical business skills and global soft skills development.
 
 ---
 
-### 📊 [International Institute of Business Studies](/colleges/international-institute-of-business-studies) (IIBS) 2026 Snapshot
+### 📊 [International Institute of Business Studies](/colleges/international-institute-of-business-studies/) (IIBS) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |
@@ -79,20 +79,20 @@ state: Karnataka
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### 1. Is [International Institute of Business Studies (IIBS)](/colleges/iibs-bangalore) a good option for PGDM/MBA?
-Yes, [International Institute of Business Studies](/colleges/international-institute-of-business-studies) (IIBS) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+### 1. Is [International Institute of Business Studies (IIBS)](/colleges/iibs-bangalore/) a good option for PGDM/MBA?
+Yes, [International Institute of Business Studies](/colleges/international-institute-of-business-studies/) (IIBS) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
-### 2. What is the average package offered at [International Institute of Business Studies (IIBS)](/colleges/iibs-bangalore)?
-The average placement package at [International Institute of Business Studies](/colleges/international-institute-of-business-studies) (IIBS) is approximately ₹8.2 LPA, with the highest package reaching up to ₹48.0 LPA.
+### 2. What is the average package offered at [International Institute of Business Studies (IIBS)](/colleges/iibs-bangalore/)?
+The average placement package at [International Institute of Business Studies](/colleges/international-institute-of-business-studies/) (IIBS) is approximately ₹8.2 LPA, with the highest package reaching up to ₹48.0 LPA.
 
-### 3. What entrance exams are accepted by [International Institute of Business Studies (IIBS)](/colleges/iibs-bangalore)?
+### 3. What entrance exams are accepted by [International Institute of Business Studies (IIBS)](/colleges/iibs-bangalore/)?
 The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, KMAT for the PGDM and MBA admissions.
 
 ---
 
-**Final Verdict**: [International Institute of Business Studies](/colleges/international-institute-of-business-studies) (IIBS) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
+**Final Verdict**: [International Institute of Business Studies](/colleges/international-institute-of-business-studies/) (IIBS) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
-[👉 Apply to [International Institute of Business Studies](/colleges/international-institute-of-business-studies) (IIBS)](/inquiry) | [👉 Get Free Counselling](/inquiry)
+[👉 Apply to [International Institute of Business Studies](/colleges/international-institute-of-business-studies/) (IIBS)](/inquiry) | [👉 Get Free Counselling](/inquiry)
 
 Source: Shiksha.com
 ---

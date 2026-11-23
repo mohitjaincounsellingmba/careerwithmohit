@@ -56,7 +56,7 @@ For engineering aspirants targeting the 2026 academic batch on a budget, we have
 
 These institutions keep their total program tuition fees under ₹10 Lakhs while offering robust laboratory infrastructure, experienced faculty members, and active recruitment drives.
 
-### 1. [KIET Group of Institutions](/colleges/kiet-ghaziabad)
+### 1. [KIET Group of Institutions](/colleges/kiet-ghaziabad/)
 - **Approximate Tuition Fees:** ₹5.2 Lakhs (Total)
 - **Accepted Entrance Exams:** JEE Main (UPTAC)
 - **Average Placement Package:** **₹6.5 LPA**
@@ -68,7 +68,7 @@ These institutions keep their total program tuition fees under ₹10 Lakhs while
 - **Average Placement Package:** **₹6.2 LPA**
 - **Key Highlight:** Highly disciplined academic environment with specialized industry-sponsored laboratories.
 
-### 3. [ABES Engineering College](/colleges/abes-ghaziabad)
+### 3. [ABES Engineering College](/colleges/abes-ghaziabad/)
 - **Approximate Tuition Fees:** ₹5.6 Lakhs (Total)
 - **Accepted Entrance Exams:** JEE Main (UPTAC)
 - **Average Placement Package:** **₹5.8 LPA**
@@ -88,9 +88,9 @@ Here is a quick snapshot comparing the fee structures and average placements for
 
 | College Name | Accepted Entrance Exams | Approximate Fees (Total) | Average Placement Package |
 | :--- | :--- | :--- | :--- |
-| **[KIET Group of Institutions](/colleges/kiet-ghaziabad)** | JEE Main (UPTAC) | ₹5.2 Lakhs (Total) | **₹6.5 LPA** |
+| **[KIET Group of Institutions](/colleges/kiet-ghaziabad/)** | JEE Main (UPTAC) | ₹5.2 Lakhs (Total) | **₹6.5 LPA** |
 | **Ajay Kumar Garg Engineering College (AKGEC)** | JEE Main (UPTAC) | ₹5.6 Lakhs (Total) | **₹6.2 LPA** |
-| **[ABES Engineering College](/colleges/abes-ghaziabad)** | JEE Main (UPTAC) | ₹5.6 Lakhs (Total) | **₹5.8 LPA** |
+| **[ABES Engineering College](/colleges/abes-ghaziabad/)** | JEE Main (UPTAC) | ₹5.6 Lakhs (Total) | **₹5.8 LPA** |
 | **Raj Kumar Goel Institute of Technology (RKGIT)** | JEE Main / UPTAC | ₹4.4 Lakhs (Total) | **₹4.5 LPA** |
 
 ---
@@ -113,9 +113,9 @@ Return on Investment (ROI) is the single most critical factor for most engineeri
 ---
 
 ## 🔗 Related Resources
-- [Guide to B.Tech Specializations, Skills, and Placements (2026)](/blog/btech-specializations-skills-salary-2026-guide)
-- [B.Tech Admission Without JEE 2026: All Options](/blog/btech-admission-without-jee-2026-all-options)
-- [Top Engineering Colleges Accepting JEE Main Scores in 2026](/blog/jee-main-accepting-btech-colleges-2026)
+- [Guide to B.Tech Specializations, Skills, and Placements (2026)](/blog/btech-specializations-skills-salary-2026-guide/)
+- [B.Tech Admission Without JEE 2026: All Options](/blog/btech-admission-without-jee-2026-all-options/)
+- [Top Engineering Colleges Accepting JEE Main Scores in 2026](/blog/jee-main-accepting-btech-colleges-2026/)
 
 ---
 

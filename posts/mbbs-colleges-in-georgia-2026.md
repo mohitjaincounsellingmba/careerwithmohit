@@ -55,8 +55,8 @@ faqs:
 
 ## 🔗 Related Links
 
-* [MBBS Abroad 2026 Overview](/blog/mbbs-abroad-for-indian-students-2026-fees-nmc-rules)
-* [NEET 2026 Preparation Guide](/blog/all-about-neet-exam)
+* [MBBS Abroad 2026 Overview](/blog/mbbs-abroad-for-indian-students-2026-fees-nmc-rules/)
+* [NEET 2026 Preparation Guide](/blog/all-about-neet-exam/)
 ---
 
 ### 🚀 Boost Your Preparation

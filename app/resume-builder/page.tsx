@@ -10,5 +10,5 @@ export const metadata: Metadata = {
   };
 
 export default function ResumeBuilderRedirect() {
-  redirect("/tools/ats-resume-builder");
+  redirect("/tools/ats-resume-builder/");
 }

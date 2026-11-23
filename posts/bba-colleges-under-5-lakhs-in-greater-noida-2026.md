@@ -56,7 +56,7 @@ For students targeting the 2026 academic batch on a budget, we have compiled the
 
 These institutions keep tuition fees under ₹5 Lakhs (either total program fee or annual fees matching a budget-friendly layout) while offering solid placement opportunities.
 
-### 1. [Galgotias University](/colleges/galgotias-university) (BBA Program)
+### 1. [Galgotias University](/colleges/galgotias-university/) (BBA Program)
 - **Approximate Fees:** ₹1.2 Lakhs (Annual)
 - **Accepted Entrance Exams:** CUET-UG / Merit
 - **Average Placement Package:** **₹4.2 LPA**
@@ -68,13 +68,13 @@ These institutions keep tuition fees under ₹5 Lakhs (either total program fee 
 - **Average Placement Package:** **₹4.0 LPA**
 - **Key Highlight:** Focus on corporate alignment, soft skills, and mock interviews.
 
-### 3. GNIOT [Institute of Management Studies](/colleges/institute-of-management-studies)
+### 3. GNIOT [Institute of Management Studies](/colleges/institute-of-management-studies/)
 - **Approximate Fees:** ₹1.1 Lakhs (Annual)
 - **Accepted Entrance Exams:** Merit / CUET
 - **Average Placement Package:** **₹3.8 LPA**
 - **Key Highlight:** Affordable business education in Knowledge Park II.
 
-### 4. [Noida Institute of Engineering and Technology (NIET)](/colleges/niet-greater-noida)
+### 4. [Noida Institute of Engineering and Technology (NIET)](/colleges/niet-greater-noida/)
 - **Approximate Fees:** ₹1.0 Lakhs (Annual)
 - **Accepted Entrance Exams:** Merit / CUET
 - **Average Placement Package:** **₹3.6 LPA**
@@ -88,10 +88,10 @@ Here is a quick snapshot comparing the fee structures and average placements for
 
 | College Name | Entrance Exams | Approximate Fees | Avg Placement Package |
 | :--- | :--- | :--- | :--- |
-| **[Galgotias University](/colleges/galgotias-university) (BBA Program)** | CUET-UG / Merit | ₹1.2 Lakhs (Annual) | **₹4.2 LPA** |
+| **[Galgotias University](/colleges/galgotias-university/) (BBA Program)** | CUET-UG / Merit | ₹1.2 Lakhs (Annual) | **₹4.2 LPA** |
 | **GL Bajaj Institute of Management** | Merit / CUET | ₹1.3 Lakhs (Annual) | **₹4.0 LPA** |
-| **GNIOT [Institute of Management Studies](/colleges/institute-of-management-studies)** | Merit / CUET | ₹1.1 Lakhs (Annual) | **₹3.8 LPA** |
-| **[Noida Institute of Engineering and Technology (NIET)](/colleges/niet-greater-noida)** | Merit / CUET | ₹1.0 Lakhs (Annual) | **₹3.6 LPA** |
+| **GNIOT [Institute of Management Studies](/colleges/institute-of-management-studies/)** | Merit / CUET | ₹1.1 Lakhs (Annual) | **₹3.8 LPA** |
+| **[Noida Institute of Engineering and Technology (NIET)](/colleges/niet-greater-noida/)** | Merit / CUET | ₹1.0 Lakhs (Annual) | **₹3.6 LPA** |
 
 ---
 
@@ -113,9 +113,9 @@ Return on Investment (ROI) is the most critical metric for any management aspira
 ---
 
 ## 🔗 Related Resources
-- [Best BBA Specializations for 2026](/blog/bba-specializations-skills-salary-2026-guide)
-- [BBA vs BCom vs BMS: Career Comparison](/blog/bba-vs-bcom-vs-bms-career-comparison)
-- [Direct BBA Admission 2026](/blog/direct-bba-admission-2026-management-quota)
+- [Best BBA Specializations for 2026](/blog/bba-specializations-skills-salary-2026-guide/)
+- [BBA vs BCom vs BMS: Career Comparison](/blog/bba-vs-bcom-vs-bms-career-comparison/)
+- [Direct BBA Admission 2026](/blog/direct-bba-admission-2026-management-quota/)
 
 ---
 

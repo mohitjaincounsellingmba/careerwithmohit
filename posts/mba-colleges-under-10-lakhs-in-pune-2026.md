@@ -77,7 +77,7 @@ These institutions keep tuition fees under ₹10 Lakhs (either total or annual, 
 - **Average Placement Package:** **₹7.5 LPA**
 - **Key Highlight:** Well-known for rigorous corporate training and high marketing/finance placement ratios.
 
-### 4. [RIIM Pune](/colleges/riim-pune)
+### 4. [RIIM Pune](/colleges/riim-pune/)
 - **Approximate Fees:** ₹5.5 Lakhs (Total)
 - **Accepted Entrance Exams:** CMAT / MAT / CAT
 - **Average Placement Package:** **₹5.8 LPA**
@@ -100,7 +100,7 @@ Here is a quick snapshot comparing the fee structures and average placements for
 | **Department of Management Sciences (PUMBA), Savitribai Phule Pune University** | MAH CET / CAT / CMAT | ₹1.3 Lakhs (Total) | **₹8.5 LPA** |
 | **Indira School of Business Studies (ISBS)** | MAH CET / CMAT / CAT | ₹7.2 Lakhs (Total) | **₹6.8 LPA** |
 | **Pune Institute of Business Management (PIBM)** | CAT / CMAT / PMAT | ₹8.5 Lakhs (Total) | **₹7.5 LPA** |
-| **[RIIM Pune](/colleges/riim-pune)** | CMAT / MAT / CAT | ₹5.5 Lakhs (Total) | **₹5.8 LPA** |
+| **[RIIM Pune](/colleges/riim-pune/)** | CMAT / MAT / CAT | ₹5.5 Lakhs (Total) | **₹5.8 LPA** |
 | **DY Patil Institute of Management, Akurdi** | MAH CET / MAT / CMAT | ₹3.5 Lakhs (Total) | **₹5.2 LPA** |
 
 ---
@@ -123,9 +123,9 @@ Return on Investment (ROI) is the most critical metric for any management aspira
 ---
 
 ## 🔗 Related Resources
-- [Best MBA Colleges with Low Fees and High ROI in India 2026](/blog/best-mba-colleges-low-fees-high-roi-india-2026)
-- [Is Direct MBA Admission Without Entrance Exam Worth It?](/blog/direct-mba-admission-without-entrance-exam-2026-is-it-worth-it)
-- [MBA Distance Education 2026: Top Universities & Fees](/blog/mba-distance-education-2026-top-universities-fees-admission)
+- [Best MBA Colleges with Low Fees and High ROI in India 2026](/blog/best-mba-colleges-low-fees-high-roi-india-2026/)
+- [Is Direct MBA Admission Without Entrance Exam Worth It?](/blog/direct-mba-admission-without-entrance-exam-2026-is-it-worth-it/)
+- [MBA Distance Education 2026: Top Universities & Fees](/blog/mba-distance-education-2026-top-universities-fees-admission/)
 
 ---
 

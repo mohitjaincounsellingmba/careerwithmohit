@@ -2,9 +2,8 @@
 title: 'JEE Main 2026 Session 2 Marks vs Percentile Analysis: April Attempt'
 date: '2026-04-13'
 description: >-
-  Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
-  private univer
+  The JEE Main 2026 Session 2 examinations were conducted between April 2 and
+  April 8, 2026. Check fees, cutoffs, placements & expert admission tips.
 keywords:
   - JEE Main 2026 Session 2 marks vs percentile
   - JEE Main April attempt analysis 2026
@@ -86,8 +85,8 @@ To sit for the JEE Advanced exam (May 2026), students must finish in the top 2.5
 
 ## 🔗 Related Resources
 - [JEE Main 2026 Score Calculator & Verification Tool](/calculator/jee-main-2026)
-- [Top B.Tech Colleges in Delhi NCR 2026](/blog/top-btech-colleges-delhi-ncr-2026)
-- [JAC Delhi Counselling: A Step-by-Step Guide](/blog/jac-delhi-counselling-2026)
+- [Top B.Tech Colleges in Delhi NCR 2026](/blog/top-btech-colleges-delhi-ncr-2026/)
+- [JAC Delhi Counselling: A Step-by-Step Guide](/colleges/top-engineering-colleges-in-delhi/)
 
 ---
 

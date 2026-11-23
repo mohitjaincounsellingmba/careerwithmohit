@@ -2,9 +2,8 @@
 title: 'Southwest & IndiGo: Ultra-Fast Turnaround Time & Fleet Standardization Secrets'
 date: '2026-05-28'
 description: >-
-  Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
-  private univer
+  Southwest & IndiGo: Ultra-Fast Turnaround Time & Fleet Standardization
+  Secrets: Explore fees, placements, cutoffs & admission guidelines.
 keywords:
   - Southwest Airlines fleet standardization
   - IndiGo turnaround time case study
@@ -144,9 +143,9 @@ By standardizing their fleets to cut maintenance costs and choreographing lightn
 ---
 
 ### **Related Aviation & Strategy Case Studies:**
-*   [Zara (Inditex) Case Study: JIT Production & Agile Fast-Fashion Supply Chain](/blog/zara-inditex-jit-production-agile-supply-chain)
-*   [Mumbai Dabbawalas Case Study: Six Sigma Operations & Genius Manual Coding System](/blog/mumbai-dabbawalas-six-sigma-operations-coding-system)
-*   [Aravind Eye Care System: Assembly-Line Healthcare & The Cross-Subsidization Model](/blog/aravind-eye-care-system-assembly-line-healthcare)
+*   [Zara (Inditex) Case Study: JIT Production & Agile Fast-Fashion Supply Chain](/blog/zara-inditex-jit-production-agile-supply-chain/)
+*   [Mumbai Dabbawalas Case Study: Six Sigma Operations & Genius Manual Coding System](/blog/mumbai-dabbawalas-six-sigma-operations-coding-system/)
+*   [Aravind Eye Care System: Assembly-Line Healthcare & The Cross-Subsidization Model](/blog/aravind-eye-care-system-assembly-line-healthcare/)
 
 [👉 Want to build a high-flying career in Aviation Management? Explore MBA admissions with Mohit Jain!](/inquiry)
 

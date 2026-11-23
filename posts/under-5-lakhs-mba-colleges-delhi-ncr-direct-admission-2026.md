@@ -63,7 +63,7 @@ Students from neighboring states like Uttar Pradesh, Rajasthan, Haryana, and Bih
 ## Direct Admission vs. Management Quota
 
 Before looking at the colleges, it's important to clarify how "Direct Admission" works in Delhi NCR:
-- Colleges like [FMS Delhi](/colleges/fms-delhi) or Delhi School of Economics have entirely merit-based admission (via CAT/CUET) and do not have management quotas.
+- Colleges like [FMS Delhi](/colleges/fms-delhi/) or Delhi School of Economics have entirely merit-based admission (via CAT/CUET) and do not have management quotas.
 - However, many top private B-schools approved by AICTE in Greater Noida, Ghaziabad, and Gurugram offer **Management Quota Seats** (usually 15-20% of the total intake).
 - These seats are filled based on your graduation marks, profile, and a personal interview, allowing you to bypass strict entrance test cutoffs.
 
@@ -73,13 +73,13 @@ Before looking at the colleges, it's important to clarify how "Direct Admission"
 
 Here are some of the most reputable institutions where the total tuition fee for the 2-year MBA/PGDM program sits comfortably under the ₹5 Lakh mark.
 
-### 1. [GNIOT [Institute of Management Studies](/colleges/institute-of-management-studies) (GIMS)](/colleges/gniot-institute-of-management-studies-gims), Greater Noida
+### 1. [GNIOT [Institute of Management Studies](/colleges/institute-of-management-studies/) (GIMS)](/colleges/gniot-institute-of-management-studies-gims), Greater Noida
 - **Approximate Fees:** ₹4.0 Lakh - ₹5.0 Lakh
 - **Status:** AICTE Approved, PGDM.
 - **Why Choose It:** GNIOT has heavily upgraded its infrastructure and placement cell. It attracts companies from various sectors offering decent median packages for freshers.
 - **Admission Route:** Standard admission via MAT/CMAT, with institute-level seats available for direct applicants based on merit.
 
-### 2. [Galgotias University](/colleges/galgotias-university), Greater Noida
+### 2. [Galgotias University](/colleges/galgotias-university/), Greater Noida
 - **Approximate Fees:** ~₹4.0 Lakh
 - **Why Choose It:** A massive campus with a deeply diverse student crowd from Bihar, UP, and Haryana. Excellent brand recall and massive placement drives.
 
@@ -88,7 +88,7 @@ Here are some of the most reputable institutions where the total tuition fee for
 - **Status:** Affiliated to AKTU.
 - **Why Choose It:** One of the most affordable MBA programs with decent regional connectivity. Great for those who want a formal MBA degree with minimal financial burden.
 
-### 4. [Management Education & Research Institute (MERI)](/colleges/management-education-research-institute-meri), Janakpuri, Delhi
+### 4. [Management Education & Research Institute (MERI)](/colleges/management-education-research-institute-meri/), Janakpuri, Delhi
 - **Approximate Fees:** ~₹3.5 Lakh - ₹4.0 Lakh
 - **Status:** Affiliated to GGSIPU (IP University).
 - **Why Choose It:** Located right in the heart of Delhi, giving you fantastic access to urban corporate networking. While IPU primarily takes through IPU-CET/CAT/CMAT, management quota seats are applicable.
@@ -121,7 +121,7 @@ A high ROI MBA under 5 Lakhs is achievable in Delhi NCR. Focus on building a goo
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### What is the typical fee structure for MBA programs in India?
-The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
+The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi/) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
 
 ### Is it possible to pursue an MBA without clearing CAT?
 Yes, many colleges accept other entrance exams like XAT, NMAT, SNAP, MAT, or CMAT. Additionally, direct admission options under management quota are available in several private B-schools.

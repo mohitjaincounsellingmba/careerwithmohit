@@ -65,7 +65,7 @@ state: Delhi NCR
 
 [MockTestCard title="Free CAT 2026 Full CBT Mock Test 2026" link="/cat-mock-test" questions="68 Questions" time="120 Mins"]
 
-The **Common Admission Test (CAT 2026)** is the gateway to India's top business schools, including the prestigious **[IIM Ahmedabad](/colleges/iim-ahmedabad), [IIM Bangalore](/colleges/iim-bangalore), [IIM Calcutta](/colleges/iim-calcutta), [FMS Delhi](/colleges/fms-delhi), and [SPJIMR Mumbai](/colleges/spjimr-mumbai)**. Over 3.3 lakh aspirants compete each year, making test stamina, section selection, and accuracy the true differentiators between a 90%ile and a **99.5+%ile score**.
+The **Common Admission Test (CAT 2026)** is the gateway to India's top business schools, including the prestigious **[IIM Ahmedabad](/colleges/iim-ahmedabad/), [IIM Bangalore](/colleges/iim-bangalore/), [IIM Calcutta](/colleges/iim-calcutta/), [FMS Delhi](/colleges/fms-delhi/), and [SPJIMR Mumbai](/colleges/spjimr-mumbai/)**. Over 3.3 lakh aspirants compete each year, making test stamina, section selection, and accuracy the true differentiators between a 90%ile and a **99.5+%ile score**.
 
 To help you benchmark your preparation under authentic exam conditions, **CareerWithMohit** provides a **100% Free, Full-Length CAT 2026 CBT Mock Test** featuring 68 authentic questions, realistic sectional timers, an on-screen calculator, instant percentile calculation, and complete step-by-step solutions.
 
@@ -73,7 +73,7 @@ To help you benchmark your preparation under authentic exam conditions, **Career
 
 > 🚀 **Ready to test your CAT readiness?**
 >
-> [👉 **Start Free CAT 2026 Full Mock Test (68 Qs | 120 Mins)**](/cat-mock-test)
+> [👉 **Start Free CAT 2026 Full Mock Test (68 Qs | 120 Mins)**](/tools/cat-mock-test/)
 >
 > *No credit card or login barriers — Instant AI Scorecard & IIM Call Benchmarking.*
 

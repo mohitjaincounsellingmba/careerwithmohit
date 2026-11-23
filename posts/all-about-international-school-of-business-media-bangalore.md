@@ -44,14 +44,14 @@ location: Bangalore
 state: Karnataka
 ---
 
-### **College Review: [International School of Business & Media, Bangalore](/colleges/international-school-of-business-media-bangalore)**
+### **College Review: [International School of Business & Media, Bangalore](/colleges/international-school-of-business-media-bangalore/)**
 *   **Quality Curriculum**: Tailored directly to industry requirements with standard practical case studies.
 *   **Established Brand**: Over the years, it has earned a strong reputation among regional corporate employers.
 *   **Holistic Learning**: Focuses on both technical business skills and global soft skills development.
 
 ---
 
-### 📊 [International School of Business & Media](/colleges/international-school-of-business-media), Bangalore 2026 Snapshot
+### 📊 [International School of Business & Media](/colleges/international-school-of-business-media/), Bangalore 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |
@@ -79,20 +79,20 @@ state: Karnataka
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### 1. Is [International School of Business & Media, Bangalore](/colleges/international-school-of-business-media-bangalore) a good option for PGDM/MBA?
-Yes, [International School of Business & Media](/colleges/international-school-of-business-media), Bangalore is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+### 1. Is [International School of Business & Media, Bangalore](/colleges/international-school-of-business-media-bangalore/) a good option for PGDM/MBA?
+Yes, [International School of Business & Media](/colleges/international-school-of-business-media/), Bangalore is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
-### 2. What is the average package offered at [International School of Business & Media, Bangalore](/colleges/international-school-of-business-media-bangalore)?
-The average placement package at [International School of Business & Media](/colleges/international-school-of-business-media), Bangalore is approximately ₹7.2 LPA, with the highest package reaching up to ₹18.4 LPA.
+### 2. What is the average package offered at [International School of Business & Media, Bangalore](/colleges/international-school-of-business-media-bangalore/)?
+The average placement package at [International School of Business & Media](/colleges/international-school-of-business-media/), Bangalore is approximately ₹7.2 LPA, with the highest package reaching up to ₹18.4 LPA.
 
-### 3. What entrance exams are accepted by [International School of Business & Media, Bangalore](/colleges/international-school-of-business-media-bangalore)?
+### 3. What entrance exams are accepted by [International School of Business & Media, Bangalore](/colleges/international-school-of-business-media-bangalore/)?
 The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
 
 ---
 
-**Final Verdict**: [International School of Business & Media](/colleges/international-school-of-business-media), Bangalore is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
+**Final Verdict**: [International School of Business & Media](/colleges/international-school-of-business-media/), Bangalore is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
-[👉 Apply to [International School of Business & Media](/colleges/international-school-of-business-media), Bangalore](/inquiry) | [👉 Get Free Counselling](/inquiry)
+[👉 Apply to [International School of Business & Media](/colleges/international-school-of-business-media/), Bangalore](/inquiry) | [👉 Get Free Counselling](/inquiry)
 
 Source: Shiksha.com
 ---

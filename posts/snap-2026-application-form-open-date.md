@@ -42,7 +42,7 @@ location: Pune
 state: Maharashtra
 ---
 
-The Symbiosis National Aptitude Test (SNAP) is a popular national-level MBA entrance exam conducted by Symbiosis International (Deemed) University (SIU). SNAP is the gateway to 16 elite Symbiosis institutes, including the highly ranked [SIBM Pune](/colleges/sibm-pune), [SCMHRD Pune](/colleges/scmhrd-pune), [SIBM Bangalore](/colleges/sibm-bangalore), and SIIB Pune.
+The Symbiosis National Aptitude Test (SNAP) is a popular national-level MBA entrance exam conducted by Symbiosis International (Deemed) University (SIU). SNAP is the gateway to 16 elite Symbiosis institutes, including the highly ranked [SIBM Pune](/colleges/sibm-pune/), [SCMHRD Pune](/colleges/scmhrd-pune/), [SIBM Bangalore](/colleges/sibm-bangalore/), and SIIB Pune.
 
 SNAP is famous for being a speed-based, student-friendly exam. It has a shorter duration compared to CAT or XAT (just 60 minutes) and allows candidates multiple attempts. If you are targeting any of the prestigious Symbiosis programs for the 2027-29 academic batch, you need to track the **SNAP 2026 application form open date** closely.
 
@@ -74,7 +74,7 @@ While Symbiosis International University is yet to release the official exam bro
 The overall registration cost includes the exam fee per attempt plus separate fees for each Symbiosis program you wish to apply to:
 
 * **SNAP 2026 Registration Fee:** ₹2,250 per attempt (Expected)
-* **Symbiosis Institute Program Fee:** ₹1,000 per program (e.g., MBA at [SIBM Pune](/colleges/sibm-pune), MBA at SCMHRD)
+* **Symbiosis Institute Program Fee:** ₹1,000 per program (e.g., MBA at [SIBM Pune](/colleges/sibm-pune/), MBA at SCMHRD)
 * **Mode of Payment:** Online via net banking, credit cards, debit cards, or UPI.
 
 ---
@@ -119,10 +119,10 @@ The registration fee is expected to be **₹2,250 per attempt**. Additionally, a
 
 ### Recommended Resources:
 
-* **[Comprehensive SNAP Exam Strategy, Pattern & Syllabus Guide](/blog/all-about-snap-exam)**
-* **[Honest Comparison of [SIBM Pune](/colleges/sibm-pune) vs [SCMHRD Pune](/colleges/scmhrd-pune) Admission & Fees](/blog/all-about-symbiosis-mba-institutes)**
-* **[Other Top MBA Entrance Exams 2026 Guides](/blog/all-about-omets-mba-entrance-exams-2026)**
-* **[Top MBA Colleges Accepting 90+ SNAP Percentile](/blog/all-about-sibm-bangalore)**
+* **[Comprehensive SNAP Exam Strategy, Pattern & Syllabus Guide](/blog/all-about-snap-exam/)**
+* **[Honest Comparison of [SIBM Pune](/colleges/sibm-pune/) vs [SCMHRD Pune](/colleges/scmhrd-pune/) Admission & Fees](/blog/all-about-symbiosis-mba-institutes)**
+* **[Other Top MBA Entrance Exams 2026 Guides](/blog/all-about-omets-mba-entrance-exams-2026/)**
+* **[Top MBA Colleges Accepting 90+ SNAP Percentile](/blog/all-about-sibm-bangalore/)**
 
 *Source: Official notifications published on snaptest.org.*
 

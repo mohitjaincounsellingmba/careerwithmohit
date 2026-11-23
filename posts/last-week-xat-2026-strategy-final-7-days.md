@@ -2,9 +2,8 @@
 title: 'Last‑Week XAT 2026 Strategy: What to Do in the Final 7 Days'
 date: '2026-05-21'
 description: >-
-  Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
-  private univer
+  The final week leading up to the Xavier Aptitude Test (XAT) is often filled
+  with anxiety. Check fees, cutoffs, placements & expert admission tips.
 keywords:
   - XAT 2026 preparation
   - last week XAT strategy
@@ -42,7 +41,7 @@ faqs:
 location: Delhi NCR
 state: Delhi NCR
 ---
-The final week leading up to the Xavier Aptitude Test (XAT) is often filled with anxiety. Unlike CAT, which is held in November, XAT takes place in early January. This gives candidates an extra month of preparation, but it also increases the pressure to perform, as XAT is often the final opportunity to secure a seat at a premier Tier-1 business school like [XLRI Jamshedpur](/colleges/xlri-jamshedpur).
+The final week leading up to the Xavier Aptitude Test (XAT) is often filled with anxiety. Unlike CAT, which is held in November, XAT takes place in early January. This gives candidates an extra month of preparation, but it also increases the pressure to perform, as XAT is often the final opportunity to secure a seat at a premier Tier-1 business school like [XLRI Jamshedpur](/colleges/xlri-jamshedpur/).
 
 To maximize your performance, you must shift your focus from learning new concepts to consolidation, mock analysis, and mental conditioning. 
 
@@ -70,7 +69,7 @@ graph TD
 ### Day 6: Decision Making Marathon
 - **Action:** Solve 40 to 50 Decision Making questions from past XAT papers (2018 to 2025).
 - **Goal:** Align your thinking with the XLRI key. Focus on resolving conflicts ethically, pragmatically, and with stakeholder consensus.
-- **Resource:** Read our detailed guide on [XAT 2026 Decision-Making Section Strategy](/blog/xat-2026-decision-making-question-trends-how-to-crack).
+- **Resource:** Read our detailed guide on [XAT 2026 Decision-Making Section Strategy](/blog/xat-2026-decision-making-question-trends-how-to-crack/).
 
 ### Day 5: Quantitative Aptitude Revision
 - **Action:** Review your formula sheets and shortcut notes. Focus on arithmetic, algebra, and geometry.
@@ -104,7 +103,7 @@ graph TD
   - **Buffer/Review:** 5 Minutes
 - **The Essay is Important:** Do not neglect the essay writing section. Write in a neutral, professional, and clear tone.
 
-For a review of other speed-based exams that take place around this time, read our guide on the [NMAT Speed & Accuracy Trends](/blog/nmat-2026-speed-accuracy-trends-3-attempts-prep-strategy) or prepare using our [Free NMAT Mock Test](/blog/free-nmat-mock-test-2026-nmims-prep).
+For a review of other speed-based exams that take place around this time, read our guide on the [NMAT Speed & Accuracy Trends](/blog/nmat-2026-speed-accuracy-trends-3-attempts-prep-strategy/) or prepare using our [Free NMAT Mock Test](/blog/free-nmat-mock-test-2026-nmims-prep/).
 
 [👉 Unsure about your exam-day strategy? Speak to our MBA admission experts for last-minute guidance!](/inquiry)
 

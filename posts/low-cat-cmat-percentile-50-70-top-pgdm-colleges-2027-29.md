@@ -67,9 +67,9 @@ For the **2027-29 academic session**, hundreds of top-tier AICTE-approved autono
 | Region | Recommended PGDM Colleges | Total Fee (Approx) | Avg Placement Package |
 | :--- | :--- | :--- | :--- |
 | **Delhi NCR** | NDIM Delhi, FIIB Delhi, FOSTIIMA, JIMS Kalkaji, GNIOT GIMS, GL Bajaj | ₹6.78L - ₹12.85L | ₹7.25 LPA - ₹11.15 LPA |
-| **Pune** | [PIBM Pune](/colleges/pibm-pune), [RIIM Pune](/colleges/riim-pune), Lexicon MILE, DY Patil B-School, ISBS Pune | ₹6.90L - ₹10.50L | ₹7.15 LPA - ₹8.20 LPA |
-| **Bangalore** | [ISBR Business School](/colleges/isbr-bangalore), GIBS Bangalore, IBA Bangalore, ISME | ₹8.90L - ₹10.50L | ₹7.40 LPA - ₹8.50 LPA |
-| **Kolkata** | [Globsyn Business School](/colleges/globsyn-kolkata), Praxis, IEM Kolkata | ₹6.50L - ₹9.50L | ₹6.80 LPA - ₹9.46 LPA |
+| **Pune** | [PIBM Pune](/colleges/pibm-pune/), [RIIM Pune](/colleges/riim-pune/), Lexicon MILE, DY Patil B-School, ISBS Pune | ₹6.90L - ₹10.50L | ₹7.15 LPA - ₹8.20 LPA |
+| **Bangalore** | [ISBR Business School](/colleges/isbr-bangalore/), GIBS Bangalore, IBA Bangalore, ISME | ₹8.90L - ₹10.50L | ₹7.40 LPA - ₹8.50 LPA |
+| **Kolkata** | [Globsyn Business School](/colleges/globsyn-kolkata/), Praxis, IEM Kolkata | ₹6.50L - ₹9.50L | ₹6.80 LPA - ₹9.46 LPA |
 | **Hyderabad** | IPE Hyderabad, VJIM Hyderabad, SSIM Hyderabad | ₹6.90L - ₹9.15L | ₹6.50 LPA - ₹7.10 LPA |
 
 ---

@@ -57,25 +57,25 @@ For management aspirants preparing for **2027-29 admissions**, Gujarat institute
 
 | College Name | Location | Accepted Exams | Total Fees (Approx) | Average Package |
 | :--- | :--- | :--- | :--- | :--- |
-| **[IIM Ahmedabad](/colleges/iim-ahmedabad)** | Ahmedabad | CAT (99.5+ %ile) | ₹25.00 Lakhs | ₹34.36 LPA |
+| **[IIM Ahmedabad](/colleges/iim-ahmedabad/)** | Ahmedabad | CAT (99.5+ %ile) | ₹25.00 Lakhs | ₹34.36 LPA |
 | **MICA Ahmedabad** | Ahmedabad | CAT/XAT + MICAT | ₹23.00 Lakhs | ₹20.09 LPA |
-| **[Nirma University](/colleges/nirma-university) (Inst of Mgmt)** | Ahmedabad | CAT / CMAT (80+ %ile) | ₹11.80 Lakhs | ₹12.20 LPA |
+| **[Nirma University](/colleges/nirma-university/) (Inst of Mgmt)** | Ahmedabad | CAT / CMAT (80+ %ile) | ₹11.80 Lakhs | ₹12.20 LPA |
 | **EDII Ahmedabad** | Ahmedabad | CAT/MAT/CMAT/ATMA | ₹10.95 Lakhs | ₹7.80 LPA |
-| **[Shanti Business School](/colleges/shanti-business-school)** | Ahmedabad | CAT/MAT/CMAT/ATMA | ₹7.45 Lakhs | ₹6.75 LPA |
-| **[Amity University](/colleges/amity-noida)** | Ahmedabad | CAT/MAT/CMAT | ₹6.50 Lakhs | ₹6.00 LPA |
+| **[Shanti Business School](/colleges/shanti-business-school/)** | Ahmedabad | CAT/MAT/CMAT/ATMA | ₹7.45 Lakhs | ₹6.75 LPA |
+| **[Amity University](/colleges/amity-noida/)** | Ahmedabad | CAT/MAT/CMAT | ₹6.50 Lakhs | ₹6.00 LPA |
 | **Parul University (GISM)** | Vadodara | CMAT / MAT / GCET | ₹4.50 Lakhs | ₹5.50 LPA |
-| **[ITM Vocational University](/colleges/itm-vocational-university)** | Vadodara | MAT / CMAT / ATMA | ₹4.00 Lakhs | ₹5.00 LPA |
+| **[ITM Vocational University](/colleges/itm-vocational-university/)** | Vadodara | MAT / CMAT / ATMA | ₹4.00 Lakhs | ₹5.00 LPA |
 
 ---
 
 ## Key Highlights of Top Gujarat Institutes
 
-### 1. EDII ([Entrepreneurship Development Institute of India](/colleges/entrepreneurship-development-institute-of-india)), Ahmedabad
+### 1. EDII ([Entrepreneurship Development Institute of India](/colleges/entrepreneurship-development-institute-of-india/)), Ahmedabad
 * **Uniqueness**: Autonomous institute backed by IDBI, IFCI, ICICI, and SBI under Government of Gujarat guidance.
-* **Specialized Program**: PGDM in Entrepreneurship, Start-up Management, and Family Business. Read [All About EDII Ahmedabad](/blog/all-about-entrepreneurship-development-institute-of-india).
+* **Specialized Program**: PGDM in Entrepreneurship, Start-up Management, and Family Business. Read [All About EDII Ahmedabad](/blog/all-about-entrepreneurship-development-institute-of-india/).
 
 ### 2. Shanti Business School (SBS), Ahmedabad
-* **Highlights**: AICTE approved PGDM with dual specializations in Data Analytics, Communication, Marketing, and Finance. Read [All About Shanti Business School](/blog/all-about-shanti-business-school).
+* **Highlights**: AICTE approved PGDM with dual specializations in Data Analytics, Communication, Marketing, and Finance. Read [All About Shanti Business School](/blog/all-about-shanti-business-school/).
 
 ### 3. MICA Ahmedabad (The School of Ideas)
 * **Highlights**: Premier institution for Strategic Marketing, Digital Communications, and Brand Management.

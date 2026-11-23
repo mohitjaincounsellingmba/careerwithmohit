@@ -77,7 +77,7 @@ Formerly known as Delhi College of Engineering (DCE), DTU is a state university 
 * **Highest Placement:** ₹82.0 LPA
 * **Top Recruiters:** Amazon, Atlassian, Adobe, Palantir, Goldman Sachs
 
-## 3. [Netaji Subhas University](/colleges/netaji-subhas-university) of Technology (NSUT)
+## 3. [Netaji Subhas University](/colleges/netaji-subhas-university/) of Technology (NSUT)
 NSUT (formerly NSIT) stands neck-to-neck with DTU. Located in Dwarka, it is particularly famous for its Computer Science, IT, and ECE branches. The coding culture here is top-notch, leading to stellar software placements.
 
 * **Exams Accepted:** JEE Main (Admission via JAC Delhi)
@@ -113,7 +113,7 @@ IGDTUW is India's premier technical university exclusively for women. The univer
 * **Highest Placement:** ₹82.0 LPA
 * **Top Recruiters:** Google, Microsoft, Uber, Atlassian, Intuit
 
-## 7. [Jamia Millia Islamia (JMI)](/colleges/jamia-millia-islamia)
+## 7. [Jamia Millia Islamia (JMI)](/colleges/jamia-millia-islamia/)
 A central university with a rich history, Jamia Millia Islamia offers highly subsidized engineering education with excellent ROI. It consistently ranks in the top 20 engineering colleges in the NIRF rankings.
 
 * **Exams Accepted:** JEE Main
@@ -154,8 +154,8 @@ Confused about choice filling in JAC Delhi or GGSIPU counselling? Unsure which c
 ---
 
 *Related Posts:*
-- [IPU B.Tech Admissions Guide 2026](/blog/ipu-btech-admissions-guide)
-- [Direct B.Tech Admission in Pune](/blog/btech-lateral-entry-guide)
+- [IPU B.Tech Admissions Guide 2026](/colleges/top-engineering-colleges-in-delhi/)
+- [Direct B.Tech Admission in Pune](/blog/best-btech-colleges-india-2026/)
 - [Top B.Tech Colleges in India: NIRF Rankings](/colleges)
 
 ---

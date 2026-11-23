@@ -104,9 +104,9 @@ Register for **Round 1** of either MCC or State counselling. By Round 3 (Stray V
 ---
 
 ### Useful Links:
-- [Top MBBS Colleges in India 2026 NIRF Guide](/blog/top-mbbs-colleges-india-nirf-ranking-2026)
-- [UP NEET Counselling Process 2026](/blog/up-neet-counselling-2026-guide)
-- [How to Prepare for NEET 2026](/blog/neet-2026-exam-strategy-guide)
+- [Top MBBS Colleges in India 2026 NIRF Guide](/blog/top-mbbs-colleges-india-nirf-ranking-2026/)
+- [UP NEET Counselling Process 2026](/blog/up-neet-counselling-2026-guide/)
+- [How to Prepare for NEET 2026](/blog/neet-2026-exam-strategy-guide/)
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: >-
   Why You Must Take Our Free NMAT 2026 Mock Test for [NMIMS
-  Mumbai](/colleges/nmims-mumbai)
+  Mumbai](/colleges/nmims-mumbai/)
 date: '2026-08-22'
 description: >-
   Master the NMAT by GMAC pattern, sectional timings, and the 'No Negative
@@ -45,7 +45,7 @@ faqs:
 location: Mumbai
 state: Maharashtra
 ---
-Are you targeting [NMIMS Mumbai](/colleges/nmims-mumbai) for the 2027 batch? If so, cracking the **NMAT by GMAC** is your primary hurdle. Unlike the CAT exam which tests deep conceptual knowledge and logic over hours, NMAT is a high-octane speed test. 
+Are you targeting [NMIMS Mumbai](/colleges/nmims-mumbai/) for the 2027 batch? If so, cracking the **NMAT by GMAC** is your primary hurdle. Unlike the CAT exam which tests deep conceptual knowledge and logic over hours, NMAT is a high-octane speed test. 
 
 [MockTestCard title="Free NMAT 2026 Full CBT Mock Test 2026" link="/nmat-mock-test" questions="108 Questions" time="120 Mins"]
 

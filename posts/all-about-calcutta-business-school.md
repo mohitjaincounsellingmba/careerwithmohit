@@ -35,14 +35,14 @@ location: Kolkata
 state: West Bengal
 ---
 
-### **College Review: [Calcutta Business School](/colleges/calcutta-business-school)**
+### **College Review: [Calcutta Business School](/colleges/calcutta-business-school/)**
 *   **Quality Curriculum**: Tailored directly to industry requirements with standard practical case studies.
 *   **Established Brand**: Over the years, it has earned a strong reputation among regional corporate employers.
 *   **Holistic Learning**: Focuses on both technical business skills and global soft skills development.
 
 ---
 
-### 📊 [Calcutta Business School](/colleges/calcutta-business-school) 2026 Snapshot
+### 📊 [Calcutta Business School](/colleges/calcutta-business-school/) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |
@@ -70,18 +70,18 @@ state: West Bengal
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### 1. Is [Calcutta Business School](/colleges/calcutta-business-school) a good option for PGDM/MBA?
-Yes, [Calcutta Business School](/colleges/calcutta-business-school) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+### 1. Is [Calcutta Business School](/colleges/calcutta-business-school/) a good option for PGDM/MBA?
+Yes, [Calcutta Business School](/colleges/calcutta-business-school/) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
-### 2. What is the average package offered at [Calcutta Business School](/colleges/calcutta-business-school)?
-The average placement package at [Calcutta Business School](/colleges/calcutta-business-school) is approximately ₹6.5 LPA, with the highest package reaching up to ₹14.0 LPA.
+### 2. What is the average package offered at [Calcutta Business School](/colleges/calcutta-business-school/)?
+The average placement package at [Calcutta Business School](/colleges/calcutta-business-school/) is approximately ₹6.5 LPA, with the highest package reaching up to ₹14.0 LPA.
 
-### 3. What entrance exams are accepted by [Calcutta Business School](/colleges/calcutta-business-school)?
+### 3. What entrance exams are accepted by [Calcutta Business School](/colleges/calcutta-business-school/)?
 The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT, JEMAT for the PGDM and MBA admissions.
 
 ---
 
-**Final Verdict**: [Calcutta Business School](/colleges/calcutta-business-school) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
+**Final Verdict**: [Calcutta Business School](/colleges/calcutta-business-school/) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
 [👉 Apply to Calcutta Business School](/inquiry) | [👉 Get Free Counselling](/inquiry)
 

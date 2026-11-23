@@ -3,9 +3,8 @@ title: 'Central University List India 2026: All 56 Central Universities State-Wi
 date: '2026-04-27'
 category: Colleges
 description: >-
-  Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
-  private univer
+  India has 56 Central Universities established by Acts of Parliament and funded
+  by the Ministry of Education (or other central ministries).
 keywords:
   - central university list India 2026
   - list of central universities in India
@@ -280,7 +279,7 @@ One of the biggest advantages of Central Universities over private colleges is t
 | 4 | Banaras Hindu University (BHU) | Varanasi |
 | 5 | Aligarh Muslim University (AMU) | Aligarh |
 | 6 | University of Hyderabad (UoH) | Hyderabad |
-| 7 | [Jamia Millia Islamia (JMI)](/colleges/jamia-millia-islamia) | New Delhi |
+| 7 | [Jamia Millia Islamia (JMI)](/colleges/jamia-millia-islamia/) | New Delhi |
 | 8 | Tezpur University (TU) | Assam |
 | 9 | Visva-Bharati University (VBU) | West Bengal |
 | 10 | Pondicherry University (PU) | Puducherry |
@@ -306,7 +305,7 @@ One of the biggest advantages of Central Universities over private colleges is t
 |---|---|
 | **CUET UG 2026 Exam** | Expected: May–June 2026 |
 | **CUET PG 2026 Exam** | Conducted: March 2026 |
-| **CUET PG 2026 Result** | Check: [cuet-pg-2026-result-declared-check-scorecard-link](/blog/cuet-pg-2026-result-declared-check-scorecard-link) |
+| **CUET PG 2026 Result** | Check: [cuet-pg-2026-result-declared-check-scorecard-link](/blog/cuet-pg-2026-result-declared-check-scorecard-link/) |
 | **Official Portal** | exams.nta.ac.in |
 
 ---
@@ -339,19 +338,19 @@ If you're planning to apply to a Central University through CUET 2026 and need p
 
 [👉 Book a Free 1:1 Counselling Session with Mohit Jain](/inquiry)
 
-[👉 CUET UG 2026 Score Calculator – Check Your Percentile](/blog/cuet-ug-2026-score-calculator-marks-vs-percentile)
+[👉 CUET UG 2026 Score Calculator – Check Your Percentile](/blog/cuet-ug-2026-score-calculator-marks-vs-percentile/)
 
-[👉 CUET PG 2026 Result – Check Your Score Now](/blog/cuet-pg-2026-result-declared-check-scorecard-link)
+[👉 CUET PG 2026 Result – Check Your Score Now](/blog/cuet-pg-2026-result-declared-check-scorecard-link/)
 
-[👉 Top MBA Colleges via CUET PG](/blog/cuet-pg-mba-colleges-list-2026)
+[👉 Top MBA Colleges via CUET PG](/blog/cuet-pg-mba-colleges-list-2026/)
 
 ---
 
 *Related Posts:*
-- [CUET UG 2026: University List City-Wise](/blog/cuet-ug-university-list-2026-citywise)
-- [CUET PG 2026: Top MBA Colleges List](/blog/cuet-pg-mba-colleges-list-2026)
-- [Best MBA Colleges in India 2026](/blog/best-mba-colleges-india-2026)
-- [FMS Delhi MBA Admission 2026](/blog/all-about-fms-delhi)
+- [CUET UG 2026: University List City-Wise](/blog/cuet-ug-university-list-2026-citywise/)
+- [CUET PG 2026: Top MBA Colleges List](/blog/cuet-pg-mba-colleges-list-2026/)
+- [Best MBA Colleges in India 2026](/blog/best-mba-colleges-india-2026/)
+- [FMS Delhi MBA Admission 2026](/blog/all-about-fms-delhi/)
 
 ---
 

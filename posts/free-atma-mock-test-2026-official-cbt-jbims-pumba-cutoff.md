@@ -57,7 +57,7 @@ state: Maharashtra
 
 [MockTestCard title="Free ATMA 2026 Full CBT Mock Test 2026" link="/atma-mock-test" questions="180 Questions" time="180 Mins"]
 
-The **AIMS Test for Management Admissions (ATMA 2026)** is one of India's most popular national MBA entrance exams, accepted by over 500+ AICTE-approved management institutes and top universities across Maharashtra and India—including **[JBIMS Mumbai](/colleges/jbims-mumbai), SIMSREE Mumbai, [PUMBA Pune](/colleges/pumba-pune), Welingkar (WeSchool) Mumbai, MET Mumbai, and SIES Mumbai**.
+The **AIMS Test for Management Admissions (ATMA 2026)** is one of India's most popular national MBA entrance exams, accepted by over 500+ AICTE-approved management institutes and top universities across Maharashtra and India—including **[JBIMS Mumbai](/colleges/jbims-mumbai/), SIMSREE Mumbai, [PUMBA Pune](/colleges/pumba-pune/), Welingkar (WeSchool) Mumbai, MET Mumbai, and SIES Mumbai**.
 
 With **180 questions across 6 strictly timed 30-minute sections (180 minutes total)** and negative marking (+1 / -0.25), scoring 130+ marks in ATMA requires high stamina, quick calculation, and disciplined time management across both Part I and Part II sections.
 
@@ -67,7 +67,7 @@ With **180 questions across 6 strictly timed 30-minute sections (180 minutes tot
 
 > 🏆 **Check your JBIMS & PUMBA admission chances right now!**
 >
-> [👉 **Start Free ATMA 2026 Full Mock Test (180 Questions | 180 Mins)**](/tools/mock-test/atma/)
+> [👉 **Start Free ATMA 2026 Full Mock Test (180 Questions | 180 Mins)**](/tools/atma-mock-test/)
 >
 > *No login walls — Instant Scorecard, Percentile Predictor & Complete Explanations.*
 

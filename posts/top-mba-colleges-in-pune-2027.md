@@ -72,15 +72,15 @@ In this 2027 verified admission guide, senior education consultant **Mohit Jain*
 | **[SIBM Pune](/blog/best-cat-coaching-institutes-and-fees-2026/)** (MBA Core/I&E) | Lavale, Pune | ₹26.80 Lakhs | ₹26.70 LPA | SNAP (98.5+ %ile) |
 | **[SCMHRD Pune](/blog/best-cat-coaching-institutes-and-fees-2026/)** (MBA Core/BA/IDM) | Hinjewadi Phase 1 | ₹25.20 Lakhs | ₹23.70 LPA | SNAP (97.0+ %ile) |
 | **[PUMBA (Pune University)](/blog/direct-admission-pumba-pune-university-seats-2026/)** (MBA) | Ganeshkhind | ₹1.30 Lakhs | ₹8.80 LPA | MAH-CET (99.0+ %ile) / CAT (88+ %ile) |
-| **[NIBM Pune](/blog/direct-admission-nibm-pune-banking-finance-2027-29/)** (PGDM - Banking & FS) | NIBM Post Office Rd | ₹16.00 Lakhs | ₹15.20 LPA | CAT / XAT / CMAT (85+ %ile) |
+| **[NIBM Pune](/blog/direct-admission-nibm-pune-banking-finance-2026/)** (PGDM - Banking & FS) | NIBM Post Office Rd | ₹16.00 Lakhs | ₹15.20 LPA | CAT / XAT / CMAT (85+ %ile) |
 | **[NIA Pune](/colleges/institute-of-insurance-and-risk-management/)** (PGDM - Insurance) | Baner Road | ₹12.50 Lakhs | ₹12.80 LPA | CAT / CMAT (75+ %ile) |
 | **[Sri Balaji University (SBUP - BIMM)](/blog/bimm-balaji-pune-mba-review-2027-fees-placements-cutoff/)** | Tathawade | ₹12.90 Lakhs | ₹9.20 LPA | CAT / MAT / CMAT / XAT / SBUP Test |
-| **[Indira Group (IIMP / ISBS Pune)](/blog/aissms-lexicon-management-institute-pune-review-2027-29/)** (MBA/PGDM) | Wakad / Tathawade | ₹7.50 – ₹9.50 Lakhs | ₹7.80 LPA | MAH-CET / CMAT / CAT / MAT |
+| **[Indira Group (IIMP / ISBS Pune)](/blog/aissms-lexicon-management-institute-pune-review-2026/)** (MBA/PGDM) | Wakad / Tathawade | ₹7.50 – ₹9.50 Lakhs | ₹7.80 LPA | MAH-CET / CMAT / CAT / MAT |
 | **[ISB&M Pune (International School)](/colleges/international-school-of-business-media-pune/)** | Nande, Pune | ₹13.20 Lakhs | ₹10.80 LPA | CAT / XAT / MAT / CMAT (70+ %ile) |
 | **[PIBM Pune (Praxis / Business Mgmt)](/colleges/institute-of-business-management-and-research/)** | Pirangut | ₹8.95 Lakhs | ₹7.50 LPA | CAT / MAT / CMAT / XAT |
 | **[MIT-WPU (School of Business)](/blog/best-cat-coaching-institutes-and-fees-2026/)** (MBA) | Kothrud | ₹9.50 Lakhs | ₹7.20 LPA | CAT / XAT / NMAT / MAH-CET |
-| **[Lexicon MILE Pune](/blog/aissms-lexicon-management-institute-pune-review-2027-29/)** (PGDM) | Wagholi | ₹8.50 Lakhs | ₹7.50 LPA | CAT / MAT / XAT / CMAT |
-| **[RIIM Pune (Ramachandran Institute)](/blog/akemi-vs-isms-vs-riim-pune-mba-comparison-2027-29/)** (PGDM/MBA) | Bavdhan | ₹6.50 – ₹7.90 Lakhs | ₹6.80 LPA | MAH-CET / CMAT / MAT / Direct |
+| **[Lexicon MILE Pune](/blog/aissms-lexicon-management-institute-pune-review-2026/)** (PGDM) | Wagholi | ₹8.50 Lakhs | ₹7.50 LPA | CAT / MAT / XAT / CMAT |
+| **[RIIM Pune (Ramachandran Institute)](/blog/akemi-vs-isms-vs-riim-pune-mba-comparison-2026/)** (PGDM/MBA) | Bavdhan | ₹6.50 – ₹7.90 Lakhs | ₹6.80 LPA | MAH-CET / CMAT / MAT / Direct |
 
 ---
 
@@ -97,7 +97,7 @@ In this 2027 verified admission guide, senior education consultant **Mohit Jain*
 ```
 
 ### 1. Symbiosis Flagship Institutes (SIBM & SCMHRD)
-- **[SIBM Pune](/colleges/sibm-pune) (Lavale Hilltop)**: Symbiosis's crowning glory. Exceptional placement records in Marketing (P&G, HUL, ITC, Marico) and Corporate Strategy.
+- **[SIBM Pune](/colleges/sibm-pune/) (Lavale Hilltop)**: Symbiosis's crowning glory. Exceptional placement records in Marketing (P&G, HUL, ITC, Marico) and Corporate Strategy.
 - **[SCMHRD Pune](/colleges/scmhrd-pune/) (Hinjewadi)**: Renowned as one of India's top 3 institutes for Human Resource Management (HRM), alongside robust Business Analytics and Infrastructure Management (IDM) programs.
 
 ### 2. Super-Specialized National BFSI Leaders (NIBM & NIA)
@@ -121,7 +121,7 @@ In this 2027 verified admission guide, senior education consultant **Mohit Jain*
 ## Frequently Asked Questions (FAQs)
 
 ### What is the SNAP cutoff for SIBM Pune and SCMHRD?
-For SIBM Pune, candidates need **98.5+ percentile** in SNAP. For [SCMHRD Pune](/colleges/scmhrd-pune) Core MBA, the cutoff stands around **97.0+ percentile**.
+For SIBM Pune, candidates need **98.5+ percentile** in SNAP. For [SCMHRD Pune](/colleges/scmhrd-pune/) Core MBA, the cutoff stands around **97.0+ percentile**.
 
 ### Which MBA college in Pune has the best ROI?
 **PUMBA (Department of Management Sciences, Savitribai Phule Pune University)** provides the highest ROI in Pune, with total 2-year tuition fees under ₹1.35 Lakhs and average placement CTC of ₹8.80 LPA.
