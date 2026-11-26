@@ -35,9 +35,9 @@ function simulateEdge(inputPath) {
     if (
       !target &&
       (currentPath.startsWith('/blog/all-about-amity-') ||
-       currentPath.startsWith('/blog/low-budget-bba-') ||
-       currentPath.startsWith('/blog/low-budget-mba-') ||
-       currentPath.startsWith('/blog/private-mtech-'))
+        currentPath.startsWith('/blog/low-budget-bba-') ||
+        currentPath.startsWith('/blog/low-budget-mba-') ||
+        currentPath.startsWith('/blog/private-mtech-'))
     ) {
       if (currentPath !== '/blog' && currentPath !== '/blog/') {
         target = '/blog/';
@@ -264,6 +264,7 @@ const topPages = [
   '/',
   '/blog/fee-refund-policy-aicte-ugc-2026/',
   '/blog/top-healthcare-management-colleges-india-2026/',
+
   '/blog/cat-2026-whatsapp-group-links-top-coaching/',
   '/blog/how-to-recover-college-fee-refund-legal-action/',
   '/blog/btech-colleges-under-5-lakhs-budget-2026/',

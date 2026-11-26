@@ -355,6 +355,18 @@ export default function RootLayout({
   return (
     <html lang="en-IN" className={`${bricolage.variable} ${dmSans.variable} ${jetbrainsMono.variable}`}>
       <head>
+        {/* Google tag (gtag.js) for Google Ads */}
+        <script async src="https://www.googletagmanager.com/gtm.js?id=GTM-NFXN63W2" />
+        <script
+          id="google-tag-init"
+          dangerouslySetInnerHTML={{
+            __html: `
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+`,
+          }}
+        />
         <link rel="preconnect" href="https://www.googletagmanager.com" crossOrigin="anonymous" />
         <link rel="dns-prefetch" href="https://www.googletagmanager.com" />
         <link rel="dns-prefetch" href="https://pagead2.googlesyndication.com" />
