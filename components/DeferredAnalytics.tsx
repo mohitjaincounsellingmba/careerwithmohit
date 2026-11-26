@@ -4,7 +4,7 @@ import { useState, useEffect } from 'react';
 import Script from 'next/script';
 
 const GA_ID = process.env.NEXT_PUBLIC_GA_ID || process.env.NEXT_PUBLIC_FIREBASE_MEASUREMENT_ID || 'G-448JRKP87B';
-const ADS_ID = process.env.NEXT_PUBLIC_GOOGLE_ADS_ID || 'AW-18052249575';
+const ADS_ID = process.env.NEXT_PUBLIC_GOOGLE_ADS_ID || 'AW-18483191132';
 
 export function DeferredAnalytics() {
   const [loadAnalytics, setLoadAnalytics] = useState(false);
