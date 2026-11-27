@@ -198,7 +198,7 @@ export function CompareModal({
                 {colleges.map((college) => (
                   <td key={college.slug} className="p-4 space-y-2">
                     <Link
-                      href={`/colleges/${college.slug}`}
+                      href={`/colleges/${college.slug}/`}
                       className="block w-full text-center py-2 px-3 bg-[#14103A] hover:bg-violet-700 text-white font-bold text-xs rounded-xl transition-all shadow-xs"
                     >
                       View Full Details &rarr;

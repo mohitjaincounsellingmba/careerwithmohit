@@ -286,7 +286,7 @@ export function BTechCollegeGenerator() {
                           <div className="mt-4 pt-4 border-t border-slate-100">
                             {college.slug ? (
                               <Link
-                                href={`/${college.slug}`}
+                                href={`/${college.slug}/`}
                                 prefetch={false}
                                 className="flex items-center justify-between text-xs font-black uppercase tracking-widest text-blue-600 hover:text-blue-800 transition-colors group"
                               >

@@ -165,12 +165,12 @@ export function CollegeComparison({ colleges }: CollegeComparisonProps) {
                     {/* Action Row */}
                     <div className="grid grid-cols-2 gap-4 px-8 mt-4 rounded-b-[2.5rem]">
                         <div className="flex justify-center">
-                            <a href={`/colleges/${collegeA.slug}`} className="w-full text-center bg-slate-900 text-white font-black uppercase tracking-widest px-8 py-4 rounded-2xl hover:bg-blue-600 transition-all shadow-md shadow-slate-200 text-xs md:text-sm">
+                            <a href={`/colleges/${collegeA.slug}/`} className="w-full text-center bg-slate-900 text-white font-black uppercase tracking-widest px-8 py-4 rounded-2xl hover:bg-blue-600 transition-all shadow-md shadow-slate-200 text-xs md:text-sm">
                                 View Profile
                             </a>
                         </div>
                         <div className="flex justify-center">
-                            <a href={`/colleges/${collegeB.slug}`} className="w-full text-center bg-slate-900 text-white font-black uppercase tracking-widest px-8 py-4 rounded-2xl hover:bg-purple-600 transition-all shadow-md shadow-slate-200 text-xs md:text-sm">
+                            <a href={`/colleges/${collegeB.slug}/`} className="w-full text-center bg-slate-900 text-white font-black uppercase tracking-widest px-8 py-4 rounded-2xl hover:bg-purple-600 transition-all shadow-md shadow-slate-200 text-xs md:text-sm">
                                 View Profile
                             </a>
                         </div>

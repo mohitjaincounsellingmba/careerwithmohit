@@ -610,7 +610,7 @@ export function HomeCollegeExplorer() {
                   {displayedColleges.map((col) => (
                     <tr key={col.id} className="hover:bg-blue-50/40 transition-colors">
                       <td className="p-3.5 sm:p-4 font-bold text-slate-900">
-                        <Link href={`/${col.slug}`} className="hover:text-blue-600 block text-xs sm:text-sm font-extrabold">
+                        <Link href={`/${col.slug}/`} className="hover:text-blue-600 block text-xs sm:text-sm font-extrabold">
                           {col.name}
                         </Link>
                         <span className={`inline-block mt-1 px-2 py-0.5 rounded text-[10px] font-black uppercase tracking-wider border ${col.tagColor}`}>

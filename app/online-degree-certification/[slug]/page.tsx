@@ -928,7 +928,7 @@ export default async function OnlineDegreeSubpage({ params }: { params: Promise<
                       <span className="font-display font-black text-sm text-[#10B981]">{univ.fee}</span>
                     </div>
                     <Link
-                      href={`/online-degree-certification/${univ.universitySlug}`}
+                      href={`/online-degree-certification/${univ.universitySlug}/`}
                       className="px-4 py-2 rounded-full bg-[#2563EB] hover:bg-[#1D4ED8] text-white font-display font-extrabold text-xs transition-all shadow-xs"
                     >
                       View Details →
@@ -1394,7 +1394,7 @@ export default async function OnlineDegreeSubpage({ params }: { params: Promise<
                     return (
                       <a
                         key={comp}
-                        href={`/online-degree-certification/${comp}`}
+                        href={`/online-degree-certification/${comp}/`}
                         className="rounded-[22px] bg-[#F8FAFC] border border-[#061124]/10 hover:border-[#2563EB] hover:bg-white text-[#061124] font-display font-extrabold text-sm px-6 py-4 flex items-center justify-between transition-all shadow-xs"
                       >
                         <span>{college.name.split(' ')[0]} vs {peerName} Online</span>

@@ -401,7 +401,7 @@ export function MbaCollegesPuneClient({
                           </div>
 
                           <div>
-                            <Link href={`/colleges/${college.slug}`} className="group inline-flex items-center gap-1">
+                            <Link href={`/colleges/${college.slug}/`} className="group inline-flex items-center gap-1">
                               <h4 className="text-2xl font-black uppercase tracking-tight text-foreground group-hover:text-primary-brand transition-colors">
                                 {college.name}
                               </h4>
@@ -513,7 +513,7 @@ export function MbaCollegesPuneClient({
                       {colleges.slice(0, 8).map((c) => (
                         <tr key={c.slug} className="hover:bg-slate-50 transition-colors">
                           <td className="p-4 border-r-2 border-foreground font-black">
-                            <Link href={`/colleges/${c.slug}`} className="text-primary hover:underline block">{c.name}</Link>
+                            <Link href={`/colleges/${c.slug}/`} className="text-primary hover:underline block">{c.name}</Link>
                           </td>
                           <td className="p-4 border-r-2 border-foreground">{c.ownership}</td>
                           <td className="p-4 border-r-2 border-foreground text-slate-800 font-black">{c.fees}</td>

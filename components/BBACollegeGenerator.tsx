@@ -272,7 +272,7 @@ export function BBACollegeGenerator() {
                           <div className="mt-4 pt-4 border-t border-slate-100">
                             {college.slug ? (
                               <Link
-                                href={`/${college.slug}`}
+                                href={`/${college.slug}/`}
                                 className="flex items-center justify-between text-xs font-black uppercase tracking-widest text-rose-600 hover:text-rose-800 transition-colors group"
                               >
                                 View Full Review

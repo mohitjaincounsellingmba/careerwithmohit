@@ -717,7 +717,7 @@ export function GeoMbaHubClient({ hub, colleges }: GeoMbaHubClientProps) {
                       <tr key={idx} className="hover:bg-slate-50/80 transition-colors">
                         <td className="py-4 px-4 font-display font-bold text-slate-900">
                           {item.slug ? (
-                            <Link href={`/colleges/${item.slug}`} className="hover:text-[#2563EB] transition-colors flex items-center gap-1.5 group">
+                            <Link href={`/colleges/${item.slug}/`} className="hover:text-[#2563EB] transition-colors flex items-center gap-1.5 group">
                               <span>{item.collegeName}</span>
                               <ArrowUpRight className="w-3.5 h-3.5 opacity-0 group-hover:opacity-100 text-[#2563EB] transition-opacity" />
                             </Link>

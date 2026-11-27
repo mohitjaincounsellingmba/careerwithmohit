@@ -21,7 +21,7 @@ export function SimilarColleges({ colleges }: Props) {
         {colleges.map((college) => (
           <Link
             key={college.slug}
-            href={`/colleges/${college.slug}`}
+            href={`/colleges/${college.slug}/`}
             prefetch={false}
             className="group flex items-start gap-3 p-3 rounded-2xl border border-transparent hover:border-blue-100 hover:bg-blue-50/40 transition-all"
           >

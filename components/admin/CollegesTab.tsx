@@ -553,7 +553,7 @@ export function CollegesTab({ colleges: initialColleges = [] }: CollegesTabProps
                         </div>
                         <div>
                           <Link
-                            href={`/colleges/${c.slug}`}
+                            href={`/colleges/${c.slug}/`}
                             target="_blank"
                             className="hover:text-amber-400 transition-colors flex items-center gap-1 font-bold"
                           >
@@ -578,7 +578,7 @@ export function CollegesTab({ colleges: initialColleges = [] }: CollegesTabProps
                     <td className="py-3.5 px-4 text-right">
                       <div className="flex items-center justify-end gap-2">
                         <Link
-                          href={`/colleges/${c.slug}`}
+                          href={`/colleges/${c.slug}/`}
                           target="_blank"
                           className="p-1.5 rounded-lg bg-slate-800 hover:bg-slate-700 text-slate-300 transition-colors"
                           title="View College Page"

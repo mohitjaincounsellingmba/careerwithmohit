@@ -461,7 +461,7 @@ function CompareModal({
                     </button>
                     {col.slug && (
                       <Link
-                        href={`/${col.slug}`}
+                        href={`/${col.slug}/`}
                         className="block text-center text-xs font-bold text-primary hover:underline"
                       >
                         Read Full Review
@@ -994,7 +994,7 @@ export function TopTierMbaClient() {
                         <div className="flex items-center gap-4">
                           {college.slug ? (
                             <Link
-                              href={`/${college.slug}`}
+                              href={`/${college.slug}/`}
                               prefetch={false}
                               className="inline-flex items-center text-xs font-bold uppercase tracking-wider text-primary hover:text-primary/80 transition-all group/btn"
                             >

@@ -26,10 +26,10 @@ export const GOVT_JOBS_DATA: GovtJob[] = [
   { id: 'ac6', title: 'AFCAT 02/2026 Admit Card', link: 'https://afcat.cdac.in/', date: 'April 12, 2026', category: 'Admit Card' },
 
   // Results
-  { id: 'r1', title: 'UP Board Class 10th & 12th Result 2026', link: '/blog/up-board-10th-12th-result-2026-declared', date: 'April 23, 2026', category: 'Result' },
+  { id: 'r1', title: 'UP Board Class 10th & 12th Result 2026', link: '/blog/up-board-10th-12th-result-2026-declared/', date: 'April 23, 2026', category: 'Result' },
   { id: 'r2', title: 'SSC GD Constable Final Result 2025', link: 'https://ssc.gov.in/', date: 'April 21, 2026', category: 'Result' },
   { id: 'r3', title: 'IBPS PO Main Exam Result 2026', link: 'https://www.ibps.in/', date: 'April 19, 2026', category: 'Result' },
   { id: 'r4', title: 'BSEB Bihar Board 10th Result 2026', link: 'http://results.biharboardonline.com/', date: 'April 17, 2026', category: 'Result' },
-  { id: 'r5', title: 'JEE Main Session 2 Result Out', link: '/blog/jee-main-2026-session-2-result-declared-check-here', date: 'April 15, 2026', category: 'Result' },
+  { id: 'r5', title: 'JEE Main Session 2 Result Out', link: '/blog/jee-main-2026-session-2-result-declared-check-here/', date: 'April 15, 2026', category: 'Result' },
   { id: 'r6', title: 'GATE 2026 Scorecard Download', link: 'https://gate2026.iitkgp.ac.in/', date: 'April 12, 2026', category: 'Result' },
 ];

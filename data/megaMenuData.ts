@@ -357,7 +357,7 @@ export const MEGA_MENU_DATA: MegaMenuItem[] = [
       title: 'Planning B.Tech Admissions 2026?',
       subtitle: 'Predict top engineering colleges based on your JEE rank and budget.',
       ctaText: 'Use B.Tech Predictor',
-      ctaHref: '/tools/btech-college-predictor',
+      ctaHref: '/tools/btech-college-predictor/',
       badge: 'Instant Result',
     },
   },

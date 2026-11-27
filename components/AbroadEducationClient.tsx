@@ -392,7 +392,7 @@ function CollegeDetailModal({
               Apply / Check Eligibility <ArrowRight size={14} />
             </button>
             <Link
-              href={`/abroad-education/${slug}`}
+              href={`/abroad-education/${slug}/`}
               className="flex-1 bg-slate-950 hover:bg-slate-800 text-white font-black py-3.5 px-6 rounded-2xl active:scale-95 transition-all text-xs uppercase tracking-wider flex items-center justify-center gap-2"
             >
               Full Program Guide <ExternalLink size={14} />
@@ -723,7 +723,7 @@ export default function AbroadEducationClient() {
                     </div>
 
                     <h3 className="text-lg font-extrabold text-white leading-snug group-hover:text-amber-300 transition-colors line-clamp-1 relative z-10">
-                      <Link href={`/abroad-education/${slug}`}>{college.name}</Link>
+                      <Link href={`/abroad-education/${slug}/`}>{college.name}</Link>
                     </h3>
 
                     <div className="flex items-center gap-1.5 text-slate-300 text-xs font-medium mt-1 relative z-10">
@@ -835,7 +835,7 @@ export default function AbroadEducationClient() {
                     return (
                       <tr key={college.name} className="hover:bg-slate-50 transition-colors">
                         <td className="py-4 px-5">
-                          <Link href={`/abroad-education/${slug}`} className="font-extrabold text-sm text-slate-950 hover:text-amber-600 transition-colors block">
+                          <Link href={`/abroad-education/${slug}/`} className="font-extrabold text-sm text-slate-950 hover:text-amber-600 transition-colors block">
                             {college.name}
                           </Link>
                           <span className="text-[11px] text-slate-400 flex items-center gap-1 mt-0.5">
@@ -860,7 +860,7 @@ export default function AbroadEducationClient() {
                         <td className="py-4 px-5 text-right whitespace-nowrap">
                           <div className="inline-flex items-center gap-2">
                             <Link
-                              href={`/abroad-education/${slug}`}
+                              href={`/abroad-education/${slug}/`}
                               className="bg-slate-100 hover:bg-slate-200 text-slate-800 font-bold px-3 py-1.5 rounded-lg text-xs transition-colors"
                             >
                               Guide

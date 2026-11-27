@@ -115,7 +115,7 @@ export function CollegeCard({
         {/* Left: Thumbnail & Info */}
         <div className="flex items-start gap-4 min-w-0 flex-1">
           <Link 
-            href={`/colleges/${college.slug}`} 
+            href={`/colleges/${college.slug}/`} 
             prefetch={false}
             className="w-16 h-16 sm:w-20 sm:h-20 rounded-2xl overflow-hidden shrink-0 shadow-sm relative group-hover:scale-105 transition-transform bg-slate-100"
           >
@@ -164,7 +164,7 @@ export function CollegeCard({
               )}
             </div>
 
-            <Link href={`/colleges/${college.slug}`} prefetch={false} className="block group-hover:text-violet-700 transition-colors">
+            <Link href={`/colleges/${college.slug}/`} prefetch={false} className="block group-hover:text-violet-700 transition-colors">
               <h3 className="text-sm sm:text-base font-bold text-slate-900 leading-snug truncate">
                 {college.name}
               </h3>
@@ -241,7 +241,7 @@ export function CollegeCard({
           </button>
 
           <Link
-            href={`/colleges/${college.slug}`}
+            href={`/colleges/${college.slug}/`}
             prefetch={false}
             className="px-4 py-2 bg-[#14103A] hover:bg-violet-700 text-white rounded-xl text-xs font-bold transition-all shadow-sm active:scale-95 flex items-center gap-1"
           >
@@ -319,7 +319,7 @@ export function CollegeCard({
         <div>
           {/* College Name */}
           <div className="space-y-1">
-            <Link href={`/colleges/${college.slug}`} prefetch={false} className="block group/link">
+            <Link href={`/colleges/${college.slug}/`} prefetch={false} className="block group/link">
               <h3 className="text-base sm:text-lg font-extrabold text-slate-900 leading-snug group-hover/link:text-violet-700 transition-colors line-clamp-2 min-h-[48px]">
                 {college.name}
               </h3>
@@ -411,7 +411,7 @@ export function CollegeCard({
             </button>
 
             <Link
-              href={`/colleges/${college.slug}`}
+              href={`/colleges/${college.slug}/`}
               prefetch={false}
               className="px-4 py-2 bg-[#14103A] hover:bg-violet-700 text-white rounded-xl text-xs font-bold transition-all shadow-sm active:scale-95 flex items-center gap-1"
             >

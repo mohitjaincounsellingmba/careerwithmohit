@@ -50,7 +50,7 @@ export const GEO_MBA_HUBS: Record<string, GeoMbaHub> = {
   'delhi-ncr': {
     slug: 'mba-colleges-delhi-ncr',
     hubKey: 'delhi-ncr',
-    route: '/colleges/mba-colleges-delhi-ncr',
+    route: '/colleges/mba-colleges-delhi-ncr/',
     cityName: 'Delhi NCR',
     stateName: 'Delhi / Haryana / Uttar Pradesh',
     tagline: 'Corporate & Political Capital · 500+ Fortune 500 Headquarters',
@@ -256,7 +256,7 @@ export const GEO_MBA_HUBS: Record<string, GeoMbaHub> = {
   'mumbai': {
     slug: 'mba-colleges-mumbai',
     hubKey: 'mumbai',
-    route: '/colleges/mba-colleges-mumbai',
+    route: '/colleges/mba-colleges-mumbai/',
     cityName: 'Mumbai & Navi Mumbai',
     stateName: 'Maharashtra',
     tagline: 'Financial Capital of India · BSE, NSE, RBI & Top Investment Banks',
@@ -380,7 +380,7 @@ export const GEO_MBA_HUBS: Record<string, GeoMbaHub> = {
   'bangalore': {
     slug: 'mba-colleges-bangalore',
     hubKey: 'bangalore',
-    route: '/colleges/mba-colleges-bangalore',
+    route: '/colleges/mba-colleges-bangalore/',
     cityName: 'Bangalore (Bengaluru)',
     stateName: 'Karnataka',
     tagline: 'Silicon Valley of India · Startups, Global Tech & Consulting Capital',
@@ -520,7 +520,7 @@ export const GEO_MBA_HUBS: Record<string, GeoMbaHub> = {
   'pune': {
     slug: 'mba-colleges-pune',
     hubKey: 'pune',
-    route: '/colleges/mba-colleges-pune',
+    route: '/colleges/mba-colleges-pune/',
     cityName: 'Pune',
     stateName: 'Maharashtra',
     tagline: 'Oxford of the East · Automotive, IT & Manufacturing Hub',
@@ -652,7 +652,7 @@ export const GEO_MBA_HUBS: Record<string, GeoMbaHub> = {
   'hyderabad': {
     slug: 'mba-colleges-hyderabad',
     hubKey: 'hyderabad',
-    route: '/colleges/mba-colleges-hyderabad',
+    route: '/colleges/mba-colleges-hyderabad/',
     cityName: 'Hyderabad',
     stateName: 'Telangana',
     tagline: 'HITEC City & Cyberabad · Pharmaceutical, IT & FinTech Powerhouse',
@@ -756,7 +756,7 @@ export const GEO_MBA_HUBS: Record<string, GeoMbaHub> = {
   'kolkata': {
     slug: 'mba-colleges-kolkata',
     hubKey: 'kolkata',
-    route: '/colleges/mba-colleges-kolkata',
+    route: '/colleges/mba-colleges-kolkata/',
     cityName: 'Kolkata',
     stateName: 'West Bengal',
     tagline: 'Commercial & Financial Capital of Eastern India · FMCG & Analytics Hub',
@@ -860,7 +860,7 @@ export const GEO_MBA_HUBS: Record<string, GeoMbaHub> = {
   'ahmedabad': {
     slug: 'mba-colleges-ahmedabad',
     hubKey: 'ahmedabad',
-    route: '/colleges/mba-colleges-ahmedabad',
+    route: '/colleges/mba-colleges-ahmedabad/',
     cityName: 'Ahmedabad & Gandhinagar',
     stateName: 'Gujarat',
     tagline: 'Entrepreneurship Capital · Chemical, Pharma & GIFT City FinTech',
@@ -964,7 +964,7 @@ export const GEO_MBA_HUBS: Record<string, GeoMbaHub> = {
   'jaipur': {
     slug: 'mba-colleges-jaipur',
     hubKey: 'jaipur',
-    route: '/colleges/mba-colleges-jaipur',
+    route: '/colleges/mba-colleges-jaipur/',
     cityName: 'Jaipur',
     stateName: 'Rajasthan',
     tagline: 'Pink City & Emerging Education Corridor · Healthcare, FMCG & Banking',

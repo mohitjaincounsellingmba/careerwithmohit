@@ -103,7 +103,7 @@ In this comprehensive head-to-head analysis, **Mohit Jain** evaluates the **exam
 | **Special Sections** | None | **Decision Making (DM), GK, Essay** | None | None |
 | **Sectional Time Limit** | Yes (40 Mins Each) | Yes (Part 1: 175m, Part 2: 30m)| **No Sectional Time Limit!** | Yes (Language 28m, QA 52m, LR 40m)|
 | **Order of Sections** | Fixed | Fixed | Flexible | **Candidate Chooses Order** |
-| **Target Top Colleges** | IIMs, FMS, MDI, SPJIMR | **[XLRI](/colleges/xlri-jamshedpur/), [XIMB](/colleges/xim-university/), [IMT](/colleges/imt-ghaziabad/), [GIM](/colleges/gim-goa/)** | **[SIBM Pune](/colleges/sibm-pune/), [SCMHRD](/colleges/scmhrd-pune/)** | **[NMIMS Mumbai](/colleges/nmims-mumbai/), [KJ Somaiya](/colleges/kj-somaiya-mumbai/)** |
+| **Target Top Colleges** | IIMs, FMS, MDI, SPJIMR | **[XLRI](/colleges/xlri-jamshedpur/), [XIMB](/colleges/ximb-bhubaneswar/), [IMT](/colleges/imt-ghaziabad/), [GIM](/colleges/gim-goa/)** | **[SIBM Pune](/colleges/sibm-pune/), [SCMHRD](/colleges/scmhrd-pune/)** | **[NMIMS Mumbai](/colleges/nmims-mumbai/), [KJ Somaiya](/colleges/kj-somaiya-mumbai/)** |
 
 ---
 

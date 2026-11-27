@@ -1076,6 +1076,9 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
                   targetHref = targetHref.slice(0, -3);
                 }
                 const isInternal = targetHref.startsWith('/') || targetHref.startsWith('https://careerwithmohit.online');
+                if (isInternal && !targetHref.endsWith('/') && !targetHref.includes('?') && !targetHref.includes('#') && !targetHref.includes('.')) {
+                  targetHref += '/';
+                }
                 if (isInternal) {
                   return (
                     <Link href={targetHref} className="text-primary font-bold underline hover:text-secondary transition-colors" {...props}>
@@ -1177,9 +1180,22 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
             {(() => {
-              const allPosts = getSortedPostsData().filter(p => p.slug !== slug);
+              const allPosts = getSortedPostsData();
               const sameCat = allPosts.filter(p => (p.category || 'General & Career Guide') === (postData.category || 'General & Career Guide'));
-              const displayPosts = sameCat.length >= 2 ? sameCat.slice(0, 2) : allPosts.slice(0, 2);
+              const postList = sameCat.length >= 4 ? sameCat : allPosts;
+              const currentIndex = postList.findIndex(p => p.slug === slug);
+              const total = postList.length;
+
+              const displayPosts: typeof postList = [];
+              if (total > 1) {
+                const offsets = [1, 2, 3, 4];
+                for (const offset of offsets) {
+                  const candidate = postList[(currentIndex + offset + total) % total];
+                  if (candidate && candidate.slug !== slug && !displayPosts.some(p => p.slug === candidate.slug)) {
+                    displayPosts.push(candidate);
+                  }
+                }
+              }
 
               return displayPosts.map(other => (
                 <Link key={other.slug} href={`/blog/${other.slug}/`} className="group p-8 border-4 border-foreground bg-white hover:bg-accent transition-all shadow-[8px_8px_0px_0px_rgba(0,0,0,1)] flex flex-col justify-between">

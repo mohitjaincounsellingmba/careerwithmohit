@@ -193,7 +193,7 @@ export function SearchResults({
               {matchedColleges.slice(0, activeTab === "all" ? 6 : 50).map((col) => (
                 <Link
                   key={col.slug}
-                  href={`/colleges/${col.slug}`}
+                  href={`/colleges/${col.slug}/`}
                   prefetch={false}
                   className="group bg-white rounded-2xl border border-slate-200/90 p-5 shadow-xs hover:shadow-md hover:border-blue-300 transition-all flex flex-col justify-between"
                 >

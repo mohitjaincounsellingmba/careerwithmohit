@@ -409,7 +409,7 @@ export default function OnlineDegreePage() {
             ].map((link) => (
               <Link
                 key={link.slug}
-                href={`/online-degree-certification/${link.slug}`}
+                href={`/online-degree-certification/${link.slug}/`}
                 className="bg-white hover:bg-[#2563EB] text-[#061124] hover:text-white border border-[#061124]/10 hover:border-[#2563EB] rounded-full px-4 py-2 text-xs font-bold tracking-wide transition-all shadow-[0_4px_14px_rgba(6,17,36,0.04)] hover:shadow-md hover:-translate-y-0.5 flex items-center gap-1.5 group"
               >
                 <span>{link.name}</span>
@@ -618,7 +618,7 @@ export default function OnlineDegreePage() {
               ].map((geo) => (
                 <Link
                   key={geo.slug}
-                  href={`/online-degree-certification/${geo.slug}`}
+                  href={`/online-degree-certification/${geo.slug}/`}
                   className="bg-[#F8FAFC] hover:bg-[#2563EB] border border-[#061124]/10 hover:border-[#2563EB] p-4 rounded-[20px] transition-all shadow-xs flex flex-col justify-between group"
                 >
                   <span className="font-display font-extrabold text-[#061124] group-hover:text-white text-xs sm:text-sm flex items-center justify-between mb-1">
@@ -679,7 +679,7 @@ export default function OnlineDegreePage() {
                         </div>
                         <div className="flex items-center gap-2">
                           <Link
-                            href={`/online-degree-certification/${col.univSlug}`}
+                            href={`/online-degree-certification/${col.univSlug}/`}
                             className="font-mono text-xs font-bold text-[#2563EB] hover:underline flex items-center gap-0.5"
                           >
                             Details →
@@ -865,7 +865,7 @@ export default function OnlineDegreePage() {
                   ].map((univ, idx) => (
                     <tr key={idx} className="hover:bg-blue-50/50 transition-colors">
                       <td className="px-6 py-4 font-display font-extrabold text-[#061124]">
-                        <Link href={`/online-degree-certification/${univ.univSlug}`} className="hover:text-[#2563EB] hover:underline">
+                        <Link href={`/online-degree-certification/${univ.univSlug}/`} className="hover:text-[#2563EB] hover:underline">
                           {univ.name}
                         </Link>
                       </td>
@@ -883,7 +883,7 @@ export default function OnlineDegreePage() {
                             <BookOpen size={12} /> Review
                           </Link>
                         ) : (
-                          <Link href={`/online-degree-certification/${univ.univSlug}`} className="inline-flex items-center gap-1 font-mono text-xs font-bold text-[#475569] hover:text-[#2563EB] hover:underline">
+                          <Link href={`/online-degree-certification/${univ.univSlug}/`} className="inline-flex items-center gap-1 font-mono text-xs font-bold text-[#475569] hover:text-[#2563EB] hover:underline">
                             Details →
                           </Link>
                         )}
@@ -1025,7 +1025,7 @@ export default function OnlineDegreePage() {
             ].map((comp) => (
               <Link
                 key={comp.slug}
-                href={`/online-degree-certification/${comp.slug}`}
+                href={`/online-degree-certification/${comp.slug}/`}
                 className="rounded-[22px] bg-white border-[1.5px] border-[#061124]/10 p-5 sm:p-6 shadow-sm hover:border-[#2563EB] hover:shadow-lg hover:-translate-y-1.5 transition-all flex flex-col justify-between group"
               >
                 <div>

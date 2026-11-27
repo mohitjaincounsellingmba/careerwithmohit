@@ -250,7 +250,7 @@ export function ShikshaCollegeExplorer() {
                 filteredColleges.map((col) => (
                   <Link
                     key={col.id}
-                    href={`/${col.slug}`}
+                    href={`/${col.slug}/`}
                     className="bg-white hover:bg-blue-50/40 border border-slate-200/90 hover:border-blue-400 rounded-2xl p-4 transition-all group flex flex-col justify-between shadow-2xs hover:shadow-sm"
                   >
                     <div>

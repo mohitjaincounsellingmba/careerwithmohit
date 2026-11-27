@@ -436,7 +436,7 @@ export function CatCollegeCutoffMatcher() {
                     <div className="space-y-1">
                       <div className="flex items-center gap-2">
                         {col.slug ? (
-                          <Link href={`/colleges/${col.slug}`} className="font-extrabold text-foreground hover:text-primary transition-colors flex items-center gap-1.5">
+                          <Link href={`/colleges/${col.slug}/`} className="font-extrabold text-foreground hover:text-primary transition-colors flex items-center gap-1.5">
                             <span>{col.name}</span>
                             <ExternalLink className="w-3.5 h-3.5 text-primary shrink-0" />
                           </Link>

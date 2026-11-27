@@ -276,7 +276,7 @@ export function AdmissionsClient({ colleges, posts }: AdmissionsClientProps) {
                       {suggestions.colleges.map((c) => (
                         <Link
                           key={c.slug}
-                          href={`/colleges/${c.slug}`}
+                          href={`/colleges/${c.slug}/`}
                           onClick={() => setShowSuggestions(false)}
                           className="flex items-center justify-between p-2 rounded-xl hover:bg-slate-50 transition-colors group"
                         >
@@ -833,7 +833,7 @@ export function AdmissionsClient({ colleges, posts }: AdmissionsClientProps) {
               {/* Action Buttons */}
               <div className="flex items-center gap-2 pt-4 mt-4 border-t border-slate-100">
                 <Link
-                  href={`/colleges/${college.slug}`}
+                  href={`/colleges/${college.slug}/`}
                   className="flex-1 text-center py-2.5 rounded-xl border border-slate-200 hover:border-blue-400 hover:bg-blue-50/50 text-xs font-bold text-slate-700 hover:text-blue-600 transition-colors"
                 >
                   View Details
