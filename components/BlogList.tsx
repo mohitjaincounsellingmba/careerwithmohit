@@ -1,8 +1,8 @@
 "use client";
 
-import React, { useState, useEffect, useMemo, Suspense, useCallback } from 'react';
+import React, { useState, useEffect, useMemo, useCallback } from 'react';
 import Link from 'next/link';
-import { useRouter, useSearchParams } from 'next/navigation';
+import { useRouter } from 'next/navigation';
 import { 
   Eye, 
   Search, 
@@ -229,7 +229,6 @@ function matchCategoryParam(param: string | null): string {
 
 function BlogListInner({ initialPosts }: { initialPosts: PostData[] }) {
   const router = useRouter();
-  const searchParams = useSearchParams();
 
   // Parse initial category from query param (?category=...) or hash on client
   const [selectedCategory, setSelectedCategory] = useState<string>('All Posts');
@@ -238,26 +237,39 @@ function BlogListInner({ initialPosts }: { initialPosts: PostData[] }) {
   const [currentPage, setCurrentPage] = useState<number>(1);
   const postsPerPage = 18;
 
-  // Initialize from searchParams
+  // Initialize from URL query params or hash on client (zero SSR bailout)
   useEffect(() => {
-    const catParam = searchParams?.get('category');
-    const qParam = searchParams?.get('q') || '';
-    const sortParam = searchParams?.get('sort') as 'latest' | 'views' | 'oldest';
-    
-    if (catParam) {
-      setSelectedCategory(matchCategoryParam(catParam));
-    } else if (typeof window !== 'undefined' && window.location.hash) {
-      const hashCat = decodeURIComponent(window.location.hash.replace('#', ''));
-      setSelectedCategory(matchCategoryParam(hashCat));
-    }
-    
-    if (qParam) {
-      setSearchQuery(qParam);
-    }
-    if (sortParam && ['latest', 'views', 'oldest'].includes(sortParam)) {
-      setSortBy(sortParam);
-    }
-  }, [searchParams]);
+    if (typeof window === 'undefined') return;
+
+    const readParams = () => {
+      const urlParams = new URLSearchParams(window.location.search);
+      const catParam = urlParams.get('category');
+      const qParam = urlParams.get('q') || '';
+      const sortParam = urlParams.get('sort') as 'latest' | 'views' | 'oldest';
+      
+      if (catParam) {
+        setSelectedCategory(matchCategoryParam(catParam));
+      } else if (window.location.hash) {
+        const hashCat = decodeURIComponent(window.location.hash.replace('#', ''));
+        setSelectedCategory(matchCategoryParam(hashCat));
+      }
+      
+      if (qParam) {
+        setSearchQuery(qParam);
+      }
+      if (sortParam && ['latest', 'views', 'oldest'].includes(sortParam)) {
+        setSortBy(sortParam);
+      }
+    };
+
+    readParams();
+
+    const handlePopState = () => {
+      readParams();
+    };
+    window.addEventListener('popstate', handlePopState);
+    return () => window.removeEventListener('popstate', handlePopState);
+  }, []);
 
   // Sync state changes back to URL without reloading
   const updateUrl = useCallback((category: string, query: string, sort: string) => {
@@ -814,18 +826,5 @@ function BlogListInner({ initialPosts }: { initialPosts: PostData[] }) {
 }
 
 export function BlogList(props: { initialPosts: PostData[] }) {
-  return (
-    <Suspense fallback={
-      <div className="w-full py-20 text-center animate-pulse">
-        <div className="h-48 bg-slate-100 rounded-2xl border border-slate-200 mb-12"></div>
-        <div className="grid gap-8 lg:grid-cols-3">
-          {[...Array(6)].map((_, i) => (
-            <div key={i} className="h-96 bg-slate-100 rounded-2xl border border-slate-200"></div>
-          ))}
-        </div>
-      </div>
-    }>
-      <BlogListInner {...props} />
-    </Suspense>
-  );
+  return <BlogListInner {...props} />;
 }

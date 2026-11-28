@@ -1,7 +1,7 @@
 "use client";
 
 import { useState, useMemo, useEffect, useRef } from "react";
-import { useSearchParams, useRouter, usePathname } from 'next/navigation';
+import { useRouter, usePathname } from 'next/navigation';
 import Link from "next/link";
 import dynamic from "next/dynamic";
 import { CollegeMetadata } from "@/lib/colleges";
@@ -117,7 +117,6 @@ export function CollegesClient({
   trendingBlogs?: TrendingBlog[];
 }) {
   const router = useRouter();
-  const searchParams = useSearchParams();
   const pathname = usePathname();
   const searchContainerRef = useRef<HTMLDivElement>(null);
 
@@ -277,32 +276,44 @@ export function CollegesClient({
     }, {} as Record<string, { state: string; city: string }>);
   }, [colleges]);
 
-  // Sync initial query params from URL
+  // Sync initial query params from URL on client (zero SSR bailout)
   useEffect(() => {
-    if (!searchParams) return;
-    const q = searchParams.get('search') || searchParams.get('q') || '';
-    if (q) setSearchQuery(q);
+    if (typeof window === 'undefined') return;
 
-    const st = searchParams.get('state');
-    if (st) setSelectedState(st);
+    const readParams = () => {
+      const sp = new URLSearchParams(window.location.search);
+      const q = sp.get('search') || sp.get('q') || '';
+      if (q) setSearchQuery(q);
 
-    const cat = searchParams.get('category') || searchParams.get('stream');
-    if (cat) {
-      const cleanCat = cat.toLowerCase();
-      if (cleanCat.includes('manage') || cleanCat === 'mba' || cleanCat === 'pgdm') setSelectedCategory('Management');
-      else if (cleanCat.includes('eng') || cleanCat === 'btech' || cleanCat === 'b.tech') setSelectedCategory('Engineering');
-      else if (cleanCat.includes('ug') || cleanCat === 'bba' || cleanCat === 'bca') setSelectedCategory('UG Courses');
-    }
+      const st = sp.get('state');
+      if (st) setSelectedState(st);
 
-    const bdg = searchParams.get('budget') || searchParams.get('fees');
-    if (bdg) setSelectedFeeRange(bdg);
+      const cat = sp.get('category') || sp.get('stream');
+      if (cat) {
+        const cleanCat = cat.toLowerCase();
+        if (cleanCat.includes('manage') || cleanCat === 'mba' || cleanCat === 'pgdm') setSelectedCategory('Management');
+        else if (cleanCat.includes('eng') || cleanCat === 'btech' || cleanCat === 'b.tech') setSelectedCategory('Engineering');
+        else if (cleanCat.includes('ug') || cleanCat === 'bba' || cleanCat === 'bca') setSelectedCategory('UG Courses');
+      }
 
-    const exm = searchParams.get('exam');
-    if (exm) setSelectedExam(exm);
+      const bdg = sp.get('budget') || sp.get('fees');
+      if (bdg) setSelectedFeeRange(bdg);
 
-    const srt = searchParams.get('sort');
-    if (srt) setSortBy(srt);
-  }, [searchParams]);
+      const exm = sp.get('exam');
+      if (exm) setSelectedExam(exm);
+
+      const srt = sp.get('sort');
+      if (srt) setSortBy(srt);
+    };
+
+    readParams();
+
+    const handlePopState = () => {
+      readParams();
+    };
+    window.addEventListener('popstate', handlePopState);
+    return () => window.removeEventListener('popstate', handlePopState);
+  }, []);
 
   // Click outside listener for search autocomplete popover
   useEffect(() => {

@@ -212,9 +212,7 @@ export default function CollegesPage() {
       <JsonLd data={educationalOrgSchema} />
       <JsonLd data={faqSchema} />
 
-      <Suspense fallback={<div className="text-center py-20 font-bold text-slate-500">Loading pan-India college directory…</div>}>
-        <CollegesClient colleges={colleges} trendingBlogs={trendingBlogs} />
-      </Suspense>
+      <CollegesClient colleges={colleges} trendingBlogs={trendingBlogs} />
 
       {/* SEO & GEO (Generative Engine Optimization) Pan-India Knowledge Section */}
       <section className="bg-slate-50/50 px-4 sm:px-6 lg:px-8 py-20 border-t border-slate-200/80 overflow-hidden relative">
